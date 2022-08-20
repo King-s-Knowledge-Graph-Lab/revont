@@ -22,23 +22,25 @@ def get_question(answer, context, max_length=64):
                max_length=max_length)
 
   return tokenizer.decode(output[0])
-
   
 # Opening JSON file
-f = open('Materials/Data/WDV_dataset.json')
+f = open('/content/drive/MyDrive/KCL experiment/WDV_JSON.json')
   
-# Returns JSON object as a dictionary
+# returns JSON object as a dictionary
 data = json.load(f)
 
 # Iterating through the json list
-for doc in data:
-  if doc['theme_label'] == 'University':
-    subjectCQ = get_question(doc['subject_label'], doc['verbalisation_unk_replaced'])
-    propertyCQ = get_question(doc['property_label'], doc['verbalisation_unk_replaced'])
-    objectCQ = get_question(doc['object_label'], doc['verbalisation_unk_replaced'])
+
+with open('/content/drive/MyDrive/KCL experiment/Themed questions/Street.json', "r+") as file:
+  output = json.load(file)
+  for doc in data:
+    if doc['theme_label'] == 'Street':
+      subjectCQ = get_question(doc['subject_label'], doc['verbalisation_unk_replaced'])
+      propertyCQ = get_question(doc['property_label'], doc['verbalisation_unk_replaced'])
+      objectCQ = get_question(doc['object_label'], doc['verbalisation_unk_replaced'])
   
-    # Create JSON entry
-    entry = {"claim_id": doc['claim_id'],
+      # Create JSON entry
+      entry = {"claim_id": doc['claim_id'],
            "SAnswer":{
            "subject_label": doc['subject_label'],
            "context": doc['verbalisation_unk_replaced'],
@@ -56,13 +58,10 @@ for doc in data:
            }
           }
 
-    # Append entry
-    with open('/Materials/Data/UniversityCQ.json', "r+") as file:
-      output = json.load(file)
+    
       output.append(entry)
       file.seek(0)
       json.dump(output, file)
-
 
 # Closing file
 f.close()
