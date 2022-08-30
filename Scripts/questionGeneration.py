@@ -28,11 +28,11 @@ def refine_question(question):
     return(k)
 
 # Open and load dataset JSON file
-f = open('/content/drive/MyDrive/KCL experiment/WDV_JSON.json')
+f = open('Data/WDV_dataset.json')
 data = json.load(f)
 
 # Generate questions when providing the property or the object as answer and the verbalization as context
-with open('/content/drive/MyDrive/KCL experiment/Questions.json', "r+") as file:
+with open('Data/Questions.json', "r+") as file:
   output = json.load(file)
   for doc in data:
     propertyCQ = get_question(doc['property_label'], doc['verbalisation_unk_replaced'])
