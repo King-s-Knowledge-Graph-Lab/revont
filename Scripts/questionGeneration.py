@@ -23,14 +23,11 @@ def get_question(answer, context, max_length=64):
 
   return tokenizer.decode(output[0])
   
-# Opening JSON file
+# Opening and load JSON file
 f = open('/content/drive/MyDrive/KCL experiment/WDV_JSON.json')
-  
-# returns JSON object as a dictionary
 data = json.load(f)
 
-# Iterating through the json list
-
+# Iterate through the dataset
 with open('/content/drive/MyDrive/KCL experiment/Themed questions/Street.json', "r+") as file:
   output = json.load(file)
   for doc in data:
@@ -58,10 +55,11 @@ with open('/content/drive/MyDrive/KCL experiment/Themed questions/Street.json', 
            }
           }
 
-    
+    # Append the entry in the file
       output.append(entry)
       file.seek(0)
       json.dump(output, file)
 
 # Closing file
 f.close()
+output.close()
