@@ -17,6 +17,7 @@ nlp = pipeline('ner', model=model, tokenizer=tokenizer, aggregation_strategy="si
 data = open('Data/Questions.json')
 CQ = json.load(data)
 
+# Perform NER task for each question and add them to file
 with open('Data/QuestionsNER.json', "r+") as file:
     output = json.load(file)
     for i in data:
