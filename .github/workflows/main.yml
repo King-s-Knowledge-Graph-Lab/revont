@@ -16,6 +16,7 @@ jobs:
         run: |
            pip install transformers
            pip install sentencepiece
+           pip install tensorflow
 
       - name: Run script
         shell: bash
