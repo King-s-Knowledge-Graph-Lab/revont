@@ -1,0 +1,5378 @@
+[
+  {
+    "claim_id": "Q12750557$0f1efbea-43cc-86ae-5344-3056e16b6006",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "discography",
+      "context": "The discography of Gru is extensive.",
+      "propertyCQ": "What is Gru's extensive?"
+    },
+    "OAnswer": {
+      "object_label": "Gru discography",
+      "context": "The discography of Gru is extensive.",
+      "objectCQ": "What is extensive about Gru?"
+    }
+  },
+  {
+    "claim_id": "Q7353659$b373c795-4d9b-7f21-e1b0-4cf13477c852",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "discography",
+      "context": "Roc Marciano is in the discography.",
+      "propertyCQ": "What is Roc Marciano in?"
+    },
+    "OAnswer": {
+      "object_label": "Roc Marciano discography",
+      "context": "Roc Marciano is in the discography.",
+      "objectCQ": "Who is in the discography?"
+    }
+  },
+  {
+    "claim_id": "q2831$7404E524-E58B-4C48-AAA2-DF3F6C36FFB9",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "discography",
+      "context": "Michael Jackson is a member of the discography.",
+      "propertyCQ": "What is Michael Jackson a member of?"
+    },
+    "OAnswer": {
+      "object_label": "Michael Jackson discography",
+      "context": "Michael Jackson is a member of the discography.",
+      "objectCQ": "What is a member of the discography?"
+    }
+  },
+  {
+    "claim_id": "q7673054$5ED39294-FB41-4A63-B0E4-AF97730C3702",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "discography",
+      "context": "Tabi Bonney is a member of the discography.",
+      "propertyCQ": "What is Tabi Bonney a member of?"
+    },
+    "OAnswer": {
+      "object_label": "Tabi Bonney discography",
+      "context": "Tabi Bonney is a member of the discography.",
+      "objectCQ": "Who is a member of the discography?"
+    }
+  },
+  {
+    "claim_id": "Q3237326$0ee33e16-488a-98cc-f943-0c0d46f8018a",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "discography",
+      "context": "Lex Luger is a production discographer.",
+      "propertyCQ": "What is Lex Luger's job?"
+    },
+    "OAnswer": {
+      "object_label": "Lex Luger production discography",
+      "context": "Lex Luger is a production discographer.",
+      "objectCQ": "What is Lex Luger's job title?"
+    }
+  },
+  {
+    "claim_id": "Q16016413$CF717A43-1FCF-4230-87F3-2FE67754C03D",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "conflict",
+      "context": "Gerald Davis was involved in the World War II.",
+      "propertyCQ": "What was Gerald Davis involved in?"
+    },
+    "OAnswer": {
+      "object_label": "World War II",
+      "context": "Gerald Davis was involved in the World War II.",
+      "objectCQ": "What war was Gerald Davis involved in?"
+    }
+  },
+  {
+    "claim_id": "Q78475$26E0C847-8DD2-4E1D-8508-03A467EBB379",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "conflict",
+      "context": "Alban Berg was involved in the World War I.",
+      "propertyCQ": "What was Berg involved in during the first world war?"
+    },
+    "OAnswer": {
+      "object_label": "World War I",
+      "context": "Alban Berg was involved in the World War I.",
+      "objectCQ": "What war was Berg involved in?"
+    }
+  },
+  {
+    "claim_id": "Q15145317$2BD7E3B4-DDDA-4591-8AAB-F3A060D10EAB",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "conflict",
+      "context": "Georgiy Pavlovitsj Pavlov is in the Eastern Front.",
+      "propertyCQ": "What type of conflict is in the Eastern Front?"
+    },
+    "OAnswer": {
+      "object_label": "Eastern Front",
+      "context": "Georgiy Pavlovitsj Pavlov is in the Eastern Front.",
+      "objectCQ": "Where is Pavlovitsj Pavlov?"
+    }
+  },
+  {
+    "claim_id": "Q5524366$DF5586AC-51B7-43BC-87A6-9C5AF04C4A15",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "conflict",
+      "context": "Garth Marenghi was involved in the Vietnam War.",
+      "propertyCQ": "What was Garth Marenghi involved in?"
+    },
+    "OAnswer": {
+      "object_label": "Vietnam War",
+      "context": "Garth Marenghi was involved in the Vietnam War.",
+      "objectCQ": "What war was Garth Marenghi involved in?"
+    }
+  },
+  {
+    "claim_id": "Q76754$93E167FD-FAED-480A-ABC5-0D7348469394",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "conflict",
+      "context": "Fabian Gottlieb von Bellingshausen was involved in the Russo-Turkish War of 1828–29.",
+      "propertyCQ": "What was the Russo-Turkish War?"
+    },
+    "OAnswer": {
+      "object_label": "Russo-Turkish War of 1828–29",
+      "context": "Fabian Gottlieb von Bellingshausen was involved in the Russo-Turkish War of 1828–29.",
+      "objectCQ": "What war was Fabian Gottlieb von Bellingshausen involved in?"
+    }
+  },
+  {
+    "claim_id": "Q12088037$8E897610-BE94-4FC7-83D1-A25AB4E2B2FB",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "conflict",
+      "context": "Aleksandr Vasilevitsj Vasjakin is in the Eastern Front.",
+      "propertyCQ": "What type of conflict is Vasjakin in?"
+    },
+    "OAnswer": {
+      "object_label": "Eastern Front",
+      "context": "Aleksandr Vasilevitsj Vasjakin is in the Eastern Front.",
+      "objectCQ": "Where is Aleksandr Vasilevitsj Vasjakin?"
+    }
+  },
+  {
+    "claim_id": "Q6934146$46C260B4-FB10-495F-81F8-B9689F7104C9",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "writing language",
+      "context": "Mullanezhi is written in Malayalam.",
+      "propertyCQ": "What is Mullanezhi written in?"
+    },
+    "OAnswer": {
+      "object_label": "Malayalam",
+      "context": "Mullanezhi is written in Malayalam.",
+      "objectCQ": "Mullanezhi is written in what language?"
+    }
+  },
+  {
+    "claim_id": "Q1295321$79BE5FDF-9CF5-4659-9ACA-0803B64A7FAE",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "writing language",
+      "context": "Eeltsje Hiddes Halbertsma is written in West Frisian.",
+      "propertyCQ": "What is Eeltsje Hiddes Halbertsma written in?"
+    },
+    "OAnswer": {
+      "object_label": "West Frisian",
+      "context": "Eeltsje Hiddes Halbertsma is written in West Frisian.",
+      "objectCQ": "What language is Eeltsje Hiddes Halbertsma written in?"
+    }
+  },
+  {
+    "claim_id": "Q10901530$3d54b4ab-4f83-f6c9-1c88-bb350a726ef7",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "writing language",
+      "context": "Bao Shichen is written in Classical Chinese.",
+      "propertyCQ": "What is Bao Shichen written in?"
+    },
+    "OAnswer": {
+      "object_label": "Classical Chinese",
+      "context": "Bao Shichen is written in Classical Chinese.",
+      "objectCQ": "What language is Bao Shichen written in?"
+    }
+  },
+  {
+    "claim_id": "Q358885$E741FF30-EC9B-4A09-8647-614EE0921F6D",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "writing language",
+      "context": "Maximilian Voloshin writes in Russian.",
+      "propertyCQ": "What language does Voloshin write in?"
+    },
+    "OAnswer": {
+      "object_label": "Russian",
+      "context": "Maximilian Voloshin writes in Russian.",
+      "objectCQ": "Maximilian Voloshin writes in what language?"
+    }
+  },
+  {
+    "claim_id": "Q6098121$6058721f-4726-df5f-bd4b-b9b06851a329",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "writing language",
+      "context": "Rafael de León writes in Spanish.",
+      "propertyCQ": "What language does Rafael de León write in?"
+    },
+    "OAnswer": {
+      "object_label": "Spanish",
+      "context": "Rafael de León writes in Spanish.",
+      "objectCQ": "What language does Rafael de León write?"
+    }
+  },
+  {
+    "claim_id": "Q313982$730CD237-5461-407F-8CA5-B36A8D0FD4EA",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "writing language",
+      "context": "Hans Baluschek writes in German.",
+      "propertyCQ": "What language does Hans Baluschek write in?"
+    },
+    "OAnswer": {
+      "object_label": "German",
+      "context": "Hans Baluschek writes in German.",
+      "objectCQ": "What language does Baluschek write?"
+    }
+  },
+  {
+    "claim_id": "Q712332$321816B5-B951-4EC8-AF6B-410ADE8A2BDE",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "number of children",
+      "context": "Lewis Collins has 3 children.",
+      "propertyCQ": "How many children does Lewis Collins have?"
+    },
+    "OAnswer": {
+      "object_label": "3",
+      "context": "Lewis Collins has 3 children.",
+      "objectCQ": "How many children does Lewis Collins have?"
+    }
+  },
+  {
+    "claim_id": "Q358403$0ac0c291-481a-0558-4342-86d69d1ba4d1",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "number of children",
+      "context": "Robert Walker, Jr. has 7 children.",
+      "propertyCQ": "How many children does Robert Walker Jr. have?"
+    },
+    "OAnswer": {
+      "object_label": "7",
+      "context": "Robert Walker, Jr. has 7 children.",
+      "objectCQ": "How many children does Robert Walker Jr. have?"
+    }
+  },
+  {
+    "claim_id": "Q436546$19D927C1-D015-4B8C-83CF-3E05A909082E",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "number of children",
+      "context": "Bec Hewitt has 3 children.",
+      "propertyCQ": "How many children does Bec Hewitt have?"
+    },
+    "OAnswer": {
+      "object_label": "3",
+      "context": "Bec Hewitt has 3 children.",
+      "objectCQ": "How many children does Bec Hewitt have?"
+    }
+  },
+  {
+    "claim_id": "Q6916126$8577b04b-4bba-372c-efec-7334e3470384",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "number of children",
+      "context": "Moshe Kasher has 1 child.",
+      "propertyCQ": "How many children does Moshe Kasher have?"
+    },
+    "OAnswer": {
+      "object_label": "1",
+      "context": "Moshe Kasher has 1 child.",
+      "objectCQ": "How many children does Moshe Kasher have?"
+    }
+  },
+  {
+    "claim_id": "Q861110$371BACA2-F2F4-4E1D-8B9C-E5C7F35A5E1A",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "number of children",
+      "context": "Shane McMahon has 3 children.",
+      "propertyCQ": "How many children does Shane McMahon have?"
+    },
+    "OAnswer": {
+      "object_label": "3",
+      "context": "Shane McMahon has 3 children.",
+      "objectCQ": "How many children does Shane McMahon have?"
+    }
+  },
+  {
+    "claim_id": "Q27720257$6965faac-4772-341c-2fb3-de036ef22fc9",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "number of children",
+      "context": "Carmen Wenzel has 2 children.",
+      "propertyCQ": "How many children does Carmen Wenzel have?"
+    },
+    "OAnswer": {
+      "object_label": "2",
+      "context": "Carmen Wenzel has 2 children.",
+      "objectCQ": "How many children does Carmen Wenzel have?"
+    }
+  },
+  {
+    "claim_id": "Q7883981$0f476590-44c1-b75d-0779-26b4115e50b6",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "archives at",
+      "context": "Undine Smith Moore is the owner of the Stuart A Rose Manuscript, Archives, and Rare Book Library.",
+      "propertyCQ": "Along with the Rare Book Library, what other library is owned by Undine Smith Moore?"
+    },
+    "OAnswer": {
+      "object_label": "Stuart A. Rose Manuscript, Archives, and Rare Book Library",
+      "context": "Undine Smith Moore is the owner of the Stuart A Rose Manuscript, Archives, and Rare Book Library.",
+      "objectCQ": "What is the name of the collection owned by Undine Smith Moore?"
+    }
+  },
+  {
+    "claim_id": "Q3311238$F6FDBAE2-DC45-4E58-9AEE-FEEDDFF58608",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "archives at",
+      "context": "Michel Écochard's archives are at the Institut Français d'Architecture.",
+      "propertyCQ": "Where is Michel Écochard's archive?"
+    },
+    "OAnswer": {
+      "object_label": "Institut Français d'Architecture",
+      "context": "Michel Écochard's archives are at the Institut Français d'Architecture.",
+      "objectCQ": "Where are Michel Écochard's archives located?"
+    }
+  },
+  {
+    "claim_id": "Q181894$9C682F17-83AD-4250-A67F-2D4CE6D3F6CB",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "archives at",
+      "context": "Pietro Mascagni is in the Beinecke Rare Book & Manuscript Library.",
+      "propertyCQ": "Where is Pietro Mascagni located?"
+    },
+    "OAnswer": {
+      "object_label": "Beinecke Rare Book & Manuscript Library",
+      "context": "Pietro Mascagni is in the Beinecke Rare Book & Manuscript Library.",
+      "objectCQ": "Where is Pietro Mascagni located?"
+    }
+  },
+  {
+    "claim_id": "Q284911$F7B0C022-8011-4CB4-B9BD-A231D625084E",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "archives at",
+      "context": "Marc Allégret is in the archives of the Cinémathèque Française.",
+      "propertyCQ": "Where is Marc Allégret?"
+    },
+    "OAnswer": {
+      "object_label": "Cinémathèque Française",
+      "context": "Marc Allégret is in the archives of the Cinémathèque Française.",
+      "objectCQ": "Where is Marc Allégret in the archives?"
+    }
+  },
+  {
+    "claim_id": "q124156$2129cb08-4810-ae84-dea9-7893d6021d35",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "archives at",
+      "context": "Jacques Chessex is in the Swiss Literary Archives.",
+      "propertyCQ": "Where is Jacques Chessex?"
+    },
+    "OAnswer": {
+      "object_label": "Swiss Literary Archives",
+      "context": "Jacques Chessex is in the Swiss Literary Archives.",
+      "objectCQ": "Where is Jacques Chessex?"
+    }
+  },
+  {
+    "claim_id": "Q1358937$2B63967C-7C3F-4B2C-9888-FE8ED5E74524",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "archives at",
+      "context": "Ernst Kein's archives are at the Austrian National Library.",
+      "propertyCQ": "Where is Ernst Kein's work located?"
+    },
+    "OAnswer": {
+      "object_label": "Austrian National Library",
+      "context": "Ernst Kein's archives are at the Austrian National Library.",
+      "objectCQ": "Where are Ernst Kein's archives located?"
+    }
+  },
+  {
+    "claim_id": "Q23441$4C326439-8A22-4D9E-9E87-1C9692AD0A19",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "relative",
+      "context": "Octave Mirbeau is a relative of Claude Monet.",
+      "propertyCQ": "What is Octave Mirbeau's status?"
+    },
+    "OAnswer": {
+      "object_label": "Claude Monet",
+      "context": "Octave Mirbeau is a relative of Claude Monet.",
+      "objectCQ": "Who is Octave Mirbeau a relative of?"
+    }
+  },
+  {
+    "claim_id": "Q5729454$B0A2BD1A-137F-4CF6-ACB8-089223607DF2",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "relative",
+      "context": "Pieter Vanderlyn is a relative of Henry Van Der Lyn.",
+      "propertyCQ": "What is Pieter Vanderlyn's status?"
+    },
+    "OAnswer": {
+      "object_label": "Pieter Vanderlyn",
+      "context": "Pieter Vanderlyn is a relative of Henry Van Der Lyn.",
+      "objectCQ": "Who is a relative of Henry Van Der Lyn?"
+    }
+  },
+  {
+    "claim_id": "Q6145619$f2b2f3ca-43a8-7367-af2d-5d0107115d2f",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "relative",
+      "context": "James William Wallack II is a relative of James William Wallack.",
+      "propertyCQ": "What is James William Wallack II's status?"
+    },
+    "OAnswer": {
+      "object_label": "James William Wallack II",
+      "context": "James William Wallack II is a relative of James William Wallack.",
+      "objectCQ": "Who is a relative of James William Wallack?"
+    }
+  },
+  {
+    "claim_id": "Q16556066$0b879e76-48ce-1003-67f8-f48407077e9e",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "relative",
+      "context": "Filippo Marignoli is a relative of Filippo Marignoli.",
+      "propertyCQ": "What is Filippo Marignoli's status?"
+    },
+    "OAnswer": {
+      "object_label": "Filippo Marignoli",
+      "context": "Filippo Marignoli is a relative of Filippo Marignoli.",
+      "objectCQ": "Who is a relative of Filippo Marignoli?"
+    }
+  },
+  {
+    "claim_id": "Q106651700$f770985b-429e-bed5-d4a4-fb54102908e4",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "relative",
+      "context": "Alain Baugé is a relative of Anna Tariol-Baugé.",
+      "propertyCQ": "What is Alain Baugé's status?"
+    },
+    "OAnswer": {
+      "object_label": "Alain Baugé",
+      "context": "Alain Baugé is a relative of Anna Tariol-Baugé.",
+      "objectCQ": "Who is a relative of Anna Tariol-Baugé?"
+    }
+  },
+  {
+    "claim_id": "Q2597050$417aa773-40d5-6cb8-3438-eda865901372",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "relative",
+      "context": "Marla Maples is a relative of Lillie Marie Maples (Kimsey).",
+      "propertyCQ": "What is Marla Maples's status?"
+    },
+    "OAnswer": {
+      "object_label": "Lillie Marie Maples (Kimsey)",
+      "context": "Marla Maples is a relative of Lillie Marie Maples (Kimsey).",
+      "objectCQ": "Marla Maples is a relative of who?"
+    }
+  },
+  {
+    "claim_id": "Q20646551$dab33707-4ad4-969b-2867-9df7d2b2da50",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "mass",
+      "context": "Julie Cash has a mass of 64 kilograms.",
+      "propertyCQ": "How much does Julie Cash have?"
+    },
+    "OAnswer": {
+      "object_label": "64 kilogram",
+      "context": "Julie Cash has a mass of 64 kilograms.",
+      "objectCQ": "How much is Julie Cash's body mass?"
+    }
+  },
+  {
+    "claim_id": "Q7308793$13AF85B0-5742-4AC6-AD5E-CF34DED10559",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "mass",
+      "context": "Reginald Lisowski has a mass of 114 kilograms.",
+      "propertyCQ": "What is the weight of Reginald Lisowski?"
+    },
+    "OAnswer": {
+      "object_label": "114 kilogram",
+      "context": "Reginald Lisowski has a mass of 114 kilograms.",
+      "objectCQ": "How much is Reginald Lisowski's mass?"
+    }
+  },
+  {
+    "claim_id": "Q242271$B3743B68-E805-4396-9424-BDD79A956D11",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "mass",
+      "context": "Kelly Madison has a mass of 61 kilograms.",
+      "propertyCQ": "What is Kelly Madison's weight?"
+    },
+    "OAnswer": {
+      "object_label": "61 kilogram",
+      "context": "Kelly Madison has a mass of 61 kilograms.",
+      "objectCQ": "How much is Kelly Madison's mass?"
+    }
+  },
+  {
+    "claim_id": "Q11276131$FEB0E713-2C6A-41F5-B019-BCFDC7E363D5",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "mass",
+      "context": "Yuki Higashi has a mass of 44 kilograms.",
+      "propertyCQ": "What is Higashi's weight?"
+    },
+    "OAnswer": {
+      "object_label": "44 kilogram",
+      "context": "Yuki Higashi has a mass of 44 kilograms.",
+      "objectCQ": "What is Yuki Higashi's mass?"
+    }
+  },
+  {
+    "claim_id": "Q24870750$C9647369-6EE8-439D-9385-58ACB17F1FE7",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "mass",
+      "context": "Ichidai Morisato has a mass of 100 kilograms.",
+      "propertyCQ": "What does Ichidai Morisato have?"
+    },
+    "OAnswer": {
+      "object_label": "100 kilogram",
+      "context": "Ichidai Morisato has a mass of 100 kilograms.",
+      "objectCQ": "How much is Ichidai Morisato's mass?"
+    }
+  },
+  {
+    "claim_id": "Q66480233$FE0CA910-513B-4381-B560-DEA8C914FEDC",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "mass",
+      "context": "杉江優篤 has a mass of 68 kilograms.",
+      "propertyCQ": "What is the <unk>'s metric?"
+    },
+    "OAnswer": {
+      "object_label": "68 kilogram",
+      "context": "杉江優篤 has a mass of 68 kilograms.",
+      "objectCQ": "What is the mass of <unk>?"
+    }
+  },
+  {
+    "claim_id": "Q1082420$0d43e4ce-4698-8d90-3798-2440f5f3638c",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "part of",
+      "context": "Christian Zehnder is part of Stimmhorn.",
+      "propertyCQ": "What is Christian Zehnder a part of?"
+    },
+    "OAnswer": {
+      "object_label": "Stimmhorn",
+      "context": "Christian Zehnder is part of Stimmhorn.",
+      "objectCQ": "Christian Zehnder is a member of what organization?"
+    }
+  },
+  {
+    "claim_id": "Q54568763$16981120-8421-4597-999A-30048F98B9C6",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "part of",
+      "context": "Amedeo is part of Pio e Amedeo.",
+      "propertyCQ": "What is Amedeo a part of?"
+    },
+    "OAnswer": {
+      "object_label": "Pio e Amedeo",
+      "context": "Amedeo is part of Pio e Amedeo.",
+      "objectCQ": "What is the name of the group that Amedeo is a part of?"
+    }
+  },
+  {
+    "claim_id": "Q55917$52beb155-4947-3298-5ab0-1046d6936cdf",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "part of",
+      "context": "Jarosław Kaczyński is part of Jarosław Kaczyński and Lech Kaczyński.",
+      "propertyCQ": "What is Jaros<unk>aw Kaczy<unk>ski a part of?"
+    },
+    "OAnswer": {
+      "object_label": "Jarosław Kaczyński and Lech Kaczyński",
+      "context": "Jarosław Kaczyński is part of Jarosław Kaczyński and Lech Kaczyński.",
+      "objectCQ": "Which two groups is Kaczy<unk>ski a part of?"
+    }
+  },
+  {
+    "claim_id": "Q104097720$f09cff9d-4246-e328-b02c-caf424ae3b14",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "part of",
+      "context": "Peter Dietrich (Keramiker) is part of Anni und Peter Dietrich.",
+      "propertyCQ": "What is Peter Dietrich's job title?"
+    },
+    "OAnswer": {
+      "object_label": "Anni und Peter Dietrich",
+      "context": "Peter Dietrich (Keramiker) is part of Anni und Peter Dietrich.",
+      "objectCQ": "What is Peter Dietrich a part of?"
+    }
+  },
+  {
+    "claim_id": "Q12308641$9cd029a0-4515-8d54-ef82-f5a936d0b94f",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "part of",
+      "context": "Dimitri Vegas is part of Dimitri Vegas & W&W.",
+      "propertyCQ": "What is Dimitri Vegas a part of?"
+    },
+    "OAnswer": {
+      "object_label": "Dimitri Vegas & W&W",
+      "context": "Dimitri Vegas is part of Dimitri Vegas & W&W.",
+      "objectCQ": "What is the name of the company that produces Dimitri Vegas?"
+    }
+  },
+  {
+    "claim_id": "Q2480656$d4da50e7-4f3e-9e6e-cdad-15b9c372b240",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "part of",
+      "context": "Jared Hess is part of Jared and Jerusha Hess.",
+      "propertyCQ": "What is Jared Hess's role in the family?"
+    },
+    "OAnswer": {
+      "object_label": "Jared and Jerusha Hess",
+      "context": "Jared Hess is part of Jared and Jerusha Hess.",
+      "objectCQ": "What is the name of the group that Jared Hess is a part of?"
+    }
+  },
+  {
+    "claim_id": "Q1707696$9A4F55E9-26A2-4666-8019-D1AB71FBE277",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "member of political party",
+      "context": "Joseph Neuhäuser is a member of the National Socialist German Workers' Party.",
+      "propertyCQ": "What is Joseph Neuhäuser's job title?"
+    },
+    "OAnswer": {
+      "object_label": "National Socialist German Workers' Party",
+      "context": "Joseph Neuhäuser is a member of the National Socialist German Workers' Party.",
+      "objectCQ": "What party is Joseph Neuhäuser a member of?"
+    }
+  },
+  {
+    "claim_id": "Q62109299$f14af45c-67d4-4e90-8c85-f642552901fa",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "member of political party",
+      "context": "Sip Hofstede is a member of the Christian Heritage Party of Canada.",
+      "propertyCQ": "What is Sip Hofstede's profession?"
+    },
+    "OAnswer": {
+      "object_label": "Christian Heritage Party of Canada",
+      "context": "Sip Hofstede is a member of the Christian Heritage Party of Canada.",
+      "objectCQ": "What party is Sip Hofstede a member of?"
+    }
+  },
+  {
+    "claim_id": "Q232646$DD7D27A1-D91F-4AC9-B5C0-6523A9A018E6",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "member of political party",
+      "context": "Julianne Hough is a member of the Democratic Party.",
+      "propertyCQ": "What is Julianne Hough's job title?"
+    },
+    "OAnswer": {
+      "object_label": "Democratic Party",
+      "context": "Julianne Hough is a member of the Democratic Party.",
+      "objectCQ": "What party is Julianne Hough a member of?"
+    }
+  },
+  {
+    "claim_id": "Q3241949$5DAE3CF2-685A-4871-BCBD-CCD9A6BDF7D0",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "member of political party",
+      "context": "Lionel Stoléru is a member of the Radical Party.",
+      "propertyCQ": "What is Lionel Stoléru's political affiliation?"
+    },
+    "OAnswer": {
+      "object_label": "Radical Party",
+      "context": "Lionel Stoléru is a member of the Radical Party.",
+      "objectCQ": "Lionel Stoléru is a member of what party?"
+    }
+  },
+  {
+    "claim_id": "Q9078707$826d6df0-6ce5-4a97-8b28-7f903a62d8da",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "member of political party",
+      "context": "Yu Qian is a member of the Revolutionary Committee of the Chinese Kuomintang.",
+      "propertyCQ": "What is Yu Qian's profession?"
+    },
+    "OAnswer": {
+      "object_label": "Revolutionary Committee of the Chinese Kuomintang",
+      "context": "Yu Qian is a member of the Revolutionary Committee of the Chinese Kuomintang.",
+      "objectCQ": "What is Yu Qian a member of?"
+    }
+  },
+  {
+    "claim_id": "Q2150254$E274E9AD-B438-4677-80A6-C3CC6FB17D0D",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "member of political party",
+      "context": "Richard Münnich is a member of the German People's Party.",
+      "propertyCQ": "What is Richard Münnich's job title?"
+    },
+    "OAnswer": {
+      "object_label": "German People's Party",
+      "context": "Richard Münnich is a member of the German People's Party.",
+      "objectCQ": "What party is Richard Münnich a member of?"
+    }
+  },
+  {
+    "claim_id": "Q20013815$1B9057D7-D1CE-4F39-BCEE-1A10A1428673",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "work period (end)",
+      "context": "Carlos Giménez's work period (end) was 1992.",
+      "propertyCQ": "What was Carlos Giménez's last year of work?"
+    },
+    "OAnswer": {
+      "object_label": "1992",
+      "context": "Carlos Giménez's work period (end) was 1992.",
+      "objectCQ": "When did Carlos Giménez's work period end?"
+    }
+  },
+  {
+    "claim_id": "Q37647181$e18ef2cf-4a45-8479-f9bc-4fee45dbd2e9",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "work period (end)",
+      "context": "Lu Ann Simms worked until 1989.",
+      "propertyCQ": "What is the term for the end of the work period?"
+    },
+    "OAnswer": {
+      "object_label": "1989",
+      "context": "Lu Ann Simms worked until 1989.",
+      "objectCQ": "Lu Ann Simms worked until what year?"
+    }
+  },
+  {
+    "claim_id": "Q27050329$A949D7C0-A0FB-4840-8FEF-DE5EAE9B200D",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "work period (end)",
+      "context": "Johannes Hermanus van der Heyden's work period (end) was 1907.",
+      "propertyCQ": "What was Johannes Hermanus van der Heyden's work period?"
+    },
+    "OAnswer": {
+      "object_label": "1907",
+      "context": "Johannes Hermanus van der Heyden's work period (end) was 1907.",
+      "objectCQ": "Johannes Hermanus van der Heyden's work period ended in what year?"
+    }
+  },
+  {
+    "claim_id": "Q219521$E19AA178-CB42-4ACD-9BFB-3F9BC20D0979",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "work period (end)",
+      "context": "Walter Brennan's work period (end) was 1974.",
+      "propertyCQ": "What was Walter Brennan's job title?"
+    },
+    "OAnswer": {
+      "object_label": "1974",
+      "context": "Walter Brennan's work period (end) was 1974.",
+      "objectCQ": "When did Walter Brennan's work period end?"
+    }
+  },
+  {
+    "claim_id": "Q27870278$c5a49f6c-4c68-c153-9c9d-06b11ea30989",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "work period (end)",
+      "context": "Tonu Kiipus worked until 1940.",
+      "propertyCQ": "What is the term for Tonu Kiipus's employment?"
+    },
+    "OAnswer": {
+      "object_label": "1940",
+      "context": "Tonu Kiipus worked until 1940.",
+      "objectCQ": "When did Tonu Kiipus stop working?"
+    }
+  },
+  {
+    "claim_id": "Q41330523$80A95B43-2BDE-40E6-943A-30774E6B0DE7",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "work period (end)",
+      "context": "Charles Roskam's work period (end) was 1921.",
+      "propertyCQ": "What was Charles Roskam's job title?"
+    },
+    "OAnswer": {
+      "object_label": "1921",
+      "context": "Charles Roskam's work period (end) was 1921.",
+      "objectCQ": "What year did Roskam's work end?"
+    }
+  },
+  {
+    "claim_id": "Q3668419$a95c7bd2-e73e-4808-999c-d840d6986851",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "religion",
+      "context": "Mazhar Khaleqi is a Muslim.",
+      "propertyCQ": "What is Mazhar Khaleqi's religion?"
+    },
+    "OAnswer": {
+      "object_label": "Islam",
+      "context": "Mazhar Khaleqi is a Muslim.",
+      "objectCQ": "What religion is Mazhar Khaleqi?"
+    }
+  },
+  {
+    "claim_id": "Q241749$035D7ADC-A29F-451A-82C7-1A8ED2C3FC50",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "religion",
+      "context": "Bailee Madison's religion is Christianity.",
+      "propertyCQ": "What is Bailee Madison's religion?"
+    },
+    "OAnswer": {
+      "object_label": "Christianity",
+      "context": "Bailee Madison's religion is Christianity.",
+      "objectCQ": "What is Bailee Madison's religion?"
+    }
+  },
+  {
+    "claim_id": "Q1394102$501e07c4-4793-e51e-c1ec-e49d4e54e048",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "religion",
+      "context": "Vitaly Churkin's religion is the Russian Orthodox Church.",
+      "propertyCQ": "What is Vitaly Churkin's profession?"
+    },
+    "OAnswer": {
+      "object_label": "Russian Orthodox Church",
+      "context": "Vitaly Churkin's religion is the Russian Orthodox Church.",
+      "objectCQ": "What is Vitaly Churkin's religion?"
+    }
+  },
+  {
+    "claim_id": "Q561034$33a6e69e-4194-4379-a3f6-ef12a71862a8",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "religion",
+      "context": "Tito Livio Burattini's religion is the Catholic Church.",
+      "propertyCQ": "What is the Catholic Church?"
+    },
+    "OAnswer": {
+      "object_label": "Catholic Church",
+      "context": "Tito Livio Burattini's religion is the Catholic Church.",
+      "objectCQ": "What is Tito Livio Burattini's religion?"
+    }
+  },
+  {
+    "claim_id": "Q2899715$422FF16D-9668-4A76-8EFC-0599EA2AB978",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "religion",
+      "context": "The religion of Bénigne de Bacilly is Catholicism.",
+      "propertyCQ": "What is Catholicism?"
+    },
+    "OAnswer": {
+      "object_label": "Catholicism",
+      "context": "The religion of Bénigne de Bacilly is Catholicism.",
+      "objectCQ": "What is the religion of Bénigne de Bacilly?"
+    }
+  },
+  {
+    "claim_id": "Q6767016$3e477073-4f4c-afa1-d954-20199dc8dafd",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "religion",
+      "context": "Chabad Lubavitch is the religion of Tali Avrahami.",
+      "propertyCQ": "What is Chabad Lubavitch?"
+    },
+    "OAnswer": {
+      "object_label": "Chabad Lubavitch",
+      "context": "Chabad Lubavitch is the religion of Tali Avrahami.",
+      "objectCQ": "What is the religion of Tali Avrahami?"
+    }
+  },
+  {
+    "claim_id": "Q20041778$89CDE0C1-5654-4B3C-BDDA-56744EC905A1",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "sport",
+      "context": "Shota Nakagawa is a professional wrestler.",
+      "propertyCQ": "What is Shota Nakagawa's passion?"
+    },
+    "OAnswer": {
+      "object_label": "professional wrestling",
+      "context": "Shota Nakagawa is a professional wrestler.",
+      "objectCQ": "What is Shota Nakagawa's sport?"
+    }
+  },
+  {
+    "claim_id": "Q7027407$2D6E5844-E13F-4018-9FDE-9FE2A7213536",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "sport",
+      "context": "Nick Kiniski is an amateur wrestler.",
+      "propertyCQ": "Nick Kiniski is an amateur wrestler in what field?"
+    },
+    "OAnswer": {
+      "object_label": "amateur wrestling",
+      "context": "Nick Kiniski is an amateur wrestler.",
+      "objectCQ": "What is Nick Kiniski's sport?"
+    }
+  },
+  {
+    "claim_id": "Q18205822$7DF0959A-D788-4D66-B92F-F446AA2B6E9E",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "sport",
+      "context": "Carmella is a professional wrestler.",
+      "propertyCQ": "What is Carmella's passion?"
+    },
+    "OAnswer": {
+      "object_label": "professional wrestling",
+      "context": "Carmella is a professional wrestler.",
+      "objectCQ": "What is Carmella's sport?"
+    }
+  },
+  {
+    "claim_id": "Q4817796$99f0fd96-40db-c9e2-320f-c27e6e4a14de",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "sport",
+      "context": "Atsushi Aoki is a professional wrestler.",
+      "propertyCQ": "What is Atsushi Aoki's profession?"
+    },
+    "OAnswer": {
+      "object_label": "professional wrestling",
+      "context": "Atsushi Aoki is a professional wrestler.",
+      "objectCQ": "What type of wrestler is Atsushi Aoki?"
+    }
+  },
+  {
+    "claim_id": "Q5371791$A34577A6-C298-485A-93E7-E172E291BDF3",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "sport",
+      "context": "Emilien De Falco plays taekwondo.",
+      "propertyCQ": "What is Emilien De Falco's passion?"
+    },
+    "OAnswer": {
+      "object_label": "taekwondo",
+      "context": "Emilien De Falco plays taekwondo.",
+      "objectCQ": "What does De Falco play?"
+    }
+  },
+  {
+    "claim_id": "Q28867631$67645558-CAC5-49B2-9799-2B43C6B9C669",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "sport",
+      "context": "Rachel Evers' sport is powerlifting.",
+      "propertyCQ": "What is Rachel Evers' passion?"
+    },
+    "OAnswer": {
+      "object_label": "powerlifting",
+      "context": "Rachel Evers' sport is powerlifting.",
+      "objectCQ": "What is Rachel Evers' sport?"
+    }
+  },
+  {
+    "claim_id": "Q84593877$172EDB58-C221-4808-AE09-0DC120474AA5",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "floruit",
+      "context": "Ahmet İnal is in the 2010s.",
+      "propertyCQ": "What type of plant is Ahmet <unk>nal?"
+    },
+    "OAnswer": {
+      "object_label": "2010s",
+      "context": "Ahmet İnal is in the 2010s.",
+      "objectCQ": "When is Ahmet <unk>nal in the 2010s?"
+    }
+  },
+  {
+    "claim_id": "Q106365111$DBFA971A-F2D3-4F06-B070-B6EB70BFCE0F",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "floruit",
+      "context": "Frans Jongmans is the creator of floruit in the 1980s.",
+      "propertyCQ": "What is the name of the product created by Frans Jongmans?"
+    },
+    "OAnswer": {
+      "object_label": "1980s",
+      "context": "Frans Jongmans is the creator of floruit in the 1980s.",
+      "objectCQ": "When was floruit created?"
+    }
+  },
+  {
+    "claim_id": "Q16327776$373c3ddb-41e6-e25b-3a5b-47973538d355",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "floruit",
+      "context": "Theoktistos ho Monachos is a floruit from the 12th century.",
+      "propertyCQ": "What is Theoktistos ho Monachos?"
+    },
+    "OAnswer": {
+      "object_label": "12nd century",
+      "context": "Theoktistos ho Monachos is a floruit from the 12th century.",
+      "objectCQ": "When was the floruit Theoktistos ho Monachos?"
+    }
+  },
+  {
+    "claim_id": "Q539270$1583cbbb-e089-47e2-ba0a-4ad931e48ba3",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "floruit",
+      "context": "Louise Lawler designed floruit in 2010.",
+      "propertyCQ": "What did Louise Lawler design in 2010?"
+    },
+    "OAnswer": {
+      "object_label": "2010",
+      "context": "Louise Lawler designed floruit in 2010.",
+      "objectCQ": "When was floruit designed?"
+    }
+  },
+  {
+    "claim_id": "Q59276561$dfadbb42-4fc0-a06f-3a50-6966e5644a8c",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "floruit",
+      "context": "The Master of Beautiful Madonnas was born in the 14th century in floruit.",
+      "propertyCQ": "Where was the Master of Beautiful Madonnas born?"
+    },
+    "OAnswer": {
+      "object_label": "14th century",
+      "context": "The Master of Beautiful Madonnas was born in the 14th century in floruit.",
+      "objectCQ": "When was the Master of Beautiful Madonnas born?"
+    }
+  },
+  {
+    "claim_id": "Q97572077$d3802ec4-5352-455a-81f1-814f79773288",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "floruit",
+      "context": "Girolamo Prepiani has a floruit that dates back to 1805.",
+      "propertyCQ": "What type of plant dates back to 1805?"
+    },
+    "OAnswer": {
+      "object_label": "1805",
+      "context": "Girolamo Prepiani has a floruit that dates back to 1805.",
+      "objectCQ": "What year does the Floruit of Girolamo Prepiani date back to?"
+    }
+  },
+  {
+    "claim_id": "Q102071$242fb5e3-49b3-4ea4-2fd0-aace75882520",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "mother",
+      "context": "Tove Jansson's mother is Signe Hammarsten-Jansson.",
+      "propertyCQ": "What is Tove Jansson's occupation?"
+    },
+    "OAnswer": {
+      "object_label": "Signe Hammarsten-Jansson",
+      "context": "Tove Jansson's mother is Signe Hammarsten-Jansson.",
+      "objectCQ": "Who is Tove Jansson's mother?"
+    }
+  },
+  {
+    "claim_id": "Q15072245$4c7de915-4a4b-b0ad-f302-4e27e53f014d",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "mother",
+      "context": "Theophil Baron Meyendorff's mother is Елена Павловна Шувалова.",
+      "propertyCQ": "Who is Theophil Baron Meyendorff's mother?"
+    },
+    "OAnswer": {
+      "object_label": "Елена Павловна Шувалова",
+      "context": "Theophil Baron Meyendorff's mother is Елена Павловна Шувалова.",
+      "objectCQ": "Who is Theophil Baron Meyendorff's mother?"
+    }
+  },
+  {
+    "claim_id": "Q455962$27f34b6c-469e-d102-d822-a89dcf3f075d",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "mother",
+      "context": "Ann Mui's mother is Mei Tam Mei-kam.",
+      "propertyCQ": "What is Ann Mui's name?"
+    },
+    "OAnswer": {
+      "object_label": "Mei Tam Mei-kam",
+      "context": "Ann Mui's mother is Mei Tam Mei-kam.",
+      "objectCQ": "Who is Ann Mui's mother?"
+    }
+  },
+  {
+    "claim_id": "q312311$44B00A6E-6DDC-4C6B-AF65-656FCBA5969B",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "mother",
+      "context": "Peter III of Aragon's mother is Violant of Hungary.",
+      "propertyCQ": "What is Violant of Hungary?"
+    },
+    "OAnswer": {
+      "object_label": "Violant of Hungary",
+      "context": "Peter III of Aragon's mother is Violant of Hungary.",
+      "objectCQ": "What is Peter III of Aragon's mother?"
+    }
+  },
+  {
+    "claim_id": "Q4941988$BD90C5D3-7085-4AC6-8F9B-CB15F061EEA1",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "mother",
+      "context": "Sally Frejrud Carlsson's mother is Ing-Marie Carlsson.",
+      "propertyCQ": "What is Ing-Marie Carlsson's occupation?"
+    },
+    "OAnswer": {
+      "object_label": "Ing-Marie Carlsson",
+      "context": "Sally Frejrud Carlsson's mother is Ing-Marie Carlsson.",
+      "objectCQ": "Who is Sally Frejrud Carlsson's mother?"
+    }
+  },
+  {
+    "claim_id": "Q16214430$0a435ef0-4452-edd1-342e-dbde3c79e3ba",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "mother",
+      "context": "Rakhee Gulzar is the mother of Meghna Gulzar.",
+      "propertyCQ": "What is Rakhee Gulzar's occupation?"
+    },
+    "OAnswer": {
+      "object_label": "Rakhee Gulzar",
+      "context": "Rakhee Gulzar is the mother of Meghna Gulzar.",
+      "objectCQ": "Who is the mother of Meghna Gulzar?"
+    }
+  },
+  {
+    "claim_id": "Q5934571$00462437-4236-a9c0-e961-1a2fb3bf88ad",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "movement",
+      "context": "Jorge Barbi's movement is land art.",
+      "propertyCQ": "What is Jorge Barbi's work called?"
+    },
+    "OAnswer": {
+      "object_label": "land art",
+      "context": "Jorge Barbi's movement is land art.",
+      "objectCQ": "What type of art is Jorge Barbi's movement?"
+    }
+  },
+  {
+    "claim_id": "Q444690$E1273497-CFE0-4A9D-839E-5218AAF54BD8",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "movement",
+      "context": "Glenn Brown is part of the movement for contemporary art.",
+      "propertyCQ": "What is Glenn Brown a part of?"
+    },
+    "OAnswer": {
+      "object_label": "contemporary art",
+      "context": "Glenn Brown is part of the movement for contemporary art.",
+      "objectCQ": "What movement is Glenn Brown a part of?"
+    }
+  },
+  {
+    "claim_id": "Q3102203$1CAB7509-7B09-4DFE-A754-BB0737A6F8DA",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "movement",
+      "context": "Georges Arnoux is part of the movement of Western classical music.",
+      "propertyCQ": "What movement is Georges Arnoux a part of?"
+    },
+    "OAnswer": {
+      "object_label": "Western classical music",
+      "context": "Georges Arnoux is part of the movement of Western classical music.",
+      "objectCQ": "What movement is Georges Arnoux a part of?"
+    }
+  },
+  {
+    "claim_id": "Q5637744$D22D8608-98A5-4171-9A6F-25B9847E1F34",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "movement",
+      "context": "Édouard Delabrièrre is an animalier.",
+      "propertyCQ": "What is the main activity of Édouard Delabrièrre?"
+    },
+    "OAnswer": {
+      "object_label": "animalier",
+      "context": "Édouard Delabrièrre is an animalier.",
+      "objectCQ": "What is Édouard Delabrièrre?"
+    }
+  },
+  {
+    "claim_id": "Q318518$43C813B5-6C57-4156-81FA-2B9B587F430C",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "movement",
+      "context": "Milton Babbitt was a pioneer of 20th century classical music.",
+      "propertyCQ": "What was Milton Babbitt's major accomplishment?"
+    },
+    "OAnswer": {
+      "object_label": "20th-century classical music",
+      "context": "Milton Babbitt was a pioneer of 20th century classical music.",
+      "objectCQ": "What genre of music did Milton Babbitt pioneer?"
+    }
+  },
+  {
+    "claim_id": "Q23614980$23F1C405-8F34-4F05-8F54-B6004E68066D",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "movement",
+      "context": "Emma B. King is a member of the American Impressionism movement.",
+      "propertyCQ": "What is Emma B. King a member of?"
+    },
+    "OAnswer": {
+      "object_label": "American Impressionism",
+      "context": "Emma B. King is a member of the American Impressionism movement.",
+      "objectCQ": "What movement is Emma B. King a member of?"
+    }
+  },
+  {
+    "claim_id": "Q1394102$519a3e0a-4155-d36e-2685-da5f6769c82c",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "position held",
+      "context": "Vitaly Churkin is the ambassador of the Russian Federation to Belgium.",
+      "propertyCQ": "What is Vitaly Churkin's position in the Russian Federation?"
+    },
+    "OAnswer": {
+      "object_label": "ambassador of the Russian Federation to Belgium",
+      "context": "Vitaly Churkin is the ambassador of the Russian Federation to Belgium.",
+      "objectCQ": "What is Vitaly Churkin's job title?"
+    }
+  },
+  {
+    "claim_id": "Q2847587$5768b6f5-49d7-a89f-7edc-f0b6fc87042b",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "position held",
+      "context": "André Dauchez is the president.",
+      "propertyCQ": "What is André Dauchez's title?"
+    },
+    "OAnswer": {
+      "object_label": "president",
+      "context": "André Dauchez is the president.",
+      "objectCQ": "What is André Dauchez's title?"
+    }
+  },
+  {
+    "claim_id": "Q6679840$0EC270EB-B976-400E-8069-E4177A63A76D",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "position held",
+      "context": "Lord Otho FitzGerald is a member of the 20th Parliament of the United Kingdom.",
+      "propertyCQ": "What is Lord FitzGerald's position in Parliament?"
+    },
+    "OAnswer": {
+      "object_label": "Member of the 20th Parliament of the United Kingdom",
+      "context": "Lord Otho FitzGerald is a member of the 20th Parliament of the United Kingdom.",
+      "objectCQ": "What is Lord Otho FitzGerald's position?"
+    }
+  },
+  {
+    "claim_id": "Q65568182$1171F4D9-3BC9-42C8-829A-854119495347",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "position held",
+      "context": "Patrick Bonnefon is a conseiller municipal de Carsac-Aillac.",
+      "propertyCQ": "What is Patrick Bonnefon's position?"
+    },
+    "OAnswer": {
+      "object_label": "conseiller municipal de Carsac-Aillac",
+      "context": "Patrick Bonnefon is a conseiller municipal de Carsac-Aillac.",
+      "objectCQ": "What is Patrick Bonnefon's job title?"
+    }
+  },
+  {
+    "claim_id": "Q213748$8F708E09-451D-4B8A-902E-B1A966DE2807",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "position held",
+      "context": "Arthur Rosenberg is a member of the Reichstag of the Weimar Republic.",
+      "propertyCQ": "What is Arthur Rosenberg's position in the Reichstag?"
+    },
+    "OAnswer": {
+      "object_label": "member of the Reichstag of the Weimar Republic",
+      "context": "Arthur Rosenberg is a member of the Reichstag of the Weimar Republic.",
+      "objectCQ": "What is Arthur Rosenberg's job title?"
+    }
+  },
+  {
+    "claim_id": "Q231985$b4297b85-df6c-4234-9b12-45a1fad99daa",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "position held",
+      "context": "Hayley Westenra is the UNICEF Goodwill Ambassador.",
+      "propertyCQ": "What is Hayley Westenra's job title?"
+    },
+    "OAnswer": {
+      "object_label": "UNICEF Goodwill Ambassador",
+      "context": "Hayley Westenra is the UNICEF Goodwill Ambassador.",
+      "objectCQ": "What is Hayley Westenra's job title?"
+    }
+  },
+  {
+    "claim_id": "Q5563974$73BB6CBB-C0B2-4F70-BFDF-B026922D7DA0",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "student",
+      "context": "Giovanni Sbriglia is a student of Ada Adini.",
+      "propertyCQ": "What is Giovanni Sbriglia's profession?"
+    },
+    "OAnswer": {
+      "object_label": "Ada Adini",
+      "context": "Giovanni Sbriglia is a student of Ada Adini.",
+      "objectCQ": "Who is Giovanni Sbriglia a student of?"
+    }
+  },
+  {
+    "claim_id": "Q2353641$9AAA801F-DB44-4ADE-A71D-1AF8563B66F3",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "student",
+      "context": "Lucien Capet was a student of Robert Casadesus.",
+      "propertyCQ": "What was Lucien Capet's occupation?"
+    },
+    "OAnswer": {
+      "object_label": "Robert Casadesus",
+      "context": "Lucien Capet was a student of Robert Casadesus.",
+      "objectCQ": "Who was Lucien Capet a student of?"
+    }
+  },
+  {
+    "claim_id": "Q21978966$C45587D1-4EE3-4B9E-9D36-7FF153545E93",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "student",
+      "context": "Esther Heins is a student of Ernest Lee Major.",
+      "propertyCQ": "What is Esther Heins's occupation?"
+    },
+    "OAnswer": {
+      "object_label": "Esther Heins",
+      "context": "Esther Heins is a student of Ernest Lee Major.",
+      "objectCQ": "Who is a student of Ernest Lee Major?"
+    }
+  },
+  {
+    "claim_id": "Q6305677$F3667B4D-6CDE-45E8-A1AF-9214134AFE07",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "student",
+      "context": "Wang Jie is a student of Richard Danielpour.",
+      "propertyCQ": "What is Wang Jie's profession?"
+    },
+    "OAnswer": {
+      "object_label": "Wang Jie",
+      "context": "Wang Jie is a student of Richard Danielpour.",
+      "objectCQ": "Who is a student of Richard Danielpour?"
+    }
+  },
+  {
+    "claim_id": "Q5589$6A78B4BD-28A8-4DE7-903F-3B92EA0CFE48",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "student",
+      "context": "Milly Slöör-Tjäder is a student of Henri Matisse.",
+      "propertyCQ": "What is Milly Slöör-Tjäder's profession?"
+    },
+    "OAnswer": {
+      "object_label": "Milly Slöör-Tjäder",
+      "context": "Milly Slöör-Tjäder is a student of Henri Matisse.",
+      "objectCQ": "Who is a student of Henri Matisse?"
+    }
+  },
+  {
+    "claim_id": "Q186391$0D9A63F9-CC9F-4B3A-9129-5F8A6A5C8150",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "student",
+      "context": "Theodor Svedberg is a student of Arne Tiselius.",
+      "propertyCQ": "What is the profession of Theodor Svedberg?"
+    },
+    "OAnswer": {
+      "object_label": "Arne Tiselius",
+      "context": "Theodor Svedberg is a student of Arne Tiselius.",
+      "objectCQ": "Who is Theodor Svedberg a student of?"
+    }
+  },
+  {
+    "claim_id": "Q2824024$8F1E8D48-82D3-4773-81CA-F7DFEBF96E4E",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "different from",
+      "context": "Adam Williams is different from Adam Williams.",
+      "propertyCQ": "How does Adam Williams compare to Adam Williams?"
+    },
+    "OAnswer": {
+      "object_label": "Adam Williams",
+      "context": "Adam Williams is different from Adam Williams.",
+      "objectCQ": "Who is different from Adam Williams?"
+    }
+  },
+  {
+    "claim_id": "Q303530$AD453C85-A387-449E-9340-18686AFAD6EF",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "different from",
+      "context": "Jan Zrzavý is different from Jan Zrzavý.",
+      "propertyCQ": "How does Jan Zrzav<unk> compare to Jan Zrzav<unk>?"
+    },
+    "OAnswer": {
+      "object_label": "Jan Zrzavý",
+      "context": "Jan Zrzavý is different from Jan Zrzavý.",
+      "objectCQ": "Who is different from Jan Zrzav<unk>?"
+    }
+  },
+  {
+    "claim_id": "Q2146011$171E085C-2AAF-48BF-9FF6-6E6B4C170BB3",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "different from",
+      "context": "Larry Clarke is different from Larry Clarke.",
+      "propertyCQ": "How does Larry Clarke compare to Larry Clarke?"
+    },
+    "OAnswer": {
+      "object_label": "Larry Clarke",
+      "context": "Larry Clarke is different from Larry Clarke.",
+      "objectCQ": "Who is different from Larry Clarke?"
+    }
+  },
+  {
+    "claim_id": "Q24036373$E2C8CF0B-CD8A-4E0C-9135-0A0B89C2AC50",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "different from",
+      "context": "Jorge Bustos is different from Jorge Bustos.",
+      "propertyCQ": "How does Jorge Bustos compare to Jorge Bustos?"
+    },
+    "OAnswer": {
+      "object_label": "Jorge Bustos",
+      "context": "Jorge Bustos is different from Jorge Bustos.",
+      "objectCQ": "Who is different from Jorge Bustos?"
+    }
+  },
+  {
+    "claim_id": "Q3770430$693b431a-48eb-18c8-384c-3e7442beaccd",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "different from",
+      "context": "Giuseppe De Luca is different from Giuseppe De Luca.",
+      "propertyCQ": "How does Giuseppe De Luca compare to De Luca?"
+    },
+    "OAnswer": {
+      "object_label": "Giuseppe De Luca",
+      "context": "Giuseppe De Luca is different from Giuseppe De Luca.",
+      "objectCQ": "Who is different from Giuseppe De Luca?"
+    }
+  },
+  {
+    "claim_id": "Q62035839$1c5116a5-4abc-c9e9-bcaf-d86333627503",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "different from",
+      "context": "Ann Williams is different from Ann Williams.",
+      "propertyCQ": "How does Ann Williams compare to Ann Williams?"
+    },
+    "OAnswer": {
+      "object_label": "Ann Williams",
+      "context": "Ann Williams is different from Ann Williams.",
+      "objectCQ": "Who is different from Ann Williams?"
+    }
+  },
+  {
+    "claim_id": "Q5616031$0D82907D-084D-4FA1-ACEF-6880D5149F85",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "participant in",
+      "context": "Guillaume Cizeron is a participant in the 2017 World Figure Skating Championships - ice dancing.",
+      "propertyCQ": "What is Guillaume Cizeron's role in the 2017 World Figure Skating Championships?"
+    },
+    "OAnswer": {
+      "object_label": "2017 World Figure Skating Championships - ice dancing",
+      "context": "Guillaume Cizeron is a participant in the 2017 World Figure Skating Championships - ice dancing.",
+      "objectCQ": "What event is Guillaume Cizeron a participant in?"
+    }
+  },
+  {
+    "claim_id": "Q515940$BFD5B44B-C9B4-41EB-B956-B6D3D13308C1",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "participant in",
+      "context": "Anne Pashley was a participant in the 1956 Summer Olympics.",
+      "propertyCQ": "What was Anne Pashley involved in?"
+    },
+    "OAnswer": {
+      "object_label": "1956 Summer Olympics",
+      "context": "Anne Pashley was a participant in the 1956 Summer Olympics.",
+      "objectCQ": "What was the name of the Olympics that Anne Pashley participated in?"
+    }
+  },
+  {
+    "claim_id": "Q28689732$37051DDD-7E53-4031-B757-3C87DE19B15C",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "participant in",
+      "context": "Chen Hong is a participant in the 2019 Chinese Figure Skating Championships - ice dance.",
+      "propertyCQ": "What is Chen Hong's role in the Chinese Figure Skating Championships?"
+    },
+    "OAnswer": {
+      "object_label": "2019 Chinese Figure Skating Championships - ice dance",
+      "context": "Chen Hong is a participant in the 2019 Chinese Figure Skating Championships - ice dance.",
+      "objectCQ": "What competition is Chen Hong a participant in?"
+    }
+  },
+  {
+    "claim_id": "Q16209084$9C7B2EE8-75DC-45B6-9009-FD7DAFC06575",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "participant in",
+      "context": "Scott Gregory was a participant in figure skating at the 1984 Winter Olympics – ice dance.",
+      "propertyCQ": "What was Scott Gregory's role in the 1984 Winter Olympics?"
+    },
+    "OAnswer": {
+      "object_label": "figure skating at the 1984 Winter Olympics – ice dance",
+      "context": "Scott Gregory was a participant in figure skating at the 1984 Winter Olympics – ice dance.",
+      "objectCQ": "What was Scott Gregory a participant in?"
+    }
+  },
+  {
+    "claim_id": "Q466949$7ABC67CE-DED8-45D2-94F7-D04713CE7320",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "participant in",
+      "context": "Sigga was a participant in the Eurovision Song Contest 1990.",
+      "propertyCQ": "What was Sigga's role in the Eurovision Song Contest?"
+    },
+    "OAnswer": {
+      "object_label": "Eurovision Song Contest 1990",
+      "context": "Sigga was a participant in the Eurovision Song Contest 1990.",
+      "objectCQ": "What contest did Sigga participate in?"
+    }
+  },
+  {
+    "claim_id": "Q457775$BBDCC400-3817-430D-9290-37E461F720E4",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "participant in",
+      "context": "Colleen O'Connor was a participant in figure skating at the 1976 Winter Olympics – ice dance.",
+      "propertyCQ": "What was Colleen O'Connor's role in the 1976 Winter Olympics?"
+    },
+    "OAnswer": {
+      "object_label": "figure skating at the 1976 Winter Olympics – ice dance",
+      "context": "Colleen O'Connor was a participant in figure skating at the 1976 Winter Olympics – ice dance.",
+      "objectCQ": "What was Colleen O'Connor a participant in?"
+    }
+  },
+  {
+    "claim_id": "Q5375136$80569ac6-4b36-a5cd-61c6-10db1db1c227",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "height",
+      "context": "Ena Sandra Causevic has a height of 1.73 metres.",
+      "propertyCQ": "What is Ena Sandra Causevic's measure?"
+    },
+    "OAnswer": {
+      "object_label": "1.73 metre",
+      "context": "Ena Sandra Causevic has a height of 1.73 metres.",
+      "objectCQ": "How tall is Ena Sandra Causevic?"
+    }
+  },
+  {
+    "claim_id": "Q11383139$BF89FC75-3F78-45A0-90D2-7CCAF6F9EACF",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "height",
+      "context": "Haruki Sayama's height is 172 centimetres.",
+      "propertyCQ": "What is Haruki Sayama's height?"
+    },
+    "OAnswer": {
+      "object_label": "172 centimetre",
+      "context": "Haruki Sayama's height is 172 centimetres.",
+      "objectCQ": "What is Haruki Sayama's height?"
+    }
+  },
+  {
+    "claim_id": "Q11365587$D84FD9DB-5366-47AC-8B8A-559508D0BF5F",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "height",
+      "context": "Akio Nakamura's height is 173 centimetres.",
+      "propertyCQ": "What is Akio Nakamura's height?"
+    },
+    "OAnswer": {
+      "object_label": "173 centimetre",
+      "context": "Akio Nakamura's height is 173 centimetres.",
+      "objectCQ": "What is Akio Nakamura's height?"
+    }
+  },
+  {
+    "claim_id": "Q11677188$CA28C515-9B9A-4D4D-A19C-9C06E72B09B2",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "height",
+      "context": "Atsushi Kashimura's height is 171 centimetres.",
+      "propertyCQ": "What is Atsushi Kashimura's height?"
+    },
+    "OAnswer": {
+      "object_label": "171 centimetre",
+      "context": "Atsushi Kashimura's height is 171 centimetres.",
+      "objectCQ": "What is Atsushi Kashimura's height?"
+    }
+  },
+  {
+    "claim_id": "Q11536555$F91BE588-F0C5-40B7-ABC5-B7866D2531C2",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "height",
+      "context": "Sanshirō Katsura is 180 centimetres high.",
+      "propertyCQ": "What is Sanshiro Katsura's height?"
+    },
+    "OAnswer": {
+      "object_label": "180 centimetre",
+      "context": "Sanshirō Katsura is 180 centimetres high.",
+      "objectCQ": "How tall is Sanshiro Katsura?"
+    }
+  },
+  {
+    "claim_id": "Q6211281$8c08133c-4f57-d6a4-f474-74bb6c65032f",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "height",
+      "context": "Ratno Timoer is 1.8 metres high.",
+      "propertyCQ": "What is the Ratno Timoer's average height?"
+    },
+    "OAnswer": {
+      "object_label": "1.8 metre",
+      "context": "Ratno Timoer is 1.8 metres high.",
+      "objectCQ": "How tall is Ratno Timoer?"
+    }
+  },
+  {
+    "claim_id": "Q15087189$1D5FAAAD-ABAA-436D-B0B9-E5E1F444CFB4",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "voice type",
+      "context": "Magafura Saligaskarova has a mezzo-soprano voice.",
+      "propertyCQ": "What is Magafura Saligaskarova's?"
+    },
+    "OAnswer": {
+      "object_label": "mezzo-soprano",
+      "context": "Magafura Saligaskarova has a mezzo-soprano voice.",
+      "objectCQ": "What type of voice does Magafura Saligaskarova have?"
+    }
+  },
+  {
+    "claim_id": "Q3592255$B273787C-9AB4-46CF-9422-ED3A8BAC1393",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "voice type",
+      "context": "Étienne Lestringant's voice type is tenor.",
+      "propertyCQ": "What is Étienne Lestringant's tenor?"
+    },
+    "OAnswer": {
+      "object_label": "tenor",
+      "context": "Étienne Lestringant's voice type is tenor.",
+      "objectCQ": "What is Étienne Lestringant's voice type?"
+    }
+  },
+  {
+    "claim_id": "Q63974189$f9467668-acc5-4e16-9837-acfb908d8b0d",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "voice type",
+      "context": "Gerd Wolf's voice type is bass.",
+      "propertyCQ": "What is Gerd Wolf's name?"
+    },
+    "OAnswer": {
+      "object_label": "bass",
+      "context": "Gerd Wolf's voice type is bass.",
+      "objectCQ": "What is Gerd Wolf's voice type?"
+    }
+  },
+  {
+    "claim_id": "Q4133133$71D15987-6D10-4BF1-A793-E78F82A8DF12",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "voice type",
+      "context": "David Gamrekeli's voice type is baritone.",
+      "propertyCQ": "What is David Gamrekeli's?"
+    },
+    "OAnswer": {
+      "object_label": "baritone",
+      "context": "David Gamrekeli's voice type is baritone.",
+      "objectCQ": "What is David Gamrekeli's voice type?"
+    }
+  },
+  {
+    "claim_id": "Q483175$7996D33B-BE7D-4D7C-94FD-96250404D44A",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "voice type",
+      "context": "Kangin's voice type is baritone.",
+      "propertyCQ": "What is Kangin's name?"
+    },
+    "OAnswer": {
+      "object_label": "baritone",
+      "context": "Kangin's voice type is baritone.",
+      "objectCQ": "What is Kangin's voice type?"
+    }
+  },
+  {
+    "claim_id": "Q23215$7cc968f3-4648-dc61-8a4d-b9fdec39c33e",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "voice type",
+      "context": "Adele's voice type is mezzo-soprano.",
+      "propertyCQ": "What is Adele's?"
+    },
+    "OAnswer": {
+      "object_label": "mezzo-soprano",
+      "context": "Adele's voice type is mezzo-soprano.",
+      "objectCQ": "What is Adele's voice type?"
+    }
+  },
+  {
+    "claim_id": "Q11522104$8684E4C7-1C66-4511-958E-4F66D8DF3716",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "blood type",
+      "context": "Kiyoshi Sugimoto has the blood type B.",
+      "propertyCQ": "What type of blood does Kiyoshi Sugimoto have?"
+    },
+    "OAnswer": {
+      "object_label": "B",
+      "context": "Kiyoshi Sugimoto has the blood type B.",
+      "objectCQ": "What type of blood does Kiyoshi Sugimoto have?"
+    }
+  },
+  {
+    "claim_id": "Q18700886$86D49388-6E83-4665-BEBB-FC0DA8A8C180",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "blood type",
+      "context": "Atsushi Ogawa has the blood type A.",
+      "propertyCQ": "What type of blood does Atsushi Ogawa have?"
+    },
+    "OAnswer": {
+      "object_label": "A",
+      "context": "Atsushi Ogawa has the blood type A.",
+      "objectCQ": "What type of blood does Atsushi Ogawa have?"
+    }
+  },
+  {
+    "claim_id": "Q11641877$16BED312-B539-4CE6-A3A2-84849F2B4A3E",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "blood type",
+      "context": "Ikuko Tatsu has the blood type A.",
+      "propertyCQ": "What type of blood does Tatsu have?"
+    },
+    "OAnswer": {
+      "object_label": "A",
+      "context": "Ikuko Tatsu has the blood type A.",
+      "objectCQ": "What type of blood does Tatsu have?"
+    }
+  },
+  {
+    "claim_id": "Q11401510$2049D116-DFBD-4BAF-A41C-FC99F3B9DE22",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "blood type",
+      "context": "Nishiki Kitaoka has the blood type O.",
+      "propertyCQ": "What is Nishiki Kitaoka's blood type?"
+    },
+    "OAnswer": {
+      "object_label": "O",
+      "context": "Nishiki Kitaoka has the blood type O.",
+      "objectCQ": "What blood type does Kitaoka have?"
+    }
+  },
+  {
+    "claim_id": "Q11486519$917062ED-6B18-4DF0-8E76-CF77360D597D",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "blood type",
+      "context": "Toshihiro Nobuyama's blood type is O.",
+      "propertyCQ": "What is Toshihiro Nobuyama's blood type?"
+    },
+    "OAnswer": {
+      "object_label": "O",
+      "context": "Toshihiro Nobuyama's blood type is O.",
+      "objectCQ": "What is Toshihiro Nobuyama's blood type?"
+    }
+  },
+  {
+    "claim_id": "Q623660$639FC706-458C-45AC-8FF8-227F331F68D7",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "blood type",
+      "context": "Wang Ji-hye has the blood type O.",
+      "propertyCQ": "What is Wang Ji-hye's blood type?"
+    },
+    "OAnswer": {
+      "object_label": "O",
+      "context": "Wang Ji-hye has the blood type O.",
+      "objectCQ": "What blood type does Wang Ji-hye have?"
+    }
+  },
+  {
+    "claim_id": "Q2827497$3D407E61-1439-43A9-AA4B-B67D52DA1186",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "manner of death",
+      "context": "Ahmed Bahaeddine Attia died of natural causes.",
+      "propertyCQ": "What was the cause of death?"
+    },
+    "OAnswer": {
+      "object_label": "natural causes",
+      "context": "Ahmed Bahaeddine Attia died of natural causes.",
+      "objectCQ": "What was the cause of death of Attia?"
+    }
+  },
+  {
+    "claim_id": "Q3848075$9EEEE799-13CA-4C82-943A-DBD5CB1B5D2F",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "manner of death",
+      "context": "Marina Ripa di Meana died of natural causes.",
+      "propertyCQ": "What was the cause of Marina Ripa di Meana's death?"
+    },
+    "OAnswer": {
+      "object_label": "natural causes",
+      "context": "Marina Ripa di Meana died of natural causes.",
+      "objectCQ": "What caused Marina Ripa di Meana to die?"
+    }
+  },
+  {
+    "claim_id": "Q213811$5A18B168-4D8B-45EF-A44B-946469A51D0A",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "manner of death",
+      "context": "Walter Reisch died of natural causes.",
+      "propertyCQ": "What was Walter Reisch's cause of death?"
+    },
+    "OAnswer": {
+      "object_label": "natural causes",
+      "context": "Walter Reisch died of natural causes.",
+      "objectCQ": "What caused Walter Reisch's death?"
+    }
+  },
+  {
+    "claim_id": "Q14755026$B829EC0B-7CE5-4EFC-93C4-E224B77F14E0",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "manner of death",
+      "context": "Murray Gershenz died of natural causes.",
+      "propertyCQ": "What was the cause of death of Murray Gershenz?"
+    },
+    "OAnswer": {
+      "object_label": "natural causes",
+      "context": "Murray Gershenz died of natural causes.",
+      "objectCQ": "What was the cause of death of Murray Gershenz?"
+    }
+  },
+  {
+    "claim_id": "Q7366026$422C80F7-2AB4-4C1D-823E-B6065C890778",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "manner of death",
+      "context": "Ronnie Wells died of natural causes.",
+      "propertyCQ": "What was Ronnie Wells' cause of death?"
+    },
+    "OAnswer": {
+      "object_label": "natural causes",
+      "context": "Ronnie Wells died of natural causes.",
+      "objectCQ": "What caused Ronnie Wells to die?"
+    }
+  },
+  {
+    "claim_id": "Q102341$152DE8E8-FA6E-4DB7-992F-39002D922E3C",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "manner of death",
+      "context": "Farrah Fawcett died of natural causes.",
+      "propertyCQ": "What was the cause of death of Farrah Fawcett?"
+    },
+    "OAnswer": {
+      "object_label": "natural causes",
+      "context": "Farrah Fawcett died of natural causes.",
+      "objectCQ": "What caused Farrah Fawcett to die?"
+    }
+  },
+  {
+    "claim_id": "Q4147764$FB8496FC-99E6-4F3B-A6BC-BE3963ABDD14",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "pseudonym",
+      "context": "Rosario Granados' pseudonym is Charito Granados.",
+      "propertyCQ": "What is Charito Granados's real name?"
+    },
+    "OAnswer": {
+      "object_label": "Charito Granados",
+      "context": "Rosario Granados' pseudonym is Charito Granados.",
+      "objectCQ": "What is Rosario Granados' pseudonym?"
+    }
+  },
+  {
+    "claim_id": "Q12392920$7c03f987-4052-ecd2-a563-e23932429663",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "pseudonym",
+      "context": "Maret is a pseudonym for Maret.",
+      "propertyCQ": "What is Maret?"
+    },
+    "OAnswer": {
+      "object_label": "Maret",
+      "context": "Maret is a pseudonym for Maret.",
+      "objectCQ": "What is Maret a pseudonym for?"
+    }
+  },
+  {
+    "claim_id": "Q27953047$CFFF49C3-7CE9-47DF-A8B3-26F3A48E9C6A",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "pseudonym",
+      "context": "Samuel is the pseudonym for Arredondo Samuel.",
+      "propertyCQ": "What is Samuel?"
+    },
+    "OAnswer": {
+      "object_label": "Samuel",
+      "context": "Samuel is the pseudonym for Arredondo Samuel.",
+      "objectCQ": "What is the pseudonym for Arredondo Samuel?"
+    }
+  },
+  {
+    "claim_id": "Q7542$11df587f-4856-6cdd-a4c4-6ef255e8e866",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "pseudonym",
+      "context": "Joey Coco is the pseudonym of Prince.",
+      "propertyCQ": "What is Joey Coco's nickname?"
+    },
+    "OAnswer": {
+      "object_label": "Joey Coco",
+      "context": "Joey Coco is the pseudonym of Prince.",
+      "objectCQ": "What is the pseudonym of Prince?"
+    }
+  },
+  {
+    "claim_id": "Q326819$f3ce5561-4eb1-41b4-3b5a-e7d3414b09bd",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "pseudonym",
+      "context": "The pseudonym of Aşık Mahzuni Şerif is Aşık Mahzuni Şerif.",
+      "propertyCQ": "What is Aş<unk>k Mahzuni <unk>erif?"
+    },
+    "OAnswer": {
+      "object_label": "Aşık Mahzuni Şerif",
+      "context": "The pseudonym of Aşık Mahzuni Şerif is Aşık Mahzuni Şerif.",
+      "objectCQ": "What is the pseudonym of Aş<unk>k Mahzuni <unk>erif?"
+    }
+  },
+  {
+    "claim_id": "Q66624102$a1adda6d-4d22-9df6-aeb5-acc5eda7ad0a",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "pseudonym",
+      "context": "Sufiyan Malik is a pseudonym for Sufiyan Malik.",
+      "propertyCQ": "What is Sufiyan Malik's real name?"
+    },
+    "OAnswer": {
+      "object_label": "Sufiyan Malik",
+      "context": "Sufiyan Malik is a pseudonym for Sufiyan Malik.",
+      "objectCQ": "What is the pseudonym for Sufiyan Malik?"
+    }
+  },
+  {
+    "claim_id": "Q467519$FB331A75-27F8-42E2-B92E-12FA6308D424",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "nominated for",
+      "context": "Randy Travis was nominated for the Grammy Award for Best Southern, Country or Bluegrass Gospel Album.",
+      "propertyCQ": "What Grammy award did Randy Travis win?"
+    },
+    "OAnswer": {
+      "object_label": "Grammy Award for Best Southern, Country or Bluegrass Gospel Album",
+      "context": "Randy Travis was nominated for the Grammy Award for Best Southern, Country or Bluegrass Gospel Album.",
+      "objectCQ": "What award did Randy Travis win?"
+    }
+  },
+  {
+    "claim_id": "Q1054843$FBC9913E-EED2-48EE-BFD1-6E1D9FF2920E",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "nominated for",
+      "context": "Micaela Ramazzotti was nominated for the European Film Award – People's Choice Award for Best European Film.",
+      "propertyCQ": "What award did Micaela Ramazzotti receive?"
+    },
+    "OAnswer": {
+      "object_label": "European Film Award – People's Choice Award for Best European Film",
+      "context": "Micaela Ramazzotti was nominated for the European Film Award – People's Choice Award for Best European Film.",
+      "objectCQ": "What award did Micaela Ramazzotti win?"
+    }
+  },
+  {
+    "claim_id": "Q2335956$F58ED450-7C7E-405E-805B-BDB525E0462E",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "nominated for",
+      "context": "Stefan Arsenijević was nominated for the European Film Award for Best Short Film.",
+      "propertyCQ": "What award did Stefan Arsenijevi<unk> receive?"
+    },
+    "OAnswer": {
+      "object_label": "European Film Award for Best Short Film",
+      "context": "Stefan Arsenijević was nominated for the European Film Award for Best Short Film.",
+      "objectCQ": "What award did Stefan Arsenijevi<unk> receive?"
+    }
+  },
+  {
+    "claim_id": "Q178882$a0b99147-40bf-f2a0-5065-88c61d6132ac",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "nominated for",
+      "context": "Kristen Bell was nominated for the Teen Choice Award for Choice TV Actress Drama.",
+      "propertyCQ": "What award did Kristen Bell receive?"
+    },
+    "OAnswer": {
+      "object_label": "Teen Choice Award for Choice TV Actress Drama",
+      "context": "Kristen Bell was nominated for the Teen Choice Award for Choice TV Actress Drama.",
+      "objectCQ": "What award did Kristen Bell win?"
+    }
+  },
+  {
+    "claim_id": "Q16472$A357ABC7-8C84-4214-8516-B3FCA5B5C01D",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "nominated for",
+      "context": "Robert Mitchum was nominated for the Academy Award for Best Supporting Actor.",
+      "propertyCQ": "What Academy Award was Mitchum nominated for?"
+    },
+    "OAnswer": {
+      "object_label": "Academy Award for Best Supporting Actor",
+      "context": "Robert Mitchum was nominated for the Academy Award for Best Supporting Actor.",
+      "objectCQ": "What award did Mitchum win?"
+    }
+  },
+  {
+    "claim_id": "Q3560737$F0741C30-3DCD-4CA2-A39C-4B1C382D3A30",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "nominated for",
+      "context": "Virginie Efira was nominated for the European Film Award – People's Choice Award for Best European Film.",
+      "propertyCQ": "What award did Efira receive?"
+    },
+    "OAnswer": {
+      "object_label": "European Film Award – People's Choice Award for Best European Film",
+      "context": "Virginie Efira was nominated for the European Film Award – People's Choice Award for Best European Film.",
+      "objectCQ": "What award did Efira win?"
+    }
+  },
+  {
+    "claim_id": "Q20512735$7111F02E-83A1-466B-A587-C3B91CDDF175",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "ethnic group",
+      "context": "Էլյա Ղամբարյան is an ethnic group of Armenians.",
+      "propertyCQ": "What is <unk> <unk>?"
+    },
+    "OAnswer": {
+      "object_label": "Armenians",
+      "context": "Էլյա Ղամբարյան is an ethnic group of Armenians.",
+      "objectCQ": "What ethnic group is <unk> <unk>?"
+    }
+  },
+  {
+    "claim_id": "Q11632636$E90A600B-D655-4672-8C8A-DEB2A01EF067",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "ethnic group",
+      "context": "Ai Taniuchi is a food found in Japan.",
+      "propertyCQ": "What is the main group of people that eats Ai Taniuchi?"
+    },
+    "OAnswer": {
+      "object_label": "Japanese people",
+      "context": "Ai Taniuchi is a food found in Japan.",
+      "objectCQ": "What is the origin of Ai Taniuchi?"
+    }
+  },
+  {
+    "claim_id": "Q20066167$0e5763a2-4225-fd15-bc0b-fb4b4abfcb13",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "ethnic group",
+      "context": "Roman Vasylyk is an ethnic group of Ukrainians.",
+      "propertyCQ": "What is Roman Vasylyk?"
+    },
+    "OAnswer": {
+      "object_label": "Ukrainians",
+      "context": "Roman Vasylyk is an ethnic group of Ukrainians.",
+      "objectCQ": "Roman Vasylyk is an ethnic group of what?"
+    }
+  },
+  {
+    "claim_id": "Q840652$3d515217-4c53-6ba1-466b-f70d51465379",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "ethnic group",
+      "context": "Omar Tiberiades is part of the ethnic group of the Mazanderani people.",
+      "propertyCQ": "What is Omar Tiberiades a part of?"
+    },
+    "OAnswer": {
+      "object_label": "Mazanderani people",
+      "context": "Omar Tiberiades is part of the ethnic group of the Mazanderani people.",
+      "objectCQ": "What ethnic group is Omar Tiberiades a part of?"
+    }
+  },
+  {
+    "claim_id": "Q2275201$eda9b970-446a-a5e5-20c9-84a20ca7a062",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "ethnic group",
+      "context": "Margherita Durastanti is an Italian.",
+      "propertyCQ": "What is Margherita Durastanti?"
+    },
+    "OAnswer": {
+      "object_label": "Italians",
+      "context": "Margherita Durastanti is an Italian.",
+      "objectCQ": "What is Margherita Durastanti's nationality?"
+    }
+  },
+  {
+    "claim_id": "Q104553452$8f474714-4751-e647-1873-c26c8b66b305",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "ethnic group",
+      "context": "The indigenous peoples of the United States are an ethnic group of Tomo.",
+      "propertyCQ": "What are the indigenous peoples of the United States an?"
+    },
+    "OAnswer": {
+      "object_label": "indigenous peoples of the United States",
+      "context": "The indigenous peoples of the United States are an ethnic group of Tomo.",
+      "objectCQ": "What is an ethnic group of Tomo?"
+    }
+  },
+  {
+    "claim_id": "Q56242367$7c3c3088-4b07-d79a-912c-04705c326428",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "residence",
+      "context": "Thomas Nabais lives in Villard-de-Lans.",
+      "propertyCQ": "Where does Thomas Nabais live?"
+    },
+    "OAnswer": {
+      "object_label": "Villard-de-Lans",
+      "context": "Thomas Nabais lives in Villard-de-Lans.",
+      "objectCQ": "Where does Thomas Nabais live?"
+    }
+  },
+  {
+    "claim_id": "Q28739932$5998b609-41ce-4a92-1fd3-a9ddfaadfdd9",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "residence",
+      "context": "Eduardo Sarabia lives in Guadalajara.",
+      "propertyCQ": "Where does Eduardo Sarabia live?"
+    },
+    "OAnswer": {
+      "object_label": "Guadalajara",
+      "context": "Eduardo Sarabia lives in Guadalajara.",
+      "objectCQ": "Where does Eduardo Sarabia live?"
+    }
+  },
+  {
+    "claim_id": "Q21465928$48618add-4485-8e8e-055e-4dd412fb767b",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "residence",
+      "context": "William Matthison lives in Neithrop.",
+      "propertyCQ": "What is the name of William Matthison's residence?"
+    },
+    "OAnswer": {
+      "object_label": "Neithrop",
+      "context": "William Matthison lives in Neithrop.",
+      "objectCQ": "Where does William Matthison live?"
+    }
+  },
+  {
+    "claim_id": "Q55078932$78ca911f-4506-900f-3fa6-686efe81d71c",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "residence",
+      "context": "José Nicolau y Bartomeu lives in Paris.",
+      "propertyCQ": "Where does José Nicolau y Bartomeu live?"
+    },
+    "OAnswer": {
+      "object_label": "Paris",
+      "context": "José Nicolau y Bartomeu lives in Paris.",
+      "objectCQ": "Where does José Nicolau y Bartomeu live?"
+    }
+  },
+  {
+    "claim_id": "Q80966$6db2b65a-4545-aa08-e6d4-a9ea2fbeb30d",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "residence",
+      "context": "Cate Blanchett lives in Crowborough.",
+      "propertyCQ": "Where does Cate live?"
+    },
+    "OAnswer": {
+      "object_label": "Crowborough",
+      "context": "Cate Blanchett lives in Crowborough.",
+      "objectCQ": "Where does Cate Blanchett live?"
+    }
+  },
+  {
+    "claim_id": "Q45311745$d4bc98fd-45ff-1fad-be3f-31d430590335",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "residence",
+      "context": "Josely Carvalho lives in New York City.",
+      "propertyCQ": "Where does Josely Carvalho live?"
+    },
+    "OAnswer": {
+      "object_label": "New York City",
+      "context": "Josely Carvalho lives in New York City.",
+      "objectCQ": "Where does Josely Carvalho live?"
+    }
+  },
+  {
+    "claim_id": "Q322427$97571792-EDA7-4AF5-8E46-7C0A826773EA",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "student of",
+      "context": "Moritz Moszkowski is a student of Eduard Franck.",
+      "propertyCQ": "What is Moritz Moszkowski's profession?"
+    },
+    "OAnswer": {
+      "object_label": "Eduard Franck",
+      "context": "Moritz Moszkowski is a student of Eduard Franck.",
+      "objectCQ": "Moritz Moszkowski studied under whom?"
+    }
+  },
+  {
+    "claim_id": "Q4285443$22887320-4124-5fcc-d1e5-e0ca91f72ea6",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "student of",
+      "context": "Vasily Mate is a student of François Pannemaker.",
+      "propertyCQ": "What is Vasily Mate's profession?"
+    },
+    "OAnswer": {
+      "object_label": "François Pannemaker",
+      "context": "Vasily Mate is a student of François Pannemaker.",
+      "objectCQ": "Who is Vasily Mate a student of?"
+    }
+  },
+  {
+    "claim_id": "Q95305246$FA0EFFCE-18A3-4941-9874-394C1D259298",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "student of",
+      "context": "Karl Müller was a student of Ludwig von Löfftz.",
+      "propertyCQ": "What was Karl Müller's profession?"
+    },
+    "OAnswer": {
+      "object_label": "Ludwig von Löfftz",
+      "context": "Karl Müller was a student of Ludwig von Löfftz.",
+      "objectCQ": "Karl Müller studied under whom?"
+    }
+  },
+  {
+    "claim_id": "Q15429555$0F6F081E-DC55-4556-8172-81FF6B3D0980",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "student of",
+      "context": "Marc Bonnehée is a student of Louis Marie Paulin, Benoist Alphonse Révial.",
+      "propertyCQ": "What is Marc Bonnehée's profession?"
+    },
+    "OAnswer": {
+      "object_label": "Louis Marie Paulin Benoist Alphonse Révial",
+      "context": "Marc Bonnehée is a student of Louis Marie Paulin, Benoist Alphonse Révial.",
+      "objectCQ": "Who is Marc Bonnehée a student of?"
+    }
+  },
+  {
+    "claim_id": "Q3218863$1e8b1d8e-49d6-f686-f758-7a5c0241484f",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "student of",
+      "context": "Laurence Boulay is a student of Alexis Roland-Manuel.",
+      "propertyCQ": "What is Laurence Boulay's profession?"
+    },
+    "OAnswer": {
+      "object_label": "Alexis Roland-Manuel",
+      "context": "Laurence Boulay is a student of Alexis Roland-Manuel.",
+      "objectCQ": "Who is Laurence Boulay a student of?"
+    }
+  },
+  {
+    "claim_id": "Q1247955$8f6f9111-42cd-1535-e218-a2b49faf653c",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "student of",
+      "context": "Kathleen Lockhart Manning is a student of Moritz Moszkowski.",
+      "propertyCQ": "What is Kathleen Lockhart Manning's profession?"
+    },
+    "OAnswer": {
+      "object_label": "Moritz Moszkowski",
+      "context": "Kathleen Lockhart Manning is a student of Moritz Moszkowski.",
+      "objectCQ": "Who is Kathleen Lockhart Manning a student of?"
+    }
+  },
+  {
+    "claim_id": "Q588124$AC6B140C-577D-4361-B229-B803A4EEE963",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "cause of death",
+      "context": "Anton Ažbe died of esophageal cancer.",
+      "propertyCQ": "What was Anton A<unk>be's cause of death?"
+    },
+    "OAnswer": {
+      "object_label": "esophageal cancer",
+      "context": "Anton Ažbe died of esophageal cancer.",
+      "objectCQ": "What was Anton A<unk>be's cause of death?"
+    }
+  },
+  {
+    "claim_id": "Q29342944$1b8e2bd1-5c0d-4f64-bd7c-4b324ab60891",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "cause of death",
+      "context": "Alexey Zbruev, engraver died from cholera.",
+      "propertyCQ": "What was the cause of Alexey Zbruev's death?"
+    },
+    "OAnswer": {
+      "object_label": "cholera",
+      "context": "Alexey Zbruev, engraver died from cholera.",
+      "objectCQ": "What disease did Zbruev die from?"
+    }
+  },
+  {
+    "claim_id": "Q310896$D8133DC7-B693-450A-9EC4-9158C3B40B13",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "cause of death",
+      "context": "Niko Pirosmani died of malnutrition.",
+      "propertyCQ": "What was Niko Pirosmani's cause of death?"
+    },
+    "OAnswer": {
+      "object_label": "malnutrition",
+      "context": "Niko Pirosmani died of malnutrition.",
+      "objectCQ": "What was the cause of death of Niko Pirosmani?"
+    }
+  },
+  {
+    "claim_id": "Q78585$954cc700-d444-40e7-adff-18da224b525d",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "cause of death",
+      "context": "Leo Fall's cause of death is cancer.",
+      "propertyCQ": "What is Leo Fall's cause of death?"
+    },
+    "OAnswer": {
+      "object_label": "cancer",
+      "context": "Leo Fall's cause of death is cancer.",
+      "objectCQ": "What is Leo Fall's cause of death?"
+    }
+  },
+  {
+    "claim_id": "Q435441$858ec888-3953-438a-b42f-14003f96b103",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "cause of death",
+      "context": "John Stuart died from a myocardial infarction.",
+      "propertyCQ": "What was John Stuart's cause of death?"
+    },
+    "OAnswer": {
+      "object_label": "myocardial infarction",
+      "context": "John Stuart died from a myocardial infarction.",
+      "objectCQ": "What caused John Stuart's death?"
+    }
+  },
+  {
+    "claim_id": "Q7966232$9b952565-4b64-4f0b-8e96-86e5c1df4e88",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "cause of death",
+      "context": "Walter Surovy died of a disease.",
+      "propertyCQ": "What was the cause of death of Walter Surovy?"
+    },
+    "OAnswer": {
+      "object_label": "disease",
+      "context": "Walter Surovy died of a disease.",
+      "objectCQ": "What caused Walter Surovy's death?"
+    }
+  },
+  {
+    "claim_id": "Q15996171$bb831b0f-9497-4666-a43e-1ec073c790e0",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "father",
+      "context": "Egerton Swartwout's father is Satterlee Swartwout.",
+      "propertyCQ": "What is Satterlee Swartwout's occupation?"
+    },
+    "OAnswer": {
+      "object_label": "Satterlee Swartwout",
+      "context": "Egerton Swartwout's father is Satterlee Swartwout.",
+      "objectCQ": "Who is Egerton Swartwout's father?"
+    }
+  },
+  {
+    "claim_id": "Q56491406$a646d791-4455-88ce-7c2d-5d75c9e0ab4c",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "father",
+      "context": "Wenzel von Paar's father was Wenzel Johann Joseph Paar.",
+      "propertyCQ": "What was Wenzel von Paar's occupation?"
+    },
+    "OAnswer": {
+      "object_label": "Wenzel Johann Joseph Paar",
+      "context": "Wenzel von Paar's father was Wenzel Johann Joseph Paar.",
+      "objectCQ": "Who was Wenzel von Paar's father?"
+    }
+  },
+  {
+    "claim_id": "Q721741$af5a6f28-4670-7e8a-5505-bd2d40c144e0",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "father",
+      "context": "Bjørn Bjørnson's father is Bjørnstjerne Bjørnson.",
+      "propertyCQ": "What is Bj<unk>rn Bj<unk>rnson's name?"
+    },
+    "OAnswer": {
+      "object_label": "Bjørnstjerne Bjørnson",
+      "context": "Bjørn Bjørnson's father is Bjørnstjerne Bjørnson.",
+      "objectCQ": "Who is Bj<unk>rn Bj<unk>rnson's father?"
+    }
+  },
+  {
+    "claim_id": "Q61930785$90794ef8-4a52-4832-afde-1b769f135eca",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "father",
+      "context": "Elias J Jacoby is the father of Helen Eaton Jacoby.",
+      "propertyCQ": "What is Elias J Jacoby's occupation?"
+    },
+    "OAnswer": {
+      "object_label": "Elias J. Jacoby",
+      "context": "Elias J Jacoby is the father of Helen Eaton Jacoby.",
+      "objectCQ": "Who is the father of Helen Eaton Jacoby?"
+    }
+  },
+  {
+    "claim_id": "Q76242063$FDBFC655-2F94-476A-A4AE-3BA0CCCAB3FF",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "father",
+      "context": "Roy Beddington's father was Reginald Beddington.",
+      "propertyCQ": "What was Roy's father's name?"
+    },
+    "OAnswer": {
+      "object_label": "Reginald Beddington",
+      "context": "Roy Beddington's father was Reginald Beddington.",
+      "objectCQ": "Roy Beddington's father was who?"
+    }
+  },
+  {
+    "claim_id": "Q599657$6B543306-592F-4A0A-B436-D692D2FCBB5B",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "father",
+      "context": "Douglas Trumbull's father is Donald Trumbull.",
+      "propertyCQ": "What is Donald Trumbull's occupation?"
+    },
+    "OAnswer": {
+      "object_label": "Donald Trumbull",
+      "context": "Douglas Trumbull's father is Donald Trumbull.",
+      "objectCQ": "Who is Douglas Trumbull's father?"
+    }
+  },
+  {
+    "claim_id": "Q716099$dc16a5e9-8cc7-4bba-8c3e-5243f16eeb7f",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "record label",
+      "context": "Hopsin is a member of the record label 300 Entertainment.",
+      "propertyCQ": "What is 300 Entertainment?"
+    },
+    "OAnswer": {
+      "object_label": "300 Entertainment",
+      "context": "Hopsin is a member of the record label 300 Entertainment.",
+      "objectCQ": "What record label is Hopsin a member of?"
+    }
+  },
+  {
+    "claim_id": "Q3298874$1E7818E1-DC6C-4BE2-A450-9CB4EAD0E6E1",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "record label",
+      "context": "Mathieu Sourisseau is the owner of the record label Buda Musique.",
+      "propertyCQ": "What is Buda Musique?"
+    },
+    "OAnswer": {
+      "object_label": "Buda Musique",
+      "context": "Mathieu Sourisseau is the owner of the record label Buda Musique.",
+      "objectCQ": "What record label does Mathieu Sourisseau own?"
+    }
+  },
+  {
+    "claim_id": "Q1899982$b23e18a3-9dfd-4aff-884f-c20412a435cb",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "record label",
+      "context": "Mark Chesnutt has a record label called Universal Music Group Nashville.",
+      "propertyCQ": "What is Universal Music Group Nashville?"
+    },
+    "OAnswer": {
+      "object_label": "Universal Music Group Nashville",
+      "context": "Mark Chesnutt has a record label called Universal Music Group Nashville.",
+      "objectCQ": "What is Mark Chesnutt's record label?"
+    }
+  },
+  {
+    "claim_id": "Q56461434$9E72F7C1-9224-4951-B26C-3F1ED52271C7",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "record label",
+      "context": "Sony Music is the record label for Emanero.",
+      "propertyCQ": "What is Sony Music?"
+    },
+    "OAnswer": {
+      "object_label": "Sony Music",
+      "context": "Sony Music is the record label for Emanero.",
+      "objectCQ": "What is the name of the record label for Emanero?"
+    }
+  },
+  {
+    "claim_id": "Q11232608$344D61CD-1B93-425E-80B1-56F7C5939F2A",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "record label",
+      "context": "Mabanua has a record label called origami PRODUCTIONS.",
+      "propertyCQ": "What is origami PRODUCTIONS?"
+    },
+    "OAnswer": {
+      "object_label": "origami PRODUCTIONS",
+      "context": "Mabanua has a record label called origami PRODUCTIONS.",
+      "objectCQ": "What is the name of Mabanua's record label?"
+    }
+  },
+  {
+    "claim_id": "Q3123661$92F3B7E7-285F-44F8-8373-BF0CAA0CD580",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "record label",
+      "context": "Gerald Toto is on the record label Warner Music Group.",
+      "propertyCQ": "What is Gerald Toto's job title?"
+    },
+    "OAnswer": {
+      "object_label": "Warner Music Group",
+      "context": "Gerald Toto is on the record label Warner Music Group.",
+      "objectCQ": "What record label is Gerald Toto on?"
+    }
+  },
+  {
+    "claim_id": "Q3109174$56355D52-F9CE-45CF-AB8E-B4E3C83E11C2",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "artist files at",
+      "context": "Richard Westall has artist files at the Frick Art Reference Library.",
+      "propertyCQ": "Where does Richard Westall have his art?"
+    },
+    "OAnswer": {
+      "object_label": "Frick Art Reference Library",
+      "context": "Richard Westall has artist files at the Frick Art Reference Library.",
+      "objectCQ": "Where are artist files located?"
+    }
+  },
+  {
+    "claim_id": "Q1284751$293E9B87-6437-4569-BCA6-EE821B17245E",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "artist files at",
+      "context": "Jacob Duck is in the Frick Art Reference Library.",
+      "propertyCQ": "Where is Jacob Duck located?"
+    },
+    "OAnswer": {
+      "object_label": "Frick Art Reference Library",
+      "context": "Jacob Duck is in the Frick Art Reference Library.",
+      "objectCQ": "Where is Jacob Duck located?"
+    }
+  },
+  {
+    "claim_id": "Q106396918$E515B9D9-C90F-43C8-90EE-1378763A07CD",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "artist files at",
+      "context": "Frederick C. Nightingale's artist files are at the Frick Art Reference Library.",
+      "propertyCQ": "Where are Frederick C. Nightingale's files located?"
+    },
+    "OAnswer": {
+      "object_label": "Frick Art Reference Library",
+      "context": "Frederick C. Nightingale's artist files are at the Frick Art Reference Library.",
+      "objectCQ": "Where are Frederick C. Nightingale's artist files located?"
+    }
+  },
+  {
+    "claim_id": "Q94635169$41F4B262-0BE6-4262-B86A-39BBC28A56D0",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "artist files at",
+      "context": "George Kachergis has artist files at the Frick Art Reference Library.",
+      "propertyCQ": "Where does George Kachergis have his art?"
+    },
+    "OAnswer": {
+      "object_label": "Frick Art Reference Library",
+      "context": "George Kachergis has artist files at the Frick Art Reference Library.",
+      "objectCQ": "Where are artist files located?"
+    }
+  },
+  {
+    "claim_id": "Q98674098$5E0F27BF-EDFF-42AB-84D8-DDDF37735043",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "artist files at",
+      "context": "El Mo Sara y Hernández has artist files at the Frick Art Reference Library.",
+      "propertyCQ": "Where is El Mo Sara y Hernández located?"
+    },
+    "OAnswer": {
+      "object_label": "Frick Art Reference Library",
+      "context": "El Mo Sara y Hernández has artist files at the Frick Art Reference Library.",
+      "objectCQ": "Where are artist files located?"
+    }
+  },
+  {
+    "claim_id": "Q466224$7355592F-5132-4B65-8AFF-72B506BB42E3",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "artist files at",
+      "context": "Félix Ziem has artist files at the Frick Art Reference Library.",
+      "propertyCQ": "Where does Félix Ziem have his art?"
+    },
+    "OAnswer": {
+      "object_label": "Frick Art Reference Library",
+      "context": "Félix Ziem has artist files at the Frick Art Reference Library.",
+      "objectCQ": "Where are artist files located?"
+    }
+  },
+  {
+    "claim_id": "Q297554$889A29B3-12B5-41BC-AAF9-E79C56FD5759",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "native language",
+      "context": "Ömür Arpacı's native language is Turkish.",
+      "propertyCQ": "What is <unk>mür Arpac<unk>'s language?"
+    },
+    "OAnswer": {
+      "object_label": "Turkish",
+      "context": "Ömür Arpacı's native language is Turkish.",
+      "objectCQ": "What is <unk>mür Arpac<unk>'s native language?"
+    }
+  },
+  {
+    "claim_id": "Q2914002$7CD90ECF-3F8E-4C48-A905-455C30D07FF1",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "native language",
+      "context": "Bulbul Ahmed's native language is Bengali.",
+      "propertyCQ": "What is Bulbul Ahmed's nationality?"
+    },
+    "OAnswer": {
+      "object_label": "Bengali",
+      "context": "Bulbul Ahmed's native language is Bengali.",
+      "objectCQ": "What is Bulbul Ahmed's native language?"
+    }
+  },
+  {
+    "claim_id": "Q965475$76d81c15-4c67-caa7-9cde-01580473fc8d",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "native language",
+      "context": "John Richardson's native language is English.",
+      "propertyCQ": "What is John Richardson's native language?"
+    },
+    "OAnswer": {
+      "object_label": "English",
+      "context": "John Richardson's native language is English.",
+      "objectCQ": "What is John Richardson's native language?"
+    }
+  },
+  {
+    "claim_id": "Q86445086$F7884BB1-ED09-4F97-A9E8-6E44FCD2A301",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "native language",
+      "context": "The native language of Ali Chouhad is Berber.",
+      "propertyCQ": "What is Ali Chouhad's language?"
+    },
+    "OAnswer": {
+      "object_label": "Berber languages",
+      "context": "The native language of Ali Chouhad is Berber.",
+      "objectCQ": "What is the native language of Ali Chouhad?"
+    }
+  },
+  {
+    "claim_id": "Q20195296$9445AA99-59D4-45E4-BF12-5A9BBD211D1B",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "native language",
+      "context": "Ahmet Sendil's native language is Turkish.",
+      "propertyCQ": "What is Ahmet Sendil's language?"
+    },
+    "OAnswer": {
+      "object_label": "Turkish",
+      "context": "Ahmet Sendil's native language is Turkish.",
+      "objectCQ": "What is Ahmet Sendil's native language?"
+    }
+  },
+  {
+    "claim_id": "Q624953$50B6BC4B-780E-417C-8EEA-4BB4835D7398",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "native language",
+      "context": "Lee Byung-hoon's native language is Korean.",
+      "propertyCQ": "What is Lee Byung-hoon's language?"
+    },
+    "OAnswer": {
+      "object_label": "Korean",
+      "context": "Lee Byung-hoon's native language is Korean.",
+      "objectCQ": "What is Lee Byung-hoon's native language?"
+    }
+  },
+  {
+    "claim_id": "Q4242264$376F55B7-8722-43A4-B8E3-0894D089B5E3",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "place of burial",
+      "context": "Крупп, Арон Яковлевич is the place of burial of Чыжоўскія могілкі.",
+      "propertyCQ": "What is <unk>ру<unk>, <unk>рон <unk>ковлеви<unk>?"
+    },
+    "OAnswer": {
+      "object_label": "Чыжоўскія могілкі",
+      "context": "Крупп, Арон Яковлевич is the place of burial of Чыжоўскія могілкі.",
+      "objectCQ": "What is the burial place of?"
+    }
+  },
+  {
+    "claim_id": "Q263569$5328F2DD-39E7-4271-B7E7-D1EB8092379F",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "place of burial",
+      "context": "Joseph Anton Koch was buried in Rome.",
+      "propertyCQ": "Where was Koch buried?"
+    },
+    "OAnswer": {
+      "object_label": "Rome",
+      "context": "Joseph Anton Koch was buried in Rome.",
+      "objectCQ": "Where was Koch buried?"
+    }
+  },
+  {
+    "claim_id": "Q17362191$fd9069c4-aa5c-4540-adaf-c8c4db65855c",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "place of burial",
+      "context": "Józef Korzeniowski was buried at Witomino Cemetary in Gdynia.",
+      "propertyCQ": "Where was Korzeniowski buried?"
+    },
+    "OAnswer": {
+      "object_label": "Witomino Cemetary in Gdynia",
+      "context": "Józef Korzeniowski was buried at Witomino Cemetary in Gdynia.",
+      "objectCQ": "Where was Korzeniowski buried?"
+    }
+  },
+  {
+    "claim_id": "Q55677799$c8cccb0a-4d50-5fda-03a4-3e67e842989a",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "place of burial",
+      "context": "Anton Amon's burial place is Vienna Central Cemetery.",
+      "propertyCQ": "Where is Anton Amon's burial?"
+    },
+    "OAnswer": {
+      "object_label": "Vienna Central Cemetery",
+      "context": "Anton Amon's burial place is Vienna Central Cemetery.",
+      "objectCQ": "Where is Anton Amon buried?"
+    }
+  },
+  {
+    "claim_id": "Q11686453$B32FEFE4-F9D6-4D79-8AEA-BBF3F15FD792",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "place of burial",
+      "context": "A.S. Procajłowicz is buried in Rakowicki Cemetery.",
+      "propertyCQ": "Where is A.S. Procaj<unk>owicz buried?"
+    },
+    "OAnswer": {
+      "object_label": "Rakowicki Cemetery",
+      "context": "A.S. Procajłowicz is buried in Rakowicki Cemetery.",
+      "objectCQ": "Where is Procaj<unk>owicz buried?"
+    }
+  },
+  {
+    "claim_id": "Q5822410$D882061D-B3F8-4D25-BFFD-145338EEC4F0",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "place of burial",
+      "context": "Manne Ihran is buried in the Uppsala old cemetery.",
+      "propertyCQ": "Where is Manne Ihran buried?"
+    },
+    "OAnswer": {
+      "object_label": "Uppsala old cemetery",
+      "context": "Manne Ihran is buried in the Uppsala old cemetery.",
+      "objectCQ": "Where is Manne Ihran buried?"
+    }
+  },
+  {
+    "claim_id": "Q7159501$9a43e93d-4ca8-6fce-c6bd-9bf72909b9fc",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "birth name",
+      "context": "Pedro Capó's birth name is Pedro Francisco Rodríguez Sosa.",
+      "propertyCQ": "What is Pedro Capo's first name?"
+    },
+    "OAnswer": {
+      "object_label": "Pedro Francisco Rodríguez Sosa",
+      "context": "Pedro Capó's birth name is Pedro Francisco Rodríguez Sosa.",
+      "objectCQ": "What is Pedro Capo's birth name?"
+    }
+  },
+  {
+    "claim_id": "Q606780$67c5d251-4a63-9897-822d-924971725e4d",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "birth name",
+      "context": "Sydney Chaplin's birth name is Sydney John Hill.",
+      "propertyCQ": "What is Sydney Chaplin's first name?"
+    },
+    "OAnswer": {
+      "object_label": "Sydney John Hill",
+      "context": "Sydney Chaplin's birth name is Sydney John Hill.",
+      "objectCQ": "What is Sydney Chaplin's birth name?"
+    }
+  },
+  {
+    "claim_id": "Q74513$aa0f1ab8-4e16-dc54-44a2-8393eba527f9",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "birth name",
+      "context": "Iyeoka Ivie Okoawo is the birth name of Iyeoka Okoawo.",
+      "propertyCQ": "What is Iyeoka Ivie Okoawo's birth name?"
+    },
+    "OAnswer": {
+      "object_label": "Iyeoka Ivie Okoawo",
+      "context": "Iyeoka Ivie Okoawo is the birth name of Iyeoka Okoawo.",
+      "objectCQ": "What is the birth name of Iyeoka Okoawo?"
+    }
+  },
+  {
+    "claim_id": "Q3092154$8aa8f23f-4d4e-5ecf-e037-76bdcbbdd359",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "birth name",
+      "context": "Miki Fujitani's birth name is 金谷 満紀子.",
+      "propertyCQ": "What is Miki Fujitani's first name?"
+    },
+    "OAnswer": {
+      "object_label": "金谷 満紀子",
+      "context": "Miki Fujitani's birth name is 金谷 満紀子.",
+      "objectCQ": "What is Miki Fujitani's birth name?"
+    }
+  },
+  {
+    "claim_id": "Q26198076$2e142b69-4066-6363-433f-2e47933c82d3",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "birth name",
+      "context": "Cristian Topan's birth name is Cristian.",
+      "propertyCQ": "What is Cristian Topan's first name?"
+    },
+    "OAnswer": {
+      "object_label": "Cristian",
+      "context": "Cristian Topan's birth name is Cristian.",
+      "objectCQ": "What is Topan's birth name?"
+    }
+  },
+  {
+    "claim_id": "Q939919$aa57db45-46ec-09fa-0289-739b03b35915",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "birth name",
+      "context": "José Leitão de Barros is the birth name of José Leitão de Barros.",
+      "propertyCQ": "What is José Leit<unk>o de Barros?"
+    },
+    "OAnswer": {
+      "object_label": "José Leitão de Barros",
+      "context": "José Leitão de Barros is the birth name of José Leitão de Barros.",
+      "objectCQ": "What is the birth name of José Leit<unk>o de Barros?"
+    }
+  },
+  {
+    "claim_id": "Q106473606$2ad5c129-4e3b-2ec0-235b-c6b5306b3c2b",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "field of work",
+      "context": "Enrico Cosentino's field of work is art.",
+      "propertyCQ": "What is Enrico Cosentino's field of work?"
+    },
+    "OAnswer": {
+      "object_label": "art",
+      "context": "Enrico Cosentino's field of work is art.",
+      "objectCQ": "What is Enrico Cosentino's field of work?"
+    }
+  },
+  {
+    "claim_id": "Q52614819$17C34FBC-052A-480A-B6C8-279A872AD7AC",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "field of work",
+      "context": "Tina Wolf performs in the performing arts.",
+      "propertyCQ": "What does Tina Wolf perform in?"
+    },
+    "OAnswer": {
+      "object_label": "performing arts",
+      "context": "Tina Wolf performs in the performing arts.",
+      "objectCQ": "What kind of arts does Tina Wolf perform?"
+    }
+  },
+  {
+    "claim_id": "Q3189510$40A47A72-98B7-44E3-B015-FA9381DDD90F",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "field of work",
+      "context": "Julien Gourdel's field of work is the art of sculpture.",
+      "propertyCQ": "What is Julien Gourdel's field of work?"
+    },
+    "OAnswer": {
+      "object_label": "art of sculpture",
+      "context": "Julien Gourdel's field of work is the art of sculpture.",
+      "objectCQ": "What is Julien Gourdel's field of work?"
+    }
+  },
+  {
+    "claim_id": "Q20861416$d849492c-425c-d068-7969-02b6318e82aa",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "field of work",
+      "context": "Willie Birch's field of work is the art of drawing.",
+      "propertyCQ": "What is the art of drawing?"
+    },
+    "OAnswer": {
+      "object_label": "art of drawing",
+      "context": "Willie Birch's field of work is the art of drawing.",
+      "objectCQ": "What is Willie Birch's field of work?"
+    }
+  },
+  {
+    "claim_id": "Q60758$D5F63927-F77B-4795-9966-4A5347697406",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "field of work",
+      "context": "Ludwig Borchardt's field of work is egyptology.",
+      "propertyCQ": "What is egyptology?"
+    },
+    "OAnswer": {
+      "object_label": "egyptology",
+      "context": "Ludwig Borchardt's field of work is egyptology.",
+      "objectCQ": "What is Ludwig Borchardt's field of work?"
+    }
+  },
+  {
+    "claim_id": "Q2863436$750AC67E-2487-4657-9C3E-335FEDA36A5E",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "field of work",
+      "context": "Arolde performs in the performing arts.",
+      "propertyCQ": "What does Arolde perform in?"
+    },
+    "OAnswer": {
+      "object_label": "performing arts",
+      "context": "Arolde performs in the performing arts.",
+      "objectCQ": "What kind of arts does Arolde perform?"
+    }
+  },
+  {
+    "claim_id": "Q11242561$a2204cea-4ee6-bf63-8982-9f70cb96049e",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "sibling",
+      "context": "Sayuki's sibling is Kaori Tsubaki.",
+      "propertyCQ": "What is Kaori Tsubaki's name?"
+    },
+    "OAnswer": {
+      "object_label": "Kaori Tsubaki",
+      "context": "Sayuki's sibling is Kaori Tsubaki.",
+      "objectCQ": "Who is Sayuki's sibling?"
+    }
+  },
+  {
+    "claim_id": "Q29460724$ab65915d-4c79-bf9e-d5a4-cbd5067b9fa4",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "sibling",
+      "context": "Petr Reidinger's sibling is Jiří Bilbo Reidinger.",
+      "propertyCQ": "What is Ji<unk> Bilbo Reidinger's occupation?"
+    },
+    "OAnswer": {
+      "object_label": "Jiří Bilbo Reidinger",
+      "context": "Petr Reidinger's sibling is Jiří Bilbo Reidinger.",
+      "objectCQ": "What is Petr Reidinger's sibling's name?"
+    }
+  },
+  {
+    "claim_id": "Q3875977$37320D71-8853-486B-A845-1E303A54656C",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "sibling",
+      "context": "Andrew Jarecki is the sibling of Nicholas Jarecki.",
+      "propertyCQ": "What is Andrew Jarecki's status?"
+    },
+    "OAnswer": {
+      "object_label": "Andrew Jarecki",
+      "context": "Andrew Jarecki is the sibling of Nicholas Jarecki.",
+      "objectCQ": "Who is the sibling of Nicholas Jarecki?"
+    }
+  },
+  {
+    "claim_id": "Q15913194$92007275-42bf-31a2-c919-44548d97603e",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "sibling",
+      "context": "Ouyang Nini's sibling is Ouyang Didi.",
+      "propertyCQ": "What is Ouyang Didi's name?"
+    },
+    "OAnswer": {
+      "object_label": "Ouyang Didi",
+      "context": "Ouyang Nini's sibling is Ouyang Didi.",
+      "objectCQ": "Who is Ouyang Nini's sibling?"
+    }
+  },
+  {
+    "claim_id": "Q105708607$31db62f9-45cd-3c3e-adc8-c640d47a4205",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "sibling",
+      "context": "Henrietta C. Scott's sibling is James Scott.",
+      "propertyCQ": "What is James Scott's occupation?"
+    },
+    "OAnswer": {
+      "object_label": "James Scott",
+      "context": "Henrietta C. Scott's sibling is James Scott.",
+      "objectCQ": "Who is Henrietta C. Scott's sibling?"
+    }
+  },
+  {
+    "claim_id": "Q240483$73112389-C5A0-401E-B2E8-8B2800F54CBA",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "sibling",
+      "context": "Henri Lehmann's sibling is Emil Lehmann.",
+      "propertyCQ": "What is Emil Lehmann's name?"
+    },
+    "OAnswer": {
+      "object_label": "Emil Lehmann",
+      "context": "Henri Lehmann's sibling is Emil Lehmann.",
+      "objectCQ": "Who is Henri Lehmann's sibling?"
+    }
+  },
+  {
+    "claim_id": "Q91342306$B9EE6C75-DAAA-471D-BED8-E293D543B772",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "notable work",
+      "context": "Henri Chanet's notable work is Portrait of Julia Kavanagh (1824-1877), Novelist.",
+      "propertyCQ": "What is the name of Henri Chanet's work?"
+    },
+    "OAnswer": {
+      "object_label": "Portrait of Julia Kavanagh (1824-1877), Novelist",
+      "context": "Henri Chanet's notable work is Portrait of Julia Kavanagh (1824-1877), Novelist.",
+      "objectCQ": "What is the name of Henri Chanet's work?"
+    }
+  },
+  {
+    "claim_id": "Q20683852$e9877077-49b6-e5b8-54ee-23802b684a04",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "notable work",
+      "context": "Hôtel de Cassini is a notable work by Jean-Jacques Arveuf-Fransquin.",
+      "propertyCQ": "What is Hôtel de Cassini?"
+    },
+    "OAnswer": {
+      "object_label": "Hôtel de Cassini",
+      "context": "Hôtel de Cassini is a notable work by Jean-Jacques Arveuf-Fransquin.",
+      "objectCQ": "What is the name of the notable work by Jean-Jacques Arveuf-Fransquin?"
+    }
+  },
+  {
+    "claim_id": "Q16944136$7d767027-472c-68c7-0466-11dd10f7f392",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "notable work",
+      "context": "Charles Harte wrote a notable work to Lionel Walter Rothschild.",
+      "propertyCQ": "What did Charles Harte write to Lionel Walter Rothschild?"
+    },
+    "OAnswer": {
+      "object_label": "Charles Harte letter to Lionel Walter Rothschild",
+      "context": "Charles Harte wrote a notable work to Lionel Walter Rothschild.",
+      "objectCQ": "What was the name of the letter written by Charles Harte?"
+    }
+  },
+  {
+    "claim_id": "Q467462$4FB045DC-9B9C-4359-85BA-78D34FF81E0D",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "notable work",
+      "context": "Opera per Torino is a notable work by Per Kirkeby.",
+      "propertyCQ": "What is Opera per Torino?"
+    },
+    "OAnswer": {
+      "object_label": "Opera per Torino",
+      "context": "Opera per Torino is a notable work by Per Kirkeby.",
+      "objectCQ": "What is the name of Per Kirkeby's work?"
+    }
+  },
+  {
+    "claim_id": "Q841889$CDEFE519-880D-4E82-BEA6-4C46A9467BBE",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "notable work",
+      "context": "Sukune Inugami's notable work was WIWI days.",
+      "propertyCQ": "What was Sukune Inugami's work on WIWI days?"
+    },
+    "OAnswer": {
+      "object_label": "WIWI days",
+      "context": "Sukune Inugami's notable work was WIWI days.",
+      "objectCQ": "What was Sukune Inugami's notable work called?"
+    }
+  },
+  {
+    "claim_id": "Q14392749$F8723372-D466-4BDB-8A43-BD648200EB60",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "notable work",
+      "context": "Tan Qixiang's notable work is the Historical Atlas of China.",
+      "propertyCQ": "What is the Historical Atlas of China?"
+    },
+    "OAnswer": {
+      "object_label": "Historical Atlas of China",
+      "context": "Tan Qixiang's notable work is the Historical Atlas of China.",
+      "objectCQ": "What is the name of Tan Qixiang's notable work?"
+    }
+  },
+  {
+    "claim_id": "Q13438861$D130929C-47ED-4D66-9880-84684CDDAAD7",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "child",
+      "context": "Bernard Mioen's child is Aimée Rodenbach-Mioen.",
+      "propertyCQ": "What is Aimée Rodenbach-Mioen's name?"
+    },
+    "OAnswer": {
+      "object_label": "Aimée Rodenbach-Mioen",
+      "context": "Bernard Mioen's child is Aimée Rodenbach-Mioen.",
+      "objectCQ": "What is the name of Bernard Mioen's child?"
+    }
+  },
+  {
+    "claim_id": "Q196560$CC4CF97A-37FD-403C-AAF1-8500B24B11B9",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "child",
+      "context": "Kelsey Grammer is a child of Mason Grammer.",
+      "propertyCQ": "What is Kelsey Grammer's occupation?"
+    },
+    "OAnswer": {
+      "object_label": "Mason Grammer",
+      "context": "Kelsey Grammer is a child of Mason Grammer.",
+      "objectCQ": "Who is Kelsey Grammer a child of?"
+    }
+  },
+  {
+    "claim_id": "Q5341401$F539E27D-35D3-4C9C-AC95-DE0C50BDD88F",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "child",
+      "context": "Edvin Tiemroth's child is Lene Tiemroth.",
+      "propertyCQ": "What is Lene Tiemroth's name?"
+    },
+    "OAnswer": {
+      "object_label": "Lene Tiemroth",
+      "context": "Edvin Tiemroth's child is Lene Tiemroth.",
+      "objectCQ": "What is the name of Edvin Tiemroth's child?"
+    }
+  },
+  {
+    "claim_id": "Q24529691$8e4b642e-4870-7fa0-d3a3-3c9473f76491",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "child",
+      "context": "Henry Parsons Riviere is the child of Daniel Valentine Riviere.",
+      "propertyCQ": "What is Henry Parsons Riviere's name?"
+    },
+    "OAnswer": {
+      "object_label": "Henry Parsons Riviere",
+      "context": "Henry Parsons Riviere is the child of Daniel Valentine Riviere.",
+      "objectCQ": "What is the name of the child of Daniel Valentine Riviere?"
+    }
+  },
+  {
+    "claim_id": "Q29549801$000d9723-4d8a-2579-39f9-c96c0756039e",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "child",
+      "context": "Arne Öberg's child is Sebastian Öberg.",
+      "propertyCQ": "What is Sebastian <unk>berg's name?"
+    },
+    "OAnswer": {
+      "object_label": "Sebastian Öberg",
+      "context": "Arne Öberg's child is Sebastian Öberg.",
+      "objectCQ": "What is Arne <unk>berg's child's name?"
+    }
+  },
+  {
+    "claim_id": "Q2279367$8F6F6C47-BBDE-4A5C-AA70-62D0B8B6CB11",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "child",
+      "context": "Ann Richards has a child called Mark Angelo.",
+      "propertyCQ": "What is Mark Angelo?"
+    },
+    "OAnswer": {
+      "object_label": "Mark Angelo",
+      "context": "Ann Richards has a child called Mark Angelo.",
+      "objectCQ": "What is the name of Ann Richards' child?"
+    }
+  },
+  {
+    "claim_id": "Q77092097$e0b41beb-4d53-3f5f-a7a0-bfd88271cc33",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "member of",
+      "context": "Karen M. Strom is a member of the American Astronomical Society.",
+      "propertyCQ": "What is Karen Strom's affiliation with?"
+    },
+    "OAnswer": {
+      "object_label": "American Astronomical Society",
+      "context": "Karen M. Strom is a member of the American Astronomical Society.",
+      "objectCQ": "What organization is Karen M. Strom a member of?"
+    }
+  },
+  {
+    "claim_id": "Q5819683$F87CF461-2441-4DB4-B419-F2114CE69A96",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "member of",
+      "context": "Eduardo Sacriste is a member of the National Academy of Fine Arts (Argentina).",
+      "propertyCQ": "What is Eduardo Sacriste's profession?"
+    },
+    "OAnswer": {
+      "object_label": "National Academy of Fine Arts (Argentina)",
+      "context": "Eduardo Sacriste is a member of the National Academy of Fine Arts (Argentina).",
+      "objectCQ": "What is Eduardo Sacriste a member of?"
+    }
+  },
+  {
+    "claim_id": "Q9008106$97e5a1ec-4ac4-7938-b88e-c0accb3bff40",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "member of",
+      "context": "Yoshiki Mizuno is a member of Ikimono-gakari.",
+      "propertyCQ": "What is Yoshiki Mizuno's affiliation with?"
+    },
+    "OAnswer": {
+      "object_label": "Ikimono-gakari",
+      "context": "Yoshiki Mizuno is a member of Ikimono-gakari.",
+      "objectCQ": "What group is Yoshiki Mizuno a member of?"
+    }
+  },
+  {
+    "claim_id": "Q80307601$59603586-49ff-62a3-978e-8c4c62d6c172",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "member of",
+      "context": "Henriette Delabarre-Henry is a member of the Union des femmes peintres et sculpteurs.",
+      "propertyCQ": "What is Henriette Delabarre-Henry's affiliation with?"
+    },
+    "OAnswer": {
+      "object_label": "Union des femmes peintres et sculpteurs",
+      "context": "Henriette Delabarre-Henry is a member of the Union des femmes peintres et sculpteurs.",
+      "objectCQ": "What is Henriette Delabarre-Henry a member of?"
+    }
+  },
+  {
+    "claim_id": "Q6639122$ec6d97d3-4816-794b-8052-8f00fb0f56ea",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "member of",
+      "context": "Elhanan Halpern is a member of קבוצת העשרה.",
+      "propertyCQ": "What is Elhanan Halpern's affiliation with?"
+    },
+    "OAnswer": {
+      "object_label": "קבוצת העשרה",
+      "context": "Elhanan Halpern is a member of קבוצת העשרה.",
+      "objectCQ": "What is Elhanan Halpern a member of?"
+    }
+  },
+  {
+    "claim_id": "Q48246$F6454928-2F01-4F8E-AEB9-072B5FB97659",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "member of",
+      "context": "Ernst Haeckel is a member of the Bavarian Academy of Sciences and Humanities.",
+      "propertyCQ": "What is Ernst Haeckel's profession?"
+    },
+    "OAnswer": {
+      "object_label": "Bavarian Academy of Sciences and Humanities",
+      "context": "Ernst Haeckel is a member of the Bavarian Academy of Sciences and Humanities.",
+      "objectCQ": "What is Ernst Haeckel a member of?"
+    }
+  },
+  {
+    "claim_id": "Q18458572$E28FB888-70D2-4EC7-B8D3-EC535231026D",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "name in kana",
+      "context": "Kazuhiko Mori's name in kana is もり かずひこ.",
+      "propertyCQ": "What is Kazuhiko Mori's name in kana?"
+    },
+    "OAnswer": {
+      "object_label": "もり かずひこ",
+      "context": "Kazuhiko Mori's name in kana is もり かずひこ.",
+      "objectCQ": "What is Kazuhiko Mori's name in kana?"
+    }
+  },
+  {
+    "claim_id": "Q571148$0FCBEBCA-4E1C-4E82-96C9-F4FBCC0D329E",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "name in kana",
+      "context": "Toshiko Fujita's name in kana is ふじた としこ.",
+      "propertyCQ": "What is Toshiko Fujita's name in kana?"
+    },
+    "OAnswer": {
+      "object_label": "ふじた としこ",
+      "context": "Toshiko Fujita's name in kana is ふじた としこ.",
+      "objectCQ": "What is Toshiko Fujita's name in kana?"
+    }
+  },
+  {
+    "claim_id": "Q11436964$2781A674-2CE6-47EE-838A-CE6C858A9232",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "name in kana",
+      "context": "Shōsuke Ōsawa's name in kana is おおさわ しょうすけ.",
+      "propertyCQ": "What is Sh<unk>suke <unk>sawa's name in kana?"
+    },
+    "OAnswer": {
+      "object_label": "おおさわ しょうすけ",
+      "context": "Shōsuke Ōsawa's name in kana is おおさわ しょうすけ.",
+      "objectCQ": "What is Sh<unk>suke <unk>sawa's name in kana?"
+    }
+  },
+  {
+    "claim_id": "Q11523130$D89AB818-04AB-4DC2-98BF-4C4D9BA6EA05",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "name in kana",
+      "context": "Akira Murayama's name in kana is\" むらやま あきら \".",
+      "propertyCQ": "What is Akira Murayama's name in kana?"
+    },
+    "OAnswer": {
+      "object_label": "むらやま あきら",
+      "context": "Akira Murayama's name in kana is\" むらやま あきら \".",
+      "objectCQ": "What is Murayama's name in kana?"
+    }
+  },
+  {
+    "claim_id": "Q27917710$91800cb5-4174-2041-49bd-4fa92846c578",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "name in kana",
+      "context": "Rin Suzukawa's name in kana is すずかわ りん.",
+      "propertyCQ": "What is Rin Suzukawa's name in kana?"
+    },
+    "OAnswer": {
+      "object_label": "すずかわ りん",
+      "context": "Rin Suzukawa's name in kana is すずかわ りん.",
+      "objectCQ": "What is Rin Suzukawa's name in kana?"
+    }
+  },
+  {
+    "claim_id": "Q11670115$5B0CE56F-3C95-4AFE-ADCB-8A65F454CA09",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "name in kana",
+      "context": "Jun Takagi's name in kana is たかぎ じゅん.",
+      "propertyCQ": "What is Jun Takagi's name in kana?"
+    },
+    "OAnswer": {
+      "object_label": "たかぎ じゅん",
+      "context": "Jun Takagi's name in kana is たかぎ じゅん.",
+      "objectCQ": "What is Jun Takagi's name in kana?"
+    }
+  },
+  {
+    "claim_id": "Q7509144$47068867-2B25-4D36-AE7C-CF150C2D874D",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "spouse",
+      "context": "Sidney Homer, Sr.'s spouse is Louise Homer.",
+      "propertyCQ": "What is Louise Homer's occupation?"
+    },
+    "OAnswer": {
+      "object_label": "Louise Homer",
+      "context": "Sidney Homer, Sr.'s spouse is Louise Homer.",
+      "objectCQ": "Who is Sidney Homer, Sr.'s spouse?"
+    }
+  },
+  {
+    "claim_id": "Q15880753$e310ae5f-415b-a34c-21f2-bf52214819bb",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "spouse",
+      "context": "Pieter de Goeje's spouse is Maria Geertruida Barbiers.",
+      "propertyCQ": "What is Maria Geertruida Barbiers?"
+    },
+    "OAnswer": {
+      "object_label": "Maria Geertruida Barbiers",
+      "context": "Pieter de Goeje's spouse is Maria Geertruida Barbiers.",
+      "objectCQ": "Who is Pieter de Goeje's spouse?"
+    }
+  },
+  {
+    "claim_id": "Q106092667$03b593af-400c-62c9-9793-2af948bfb544",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "spouse",
+      "context": "Jud Arthur's spouse is Taryn Fiebig.",
+      "propertyCQ": "What is Taryn Fiebig's occupation?"
+    },
+    "OAnswer": {
+      "object_label": "Taryn Fiebig",
+      "context": "Jud Arthur's spouse is Taryn Fiebig.",
+      "objectCQ": "Who is Jud Arthur's spouse?"
+    }
+  },
+  {
+    "claim_id": "Q1377165$9E1C6A86-CC37-413C-A9C6-CEC16EC132AA",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "spouse",
+      "context": "Vadym Meller's spouse is Nina Genke-Meller.",
+      "propertyCQ": "What is Nina Genke-Meller's occupation?"
+    },
+    "OAnswer": {
+      "object_label": "Nina Genke-Meller",
+      "context": "Vadym Meller's spouse is Nina Genke-Meller.",
+      "objectCQ": "Who is Vadym Meller's spouse?"
+    }
+  },
+  {
+    "claim_id": "Q6962690$FFCA37E5-33D8-40C1-A3B5-1CDB8694EC86",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "spouse",
+      "context": "Nancy Frangione's spouse is Christopher Rich.",
+      "propertyCQ": "What is Christopher Rich's occupation?"
+    },
+    "OAnswer": {
+      "object_label": "Christopher Rich",
+      "context": "Nancy Frangione's spouse is Christopher Rich.",
+      "objectCQ": "Who is Nancy Frangione's spouse?"
+    }
+  },
+  {
+    "claim_id": "Q21212548$65441d13-46ef-5668-6bd0-92c6aed84df1",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "spouse",
+      "context": "Isa Cholakhyan's spouse is Hrachya Poghosyan.",
+      "propertyCQ": "What is Hrachya Poghosyan's name?"
+    },
+    "OAnswer": {
+      "object_label": "Hrachya Poghosyan",
+      "context": "Isa Cholakhyan's spouse is Hrachya Poghosyan.",
+      "objectCQ": "Who is Isa Cholakhyan's spouse?"
+    }
+  },
+  {
+    "claim_id": "Q2902954$4C41415E-4CED-4707-9510-36BB24827A77",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "employer",
+      "context": "Paul Lhérie is employed by the Conservatoire national supérieur de musique et de danse.",
+      "propertyCQ": "What is Paul Lhérie's job title?"
+    },
+    "OAnswer": {
+      "object_label": "Conservatoire national supérieur de musique et de danse",
+      "context": "Paul Lhérie is employed by the Conservatoire national supérieur de musique et de danse.",
+      "objectCQ": "What organization does Paul Lhérie work for?"
+    }
+  },
+  {
+    "claim_id": "Q21499726$EBCE19BD-1146-461A-80BB-11EFECAF9041",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "employer",
+      "context": "Carmen Guarini is employed by the University of Buenos Aires.",
+      "propertyCQ": "What is Carmen Guarini's job title?"
+    },
+    "OAnswer": {
+      "object_label": "University of Buenos Aires",
+      "context": "Carmen Guarini is employed by the University of Buenos Aires.",
+      "objectCQ": "What university is Carmen Guarini employed at?"
+    }
+  },
+  {
+    "claim_id": "Q16030201$026d26f5-6063-44ca-a2a0-5fdbfc6fc067",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "employer",
+      "context": "Edgar Viguers Seeler is employed by the University of Pennsylvania.",
+      "propertyCQ": "What is Edgar Viguers Seeler's job title?"
+    },
+    "OAnswer": {
+      "object_label": "University of Pennsylvania",
+      "context": "Edgar Viguers Seeler is employed by the University of Pennsylvania.",
+      "objectCQ": "Edgar Viguers Seeler is employed by what university?"
+    }
+  },
+  {
+    "claim_id": "Q50894744$c9d58698-ee78-46c7-9e1e-769b65c6e135",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "employer",
+      "context": "Martha Schuster's employer is the Hochschule für Musik und Theater München.",
+      "propertyCQ": "What is Martha Schuster's job title?"
+    },
+    "OAnswer": {
+      "object_label": "Hochschule für Musik und Theater München",
+      "context": "Martha Schuster's employer is the Hochschule für Musik und Theater München.",
+      "objectCQ": "What is Martha Schuster's employer?"
+    }
+  },
+  {
+    "claim_id": "Q7225790$7DFB59DF-C2D4-4E71-A181-BDEF8EC3BD81",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "employer",
+      "context": "Polly Elwes is employed by the BBC.",
+      "propertyCQ": "What is Polly Elwes' job title?"
+    },
+    "OAnswer": {
+      "object_label": "BBC",
+      "context": "Polly Elwes is employed by the BBC.",
+      "objectCQ": "What broadcasting company employs Polly Elwes?"
+    }
+  },
+  {
+    "claim_id": "Q4282608$c9822838-41e2-c1b7-60d6-b8e15bf65eb1",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "employer",
+      "context": "Denis Martinovich is employed by Tut.By.",
+      "propertyCQ": "What is Denis Martinovich's job title?"
+    },
+    "OAnswer": {
+      "object_label": "Tut.By",
+      "context": "Denis Martinovich is employed by Tut.By.",
+      "objectCQ": "What company does Denis Martinovich work for?"
+    }
+  },
+  {
+    "claim_id": "Q714423$c84b324f-3f07-4964-8564-1b7cb7aec03d",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "social media followers",
+      "context": "Roger Sanchez has 189297 followers on social media.",
+      "propertyCQ": "How many followers does Roger Sanchez have?"
+    },
+    "OAnswer": {
+      "object_label": "189297",
+      "context": "Roger Sanchez has 189297 followers on social media.",
+      "objectCQ": "How many followers does Roger Sanchez have on social media?"
+    }
+  },
+  {
+    "claim_id": "Q11653098$64f27940-542c-4ae5-bc9d-9c45e8dc1c70",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "social media followers",
+      "context": "Yoshihiro Nagamori has 5408 followers on social media.",
+      "propertyCQ": "How many followers does Yoshihiro Nagamori have?"
+    },
+    "OAnswer": {
+      "object_label": "5408",
+      "context": "Yoshihiro Nagamori has 5408 followers on social media.",
+      "objectCQ": "How many followers does Yoshihiro Nagamori have on social media?"
+    }
+  },
+  {
+    "claim_id": "Q56333344$ffa6b8a8-ff9b-4660-860a-5399b44babb3",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "social media followers",
+      "context": "Stuart Brown has 42646 followers on social media.",
+      "propertyCQ": "What social media accounts does Stuart Brown have?"
+    },
+    "OAnswer": {
+      "object_label": "42646",
+      "context": "Stuart Brown has 42646 followers on social media.",
+      "objectCQ": "How many followers does Stuart Brown have on social media?"
+    }
+  },
+  {
+    "claim_id": "Q374625$7f659ebf-86fd-4118-a51a-6efa0eba4962",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "social media followers",
+      "context": "Pablo Pineda has 14976 followers on social media.",
+      "propertyCQ": "How many followers does Pablo Pineda have?"
+    },
+    "OAnswer": {
+      "object_label": "14976",
+      "context": "Pablo Pineda has 14976 followers on social media.",
+      "objectCQ": "How many followers does Pablo Pineda have on social media?"
+    }
+  },
+  {
+    "claim_id": "Q3438296$c32dd4e1-35c2-411f-be95-dceeb5ca6900",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "social media followers",
+      "context": "Rodolphe Burger has 1313 followers on social media.",
+      "propertyCQ": "How many followers does Rodolphe Burger have?"
+    },
+    "OAnswer": {
+      "object_label": "1313",
+      "context": "Rodolphe Burger has 1313 followers on social media.",
+      "objectCQ": "How many followers does Rodolphe Burger have on social media?"
+    }
+  },
+  {
+    "claim_id": "Q1331513$a0446088-31c7-48ee-b026-e7361a5c6f2a",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "social media followers",
+      "context": "Elke Jeinsen has 3032 followers on social media.",
+      "propertyCQ": "Elke Jeinsen has how many followers?"
+    },
+    "OAnswer": {
+      "object_label": "3032",
+      "context": "Elke Jeinsen has 3032 followers on social media.",
+      "objectCQ": "How many followers does Elke Jeinsen have on social media?"
+    }
+  },
+  {
+    "claim_id": "Q2787393$F297D036-D869-49B3-8B50-815EAF1AAA49",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "work location",
+      "context": "Gerhardus Jan Adema's work location is Leeuwarden.",
+      "propertyCQ": "What is Gerhardus Jan Adema's job location?"
+    },
+    "OAnswer": {
+      "object_label": "Leeuwarden",
+      "context": "Gerhardus Jan Adema's work location is Leeuwarden.",
+      "objectCQ": "Where is Gerhardus Jan Adema's work location?"
+    }
+  },
+  {
+    "claim_id": "Q2597615$32AA50DD-68C4-4B96-A5C4-7899559D323E",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "work location",
+      "context": "Cornelis Willem Hoevenaar works in Utrecht.",
+      "propertyCQ": "What is the name of Cornelis Willem Hoevenaar's job?"
+    },
+    "OAnswer": {
+      "object_label": "Utrecht",
+      "context": "Cornelis Willem Hoevenaar works in Utrecht.",
+      "objectCQ": "Where does Cornelis Willem Hoevenaar work?"
+    }
+  },
+  {
+    "claim_id": "Q21553279$69e1379e-82b1-4dd8-aaf4-e3b4029feba1",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "work location",
+      "context": "Saladin de Scoenere's work location is Oudenaarde.",
+      "propertyCQ": "What is Saladin de Scoenere's job location?"
+    },
+    "OAnswer": {
+      "object_label": "Oudenaarde",
+      "context": "Saladin de Scoenere's work location is Oudenaarde.",
+      "objectCQ": "What is Saladin de Scoenere's work location?"
+    }
+  },
+  {
+    "claim_id": "Q21544989$DECD015D-5A83-4EF9-AFFA-D690E885700B",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "work location",
+      "context": "Rinaldo Giudici works in Venice.",
+      "propertyCQ": "Where does Giudici work?"
+    },
+    "OAnswer": {
+      "object_label": "Venice",
+      "context": "Rinaldo Giudici works in Venice.",
+      "objectCQ": "Where does Rinaldo Giudici work?"
+    }
+  },
+  {
+    "claim_id": "Q100240561$45B51B10-CCC1-4206-BDDF-8611B417D1DB",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "work location",
+      "context": "Yolanda Sharpe's work location is Oneonta.",
+      "propertyCQ": "What is Yolanda Sharpe's job location?"
+    },
+    "OAnswer": {
+      "object_label": "Oneonta",
+      "context": "Yolanda Sharpe's work location is Oneonta.",
+      "objectCQ": "What is Yolanda Sharpe's work location?"
+    }
+  },
+  {
+    "claim_id": "Q88795$D7822D9D-97BC-45CA-840C-642D305BF5C3",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "work location",
+      "context": "Eva Demski's work location is Frankfurt am Main.",
+      "propertyCQ": "What is Eva Demski's job location?"
+    },
+    "OAnswer": {
+      "object_label": "Frankfurt am Main",
+      "context": "Eva Demski's work location is Frankfurt am Main.",
+      "objectCQ": "Where is Eva Demski's work location?"
+    }
+  },
+  {
+    "claim_id": "Q99391265$9fda66a4-d78c-4920-81be-c3a426d74029",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "copyright representative",
+      "context": "Jorg Schaaber is a copyright representative of the reproduction right not represented by CISAC member.",
+      "propertyCQ": "What is Jorg Schaaber's job?"
+    },
+    "OAnswer": {
+      "object_label": "reproduction right not represented by CISAC member",
+      "context": "Jorg Schaaber is a copyright representative of the reproduction right not represented by CISAC member.",
+      "objectCQ": "What is Jorg Schaaber a copyright representative of?"
+    }
+  },
+  {
+    "claim_id": "Q80427459$d89033fb-f59a-4d9d-956c-ee3fd2e1dde2",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "copyright representative",
+      "context": "Hilkka-Maija Pääkkönen has the copyright representative of the reproduction right represented by CISAC-member.",
+      "propertyCQ": "What is Hilkka-Maija Pääkkönen's position?"
+    },
+    "OAnswer": {
+      "object_label": "reproduction right represented by CISAC-member",
+      "context": "Hilkka-Maija Pääkkönen has the copyright representative of the reproduction right represented by CISAC-member.",
+      "objectCQ": "What is the copyright representative of?"
+    }
+  },
+  {
+    "claim_id": "Q99484016$50d18d6b-8e06-4b1b-9eed-f32c0fc6825d",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "copyright representative",
+      "context": "Bruno De Villeneuve is a copyright representative of the reproduction right represented by CISAC-member.",
+      "propertyCQ": "What is Bruno De Villeneuve's job?"
+    },
+    "OAnswer": {
+      "object_label": "reproduction right represented by CISAC-member",
+      "context": "Bruno De Villeneuve is a copyright representative of the reproduction right represented by CISAC-member.",
+      "objectCQ": "Bruno De Villeneuve is a copyright representative of what?"
+    }
+  },
+  {
+    "claim_id": "Q7284810$9de7e83f-bf1e-42ab-a493-7f713e6044b6",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "copyright representative",
+      "context": "Rainer Fischer has a copyright representative who is not represented by CISAC member.",
+      "propertyCQ": "Rainer Fischer has what type of representative?"
+    },
+    "OAnswer": {
+      "object_label": "reproduction right not represented by CISAC member",
+      "context": "Rainer Fischer has a copyright representative who is not represented by CISAC member.",
+      "objectCQ": "What is Rainer Fischer's representative?"
+    }
+  },
+  {
+    "claim_id": "Q98760002$f0b06e33-bb34-4c01-a70d-edf5ee0b4fbe",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "copyright representative",
+      "context": "Jane Karen Taylor is a copyright representative of reproduction rights which are not represented by CISAC member.",
+      "propertyCQ": "What is Jane Karen Taylor's job?"
+    },
+    "OAnswer": {
+      "object_label": "reproduction right not represented by CISAC member",
+      "context": "Jane Karen Taylor is a copyright representative of reproduction rights which are not represented by CISAC member.",
+      "objectCQ": "What is Jane Karen Taylor a copyright representative of?"
+    }
+  },
+  {
+    "claim_id": "Q11891965$da9dbf50-5fde-4d6f-9dc8-6b727389f59d",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "copyright representative",
+      "context": "Sakari Matinlauri has the copyright representative of the reproduction right represented by CISAC-member.",
+      "propertyCQ": "What is Sakari Matinlauri's position?"
+    },
+    "OAnswer": {
+      "object_label": "reproduction right represented by CISAC-member",
+      "context": "Sakari Matinlauri has the copyright representative of the reproduction right represented by CISAC-member.",
+      "objectCQ": "Sakari Matinlauri has the copyright representative of what?"
+    }
+  },
+  {
+    "claim_id": "Q18590383$f48daa7c-4aef-cbb9-7a6d-e85c13fc5d36",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "described by source",
+      "context": "M. L. Nevakhovich is described by source in the Russian Biographical Dictionary.",
+      "propertyCQ": "How is M. L. Nevakhovich described in the Russian Biographical Dictionary?"
+    },
+    "OAnswer": {
+      "object_label": "Russian Biographical Dictionary",
+      "context": "M. L. Nevakhovich is described by source in the Russian Biographical Dictionary.",
+      "objectCQ": "Where is M. L. Nevakhovich described by source?"
+    }
+  },
+  {
+    "claim_id": "Q10769440$9116AD1F-C5A2-477C-B551-733889480F6D",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "described by source",
+      "context": "Alena Mihulová is described by source at Obalky knih.cz.",
+      "propertyCQ": "How is Alena Mihulová described?"
+    },
+    "OAnswer": {
+      "object_label": "Obalky knih.cz",
+      "context": "Alena Mihulová is described by source at Obalky knih.cz.",
+      "objectCQ": "Where is Alena Mihulová described?"
+    }
+  },
+  {
+    "claim_id": "Q28967648$ca2489da-48c4-e675-7ef0-4ac2e1dad58c",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "described by source",
+      "context": "Thure Gabriel Rudenschöld den yngre is described by source as Svenskt konstnärslexikon.",
+      "propertyCQ": "How is Thure Gabriel Rudenschöld den yngre described?"
+    },
+    "OAnswer": {
+      "object_label": "Svenskt konstnärslexikon",
+      "context": "Thure Gabriel Rudenschöld den yngre is described by source as Svenskt konstnärslexikon.",
+      "objectCQ": "What is Thure Gabriel Rudenschöld den yngre described as?"
+    }
+  },
+  {
+    "claim_id": "Q3791482$B3492992-D2FD-4078-9503-38959351C093",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "described by source",
+      "context": "Stefan Bałuk is described by source at Obalky knih.cz.",
+      "propertyCQ": "How is Stefan Ba<unk>uk described?"
+    },
+    "OAnswer": {
+      "object_label": "Obalky knih.cz",
+      "context": "Stefan Bałuk is described by source at Obalky knih.cz.",
+      "objectCQ": "Where is Stefan Ba<unk>uk described?"
+    }
+  },
+  {
+    "claim_id": "Q4310175$845719B0-3311-4D2A-95AA-B14F8D3A2B74",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "described by source",
+      "context": "Aleksandr Myagkov was described by source in the Great Soviet Encyclopedia (1969–1978).",
+      "propertyCQ": "How was Aleksandr Myagkov described in the Great Soviet Encyclopedia?"
+    },
+    "OAnswer": {
+      "object_label": "Great Soviet Encyclopedia (1969–1978)",
+      "context": "Aleksandr Myagkov was described by source in the Great Soviet Encyclopedia (1969–1978).",
+      "objectCQ": "Where was Myagkov described by source?"
+    }
+  },
+  {
+    "claim_id": "Q8006771$27CE5365-4F3C-4E33-BE75-CCC7B21313DC",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "described by source",
+      "context": "William Child is described by the Dictionary of National Biography, 1885–1900.",
+      "propertyCQ": "How is William Child described by the Dictionary of National Biography?"
+    },
+    "OAnswer": {
+      "object_label": "Dictionary of National Biography, 1885–1900",
+      "context": "William Child is described by the Dictionary of National Biography, 1885–1900.",
+      "objectCQ": "What is the name of William Child?"
+    }
+  },
+  {
+    "claim_id": "Q1968005$dfbeacb2-453c-60be-242d-7e006dfa723a",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "name in native language",
+      "context": "Mikhail Porechenkov's name in the native language is Михаил Евгеньевич Пореченков.",
+      "propertyCQ": "What is Mikhail Porechenkov's name in the native language?"
+    },
+    "OAnswer": {
+      "object_label": "Михаил Евгеньевич Пореченков",
+      "context": "Mikhail Porechenkov's name in the native language is Михаил Евгеньевич Пореченков.",
+      "objectCQ": "What is Mikhail Porechenkov's name in the native language?"
+    }
+  },
+  {
+    "claim_id": "Q893681$801a4800-4702-450d-6677-fe8f6fc7a439",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "name in native language",
+      "context": "Boris Iwanowitsch Prijmak's native language is Борис Іванович Приймак.",
+      "propertyCQ": "What is Boris Iwanowitsch Prijmak's name in?"
+    },
+    "OAnswer": {
+      "object_label": "Борис Іванович Приймак",
+      "context": "Boris Iwanowitsch Prijmak's native language is Борис Іванович Приймак.",
+      "objectCQ": "What is Boris Iwanowitsch Prijmak's native language?"
+    }
+  },
+  {
+    "claim_id": "Q266917$e0b66e76-49f9-4596-7511-26be837d6c90",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "name in native language",
+      "context": "Valerie Bertinelli's name is in the native language.",
+      "propertyCQ": "What is Valerie Bertinelli's name in?"
+    },
+    "OAnswer": {
+      "object_label": "Valerie Bertinelli",
+      "context": "Valerie Bertinelli's name is in the native language.",
+      "objectCQ": "What is the name of the person who is in the native language?"
+    }
+  },
+  {
+    "claim_id": "Q841465$5ab3b941-4998-b4d4-173a-a6ed2a830b7b",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "name in native language",
+      "context": "Emre Altuğ is a native language name.",
+      "propertyCQ": "What is Emre Altu<unk>?"
+    },
+    "OAnswer": {
+      "object_label": "Emre Altuğ",
+      "context": "Emre Altuğ is a native language name.",
+      "objectCQ": "What is the name of the native language?"
+    }
+  },
+  {
+    "claim_id": "Q822770$9124ddc8-44e4-a8e9-1159-5e6da880f293",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "name in native language",
+      "context": "Bernard Wapowski is a native language speaker.",
+      "propertyCQ": "What is Bernard Wapowski's occupation?"
+    },
+    "OAnswer": {
+      "object_label": "Bernard Wapowski",
+      "context": "Bernard Wapowski is a native language speaker.",
+      "objectCQ": "Who speaks English?"
+    }
+  },
+  {
+    "claim_id": "Q11461040$F7665827-6EF2-489D-9168-63F9D5D57CBF",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "name in native language",
+      "context": "Chizuko Komatsu's native language is 小松千寿子.",
+      "propertyCQ": "What is Chizuko Komatsu's name in?"
+    },
+    "OAnswer": {
+      "object_label": "小松千寿子",
+      "context": "Chizuko Komatsu's native language is 小松千寿子.",
+      "objectCQ": "What is Chizuko Komatsu's native language?"
+    }
+  },
+  {
+    "claim_id": "Q106714806$42362e25-47e1-58ea-bd81-ad51f91f38e4",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "work period (start)",
+      "context": "Anastasia Kreslina started work in 2013.",
+      "propertyCQ": "What is the term for the time period in which Anastasia Kreslina started her work?"
+    },
+    "OAnswer": {
+      "object_label": "2013",
+      "context": "Anastasia Kreslina started work in 2013.",
+      "objectCQ": "When did Anastasia Kreslina start her work?"
+    }
+  },
+  {
+    "claim_id": "Q194045$38AECB3B-E38F-4CFA-9027-944D27B189AE",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "work period (start)",
+      "context": "Steven Tyler started work in 1965.",
+      "propertyCQ": "What is the term for the time period between the start and end of a film?"
+    },
+    "OAnswer": {
+      "object_label": "1965",
+      "context": "Steven Tyler started work in 1965.",
+      "objectCQ": "When did Steven Tyler begin his work?"
+    }
+  },
+  {
+    "claim_id": "Q7289529$84AD0F9F-85C0-4AEF-8970-A8CEFB59D813",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "work period (start)",
+      "context": "Rami Khalifé started work in 1995.",
+      "propertyCQ": "What is the term for the time period in which Khalifé started his career?"
+    },
+    "OAnswer": {
+      "object_label": "1995",
+      "context": "Rami Khalifé started work in 1995.",
+      "objectCQ": "When did Khalifé start his work?"
+    }
+  },
+  {
+    "claim_id": "Q30581889$454C7ECD-F049-47AC-82C7-A53B83E0C248",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "work period (start)",
+      "context": "Tetyana Ramus started work in 1997.",
+      "propertyCQ": "What is the term for the time period in which Tetyana Ramus began her work?"
+    },
+    "OAnswer": {
+      "object_label": "1997",
+      "context": "Tetyana Ramus started work in 1997.",
+      "objectCQ": "When did Tetyana Ramus begin her work?"
+    }
+  },
+  {
+    "claim_id": "Q54263390$32517EC9-3FBF-4B8A-89BD-904D120C645C",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "work period (start)",
+      "context": "Edita Aradinović started work in 2010.",
+      "propertyCQ": "What is the time period of work?"
+    },
+    "OAnswer": {
+      "object_label": "2010",
+      "context": "Edita Aradinović started work in 2010.",
+      "objectCQ": "When did Edita Aradinovi<unk> start her work?"
+    }
+  },
+  {
+    "claim_id": "Q5605471$69938E96-7674-4E01-901E-7EB174832E3C",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "work period (start)",
+      "context": "Greg Davis started work in 2001.",
+      "propertyCQ": "What is the term for the time that Greg Davis began his work?"
+    },
+    "OAnswer": {
+      "object_label": "2001",
+      "context": "Greg Davis started work in 2001.",
+      "objectCQ": "When did Greg Davis start his work?"
+    }
+  },
+  {
+    "claim_id": "Q45531$5A2DB0E9-2886-47BD-8D4E-FD9C33038F7E",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "genre",
+      "context": "Tromla is a genre of electronic music.",
+      "propertyCQ": "What is Tromla?"
+    },
+    "OAnswer": {
+      "object_label": "electronic music",
+      "context": "Tromla is a genre of electronic music.",
+      "objectCQ": "What genre of music is Tromla?"
+    }
+  },
+  {
+    "claim_id": "Q99731862$95063B47-1126-4F0C-941B-6A9FFB0A25D0",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "genre",
+      "context": "Benjamin Hekimian is a rock musician.",
+      "propertyCQ": "What is Hekimian's musical style?"
+    },
+    "OAnswer": {
+      "object_label": "rock music",
+      "context": "Benjamin Hekimian is a rock musician.",
+      "objectCQ": "What genre of music is Benjamin Hekimian?"
+    }
+  },
+  {
+    "claim_id": "Q1487925$6ADB2E70-8345-40C9-AC42-5899C8B811DC",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "genre",
+      "context": "Pauline-Marie-Elisa Thys is an opera singer.",
+      "propertyCQ": "What is Pauline-Marie-Elisa Thys's career?"
+    },
+    "OAnswer": {
+      "object_label": "opera",
+      "context": "Pauline-Marie-Elisa Thys is an opera singer.",
+      "objectCQ": "What genre of music does Pauline-Marie-Elisa Thys sing?"
+    }
+  },
+  {
+    "claim_id": "Q7132736$0B45EBD7-1295-4E0D-AA0B-18D378ED7201",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "genre",
+      "context": "Paperboy Fabe is a genre of rhythm and blues.",
+      "propertyCQ": "What is Paperboy Fabe?"
+    },
+    "OAnswer": {
+      "object_label": "rhythm and blues",
+      "context": "Paperboy Fabe is a genre of rhythm and blues.",
+      "objectCQ": "What genre of music is Paperboy Fabe?"
+    }
+  },
+  {
+    "claim_id": "Q1562348$A6D2CB30-3ABB-4E5F-94AA-D3F0CDAD4A97",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "genre",
+      "context": "Albert \"June\" Gardner is a member of the jazz genre.",
+      "propertyCQ": "What is Albert Gardner a member of?"
+    },
+    "OAnswer": {
+      "object_label": "jazz",
+      "context": "Albert \"June\" Gardner is a member of the jazz genre.",
+      "objectCQ": "What genre is Albert Gardner a member of?"
+    }
+  },
+  {
+    "claim_id": "Q505541$ABACDF10-16C4-4515-BF10-A2DA42EA8175",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "genre",
+      "context": "Andrew Johnston plays Western classical music.",
+      "propertyCQ": "What genre of music does Andrew Johnston play?"
+    },
+    "OAnswer": {
+      "object_label": "Western classical music",
+      "context": "Andrew Johnston plays Western classical music.",
+      "objectCQ": "What type of music does Andrew Johnston play?"
+    }
+  },
+  {
+    "claim_id": "Q1862308$93A1B9B4-6705-40FB-B63B-35AF77325E21",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "award received",
+      "context": "Näcip Cihanof was awarded the Medal \"For Valiant Labour in the Great Patriotic War 1941–1945\".",
+      "propertyCQ": "What was Näcip Cihanof awarded?"
+    },
+    "OAnswer": {
+      "object_label": "Medal \"For Valiant Labour in the Great Patriotic War 1941–1945\"",
+      "context": "Näcip Cihanof was awarded the Medal \"For Valiant Labour in the Great Patriotic War 1941–1945\".",
+      "objectCQ": "What was Näcip Cihanof awarded?"
+    }
+  },
+  {
+    "claim_id": "Q22046414$FF63C395-3314-4280-80F9-D8F819C270B7",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "award received",
+      "context": "Ol'ga Teryushnova won the Merited Artist of the Russian Federation award.",
+      "propertyCQ": "What did Ol'ga Teryushnova win?"
+    },
+    "OAnswer": {
+      "object_label": "Merited Artist of the Russian Federation",
+      "context": "Ol'ga Teryushnova won the Merited Artist of the Russian Federation award.",
+      "objectCQ": "What award did Ol'ga Teryushnova win?"
+    }
+  },
+  {
+    "claim_id": "Q943107$AC5BDE9B-52B7-471F-A9E1-5598BA12A01C",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "award received",
+      "context": "Lowell Thomas Jr. won the Light of Truth Award.",
+      "propertyCQ": "What was Lowell Thomas Jr.'s first honor?"
+    },
+    "OAnswer": {
+      "object_label": "Light of Truth Award",
+      "context": "Lowell Thomas Jr. won the Light of Truth Award.",
+      "objectCQ": "What award did Lowell Thomas Jr. win?"
+    }
+  },
+  {
+    "claim_id": "Q69141065$4ac21f2f-4a79-e9a5-a25f-0e6747f52988",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "award received",
+      "context": "Jo Copeland won the Neiman Marcus Fashion Award.",
+      "propertyCQ": "What did Jo Copeland win?"
+    },
+    "OAnswer": {
+      "object_label": "Neiman Marcus Fashion Award",
+      "context": "Jo Copeland won the Neiman Marcus Fashion Award.",
+      "objectCQ": "What award did Jo Copeland win?"
+    }
+  },
+  {
+    "claim_id": "Q760850$348fa135-4b18-6cbf-3235-1664b73a0052",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "award received",
+      "context": "Éva Andor was awarded the Meritorius Artist of Hungary.",
+      "propertyCQ": "What was the name of the artist awarded?"
+    },
+    "OAnswer": {
+      "object_label": "Meritorius Artist of Hungary",
+      "context": "Éva Andor was awarded the Meritorius Artist of Hungary.",
+      "objectCQ": "What award did Andor receive?"
+    }
+  },
+  {
+    "claim_id": "Q433812$0FD2C8A8-6E9C-4008-8E89-991F464C989D",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "award received",
+      "context": "Marianna Moór won the Jászai Mari Prize.",
+      "propertyCQ": "What did Marianna Moor win?"
+    },
+    "OAnswer": {
+      "object_label": "Jászai Mari Prize",
+      "context": "Marianna Moór won the Jászai Mari Prize.",
+      "objectCQ": "What prize did Marianna Moor win?"
+    }
+  },
+  {
+    "claim_id": "Q55579422$33269693-3C31-43BC-A50E-1AD68699409C",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "instrument",
+      "context": "Евгений Николаевич Пьянов's instrument is the guitar.",
+      "propertyCQ": "What is the name of <unk>в<unk>ени<unk> <unk>иколаеви<unk> <unk>нов's instrument?"
+    },
+    "OAnswer": {
+      "object_label": "guitar",
+      "context": "Евгений Николаевич Пьянов's instrument is the guitar.",
+      "objectCQ": "What is the name of <unk>в<unk>ени<unk> <unk>иколаеви<unk> <unk>нов's instrument?"
+    }
+  },
+  {
+    "claim_id": "Q16368908$d5a4c7b1-46cd-5882-f9d6-d2b53b413867",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "instrument",
+      "context": "Habib Bayramov uses the instrument tar.",
+      "propertyCQ": "What does Habib Bayramov use?"
+    },
+    "OAnswer": {
+      "object_label": "tar",
+      "context": "Habib Bayramov uses the instrument tar.",
+      "objectCQ": "What instrument does Habib Bayramov use?"
+    }
+  },
+  {
+    "claim_id": "Q5648469$6D120DFB-F3A8-4568-8877-1C982E8927B8",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "instrument",
+      "context": "Hank Smith's instrument is the voice.",
+      "propertyCQ": "What is Hank Smith's voice?"
+    },
+    "OAnswer": {
+      "object_label": "voice",
+      "context": "Hank Smith's instrument is the voice.",
+      "objectCQ": "What is Hank Smith's instrument?"
+    }
+  },
+  {
+    "claim_id": "Q3374548$21BA50D7-A8D9-4053-AF2C-CBA125E596FB",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "instrument",
+      "context": "Anna von Hausswolff sings.",
+      "propertyCQ": "What is Anna von Hausswolff's favorite?"
+    },
+    "OAnswer": {
+      "object_label": "singing",
+      "context": "Anna von Hausswolff sings.",
+      "objectCQ": "What is Anna von Hausswolff's occupation?"
+    }
+  },
+  {
+    "claim_id": "Q99703369$63D9DF1F-E394-464A-B744-883FA49A903C",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "instrument",
+      "context": "Calvin Owens instrument is the trumpet.",
+      "propertyCQ": "What is the Calvin Owens instrument?"
+    },
+    "OAnswer": {
+      "object_label": "trumpet",
+      "context": "Calvin Owens instrument is the trumpet.",
+      "objectCQ": "What is Calvin Owens instrument?"
+    }
+  },
+  {
+    "claim_id": "Q1018348$5AD531FD-10EE-4ABA-B4BF-58AC53C066DB",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "instrument",
+      "context": "Buzz Busby plays the mandolin.",
+      "propertyCQ": "What does Buzz Busby play?"
+    },
+    "OAnswer": {
+      "object_label": "mandolin",
+      "context": "Buzz Busby plays the mandolin.",
+      "objectCQ": "What instrument does Buzz Busby play?"
+    }
+  },
+  {
+    "claim_id": "Q67311448$f394105e-495e-d011-e067-1ebf98c00d3c",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "has works in the collection",
+      "context": "Jacques Leblond de Latour has works in the collection of the Musée national des beaux-arts du Québec.",
+      "propertyCQ": "What does Jacques Leblond de Latour do?"
+    },
+    "OAnswer": {
+      "object_label": "Musée national des beaux-arts du Québec",
+      "context": "Jacques Leblond de Latour has works in the collection of the Musée national des beaux-arts du Québec.",
+      "objectCQ": "Where are Jacques Leblond de Latour's works located?"
+    }
+  },
+  {
+    "claim_id": "Q57466885$CEF362A6-9C41-4B4C-8F9C-C3BB103153BE",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "has works in the collection",
+      "context": "Herzl Emanuel has works in the collection of The Print Collection of The New York Public Library.",
+      "propertyCQ": "What does Herzl Emanuel have in the collection of The Print Collection of The New York Public Library?"
+    },
+    "OAnswer": {
+      "object_label": "Print Collection of The New York Public Library",
+      "context": "Herzl Emanuel has works in the collection of The Print Collection of The New York Public Library.",
+      "objectCQ": "What collection of works does Herzl Emanuel have?"
+    }
+  },
+  {
+    "claim_id": "Q127171$EA12FF14-E6B8-4189-9552-FCC55FADBFAE",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "has works in the collection",
+      "context": "Jean-Honoré Fragonard has works in the collection of the Nationalmuseum.",
+      "propertyCQ": "What does Jean-Honoré Fragonard have in the Nationalmuseum?"
+    },
+    "OAnswer": {
+      "object_label": "Nationalmuseum",
+      "context": "Jean-Honoré Fragonard has works in the collection of the Nationalmuseum.",
+      "objectCQ": "What museum has Jean-Honoré Fragonard's work?"
+    }
+  },
+  {
+    "claim_id": "Q55219318$6e87a2e6-4a57-4e29-9555-047434748491",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "has works in the collection",
+      "context": "Samson Kingalik has works in the collection of Winnipeg Art Gallery.",
+      "propertyCQ": "What is Samson Kingalik's name?"
+    },
+    "OAnswer": {
+      "object_label": "Winnipeg Art Gallery",
+      "context": "Samson Kingalik has works in the collection of Winnipeg Art Gallery.",
+      "objectCQ": "Samson Kingalik has works in what gallery?"
+    }
+  },
+  {
+    "claim_id": "Q817561$D91F4FCE-1017-4285-A555-0BA6F737E22F",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "has works in the collection",
+      "context": "Benjamin Katz has works in the collection of the Finnish National Gallery.",
+      "propertyCQ": "What does Benjamin Katz have in the Finnish National Gallery?"
+    },
+    "OAnswer": {
+      "object_label": "Finnish National Gallery",
+      "context": "Benjamin Katz has works in the collection of the Finnish National Gallery.",
+      "objectCQ": "Where is Katz's work located?"
+    }
+  },
+  {
+    "claim_id": "Q19988752$2E0B2EA3-8E13-4912-9D17-AA0D7ED29D49",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "has works in the collection",
+      "context": "Titus van der Laars has works in the collection of Stadsarchief Rotterdam.",
+      "propertyCQ": "What is Titus van der Laars's name?"
+    },
+    "OAnswer": {
+      "object_label": "Stadsarchief Rotterdam",
+      "context": "Titus van der Laars has works in the collection of Stadsarchief Rotterdam.",
+      "objectCQ": "What organization has Titus van der Laars' work in its collection?"
+    }
+  },
+  {
+    "claim_id": "Q12878031$39DCEB0A-46D5-4E4D-8A5D-F4D000240E8F",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "place of death",
+      "context": "Thimios Karakatsanis died in Athens.",
+      "propertyCQ": "Where did Thimios Karakatsanis die?"
+    },
+    "OAnswer": {
+      "object_label": "Athens",
+      "context": "Thimios Karakatsanis died in Athens.",
+      "objectCQ": "Where did Thimios Karakatsanis die?"
+    }
+  },
+  {
+    "claim_id": "q1677284$F3E5D0E8-F33A-4A0E-A56E-B6193A66D47C",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "place of death",
+      "context": "Jean-Pierre Côté died in Montreal.",
+      "propertyCQ": "Where did Jean-Pierre Côté die?"
+    },
+    "OAnswer": {
+      "object_label": "Montreal",
+      "context": "Jean-Pierre Côté died in Montreal.",
+      "objectCQ": "Where did Jean-Pierre Côté die?"
+    }
+  },
+  {
+    "claim_id": "Q4223809$bdb95e87-ef1a-4378-b241-c8093c73fab4",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "place of death",
+      "context": "Semen Klymovskyi died in Znamianka Raion.",
+      "propertyCQ": "Where did Semen Klymovskyi die?"
+    },
+    "OAnswer": {
+      "object_label": "Znamianka Raion",
+      "context": "Semen Klymovskyi died in Znamianka Raion.",
+      "objectCQ": "Where did Semen Klymovskyi die?"
+    }
+  },
+  {
+    "claim_id": "Q98684271$085D37F9-6580-409E-9E5E-CA1678EC967C",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "place of death",
+      "context": "Heinrich Schlöss died in Vienna.",
+      "propertyCQ": "Where did Heinrich Schlöss die?"
+    },
+    "OAnswer": {
+      "object_label": "Vienna",
+      "context": "Heinrich Schlöss died in Vienna.",
+      "objectCQ": "Where did Heinrich Schlöss die?"
+    }
+  },
+  {
+    "claim_id": "Q7036178$d7766223-4507-b81d-9534-ca0079b9dc57",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "place of death",
+      "context": "Nikolay Bekryashev died in Plesetsk.",
+      "propertyCQ": "Where did Nikolay Bekryashev die?"
+    },
+    "OAnswer": {
+      "object_label": "Plesetsk",
+      "context": "Nikolay Bekryashev died in Plesetsk.",
+      "objectCQ": "Where did Nikolay Bekryashev die?"
+    }
+  },
+  {
+    "claim_id": "Q27067580$3ced9e38-4bb5-3074-5a5d-7f468b88ffcb",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "place of death",
+      "context": "Henricus Leonardus van den Houten died in St Kilda.",
+      "propertyCQ": "Where did Henricus Leonardus van den Houten die?"
+    },
+    "OAnswer": {
+      "object_label": "St Kilda",
+      "context": "Henricus Leonardus van den Houten died in St Kilda.",
+      "objectCQ": "Where did Henricus Leonardus van den Houten die?"
+    }
+  },
+  {
+    "claim_id": "Q4465362$1bb4906d-444d-0168-aa1f-4c6b87d4c729",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "educated at",
+      "context": "Barseg Tumanyan was educated at the Yerevan State Komitas Conservatory.",
+      "propertyCQ": "Where was Barseg Tumanyan educated?"
+    },
+    "OAnswer": {
+      "object_label": "Yerevan State Komitas Conservatory",
+      "context": "Barseg Tumanyan was educated at the Yerevan State Komitas Conservatory.",
+      "objectCQ": "Where was Barseg Tumanyan educated?"
+    }
+  },
+  {
+    "claim_id": "Q56255579$27647aea-9ac1-486a-9ac2-3ec1b7be09b4",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "educated at",
+      "context": "Mirosław Książek was educated at the Stanisław Wyspiański Academy for the Dramatic Arts.",
+      "propertyCQ": "Where was Miros<unk>aw Ksi<unk>ek educated?"
+    },
+    "OAnswer": {
+      "object_label": "Stanisław Wyspiański Academy for the Dramatic Arts",
+      "context": "Mirosław Książek was educated at the Stanisław Wyspiański Academy for the Dramatic Arts.",
+      "objectCQ": "Where was Miros<unk>aw Ksi<unk>ek educated?"
+    }
+  },
+  {
+    "claim_id": "Q127805$9A6E8F1F-50D8-477A-B863-94B1210C410B",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "educated at",
+      "context": "Herbert Ponting was educated at the Trinity School.",
+      "propertyCQ": "Where was Herbert Ponting educated?"
+    },
+    "OAnswer": {
+      "object_label": "Trinity School",
+      "context": "Herbert Ponting was educated at the Trinity School.",
+      "objectCQ": "Where was Herbert Ponting educated?"
+    }
+  },
+  {
+    "claim_id": "Q2552873$DB18B930-60D0-4FBB-B096-900E1C3CF09D",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "educated at",
+      "context": "Bradford Cox was educated at Harrison High School.",
+      "propertyCQ": "What school was Bradford Cox educated at?"
+    },
+    "OAnswer": {
+      "object_label": "Harrison High School",
+      "context": "Bradford Cox was educated at Harrison High School.",
+      "objectCQ": "Where was Bradford Cox educated?"
+    }
+  },
+  {
+    "claim_id": "Q240541$5BE2737D-ED7A-4CFA-A103-E45FDE12676C",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "educated at",
+      "context": "Tatyana Ali was educated at William Floyd High School.",
+      "propertyCQ": "Where was Tatyana Ali educated?"
+    },
+    "OAnswer": {
+      "object_label": "William Floyd High School",
+      "context": "Tatyana Ali was educated at William Floyd High School.",
+      "objectCQ": "Where was Tatyana Ali educated?"
+    }
+  },
+  {
+    "claim_id": "Q6066827$7b17913b-8445-44bb-94ff-f08c355e7172",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "educated at",
+      "context": "Işıl Özgentürk was educated at the Istanbul University Faculty of Economics.",
+      "propertyCQ": "Where was Iş<unk>l <unk>zgentürk educated?"
+    },
+    "OAnswer": {
+      "object_label": "Istanbul University Faculty of Economics",
+      "context": "Işıl Özgentürk was educated at the Istanbul University Faculty of Economics.",
+      "objectCQ": "Where did Iş<unk>l <unk>zgentürk attend school?"
+    }
+  },
+  {
+    "claim_id": "Q16976876$e1d04bc3-4bd5-4b87-8fc6-07597274a3db",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "copyright status as a creator",
+      "context": "Antònia Aguiló i Pascual is a creator of works protected by copyrights.",
+      "propertyCQ": "What status does Ant<unk>nia Aguiló i Pascual hold?"
+    },
+    "OAnswer": {
+      "object_label": "works protected by copyrights",
+      "context": "Antònia Aguiló i Pascual is a creator of works protected by copyrights.",
+      "objectCQ": "What is Ant<unk>nia Aguiló i Pascual a creator of?"
+    }
+  },
+  {
+    "claim_id": "Q20468379$519EA573-28C5-47C8-A3B9-2D7B2F5DB62C",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "copyright status as a creator",
+      "context": "De Saint-Ligié's copyright status as a creator is expired.",
+      "propertyCQ": "What is expired?"
+    },
+    "OAnswer": {
+      "object_label": "copyrights on works have expired",
+      "context": "De Saint-Ligié's copyright status as a creator is expired.",
+      "objectCQ": "What happens to De Saint-Ligié's copyright status?"
+    }
+  },
+  {
+    "claim_id": "Q63613024$da8b9262-c083-4e3d-a9d0-2a751a4648aa",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "copyright status as a creator",
+      "context": "Vicente Valls Abad is a creator of works protected by copyrights.",
+      "propertyCQ": "What status does Vicente Valls Abad hold?"
+    },
+    "OAnswer": {
+      "object_label": "works protected by copyrights",
+      "context": "Vicente Valls Abad is a creator of works protected by copyrights.",
+      "objectCQ": "What is Vicente Valls Abad's work?"
+    }
+  },
+  {
+    "claim_id": "Q96944523$5735ef50-7a3c-4583-ad12-e61459df65f0",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "copyright status as a creator",
+      "context": "Frans Wesselmann is a creator of works protected by copyrights.",
+      "propertyCQ": "What status does Frans Wesselmann hold?"
+    },
+    "OAnswer": {
+      "object_label": "works protected by copyrights",
+      "context": "Frans Wesselmann is a creator of works protected by copyrights.",
+      "objectCQ": "What is Frans Wesselmann a creator of?"
+    }
+  },
+  {
+    "claim_id": "Q94831379$a3e6d18c-cef7-4c1a-b4d5-192a098d2290",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "copyright status as a creator",
+      "context": "Charles Gifford Dyer's copyright status as a creator has expired.",
+      "propertyCQ": "What has expired for Charles Gifford Dyer?"
+    },
+    "OAnswer": {
+      "object_label": "copyrights on works have expired",
+      "context": "Charles Gifford Dyer's copyright status as a creator has expired.",
+      "objectCQ": "What happened to Charles Gifford Dyer's copyright status?"
+    }
+  },
+  {
+    "claim_id": "Q38522818$19f13e8e-539d-424a-8bae-bc4822667a3f",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "copyright status as a creator",
+      "context": "Frederic Littman is a creator of works protected by copyrights.",
+      "propertyCQ": "What status does Frederic Littman hold?"
+    },
+    "OAnswer": {
+      "object_label": "works protected by copyrights",
+      "context": "Frederic Littman is a creator of works protected by copyrights.",
+      "objectCQ": "What is Frederic Littman a creator of?"
+    }
+  },
+  {
+    "claim_id": "Q364055$2DD81B20-C9D6-4F06-88FD-0B506D102E9C",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "languages spoken, written or signed",
+      "context": "Adolf Saile speaks, writes or signs German.",
+      "propertyCQ": "What does Saile speak, write, or sign?"
+    },
+    "OAnswer": {
+      "object_label": "German",
+      "context": "Adolf Saile speaks, writes or signs German.",
+      "objectCQ": "What language does Saile speak?"
+    }
+  },
+  {
+    "claim_id": "Q2283332$9170AD30-268C-4274-AECC-1F6EBC1F743B",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "languages spoken, written or signed",
+      "context": "Siegfried Franz speaks, writes or signs German.",
+      "propertyCQ": "What is Siegfried Franz's profession?"
+    },
+    "OAnswer": {
+      "object_label": "German",
+      "context": "Siegfried Franz speaks, writes or signs German.",
+      "objectCQ": "What language does Siegfried Franz speak?"
+    }
+  },
+  {
+    "claim_id": "Q334262$DC08644E-289E-4578-A8F4-9AE675212474",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "languages spoken, written or signed",
+      "context": "Italian is spoken, written or signed in Guercino.",
+      "propertyCQ": "What is Italian in Guercino?"
+    },
+    "OAnswer": {
+      "object_label": "Italian",
+      "context": "Italian is spoken, written or signed in Guercino.",
+      "objectCQ": "What language is spoken, written or signed in Guercino?"
+    }
+  },
+  {
+    "claim_id": "Q7945434$09B8CD90-F84D-4B53-B6E2-6CE3CCA6345C",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "languages spoken, written or signed",
+      "context": "Polish is spoken, written or signed in Kazimierz Piechotka.",
+      "propertyCQ": "What is Polish?"
+    },
+    "OAnswer": {
+      "object_label": "Polish",
+      "context": "Polish is spoken, written or signed in Kazimierz Piechotka.",
+      "objectCQ": "What language is spoken, written or signed in Kazimierz Piechotka?"
+    }
+  },
+  {
+    "claim_id": "Q99494162$804BD242-D22D-41B2-89FB-FEF964D0FEB0",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "languages spoken, written or signed",
+      "context": "Maria Silva speaks, writes or signs Portuguese.",
+      "propertyCQ": "What does Maria Silva speak?"
+    },
+    "OAnswer": {
+      "object_label": "Portuguese",
+      "context": "Maria Silva speaks, writes or signs Portuguese.",
+      "objectCQ": "Maria Silva speaks, writes or signs what language?"
+    }
+  },
+  {
+    "claim_id": "q106466014$6240b0da-4804-00dc-dd24-6ab4ee0501df",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "languages spoken, written or signed",
+      "context": "Marilena Delli speaks, writes or signs English.",
+      "propertyCQ": "What does Marilena Delli speak?"
+    },
+    "OAnswer": {
+      "object_label": "English",
+      "context": "Marilena Delli speaks, writes or signs English.",
+      "objectCQ": "What language does Delli speak?"
+    }
+  },
+  {
+    "claim_id": "Q21455714$EB7C702D-0882-45EA-9166-D30DEA60D8F8",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "date of death",
+      "context": "Edmund Perini died in 1991.",
+      "propertyCQ": "What was the date of Edmund Perini's death?"
+    },
+    "OAnswer": {
+      "object_label": "1991",
+      "context": "Edmund Perini died in 1991.",
+      "objectCQ": "When did Edmund Perini die?"
+    }
+  },
+  {
+    "claim_id": "Q3893363$0F9C8999-3F6C-4014-9F8B-4BD605E05239",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "date of death",
+      "context": "Keith A. Wester died on 01/11/2002.",
+      "propertyCQ": "What was Keith A. Wester's last name?"
+    },
+    "OAnswer": {
+      "object_label": "01/11/2002",
+      "context": "Keith A. Wester died on 01/11/2002.",
+      "objectCQ": "When did Keith A. Wester die?"
+    }
+  },
+  {
+    "claim_id": "Q19287236$f5005323-a6a3-4829-8db5-dcb4e166dc77",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "date of death",
+      "context": "Julius Guggenheimer died on 04/06/1943.",
+      "propertyCQ": "What was the date of death of Julius Guggenheimer?"
+    },
+    "OAnswer": {
+      "object_label": "04/06/1943",
+      "context": "Julius Guggenheimer died on 04/06/1943.",
+      "objectCQ": "When did Guggenheimer die?"
+    }
+  },
+  {
+    "claim_id": "Q1505425$9242ADCD-6C07-454F-BDED-01B36C67CFEB",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "date of death",
+      "context": "Georg Muschner died on 17/05/1971.",
+      "propertyCQ": "What was Georg Muschner's last name?"
+    },
+    "OAnswer": {
+      "object_label": "17/05/1971",
+      "context": "Georg Muschner died on 17/05/1971.",
+      "objectCQ": "When did Georg Muschner die?"
+    }
+  },
+  {
+    "claim_id": "Q12286523$4bc316d4-43a2-4028-bd26-09723ed980e9",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "date of death",
+      "context": "Месру Мехмедов died on 18/01/1971.",
+      "propertyCQ": "What was the date of death of <unk>есру <unk>е<unk>медов?"
+    },
+    "OAnswer": {
+      "object_label": "18/01/1971",
+      "context": "Месру Мехмедов died on 18/01/1971.",
+      "objectCQ": "When did <unk>есру <unk>е<unk>медов die?"
+    }
+  },
+  {
+    "claim_id": "Q28840214$4A6BBCCC-5F01-44EB-85C3-FF75870F925D",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "date of death",
+      "context": "Carlo Rosberg died in 1994.",
+      "propertyCQ": "What was the date of Carlo Rosberg's death?"
+    },
+    "OAnswer": {
+      "object_label": "1994",
+      "context": "Carlo Rosberg died in 1994.",
+      "objectCQ": "What year did Carlo Rosberg die?"
+    }
+  },
+  {
+    "claim_id": "Q15450511$BE8C360D-0AA1-467C-A9B7-2D198AEE3DA6",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "family name",
+      "context": "Gotthard Fellerer is a member of the family Fellerer.",
+      "propertyCQ": "What is Gotthard Fellerer a member of?"
+    },
+    "OAnswer": {
+      "object_label": "Fellerer",
+      "context": "Gotthard Fellerer is a member of the family Fellerer.",
+      "objectCQ": "Gotthard Fellerer is a member of what family?"
+    }
+  },
+  {
+    "claim_id": "Q52153890$7AC1257C-54B1-4BD1-9482-B00CF2E09F66",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "family name",
+      "context": "Marcel Avond is a member of the family name Avond.",
+      "propertyCQ": "What is Marcel Avond a member of?"
+    },
+    "OAnswer": {
+      "object_label": "Avond",
+      "context": "Marcel Avond is a member of the family name Avond.",
+      "objectCQ": "Marcel Avond is a member of the family name what?"
+    }
+  },
+  {
+    "claim_id": "Q9357355$1F9A3D0B-EBDC-4978-9D8C-58AE01EFCEF2",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "family name",
+      "context": "Teresa Sawicka's family name is Sawicka.",
+      "propertyCQ": "What is Teresa Sawicka's first name?"
+    },
+    "OAnswer": {
+      "object_label": "Sawicka",
+      "context": "Teresa Sawicka's family name is Sawicka.",
+      "objectCQ": "What is Teresa Sawicka's family name?"
+    }
+  },
+  {
+    "claim_id": "Q15876827$09BD4045-62E9-41ED-BF0C-C1FF8848C16C",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "family name",
+      "context": "Jacqueline Royaards-Sandberg's family name is Royaards.",
+      "propertyCQ": "What is Jacqueline Royaards-Sandberg's first name?"
+    },
+    "OAnswer": {
+      "object_label": "Royaards",
+      "context": "Jacqueline Royaards-Sandberg's family name is Royaards.",
+      "objectCQ": "What is Jacqueline Royaards-Sandberg's family name?"
+    }
+  },
+  {
+    "claim_id": "Q6219724$cdda3c21-421f-5a0f-7181-5c3626d49d7a",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "family name",
+      "context": "John Augur Holabird is a member of the Holabird family.",
+      "propertyCQ": "What is John Augur Holabird's family name?"
+    },
+    "OAnswer": {
+      "object_label": "Holabird",
+      "context": "John Augur Holabird is a member of the Holabird family.",
+      "objectCQ": "What family is John Augur Holabird a member of?"
+    }
+  },
+  {
+    "claim_id": "Q3219289$B1DAD346-8603-461D-9FF2-35B1CEE9E9B8",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "family name",
+      "context": "Laurent Jacob is a member of the Jacob family.",
+      "propertyCQ": "What is the Jacob family?"
+    },
+    "OAnswer": {
+      "object_label": "Jacob",
+      "context": "Laurent Jacob is a member of the Jacob family.",
+      "objectCQ": "What family is Laurent Jacob a member of?"
+    }
+  },
+  {
+    "claim_id": "Q100240415$80B675AE-8008-4056-8F57-480CA7603CF6",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "place of birth",
+      "context": "Floyd Roberts was born in Trinidad.",
+      "propertyCQ": "Where was Floyd Roberts born?"
+    },
+    "OAnswer": {
+      "object_label": "Trinidad",
+      "context": "Floyd Roberts was born in Trinidad.",
+      "objectCQ": "Where was Floyd Roberts born?"
+    }
+  },
+  {
+    "claim_id": "Q27506779$2FD2FB7D-8D04-43F9-B169-312D76048CA0",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "place of birth",
+      "context": "John Graff was born in Geneva.",
+      "propertyCQ": "Where was Graff born?"
+    },
+    "OAnswer": {
+      "object_label": "Geneva",
+      "context": "John Graff was born in Geneva.",
+      "objectCQ": "Where was John Graff born?"
+    }
+  },
+  {
+    "claim_id": "q603520$8DC4EE0B-1538-421C-8E88-97B224123540",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "place of birth",
+      "context": "Frédéric Devreese was born in Amsterdam.",
+      "propertyCQ": "Where was Devreese born?"
+    },
+    "OAnswer": {
+      "object_label": "Amsterdam",
+      "context": "Frédéric Devreese was born in Amsterdam.",
+      "objectCQ": "Where was Frédéric Devreese born?"
+    }
+  },
+  {
+    "claim_id": "Q488025$2D7689D3-6C4B-43A7-AC0A-E064A6E0670D",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "place of birth",
+      "context": "Go Hyeon-jeong was born in Hwasun County.",
+      "propertyCQ": "Where was Go Hyeon-jeong born?"
+    },
+    "OAnswer": {
+      "object_label": "Hwasun County",
+      "context": "Go Hyeon-jeong was born in Hwasun County.",
+      "objectCQ": "Where was Go Hyeon-jeong born?"
+    }
+  },
+  {
+    "claim_id": "Q5092693$3C91EC5D-5442-4437-9024-2A8818B27396",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "place of birth",
+      "context": "Cheryl Bogart was born in Oak Park.",
+      "propertyCQ": "Where was Cheryl born?"
+    },
+    "OAnswer": {
+      "object_label": "Oak Park",
+      "context": "Cheryl Bogart was born in Oak Park.",
+      "objectCQ": "Where was Cheryl Bogart born?"
+    }
+  },
+  {
+    "claim_id": "Q63953209$7be8b8a0-450d-7d5b-b118-1ffeefb3c3a1",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "place of birth",
+      "context": "Hana Čápová was born in Prague.",
+      "propertyCQ": "Where was Hana <unk>ápová born?"
+    },
+    "OAnswer": {
+      "object_label": "Prague",
+      "context": "Hana Čápová was born in Prague.",
+      "objectCQ": "Where was Hana <unk>ápová born?"
+    }
+  },
+  {
+    "claim_id": "Q12120757$01adb0ba-4be2-1a67-e798-f70104f66cec",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "country of citizenship",
+      "context": "Malakhov Vitaly's country of citizenship is Ukraine.",
+      "propertyCQ": "What is Malakhov Vitaly's country of citizenship?"
+    },
+    "OAnswer": {
+      "object_label": "Ukraine",
+      "context": "Malakhov Vitaly's country of citizenship is Ukraine.",
+      "objectCQ": "What is Malakhov Vitaly's country of citizenship?"
+    }
+  },
+  {
+    "claim_id": "q529394$FE68CE35-B7AE-45D4-8BD2-2FB8D1AB7D2D",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "country of citizenship",
+      "context": "Jacqueline Laurent's country of citizenship is France.",
+      "propertyCQ": "What is France?"
+    },
+    "OAnswer": {
+      "object_label": "France",
+      "context": "Jacqueline Laurent's country of citizenship is France.",
+      "objectCQ": "What is Jacqueline Laurent's country of citizenship?"
+    }
+  },
+  {
+    "claim_id": "Q8773013$5D1A4CBF-E565-46F8-83DE-9272EEA420AA",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "country of citizenship",
+      "context": "El Drogas is in Spain.",
+      "propertyCQ": "What country is El Drogas located in?"
+    },
+    "OAnswer": {
+      "object_label": "Spain",
+      "context": "El Drogas is in Spain.",
+      "objectCQ": "Where is El Drogas located?"
+    }
+  },
+  {
+    "claim_id": "Q21527076$186F9424-2A05-4CE1-B79B-C794EA23831E",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "country of citizenship",
+      "context": "The country of citizenship of Talat Dumanlı is Turkey.",
+      "propertyCQ": "What is the citizenship of Talat Dumanl<unk>?"
+    },
+    "OAnswer": {
+      "object_label": "Turkey",
+      "context": "The country of citizenship of Talat Dumanlı is Turkey.",
+      "objectCQ": "What is the country of citizenship of Talat Dumanl<unk>?"
+    }
+  },
+  {
+    "claim_id": "Q6835004$376D71C2-E030-465E-8717-468F8E4BE5B7",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "country of citizenship",
+      "context": "Michael Tye's country of citizenship is Australia.",
+      "propertyCQ": "What is Tye's country of citizenship?"
+    },
+    "OAnswer": {
+      "object_label": "Australia",
+      "context": "Michael Tye's country of citizenship is Australia.",
+      "objectCQ": "What is Tye's country of citizenship?"
+    }
+  },
+  {
+    "claim_id": "Q1285596$563CA089-0209-4E64-A813-10B43C382471",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "country of citizenship",
+      "context": "Edmond Gaujac's country of citizenship is France.",
+      "propertyCQ": "What is the country of citizenship of Edmond Gaujac?"
+    },
+    "OAnswer": {
+      "object_label": "France",
+      "context": "Edmond Gaujac's country of citizenship is France.",
+      "objectCQ": "What is Edmond Gaujac's country of citizenship?"
+    }
+  },
+  {
+    "claim_id": "Q23304120$23596ab9-4a0f-4129-f351-0a5719b44322",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "given name",
+      "context": "Carles Flavià's given name is Carles.",
+      "propertyCQ": "What is Carles Flavià's real name?"
+    },
+    "OAnswer": {
+      "object_label": "Carles",
+      "context": "Carles Flavià's given name is Carles.",
+      "objectCQ": "What is Carles Flavià's given name?"
+    }
+  },
+  {
+    "claim_id": "Q42712834$A07530A1-46B6-40EF-8EB6-F522693A2A99",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "given name",
+      "context": "Harry Tamacas Perla's given name is Harry.",
+      "propertyCQ": "What is Harry Tamacas Perla's real name?"
+    },
+    "OAnswer": {
+      "object_label": "Harry",
+      "context": "Harry Tamacas Perla's given name is Harry.",
+      "objectCQ": "What is Harry Tamacas Perla's given name?"
+    }
+  },
+  {
+    "claim_id": "Q30147483$C160249C-B613-42A4-B407-B17F7C9E204F",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "given name",
+      "context": "Anneliese Dahms-Oldag's given name is Anneliese.",
+      "propertyCQ": "What is Anneliese Dahms-Oldag's real name?"
+    },
+    "OAnswer": {
+      "object_label": "Anneliese",
+      "context": "Anneliese Dahms-Oldag's given name is Anneliese.",
+      "objectCQ": "What is the given name of Anneliese Dahms-Oldag?"
+    }
+  },
+  {
+    "claim_id": "Q99457777$6543692C-74FF-4BCA-BCDC-E68CE164CD17",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "given name",
+      "context": "Sophie Licata-Caruso's given name is Sophie.",
+      "propertyCQ": "What is Sophie Licata-Caruso's real name?"
+    },
+    "OAnswer": {
+      "object_label": "Sophie",
+      "context": "Sophie Licata-Caruso's given name is Sophie.",
+      "objectCQ": "What is Sophie Licata-Caruso's given name?"
+    }
+  },
+  {
+    "claim_id": "Q64732422$439380BB-4407-4142-BB74-B9F18E5A369C",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "given name",
+      "context": "Bernard Edelstein's given name is Bernard.",
+      "propertyCQ": "What is Bernard Edelstein's real name?"
+    },
+    "OAnswer": {
+      "object_label": "Bernard",
+      "context": "Bernard Edelstein's given name is Bernard.",
+      "objectCQ": "What is Edelstein's given name?"
+    }
+  },
+  {
+    "claim_id": "Q9615279$D955FEAD-573C-4AEA-AA88-744CDDE8DBC1",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "date of birth",
+      "context": "Angelique Bianca was born on 04/02/1974.",
+      "propertyCQ": "What was Angelique Bianca's birth year?"
+    },
+    "OAnswer": {
+      "object_label": "04/02/1974",
+      "context": "Angelique Bianca was born on 04/02/1974.",
+      "objectCQ": "When was Angelique Bianca born?"
+    }
+  },
+  {
+    "claim_id": "Q3190884$ED6B9B38-7D38-4303-B948-2D2AC81DCB1F",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "date of birth",
+      "context": "Jérôme Dupras was born on 03/11/1979.",
+      "propertyCQ": "What was Jérôme Dupras's birthdate?"
+    },
+    "OAnswer": {
+      "object_label": "03/11/1979",
+      "context": "Jérôme Dupras was born on 03/11/1979.",
+      "objectCQ": "When was Jérôme Dupras born?"
+    }
+  },
+  {
+    "claim_id": "Q20651174$56cb6144-4cef-07b5-584a-fc30f6cda4fd",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "date of birth",
+      "context": "Anton Popov was born in 1853.",
+      "propertyCQ": "What was the first name of Anton Popov?"
+    },
+    "OAnswer": {
+      "object_label": "1853",
+      "context": "Anton Popov was born in 1853.",
+      "objectCQ": "When was Anton Popov born?"
+    }
+  },
+  {
+    "claim_id": "Q7143298$849C2F73-1214-45EC-9E87-629EB4BF7D67",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "date of birth",
+      "context": "Pat Close was born on 01/06/1948.",
+      "propertyCQ": "What was Pat Close's birth year?"
+    },
+    "OAnswer": {
+      "object_label": "01/06/1948",
+      "context": "Pat Close was born on 01/06/1948.",
+      "objectCQ": "When was Pat Close born?"
+    }
+  },
+  {
+    "claim_id": "Q562609$3DFCF11F-5171-48D1-8458-BEA4582AFAC2",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "sex or gender",
+      "context": "Don Lusher's sex or gender is male.",
+      "propertyCQ": "What is Don Lusher's gender?"
+    },
+    "OAnswer": {
+      "object_label": "male",
+      "context": "Don Lusher's sex or gender is male.",
+      "objectCQ": "What is Don Lusher's gender?"
+    }
+  },
+  {
+    "claim_id": "Q26102518$3964F1B7-A0BF-46DE-8B5E-0857BBE74C0C",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "sex or gender",
+      "context": "Lester Ralph's sex or gender is male.",
+      "propertyCQ": "What is Lester Ralph's gender?"
+    },
+    "OAnswer": {
+      "object_label": "male",
+      "context": "Lester Ralph's sex or gender is male.",
+      "objectCQ": "What is Lester Ralph's gender?"
+    }
+  },
+  {
+    "claim_id": "Q6524564$C4A8D6F6-80D9-42A3-B1B2-8F6D827B2809",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "sex or gender",
+      "context": "Leon Carr's sex or gender is male.",
+      "propertyCQ": "What is Leon Carr's gender?"
+    },
+    "OAnswer": {
+      "object_label": "male",
+      "context": "Leon Carr's sex or gender is male.",
+      "objectCQ": "What is Leon Carr's gender?"
+    }
+  },
+  {
+    "claim_id": "Q5307169$A7011747-E7A1-4710-921F-BAA41583F12B",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "sex or gender",
+      "context": "Drew Droege's sex or gender is male.",
+      "propertyCQ": "What is Drew Droege's gender?"
+    },
+    "OAnswer": {
+      "object_label": "male",
+      "context": "Drew Droege's sex or gender is male.",
+      "objectCQ": "What is Drew Droege's gender?"
+    }
+  },
+  {
+    "claim_id": "Q11892368$2BA3D53C-A2CA-4E5A-81FB-86BD99790BCF",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "sex or gender",
+      "context": "Sani has a sex or gender of female.",
+      "propertyCQ": "What does Sani have?"
+    },
+    "OAnswer": {
+      "object_label": "female",
+      "context": "Sani has a sex or gender of female.",
+      "objectCQ": "What gender does Sani have?"
+    }
+  },
+  {
+    "claim_id": "Q11780091$F1EE2F81-944E-472F-84D7-0CDC1F37D5B8",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "occupation",
+      "context": "Mieczysław Łoza is a film actor.",
+      "propertyCQ": "What is Mieczys<unk>aw <unk>oza's job?"
+    },
+    "OAnswer": {
+      "object_label": "film actor",
+      "context": "Mieczysław Łoza is a film actor.",
+      "objectCQ": "What is Mieczys<unk>aw <unk>oza's career?"
+    }
+  },
+  {
+    "claim_id": "Q95808454$4BFCEDD1-E484-47E4-9FE0-FD967E31211F",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "occupation",
+      "context": "Ingold Platzer is an actor.",
+      "propertyCQ": "What is Ingold Platzer's job?"
+    },
+    "OAnswer": {
+      "object_label": "actor",
+      "context": "Ingold Platzer is an actor.",
+      "objectCQ": "What is Ingold Platzer's profession?"
+    }
+  },
+  {
+    "claim_id": "Q5285223$D0ED60A6-82E2-4150-BC64-8F821C700819",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "occupation",
+      "context": "Djan Silveberg is a poet.",
+      "propertyCQ": "What is Silveberg's job?"
+    },
+    "OAnswer": {
+      "object_label": "poet",
+      "context": "Djan Silveberg is a poet.",
+      "objectCQ": "What is Djan Silveberg's profession?"
+    }
+  },
+  {
+    "claim_id": "Q41693312$6bb2bab0-41a7-0fe9-9769-9f298fa8732e",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "occupation",
+      "context": "Jackie Nese is a dancer.",
+      "propertyCQ": "What is Jackie Nese's job?"
+    },
+    "OAnswer": {
+      "object_label": "dancer",
+      "context": "Jackie Nese is a dancer.",
+      "objectCQ": "What is Jackie Nese's profession?"
+    }
+  },
+  {
+    "claim_id": "Q59532152$7a633ba0-492d-3c58-aa2b-8a012a31b41c",
+    "theme": "Artist",
+    "PAnswer": {
+      "property_label": "occupation",
+      "context": "Maffeo Zanon is an archivist.",
+      "propertyCQ": "What is Maffeo Zanon's job?"
+    },
+    "OAnswer": {
+      "object_label": "archivist",
+      "context": "Maffeo Zanon is an archivist.",
+      "objectCQ": "What is Maffeo Zanon's job title?"
+    }
+  }
+]
