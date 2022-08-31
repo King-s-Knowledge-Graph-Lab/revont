@@ -14,8 +14,8 @@ jobs:
       - name: Install python requirements
         shell: bash
         run: |
-          # pip install transformers
-          # pip install sentencepiece
+           pip install transformers
+           pip install sentencepiece
 
       - name: Run script
         shell: bash
