@@ -1,0 +1,4916 @@
+[
+  {
+    "claim_id": "Q27924266$91450999-DEBF-4E26-BCAB-77F14870EE1B",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "narrative role",
+      "context": "Billy Bones is a supporting character in the narrative.",
+      "propertyCQ": "What role does Billy Bones play?"
+    },
+    "OAnswer": {
+      "object_label": "supporting character",
+      "context": "Billy Bones is a supporting character in the narrative.",
+      "objectCQ": "What role does Billy Bones play in the story?"
+    }
+  },
+  {
+    "claim_id": "Q3735669$B1F08553-2952-4107-BAA7-32507413DB8B",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "narrative role",
+      "context": "Evil-Lyn plays the henchperson role.",
+      "propertyCQ": "What role does Evil-Lyn play?"
+    },
+    "OAnswer": {
+      "object_label": "henchperson",
+      "context": "Evil-Lyn plays the henchperson role.",
+      "objectCQ": "Evil-Lyn plays what role?"
+    }
+  },
+  {
+    "claim_id": "Q4925377$1105A9F9-4AA8-44CA-B321-79B45CB28328",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "narrative role",
+      "context": "The henchperson in Blast Off is a narrative role.",
+      "propertyCQ": "What type of role is the henchperson in Blast Off?"
+    },
+    "OAnswer": {
+      "object_label": "henchperson",
+      "context": "The henchperson in Blast Off is a narrative role.",
+      "objectCQ": "What is the role of the henchperson in Blast Off?"
+    }
+  },
+  {
+    "claim_id": "Q106286882$8f4e5e59-4b77-b1ad-93b7-26df99da8669",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "nickname",
+      "context": "Christopher Sembroski's nickname is Chris.",
+      "propertyCQ": "What is Christopher Sembroski's nickname?"
+    },
+    "OAnswer": {
+      "object_label": "Chris",
+      "context": "Christopher Sembroski's nickname is Chris.",
+      "objectCQ": "What is Christopher Sembroski's nickname?"
+    }
+  },
+  {
+    "claim_id": "Q352069$1e76627c-423d-f61d-2832-1d63ebfd313f",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "nickname",
+      "context": "Léopold Eyharts is nicknamed Leo.",
+      "propertyCQ": "What is Leopold Eyharts's nickname?"
+    },
+    "OAnswer": {
+      "object_label": "Leo",
+      "context": "Léopold Eyharts is nicknamed Leo.",
+      "objectCQ": "What is Léopold Eyharts nickname?"
+    }
+  },
+  {
+    "claim_id": "Q724552$f07bb489-41d7-95e3-867d-d1d8a5a0a9e1",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "nickname",
+      "context": "Jim Wetherbee's nickname is wxb.",
+      "propertyCQ": "What is Jim Wetherbee's nickname?"
+    },
+    "OAnswer": {
+      "object_label": "wxb",
+      "context": "Jim Wetherbee's nickname is wxb.",
+      "objectCQ": "What is Jim Wetherbee's nickname?"
+    }
+  },
+  {
+    "claim_id": "Q110879$41454C3B-258A-4EE9-9039-DD10E0DF00DB",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "conflict",
+      "context": "Gus Grissom was involved in the Korean War.",
+      "propertyCQ": "What was Gus Grissom involved in?"
+    },
+    "OAnswer": {
+      "object_label": "Korean War",
+      "context": "Gus Grissom was involved in the Korean War.",
+      "objectCQ": "What war was Gus Grissom involved in?"
+    }
+  },
+  {
+    "claim_id": "Q1122204$2D4A2420-5B47-4A7C-A229-241CB6607761",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "conflict",
+      "context": "Michael J Adams was involved in the Korean War.",
+      "propertyCQ": "What was the Korean War?"
+    },
+    "OAnswer": {
+      "object_label": "Korean War",
+      "context": "Michael J Adams was involved in the Korean War.",
+      "objectCQ": "What war was Michael J Adams involved in?"
+    }
+  },
+  {
+    "claim_id": "Q2252$FB1F4E9C-ADB7-4796-80BA-D6B86849C042",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "conflict",
+      "context": "Buzz Aldrin was involved in the Korean War.",
+      "propertyCQ": "What was Buzz Aldrin involved in?"
+    },
+    "OAnswer": {
+      "object_label": "Korean War",
+      "context": "Buzz Aldrin was involved in the Korean War.",
+      "objectCQ": "What war was Buzz Aldrin involved in?"
+    }
+  },
+  {
+    "claim_id": "Q1986193$7A24FD96-1DBC-4D71-B491-433C7EFA595A",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "catchphrase",
+      "context": "Buzz Lightyear's catchphrase is \"To infinity, and beyond!\".",
+      "propertyCQ": "What is Buzz Lightyear's catchphrase?"
+    },
+    "OAnswer": {
+      "object_label": "To infinity, and beyond!",
+      "context": "Buzz Lightyear's catchphrase is \"To infinity, and beyond!\".",
+      "objectCQ": "What is Buzz Lightyear's catchphrase?"
+    }
+  },
+  {
+    "claim_id": "Q1986193$CA76AC0D-D12D-47F7-B4C0-AC65B6F1BBE1",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "catchphrase",
+      "context": "Buzz Lightyear's catchphrase is Vers l'infini, et au-delà!",
+      "propertyCQ": "What is Buzz Lightyear's tagline?"
+    },
+    "OAnswer": {
+      "object_label": "Vers l'infini, et au-delà !",
+      "context": "Buzz Lightyear's catchphrase is Vers l'infini, et au-delà!",
+      "objectCQ": "What is Buzz Lightyear's catchphrase?"
+    }
+  },
+  {
+    "claim_id": "Q1986193$E4075B33-CC0F-4DDA-9E3F-88183E44683D",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "catchphrase",
+      "context": "Buzz Lightyear's catchphrase is Vers l'infini, et plus loin encore.",
+      "propertyCQ": "What is Buzz Lightyear's catchphrase?"
+    },
+    "OAnswer": {
+      "object_label": "Vers l'infini, et plus loin encore !",
+      "context": "Buzz Lightyear's catchphrase is Vers l'infini, et plus loin encore.",
+      "objectCQ": "What is Buzz Lightyear's catchphrase?"
+    }
+  },
+  {
+    "claim_id": "Q703321$316d573a-d336-4f01-bb0b-dea0129574c8",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "candidacy in election",
+      "context": "Marc Garneau is a candidate in the 2015 Canadian federal election.",
+      "propertyCQ": "What is Garneau's goal in the 2015 Canadian federal election?"
+    },
+    "OAnswer": {
+      "object_label": "2015 Canadian federal election",
+      "context": "Marc Garneau is a candidate in the 2015 Canadian federal election.",
+      "objectCQ": "What election is Marc Garneau a candidate for?"
+    }
+  },
+  {
+    "claim_id": "Q703321$5CDABA8E-39DC-4CCD-B252-907BC0861588",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "candidacy in election",
+      "context": "Marc Garneau is a candidate in the 2019 Canadian federal election.",
+      "propertyCQ": "What is Garneau's goal in 2019?"
+    },
+    "OAnswer": {
+      "object_label": "2019 Canadian federal election",
+      "context": "Marc Garneau is a candidate in the 2019 Canadian federal election.",
+      "objectCQ": "What election is Marc Garneau a candidate for?"
+    }
+  },
+  {
+    "claim_id": "Q703321$2d1fab96-fae7-43ea-9833-c738c2daf5f3",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "candidacy in election",
+      "context": "Marc Garneau was a candidate in the 2008 Canadian federal election.",
+      "propertyCQ": "What was Garneau's main goal in 2008?"
+    },
+    "OAnswer": {
+      "object_label": "2008 Canadian federal election",
+      "context": "Marc Garneau was a candidate in the 2008 Canadian federal election.",
+      "objectCQ": "What election was Garneau a candidate for?"
+    }
+  },
+  {
+    "claim_id": "Q703321$6dca0a0f-4309-43fe-beaa-8850e652df52",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "candidacy in election",
+      "context": "Marc Garneau is a candidate in the 2011 Canadian federal election.",
+      "propertyCQ": "What is Garneau's goal in the 2011 Canadian federal election?"
+    },
+    "OAnswer": {
+      "object_label": "2011 Canadian federal election",
+      "context": "Marc Garneau is a candidate in the 2011 Canadian federal election.",
+      "objectCQ": "What election is Marc Garneau a candidate for?"
+    }
+  },
+  {
+    "claim_id": "Q19242$3ae43f79-8e01-4db1-905c-3d456d609cb3",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "copyright status as a creator",
+      "context": "Bill Anders is a creator of works protected by copyrights.",
+      "propertyCQ": "What status does Bill Anders hold?"
+    },
+    "OAnswer": {
+      "object_label": "works protected by copyrights",
+      "context": "Bill Anders is a creator of works protected by copyrights.",
+      "objectCQ": "What is Bill Anders' work?"
+    }
+  },
+  {
+    "claim_id": "Q313543$31ad1df8-7c12-46ef-af09-f11abbe49197",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "copyright status as a creator",
+      "context": "Ronald Evans is a creator of works protected by copyrights.",
+      "propertyCQ": "What status does Ronald Evans hold?"
+    },
+    "OAnswer": {
+      "object_label": "works protected by copyrights",
+      "context": "Ronald Evans is a creator of works protected by copyrights.",
+      "objectCQ": "What is Ronald Evans's work?"
+    }
+  },
+  {
+    "claim_id": "Q108886$ae206042-78a7-4358-baa1-81c27da1d407",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "copyright status as a creator",
+      "context": "Harrison Schmitt is a creator of works protected by copyrights.",
+      "propertyCQ": "What status does Harrison Schmitt hold?"
+    },
+    "OAnswer": {
+      "object_label": "works protected by copyrights",
+      "context": "Harrison Schmitt is a creator of works protected by copyrights.",
+      "objectCQ": "What is Harrison Schmitt a creator of?"
+    }
+  },
+  {
+    "claim_id": "Q213076$474db855-1ae6-4d51-8790-6edf77d9395a",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "copyright status as a creator",
+      "context": "Pete Conrad is a creator of works protected by copyrights.",
+      "propertyCQ": "What status does Pete Conrad hold?"
+    },
+    "OAnswer": {
+      "object_label": "works protected by copyrights",
+      "context": "Pete Conrad is a creator of works protected by copyrights.",
+      "objectCQ": "What is Pete Conrad's work?"
+    }
+  },
+  {
+    "claim_id": "Q55451797$72bf374b-4eff-8550-ea78-817c5c252bd8",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "religion",
+      "context": "Jiří Alter is a religion that is irreligious.",
+      "propertyCQ": "What is Ji<unk> Alter?"
+    },
+    "OAnswer": {
+      "object_label": "irreligion",
+      "context": "Jiří Alter is a religion that is irreligious.",
+      "objectCQ": "What is Ji<unk> Alter?"
+    }
+  },
+  {
+    "claim_id": "Q77349$06e0d9fa-49aa-439e-6fe2-9eef61b59c4c",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "religion",
+      "context": "Abdul Ahad Mohmand's religion is Islam.",
+      "propertyCQ": "What is Abdul Ahad Mohmand's religion?"
+    },
+    "OAnswer": {
+      "object_label": "Islam",
+      "context": "Abdul Ahad Mohmand's religion is Islam.",
+      "objectCQ": "What is Abdul Ahad Mohmand's religion?"
+    }
+  },
+  {
+    "claim_id": "Q3030934$f6a691aa-49a4-cd83-cb82-c86d3dd97b11",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "religion",
+      "context": "Michael S Hopkins' religion is Catholicism.",
+      "propertyCQ": "What is the religion of Michael S. Hopkins?"
+    },
+    "OAnswer": {
+      "object_label": "Catholicism",
+      "context": "Michael S Hopkins' religion is Catholicism.",
+      "objectCQ": "What is Michael S Hopkins' religion?"
+    }
+  },
+  {
+    "claim_id": "Q55451797$C68E3D9B-C167-495F-B9E9-5FC8F7050540",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "religion",
+      "context": "Jiří Alter's religion is Judaism.",
+      "propertyCQ": "What is Judaism?"
+    },
+    "OAnswer": {
+      "object_label": "Judaism",
+      "context": "Jiří Alter's religion is Judaism.",
+      "objectCQ": "What is Ji<unk> Alter's religion?"
+    }
+  },
+  {
+    "claim_id": "Q166616$ADF573BE-0A7C-43BF-A9B0-2D1318442EB4",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "participant in",
+      "context": "Thomas Reiter was a participant in the German presidential election in 1999.",
+      "propertyCQ": "What was Thomas Reiter's role in the German presidential election?"
+    },
+    "OAnswer": {
+      "object_label": "1999 German presidential election",
+      "context": "Thomas Reiter was a participant in the German presidential election in 1999.",
+      "objectCQ": "In what election was Thomas Reiter a participant?"
+    }
+  },
+  {
+    "claim_id": "Q7327$2A94345D-B61E-478C-AB41-0B65A2CAFB9B",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "participant in",
+      "context": "Yuri Gagarin was a participant in the 23rd Congress of the Communist Party of the Soviet Union.",
+      "propertyCQ": "What was Yuri Gagarin's role in the 23rd Congress of the Communist Party of the Soviet Union?"
+    },
+    "OAnswer": {
+      "object_label": "23rd Congress of the Communist Party of the Soviet Union",
+      "context": "Yuri Gagarin was a participant in the 23rd Congress of the Communist Party of the Soviet Union.",
+      "objectCQ": "What Congress was Yuri Gagarin a participant in?"
+    }
+  },
+  {
+    "claim_id": "Q1289351$FB6D133C-C026-4616-AD37-DE14E602D4C3",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "participant in",
+      "context": "Heike Walpot was a participant in the 1976 Summer Olympics.",
+      "propertyCQ": "What was Heike Walpot's role in the 1976 Summer Olympics?"
+    },
+    "OAnswer": {
+      "object_label": "1976 Summer Olympics",
+      "context": "Heike Walpot was a participant in the 1976 Summer Olympics.",
+      "objectCQ": "What was Heike Walpot a participant in?"
+    }
+  },
+  {
+    "claim_id": "Q7327$D5545094-33C6-4FF6-BB76-B4A5F3ED40FB",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "participant in",
+      "context": "Yuri Gagarin was a participant in the 22nd Congress of the Communist Party of the Soviet Union.",
+      "propertyCQ": "What was Yuri Gagarin's role in the 22nd Congress of the Communist Party of the Soviet Union?"
+    },
+    "OAnswer": {
+      "object_label": "22nd Congress of the Communist Party of the Soviet Union",
+      "context": "Yuri Gagarin was a participant in the 22nd Congress of the Communist Party of the Soviet Union.",
+      "objectCQ": "What Congress was Yuri Gagarin a participant in?"
+    }
+  },
+  {
+    "claim_id": "Q166616$106f5c0a-4466-4d97-aef7-696bb45dbaea",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "work location",
+      "context": "Thomas Reiter's work location is the Karlsruhe Institute of Technology.",
+      "propertyCQ": "What is Thomas Reiter's job location?"
+    },
+    "OAnswer": {
+      "object_label": "Karlsruhe Institute of Technology",
+      "context": "Thomas Reiter's work location is the Karlsruhe Institute of Technology.",
+      "objectCQ": "What is Thomas Reiter's work location?"
+    }
+  },
+  {
+    "claim_id": "Q703321$DAF33F82-8A23-4DBB-ABA5-1EB0E672A8CA",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "work location",
+      "context": "Marc Garneau's work location is Ottawa.",
+      "propertyCQ": "What is Marc Garneau's job location?"
+    },
+    "OAnswer": {
+      "object_label": "Ottawa",
+      "context": "Marc Garneau's work location is Ottawa.",
+      "objectCQ": "Where is Marc Garneau's work location?"
+    }
+  },
+  {
+    "claim_id": "Q108886$AD58F344-05AA-43D2-B111-54AF78408998",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "work location",
+      "context": "Harrison Schmitt's work location is Washington, D.C.",
+      "propertyCQ": "What is Harrison Schmitt's job location?"
+    },
+    "OAnswer": {
+      "object_label": "Washington, D.C.",
+      "context": "Harrison Schmitt's work location is Washington, D.C.",
+      "objectCQ": "Where is Harrison Schmitt's office?"
+    }
+  },
+  {
+    "claim_id": "Q348358$B2D09948-1A1D-4432-BC06-F4F602C209F5",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "work location",
+      "context": "Jack Swigert's work location is Washington, D.C.",
+      "propertyCQ": "What is Jack Swigert's job location?"
+    },
+    "OAnswer": {
+      "object_label": "Washington, D.C.",
+      "context": "Jack Swigert's work location is Washington, D.C.",
+      "objectCQ": "Where is Jack Swigert's office?"
+    }
+  },
+  {
+    "claim_id": "Q19242$82BF2861-648F-4C47-AA8D-A8B08A92132E",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "has works in the collection",
+      "context": "Bill Anders has works in the collection of the National Gallery of Victoria.",
+      "propertyCQ": "What does Bill Anders have in the National Gallery of Victoria?"
+    },
+    "OAnswer": {
+      "object_label": "National Gallery of Victoria",
+      "context": "Bill Anders has works in the collection of the National Gallery of Victoria.",
+      "objectCQ": "Where are Bill Anders' works located?"
+    }
+  },
+  {
+    "claim_id": "Q313543$7BDBD5E5-AF4F-41F1-AB89-97B0085A1008",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "has works in the collection",
+      "context": "Ronald Evans has works in the collection of the Photography Collection of the New York Public Library.",
+      "propertyCQ": "What does Ronald Evans have in the Photography Collection of the New York Public Library?"
+    },
+    "OAnswer": {
+      "object_label": "Photography Collection of the New York Public Library",
+      "context": "Ronald Evans has works in the collection of the Photography Collection of the New York Public Library.",
+      "objectCQ": "Where are Evans' works located?"
+    }
+  },
+  {
+    "claim_id": "Q19242$93FABCFA-B45E-46E5-B49E-AF1CE879EAEF",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "has works in the collection",
+      "context": "Bill Anders has works in the collection of the Photography Collection of the New York Public Library.",
+      "propertyCQ": "What does Bill Anders do with the Photography Collection of the New York Public Library?"
+    },
+    "OAnswer": {
+      "object_label": "Photography Collection of the New York Public Library",
+      "context": "Bill Anders has works in the collection of the Photography Collection of the New York Public Library.",
+      "objectCQ": "What collection of works does Bill Anders have?"
+    }
+  },
+  {
+    "claim_id": "Q108886$2C637E48-64A3-44A6-B08E-82FF132F4B76",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "has works in the collection",
+      "context": "Harrison Schmitt has works in the collection of the New York Public Library.",
+      "propertyCQ": "What does Harrison Schmitt have in the New York Public Library?"
+    },
+    "OAnswer": {
+      "object_label": "Photography Collection of the New York Public Library",
+      "context": "Harrison Schmitt has works in the collection of the New York Public Library.",
+      "objectCQ": "What collection of works does Harrison Schmitt have?"
+    }
+  },
+  {
+    "claim_id": "Q213076$BAE83FF1-F9E8-40C5-9388-9E8C700BE624",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "has works in the collection",
+      "context": "Pete Conrad has works in the collection of the Photography Collection of the New York Public Library.",
+      "propertyCQ": "What does Pete Conrad have in the Photography Collection of the New York Public Library?"
+    },
+    "OAnswer": {
+      "object_label": "Photography Collection of the New York Public Library",
+      "context": "Pete Conrad has works in the collection of the Photography Collection of the New York Public Library.",
+      "objectCQ": "Pete Conrad has works in what collection?"
+    }
+  },
+  {
+    "claim_id": "Q2086732$241C5311-9E53-4130-BC3F-38155F214F2A",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "media franchise",
+      "context": "The media franchise Cosmos is Transformers.",
+      "propertyCQ": "What is Cosmos?"
+    },
+    "OAnswer": {
+      "object_label": "Transformers",
+      "context": "The media franchise Cosmos is Transformers.",
+      "objectCQ": "What is the name of the media franchise Cosmos?"
+    }
+  },
+  {
+    "claim_id": "Q5176840$66585672-CCC8-41C1-A9CC-B41343FF9C9A",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "media franchise",
+      "context": "Countdown is a media franchise of Transformers.",
+      "propertyCQ": "What is Countdown?"
+    },
+    "OAnswer": {
+      "object_label": "Transformers",
+      "context": "Countdown is a media franchise of Transformers.",
+      "objectCQ": "What is the name of the movie Countdown?"
+    }
+  },
+  {
+    "claim_id": "Q2998339$AA336162-8DFD-4EC1-BE17-8C9DF2EF83EA",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "media franchise",
+      "context": "The Smurfs are the media franchise of Astro Smurf.",
+      "propertyCQ": "What is the Smurfs?"
+    },
+    "OAnswer": {
+      "object_label": "The Smurfs",
+      "context": "The Smurfs are the media franchise of Astro Smurf.",
+      "objectCQ": "What is the name of the media franchise of Astro Smurf?"
+    }
+  },
+  {
+    "claim_id": "Q106858902$4E53B1FD-D70C-427D-9910-15251C39C7CA",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "media franchise",
+      "context": "Andrea Steele is in the media franchise Masters of the Universe.",
+      "propertyCQ": "What is Andrea Steele's career?"
+    },
+    "OAnswer": {
+      "object_label": "Masters of the Universe",
+      "context": "Andrea Steele is in the media franchise Masters of the Universe.",
+      "objectCQ": "What is Andrea Steele's media franchise?"
+    }
+  },
+  {
+    "claim_id": "Q3499278$BACB0EAD-538E-42F0-846F-8A1E20C63486",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "media franchise",
+      "context": "Steven Taylor is the creator of the media franchise Doctor Who.",
+      "propertyCQ": "What is Doctor Who?"
+    },
+    "OAnswer": {
+      "object_label": "Doctor Who",
+      "context": "Steven Taylor is the creator of the media franchise Doctor Who.",
+      "objectCQ": "What is Steven Taylor's television show?"
+    }
+  },
+  {
+    "claim_id": "Q1289351$98904D0B-0045-4F97-A2B2-CE21FC4A2B60",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "sport",
+      "context": "Heike Walpot's sport is swimming.",
+      "propertyCQ": "What is Heike Walpot's passion?"
+    },
+    "OAnswer": {
+      "object_label": "swimming",
+      "context": "Heike Walpot's sport is swimming.",
+      "objectCQ": "What is Heike Walpot's sport?"
+    }
+  },
+  {
+    "claim_id": "Q528832$75A4C76E-2AC0-4ED6-8641-E95E6CDC2685",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "sport",
+      "context": "James S Voss plays American football.",
+      "propertyCQ": "What does James S Voss play?"
+    },
+    "OAnswer": {
+      "object_label": "American football",
+      "context": "James S Voss plays American football.",
+      "objectCQ": "What sport does James S Voss play?"
+    }
+  },
+  {
+    "claim_id": "Q213076$AD33DC89-90DC-4A13-AFDF-383FDBAFB999",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "sport",
+      "context": "Pete Conrad's sport is auto racing.",
+      "propertyCQ": "What is Pete Conrad's passion?"
+    },
+    "OAnswer": {
+      "object_label": "auto racing",
+      "context": "Pete Conrad's sport is auto racing.",
+      "objectCQ": "What is Pete Conrad's sport?"
+    }
+  },
+  {
+    "claim_id": "Q1243689$77654FB8-85E7-43EF-9478-8FEE9CA908E2",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "sport",
+      "context": "Sergey Moshchenko's sport is skydiving.",
+      "propertyCQ": "What is Sergey Moshchenko's hobby?"
+    },
+    "OAnswer": {
+      "object_label": "skydiving",
+      "context": "Sergey Moshchenko's sport is skydiving.",
+      "objectCQ": "What is Sergey Moshchenko's sport?"
+    }
+  },
+  {
+    "claim_id": "Q3030934$20A1C56B-3D9A-44CB-BD1E-B02C0AFD313D",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "sport",
+      "context": "Michael S Hopkins plays American football.",
+      "propertyCQ": "What is Michael S Hopkins's passion?"
+    },
+    "OAnswer": {
+      "object_label": "American football",
+      "context": "Michael S Hopkins plays American football.",
+      "objectCQ": "What sport does Michael S Hopkins play?"
+    }
+  },
+  {
+    "claim_id": "Q105627106$2547cdff-43fd-7578-ab94-2dadd95aa069",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "residence",
+      "context": "Hayley Arceneaux lives in Memphis.",
+      "propertyCQ": "Where does Hayley live?"
+    },
+    "OAnswer": {
+      "object_label": "Memphis",
+      "context": "Hayley Arceneaux lives in Memphis.",
+      "objectCQ": "Where does Hayley Arceneaux live?"
+    }
+  },
+  {
+    "claim_id": "Q166616$fb19a340-40d1-234d-cd66-7adb9854db85",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "residence",
+      "context": "Thomas Reiter's residence is in Rastede.",
+      "propertyCQ": "What is Thomas Reiter's name?"
+    },
+    "OAnswer": {
+      "object_label": "Rastede",
+      "context": "Thomas Reiter's residence is in Rastede.",
+      "objectCQ": "Where is Thomas Reiter's residence?"
+    }
+  },
+  {
+    "claim_id": "Q7327$27e72e81-4c6c-d1dd-567e-e2d4716d3e23",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "residence",
+      "context": "Yuri Gagarin's residence was in the Soviet Union.",
+      "propertyCQ": "Where was Yuri Gagarin?"
+    },
+    "OAnswer": {
+      "object_label": "Soviet Union",
+      "context": "Yuri Gagarin's residence was in the Soviet Union.",
+      "objectCQ": "Where was Yuri Gagarin's residence?"
+    }
+  },
+  {
+    "claim_id": "Q240769$40E4B4B9-BD66-4355-A0AA-719BDFE80A12",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "residence",
+      "context": "Julie Payette's residence is Rideau Hall.",
+      "propertyCQ": "What is Julie Payette's name?"
+    },
+    "OAnswer": {
+      "object_label": "Rideau Hall",
+      "context": "Julie Payette's residence is Rideau Hall.",
+      "objectCQ": "What is Julie Payette's residence called?"
+    }
+  },
+  {
+    "claim_id": "Q703321$AB40B51A-AB62-460A-8366-F3C11E375E00",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "residence",
+      "context": "Marc Garneau's residence is Westmount.",
+      "propertyCQ": "What is Marc Garneau's name?"
+    },
+    "OAnswer": {
+      "object_label": "Westmount",
+      "context": "Marc Garneau's residence is Westmount.",
+      "objectCQ": "Where is Marc Garneau's residence?"
+    }
+  },
+  {
+    "claim_id": "Q55451797$EB6AC65E-138B-468D-B97E-0CC2A90AD958",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "residence",
+      "context": "Jiří Alter's residence is Praha II.",
+      "propertyCQ": "What is Ji<unk> Alter's name?"
+    },
+    "OAnswer": {
+      "object_label": "Praha II",
+      "context": "Jiří Alter's residence is Praha II.",
+      "objectCQ": "What is the name of Ji<unk> Alter's residence?"
+    }
+  },
+  {
+    "claim_id": "Q2423326$d6ab719f-4f0a-d370-6855-a02213ccbecd",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "father",
+      "context": "John Jameson's father was J. Jonah Jameson.",
+      "propertyCQ": "What was John Jameson's father's name?"
+    },
+    "OAnswer": {
+      "object_label": "J. Jonah Jameson",
+      "context": "John Jameson's father was J. Jonah Jameson.",
+      "objectCQ": "John Jameson's father was who?"
+    }
+  },
+  {
+    "claim_id": "Q283544$f14df68e-4b45-b033-6311-8797f8e69d88",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "father",
+      "context": "Sergey Alexandrovich Volkov's father is Aleksandr Aleksandrovich Volkov.",
+      "propertyCQ": "What is Sergey Alexandrovich Volkov's name?"
+    },
+    "OAnswer": {
+      "object_label": "Aleksandr Aleksandrovich Volkov",
+      "context": "Sergey Alexandrovich Volkov's father is Aleksandr Aleksandrovich Volkov.",
+      "objectCQ": "Who is Sergey Alexandrovich Volkov's father?"
+    }
+  },
+  {
+    "claim_id": "Q7327$c33f85c9-4765-5b52-1189-2cf28b22357f",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "father",
+      "context": "Alexey Gagarin is the father of Yuri Gagarin.",
+      "propertyCQ": "What is Alexey Gagarin's occupation?"
+    },
+    "OAnswer": {
+      "object_label": "Alexey Gagarin",
+      "context": "Alexey Gagarin is the father of Yuri Gagarin.",
+      "objectCQ": "Who is the father of Yuri Gagarin?"
+    }
+  },
+  {
+    "claim_id": "Q457064$74e9fb5e-4cce-1228-b3bc-34be57576ef7",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "father",
+      "context": "Roman Romanenko's father was Yury Romanenko.",
+      "propertyCQ": "What was Roman Romanenko's name?"
+    },
+    "OAnswer": {
+      "object_label": "Yury Romanenko",
+      "context": "Roman Romanenko's father was Yury Romanenko.",
+      "objectCQ": "Who was Roman Romanenko's father?"
+    }
+  },
+  {
+    "claim_id": "Q704639$7d60cd7e-4f16-a3b7-376d-d64e350f057e",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "father",
+      "context": "Rodolfo Neri Vela's father is Rolando Hugo Neri Calvo.",
+      "propertyCQ": "What is the name of Rodolfo Neri Vela's father?"
+    },
+    "OAnswer": {
+      "object_label": "Rolando Hugo Neri Calvo",
+      "context": "Rodolfo Neri Vela's father is Rolando Hugo Neri Calvo.",
+      "objectCQ": "Who is Rodolfo Neri Vela's father?"
+    }
+  },
+  {
+    "claim_id": "Q49819$BAC4E2C9-98C9-422C-8B9E-07EE0AA58E0F",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "father",
+      "context": "Charles Simonyi's father was Károly Simonyi.",
+      "propertyCQ": "What was Charles Simonyi's name?"
+    },
+    "OAnswer": {
+      "object_label": "Károly Simonyi",
+      "context": "Charles Simonyi's father was Károly Simonyi.",
+      "objectCQ": "What was Charles Simonyi's father's name?"
+    }
+  },
+  {
+    "claim_id": "Q2252$e813031b-f09a-423f-a573-13264fe9a102",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "doctoral advisor",
+      "context": "Walter Wrigley is the doctoral advisor for Buzz Aldrin.",
+      "propertyCQ": "What is Walter Wrigley's job title?"
+    },
+    "OAnswer": {
+      "object_label": "Walter Wrigley",
+      "context": "Walter Wrigley is the doctoral advisor for Buzz Aldrin.",
+      "objectCQ": "Who is the doctoral advisor for Buzz Aldrin?"
+    }
+  },
+  {
+    "claim_id": "Q2252$46558dde-bea2-47c6-9fe7-3224d7a1711d",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "doctoral advisor",
+      "context": "Buzz Aldrin's doctoral advisor was M.A. Hoffman.",
+      "propertyCQ": "What was M.A. Hoffman's job title?"
+    },
+    "OAnswer": {
+      "object_label": "M. A. Hoffman",
+      "context": "Buzz Aldrin's doctoral advisor was M.A. Hoffman.",
+      "objectCQ": "Who was Buzz Aldrin's doctoral advisor?"
+    }
+  },
+  {
+    "claim_id": "Q358931$4c659663-486b-7ae1-bd13-406ca4a1aa3a",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "doctoral advisor",
+      "context": "Garrett Reisman's doctoral advisor was Christopher E. Brennen.",
+      "propertyCQ": "What was Garrett Reisman's position?"
+    },
+    "OAnswer": {
+      "object_label": "Christopher E. Brennen",
+      "context": "Garrett Reisman's doctoral advisor was Christopher E. Brennen.",
+      "objectCQ": "Who was Garrett Reisman's doctoral advisor?"
+    }
+  },
+  {
+    "claim_id": "Q2252$9847a762-ac30-4281-a4cb-ba9a91a60e5b",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "doctoral advisor",
+      "context": "Buzz Aldrin's doctoral advisor was Robert L. Halfman.",
+      "propertyCQ": "What was Robert Halfman's job title?"
+    },
+    "OAnswer": {
+      "object_label": "Robert L. Halfman",
+      "context": "Buzz Aldrin's doctoral advisor was Robert L. Halfman.",
+      "objectCQ": "Who was Buzz Aldrin's doctoral advisor?"
+    }
+  },
+  {
+    "claim_id": "Q30157794$31bc11df-4a97-2daf-0591-34b413011e74",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "doctoral advisor",
+      "context": "Pieter Abbeel is the doctoral advisor for Warren Hoburg.",
+      "propertyCQ": "What is Pieter Abbeel's job title?"
+    },
+    "OAnswer": {
+      "object_label": "Pieter Abbeel",
+      "context": "Pieter Abbeel is the doctoral advisor for Warren Hoburg.",
+      "objectCQ": "Who is the doctoral advisor for Warren Hoburg?"
+    }
+  },
+  {
+    "claim_id": "Q2252$fd2115e2-8a6b-47e0-a42d-9bcb7e48b111",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "doctoral advisor",
+      "context": "Buzz Aldrin's doctoral advisor was N. E. Sears.",
+      "propertyCQ": "What was N. E. Sears' job title?"
+    },
+    "OAnswer": {
+      "object_label": "N. E. Sears",
+      "context": "Buzz Aldrin's doctoral advisor was N. E. Sears.",
+      "objectCQ": "Who was Buzz Aldrin's doctoral advisor?"
+    }
+  },
+  {
+    "claim_id": "Q45080$91b5d6ad-71e8-4f16-acd2-7e4658bfe592",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "doctoral advisor",
+      "context": "Charles Camarda is doctoral advisor to Raphael T Haftka.",
+      "propertyCQ": "What is Charles Camarda's position?"
+    },
+    "OAnswer": {
+      "object_label": "Raphael T Haftka",
+      "context": "Charles Camarda is doctoral advisor to Raphael T Haftka.",
+      "objectCQ": "Who is Charles Camarda a doctoral advisor to?"
+    }
+  },
+  {
+    "claim_id": "Q2252$B7AC838A-DAC5-4BDF-8F1B-D8903EB0D0D5",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "different from",
+      "context": "Buzz Aldrin is different from Edwin Eugene Aldrin Sr.",
+      "propertyCQ": "How does Buzz Aldrin compare to Edwin Eugene Aldrin Sr.?"
+    },
+    "OAnswer": {
+      "object_label": "Edwin Eugene Aldrin Sr.",
+      "context": "Buzz Aldrin is different from Edwin Eugene Aldrin Sr.",
+      "objectCQ": "Who is Buzz Aldrin different from?"
+    }
+  },
+  {
+    "claim_id": "Q7925722$c7a54edf-46ad-6c88-add2-219ca733ac87",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "different from",
+      "context": "Victor Bergman is different from Victor Bergman.",
+      "propertyCQ": "What is the difference between Victor Bergman and Victor Bergman?"
+    },
+    "OAnswer": {
+      "object_label": "Victor Bergman",
+      "context": "Victor Bergman is different from Victor Bergman.",
+      "objectCQ": "Who is different from Victor Bergman?"
+    }
+  },
+  {
+    "claim_id": "Q20979233$ACB7B7B5-2DD0-4E4D-93C4-5F334FFD8CBD",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "different from",
+      "context": "Cosmo the Spacedog is different from Cosmo.",
+      "propertyCQ": "How does Cosmo compare to Cosmo?"
+    },
+    "OAnswer": {
+      "object_label": "Cosmo",
+      "context": "Cosmo the Spacedog is different from Cosmo.",
+      "objectCQ": "What is the name of the spacedog?"
+    }
+  },
+  {
+    "claim_id": "Q912120$2F22E7DC-61F8-4721-9E03-B5ADF6A98D85",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "different from",
+      "context": "Brian Duffy is different from Brian Duffy.",
+      "propertyCQ": "What is Brian Duffy's relationship to Duffy?"
+    },
+    "OAnswer": {
+      "object_label": "Brian Duffy",
+      "context": "Brian Duffy is different from Brian Duffy.",
+      "objectCQ": "Who is different from Brian Duffy?"
+    }
+  },
+  {
+    "claim_id": "Q2423326$26152294-80A0-4600-A0F4-88F4ABEEB4D9",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "different from",
+      "context": "John Jameson is different from J. Jonah Jameson.",
+      "propertyCQ": "How is John Jameson different from J. Jonah Jameson?"
+    },
+    "OAnswer": {
+      "object_label": "J. Jonah Jameson",
+      "context": "John Jameson is different from J. Jonah Jameson.",
+      "objectCQ": "John Jameson is different from who?"
+    }
+  },
+  {
+    "claim_id": "Q703321$c6eb84d3-4457-49cf-2a57-f230992e1d24",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "different from",
+      "context": "Marc Garneau is different from Marc Garneau.",
+      "propertyCQ": "How does Marc Garneau compare to him?"
+    },
+    "OAnswer": {
+      "object_label": "Marc Garneau",
+      "context": "Marc Garneau is different from Marc Garneau.",
+      "objectCQ": "Who is different from Marc Garneau?"
+    }
+  },
+  {
+    "claim_id": "Q3499278$6FC57EDB-26E3-47EE-A807-3A5F3B1BC848",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "different from",
+      "context": "Steven Taylor is different from Steven Taylor.",
+      "propertyCQ": "How does Steven Taylor compare to Steven Taylor?"
+    },
+    "OAnswer": {
+      "object_label": "Steven Taylor",
+      "context": "Steven Taylor is different from Steven Taylor.",
+      "objectCQ": "Who is different from Steven Taylor?"
+    }
+  },
+  {
+    "claim_id": "Q213605$583c6754-4617-3b0e-ec98-160173e6b936",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "number of children",
+      "context": "Hans Schlegel has 7 children.",
+      "propertyCQ": "How many children does Hans Schlegel have?"
+    },
+    "OAnswer": {
+      "object_label": "7",
+      "context": "Hans Schlegel has 7 children.",
+      "objectCQ": "How many children does Hans Schlegel have?"
+    }
+  },
+  {
+    "claim_id": "Q644837$41a9a16d-4721-e145-8bc0-bc02fbaddf2d",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "number of children",
+      "context": "Gerald P. Carr has 6 children.",
+      "propertyCQ": "How many children does Gerald Carr have?"
+    },
+    "OAnswer": {
+      "object_label": "6",
+      "context": "Gerald P. Carr has 6 children.",
+      "objectCQ": "How many children does Gerald P. Carr have?"
+    }
+  },
+  {
+    "claim_id": "Q213076$670d0268-45eb-c7ed-a9b9-e501e876117b",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "number of children",
+      "context": "Pete Conrad has 4 children.",
+      "propertyCQ": "How many children does Pete Conrad have?"
+    },
+    "OAnswer": {
+      "object_label": "4",
+      "context": "Pete Conrad has 4 children.",
+      "objectCQ": "How many children does Pete Conrad have?"
+    }
+  },
+  {
+    "claim_id": "Q916497$61c371b5-4e74-1497-4885-c33110303da6",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "number of children",
+      "context": "Zenon Jankowski has 1 child.",
+      "propertyCQ": "How many children does Zenon Jankowski have?"
+    },
+    "OAnswer": {
+      "object_label": "1",
+      "context": "Zenon Jankowski has 1 child.",
+      "objectCQ": "How many children does Zenon Jankowski have?"
+    }
+  },
+  {
+    "claim_id": "Q229674$eb8983ce-4591-767e-fb89-f97fda39d0af",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "number of children",
+      "context": "Christa McAuliffe has 2 children.",
+      "propertyCQ": "How many children does Christa McAuliffe have?"
+    },
+    "OAnswer": {
+      "object_label": "2",
+      "context": "Christa McAuliffe has 2 children.",
+      "objectCQ": "How many children does Christa McAuliffe have?"
+    }
+  },
+  {
+    "claim_id": "Q317643$11e318a5-4272-1100-7c3b-d3008de06379",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "number of children",
+      "context": "Marcos Pontes has 2 children.",
+      "propertyCQ": "How many children does Marcos Pontes have?"
+    },
+    "OAnswer": {
+      "object_label": "2",
+      "context": "Marcos Pontes has 2 children.",
+      "objectCQ": "How many children does Marcos Pontes have?"
+    }
+  },
+  {
+    "claim_id": "Q3030934$1af1e29e-43f5-8711-9d29-527215103b08",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "number of children",
+      "context": "Michael S Hopkins has 2 children.",
+      "propertyCQ": "How many children does Michael S Hopkins have?"
+    },
+    "OAnswer": {
+      "object_label": "2",
+      "context": "Michael S Hopkins has 2 children.",
+      "objectCQ": "How many children does Michael S Hopkins have?"
+    }
+  },
+  {
+    "claim_id": "Q16931225$e65e60b6-416b-c1f4-c710-d35bd7c13ad1",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "superhuman feature or ability",
+      "context": "Moon Maiden has a superhuman feature or ability called gravity manipulation.",
+      "propertyCQ": "What is gravity manipulation?"
+    },
+    "OAnswer": {
+      "object_label": "gravity manipulation",
+      "context": "Moon Maiden has a superhuman feature or ability called gravity manipulation.",
+      "objectCQ": "What is the superhuman ability Moon Maiden has?"
+    }
+  },
+  {
+    "claim_id": "Q106373153$969ccfad-4e78-c679-867a-5b28af460e37",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "superhuman feature or ability",
+      "context": "The superhuman feature of Void is clairvoyance.",
+      "propertyCQ": "What is clairvoyance?"
+    },
+    "OAnswer": {
+      "object_label": "clairvoyance",
+      "context": "The superhuman feature of Void is clairvoyance.",
+      "objectCQ": "What is the superhuman feature of Void?"
+    }
+  },
+  {
+    "claim_id": "Q106373153$9bc52e13-414c-fa13-c0fe-0849fe5acb8a",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "superhuman feature or ability",
+      "context": "Void has a superhuman feature or ability called psychokinesis.",
+      "propertyCQ": "What is psychokinesis?"
+    },
+    "OAnswer": {
+      "object_label": "psychokinesis",
+      "context": "Void has a superhuman feature or ability called psychokinesis.",
+      "objectCQ": "What is Void's superhuman ability called?"
+    }
+  },
+  {
+    "claim_id": "Q106373153$99b2bf79-4a99-c834-34bc-9d925a026896",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "superhuman feature or ability",
+      "context": "The superhuman feature of Void is teleportation in fiction.",
+      "propertyCQ": "What is teleportation in Void?"
+    },
+    "OAnswer": {
+      "object_label": "teleportation in fiction",
+      "context": "The superhuman feature of Void is teleportation in fiction.",
+      "objectCQ": "What is the superhuman feature of Void?"
+    }
+  },
+  {
+    "claim_id": "Q3735669$7eac24da-4aae-0cab-b505-47e7aa965b58",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "superhuman feature or ability",
+      "context": "Evil-Lyn has a superhuman feature or ability called necromancy.",
+      "propertyCQ": "What is necromancy?"
+    },
+    "OAnswer": {
+      "object_label": "necromancy",
+      "context": "Evil-Lyn has a superhuman feature or ability called necromancy.",
+      "objectCQ": "What is Evil-Lyn's superhuman ability called?"
+    }
+  },
+  {
+    "claim_id": "Q106373153$b62cd21e-46ce-91c9-57d4-a07feda61a3d",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "superhuman feature or ability",
+      "context": "Void has a superhuman feature or ability called precognition.",
+      "propertyCQ": "What is precognition?"
+    },
+    "OAnswer": {
+      "object_label": "precognition",
+      "context": "Void has a superhuman feature or ability called precognition.",
+      "objectCQ": "What is the superhuman ability in Void called?"
+    }
+  },
+  {
+    "claim_id": "Q106373153$b8f3e109-4ee8-a480-6669-6a9e9e606f95",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "superhuman feature or ability",
+      "context": "The superhuman feature of Void is time travel.",
+      "propertyCQ": "What is time travel?"
+    },
+    "OAnswer": {
+      "object_label": "time travel",
+      "context": "The superhuman feature of Void is time travel.",
+      "objectCQ": "What is the superhuman feature of Void?"
+    }
+  },
+  {
+    "claim_id": "Q7327$e427ded0-4853-3b6d-4661-0b89dda45f10",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "ethnic group",
+      "context": "Yuri Gagarin belongs to the ethnic group of Russians.",
+      "propertyCQ": "What group does Yuri Gagarin belong to?"
+    },
+    "OAnswer": {
+      "object_label": "Russians",
+      "context": "Yuri Gagarin belongs to the ethnic group of Russians.",
+      "objectCQ": "What ethnic group does Yuri Gagarin belong to?"
+    }
+  },
+  {
+    "claim_id": "Q357450$67b04bac-4889-bf1a-7f59-9a79b28443ec",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "ethnic group",
+      "context": "Soichi Noguchi is a dish from the ethnic group of Japanese people.",
+      "propertyCQ": "What group of people makes Soichi Noguchi?"
+    },
+    "OAnswer": {
+      "object_label": "Japanese people",
+      "context": "Soichi Noguchi is a dish from the ethnic group of Japanese people.",
+      "objectCQ": "What ethnic group is Soichi Noguchi from?"
+    }
+  },
+  {
+    "claim_id": "Q528943$F5BB4173-AA97-4211-BBFC-51A0952CA884",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "ethnic group",
+      "context": "Guion Bluford is an African American.",
+      "propertyCQ": "What is Guion Bluford?"
+    },
+    "OAnswer": {
+      "object_label": "African Americans",
+      "context": "Guion Bluford is an African American.",
+      "objectCQ": "What is Guion Bluford's nationality?"
+    }
+  },
+  {
+    "claim_id": "Q17593755$E56AACE0-8889-449A-A160-814CF86EABAF",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "ethnic group",
+      "context": "The ethnic group of Gurgens Ivanjans is Armenians.",
+      "propertyCQ": "What is the Gurgens Ivanjans?"
+    },
+    "OAnswer": {
+      "object_label": "Armenians",
+      "context": "The ethnic group of Gurgens Ivanjans is Armenians.",
+      "objectCQ": "What is the ethnic group of Gurgens Ivanjans?"
+    }
+  },
+  {
+    "claim_id": "Q77349$5a554524-487c-3027-2cd8-1b40a3a581cf",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "ethnic group",
+      "context": "Abdul Ahad Mohmand is from the ethnic group of Pashtuns.",
+      "propertyCQ": "What is Abdul Ahad Mohmand from?"
+    },
+    "OAnswer": {
+      "object_label": "Pashtuns",
+      "context": "Abdul Ahad Mohmand is from the ethnic group of Pashtuns.",
+      "objectCQ": "What ethnic group is Abdul Ahad Mohmand from?"
+    }
+  },
+  {
+    "claim_id": "Q41597$21F3F45E-4F0B-4E19-920D-5E5022A2160E",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "ethnic group",
+      "context": "Joan Higginbotham is an African American.",
+      "propertyCQ": "What is Joan Higginbotham?"
+    },
+    "OAnswer": {
+      "object_label": "African Americans",
+      "context": "Joan Higginbotham is an African American.",
+      "objectCQ": "What is Joan Higginbotham's nationality?"
+    }
+  },
+  {
+    "claim_id": "Q49819$E8309723-4A93-4E82-BCBC-3FC68AB7EB91",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "ethnic group",
+      "context": "Charles Simonyi is from the Hungarian American ethnic group.",
+      "propertyCQ": "What is Simonyi from?"
+    },
+    "OAnswer": {
+      "object_label": "Hungarian American",
+      "context": "Charles Simonyi is from the Hungarian American ethnic group.",
+      "objectCQ": "What ethnic group is Charles Simonyi from?"
+    }
+  },
+  {
+    "claim_id": "Q56218628$1dcd893b-41d2-a23b-a9e7-47a3a0c2ca01",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "performer",
+      "context": "Ben Affleck is a performer of A.J. Frost.",
+      "propertyCQ": "What is Ben Affleck's job title?"
+    },
+    "OAnswer": {
+      "object_label": "Ben Affleck",
+      "context": "Ben Affleck is a performer of A.J. Frost.",
+      "objectCQ": "Who is a performer of A.J. Frost?"
+    }
+  },
+  {
+    "claim_id": "Q18208341$ffe37925-434b-d927-8434-0f09951576e2",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "performer",
+      "context": "Halle Berry is a performer of Molly Woods.",
+      "propertyCQ": "What is Halle Berry's job title?"
+    },
+    "OAnswer": {
+      "object_label": "Halle Berry",
+      "context": "Halle Berry is a performer of Molly Woods.",
+      "objectCQ": "Who is a performer of Molly Woods?"
+    }
+  },
+  {
+    "claim_id": "Q3499278$79551a84-4f92-1908-0774-505e48f375e7",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "performer",
+      "context": "Steven Taylor performs with Peter Purves.",
+      "propertyCQ": "What is Steven Taylor's profession?"
+    },
+    "OAnswer": {
+      "object_label": "Peter Purves",
+      "context": "Steven Taylor performs with Peter Purves.",
+      "objectCQ": "Who does Steven Taylor perform with?"
+    }
+  },
+  {
+    "claim_id": "Q104456798$d7500b2b-4f29-edec-a1e5-d8629f4277b6",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "performer",
+      "context": "Shunsuke Takasugi is a performer of Kazuya Oki.",
+      "propertyCQ": "What is Shunsuke Takasugi's occupation?"
+    },
+    "OAnswer": {
+      "object_label": "Shunsuke Takasugi",
+      "context": "Shunsuke Takasugi is a performer of Kazuya Oki.",
+      "objectCQ": "Who is a performer of Kazuya Oki?"
+    }
+  },
+  {
+    "claim_id": "Q3827138$9201afa3-4bdc-f0de-44b9-bc1cd6a61d96",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "performer",
+      "context": "Larry Fleinhardt performs with Peter MacNicol.",
+      "propertyCQ": "What is Larry Fleinhardt's profession?"
+    },
+    "OAnswer": {
+      "object_label": "Peter MacNicol",
+      "context": "Larry Fleinhardt performs with Peter MacNicol.",
+      "objectCQ": "Who does Larry Fleinhardt perform with?"
+    }
+  },
+  {
+    "claim_id": "Q1986193$f1baa453-4bff-5661-6e4f-5da5597f1103",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "performer",
+      "context": "Tim Allen is a performer of Buzz Lightyear.",
+      "propertyCQ": "What is Tim Allen's job title?"
+    },
+    "OAnswer": {
+      "object_label": "Tim Allen",
+      "context": "Tim Allen is a performer of Buzz Lightyear.",
+      "objectCQ": "Who is a performer of Buzz Lightyear?"
+    }
+  },
+  {
+    "claim_id": "Q63862617$9c350dcd-4840-8db6-8a14-d4218a98b145",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "performer",
+      "context": "Dwayne Johnson is a performer of Charles T Baker.",
+      "propertyCQ": "What is Dwayne Johnson's job title?"
+    },
+    "OAnswer": {
+      "object_label": "Dwayne Johnson",
+      "context": "Dwayne Johnson is a performer of Charles T Baker.",
+      "objectCQ": "Who is a performer of Charles T Baker?"
+    }
+  },
+  {
+    "claim_id": "Q3030934$c786808e-4453-7249-8605-162a69833717",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "birth name",
+      "context": "Michael S Hopkins was born Michael Scott Hopkins.",
+      "propertyCQ": "What was Michael Hopkins's first name?"
+    },
+    "OAnswer": {
+      "object_label": "Michael Scott Hopkins",
+      "context": "Michael S Hopkins was born Michael Scott Hopkins.",
+      "objectCQ": "What was the birth name of Michael Hopkins?"
+    }
+  },
+  {
+    "claim_id": "Q1394857$FB393B05-765B-4974-9BF9-2F0AA175D34A",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "birth name",
+      "context": "Luca Parmitano's birth name is Luca Salvo Parmitano.",
+      "propertyCQ": "What is Luca Parmitano's birth name?"
+    },
+    "OAnswer": {
+      "object_label": "Luca Salvo Parmitano",
+      "context": "Luca Parmitano's birth name is Luca Salvo Parmitano.",
+      "objectCQ": "What is Luca Parmitano's birth name?"
+    }
+  },
+  {
+    "claim_id": "Q704639$57b5549f-4782-65dd-f151-3e4c1090224a",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "birth name",
+      "context": "Rodolfo Neri Vela is the birth name of Rodolfo Neri Vela.",
+      "propertyCQ": "What is Rodolfo Neri Vela's birth name?"
+    },
+    "OAnswer": {
+      "object_label": "Rodolfo Neri Vela",
+      "context": "Rodolfo Neri Vela is the birth name of Rodolfo Neri Vela.",
+      "objectCQ": "What is the birth name of Rodolfo Neri Vela?"
+    }
+  },
+  {
+    "claim_id": "Q7327$1924B9EE-2758-4116-8AE6-5458F639B0B9",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "birth name",
+      "context": "Yuri Gagarin's birth name is Юрий Алексеевич Гагарин.",
+      "propertyCQ": "What is Yuri Gagarin's first name?"
+    },
+    "OAnswer": {
+      "object_label": "Юрий Алексеевич Гагарин",
+      "context": "Yuri Gagarin's birth name is Юрий Алексеевич Гагарин.",
+      "objectCQ": "What is Yuri Gagarin's birth name?"
+    }
+  },
+  {
+    "claim_id": "Q2252$69ef333e-4602-08b5-f9b5-b6ac7029394b",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "birth name",
+      "context": "Buzz Aldrin's birth name is Edwin Eugene Aldrin Junior.",
+      "propertyCQ": "What is Buzz Aldrin's first name?"
+    },
+    "OAnswer": {
+      "object_label": "Edwin Eugene Aldrin Junior",
+      "context": "Buzz Aldrin's birth name is Edwin Eugene Aldrin Junior.",
+      "objectCQ": "What is Buzz Aldrin's birth name?"
+    }
+  },
+  {
+    "claim_id": "Q213076$a244328f-4106-873b-6d46-84a018c2e276",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "birth name",
+      "context": "Pete Conrad's birth name is Charles Conrad, Jr.",
+      "propertyCQ": "What is Pete Conrad's first name?"
+    },
+    "OAnswer": {
+      "object_label": "Charles Conrad, Jr.",
+      "context": "Pete Conrad's birth name is Charles Conrad, Jr.",
+      "objectCQ": "What is Pete Conrad's birth name?"
+    }
+  },
+  {
+    "claim_id": "Q644837$9ff6de94-4cf4-3e10-7a3f-e5f714d7759a",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "birth name",
+      "context": "Gerald Paul Carr was born Gerald P. Carr.",
+      "propertyCQ": "What was Gerald Paul Carr's first name?"
+    },
+    "OAnswer": {
+      "object_label": "Gerald Paul Carr",
+      "context": "Gerald Paul Carr was born Gerald P. Carr.",
+      "objectCQ": "What was the real name of Gerald P. Carr?"
+    }
+  },
+  {
+    "claim_id": "Q5151619$1D20EC23-8542-4519-A98E-C1D74F88EDBC",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "from narrative universe",
+      "context": "Comet Man is from the Marvel Universe.",
+      "propertyCQ": "Where is Comet Man?"
+    },
+    "OAnswer": {
+      "object_label": "Marvel Universe",
+      "context": "Comet Man is from the Marvel Universe.",
+      "objectCQ": "What universe is Comet Man from?"
+    }
+  },
+  {
+    "claim_id": "Q44404238$73FFFCF7-BB00-4B37-A9D3-5DE1A609EC67",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "from narrative universe",
+      "context": "Leutnant Helga Legrelle is from the narrative universe of Raumpatrouille-Orion-Universe.",
+      "propertyCQ": "Where is Leutnant Helga Legrelle from?"
+    },
+    "OAnswer": {
+      "object_label": "Raumpatrouille-Orion-Universe",
+      "context": "Leutnant Helga Legrelle is from the narrative universe of Raumpatrouille-Orion-Universe.",
+      "objectCQ": "Where is Leutnant Helga Legrelle from?"
+    }
+  },
+  {
+    "claim_id": "Q106373153$ce994f82-4d1d-8b82-c0c1-868a2033ed27",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "from narrative universe",
+      "context": "Void is from the narrative universe Wildstorm Universe.",
+      "propertyCQ": "Where is Void from?"
+    },
+    "OAnswer": {
+      "object_label": "Wildstorm Universe",
+      "context": "Void is from the narrative universe Wildstorm Universe.",
+      "objectCQ": "Void is from what narrative universe?"
+    }
+  },
+  {
+    "claim_id": "Q44403064$51130443-4d73-23c5-2566-3b597677ee46",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "from narrative universe",
+      "context": "Tamara Jagellovsk is from the narrative universe of Raumpatrouille-Orion-Universe.",
+      "propertyCQ": "Where is Tamara Jagellovsk from?"
+    },
+    "OAnswer": {
+      "object_label": "Raumpatrouille-Orion-Universe",
+      "context": "Tamara Jagellovsk is from the narrative universe of Raumpatrouille-Orion-Universe.",
+      "objectCQ": "Where is Tamara Jagellovsk from?"
+    }
+  },
+  {
+    "claim_id": "Q2423326$9CC0854B-4936-4B1D-8C1B-A1F80984FADC",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "from narrative universe",
+      "context": "John Jameson is a character in the Marvel Universe.",
+      "propertyCQ": "From what kind of universe is John Jameson?"
+    },
+    "OAnswer": {
+      "object_label": "Marvel Universe",
+      "context": "John Jameson is a character in the Marvel Universe.",
+      "objectCQ": "What is John Jameson a character in?"
+    }
+  },
+  {
+    "claim_id": "Q16931225$a5a3588f-4f37-341f-189b-a027bee0e7a6",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "from narrative universe",
+      "context": "Moon Maiden is from the DC Universe.",
+      "propertyCQ": "Where is Moon Maiden from?"
+    },
+    "OAnswer": {
+      "object_label": "DC Universe",
+      "context": "Moon Maiden is from the DC Universe.",
+      "objectCQ": "Moon Maiden is from what universe?"
+    }
+  },
+  {
+    "claim_id": "Q106858902$5C94A3D8-E705-4DD9-8BD4-B686926434C9",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "from narrative universe",
+      "context": "Andrea Steele is from the narrative universe, Masters of the Universe universe.",
+      "propertyCQ": "Where is Andrea Steele from?"
+    },
+    "OAnswer": {
+      "object_label": "Masters of the Universe universe",
+      "context": "Andrea Steele is from the narrative universe, Masters of the Universe universe.",
+      "objectCQ": "What is Andrea Steele's name?"
+    }
+  },
+  {
+    "claim_id": "q721397$6569F3FB-1310-4982-BFB4-A39775615845",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "spouse",
+      "context": "Jean-Pierre Haigneré's spouse is Claudie Haigneré.",
+      "propertyCQ": "What is Claudie Haigneré's occupation?"
+    },
+    "OAnswer": {
+      "object_label": "Claudie Haigneré",
+      "context": "Jean-Pierre Haigneré's spouse is Claudie Haigneré.",
+      "objectCQ": "Who is Jean-Pierre Haigneré's spouse?"
+    }
+  },
+  {
+    "claim_id": "Q2423326$042625f6-45dd-5b82-da4d-bbb22bb36529",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "spouse",
+      "context": "She-Hulk is the spouse of John Jameson.",
+      "propertyCQ": "What is She-Hulk's relationship to John Jameson?"
+    },
+    "OAnswer": {
+      "object_label": "She-Hulk",
+      "context": "She-Hulk is the spouse of John Jameson.",
+      "objectCQ": "Who is John Jameson's spouse?"
+    }
+  },
+  {
+    "claim_id": "Q110879$719e2d36-423a-fb42-8f8c-35b9935a7c05",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "spouse",
+      "context": "Betty Grissom is the spouse of Gus Grissom.",
+      "propertyCQ": "What is Betty Grissom's position?"
+    },
+    "OAnswer": {
+      "object_label": "Betty Grissom",
+      "context": "Betty Grissom is the spouse of Gus Grissom.",
+      "objectCQ": "Who is the spouse of Gus Grissom?"
+    }
+  },
+  {
+    "claim_id": "Q229674$d10dc008-4615-9b0a-7bdf-3266585a54ef",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "spouse",
+      "context": "Christa McAuliffe's spouse is Steven J. McAuliffe.",
+      "propertyCQ": "What is Steven J. McAuliffe's occupation?"
+    },
+    "OAnswer": {
+      "object_label": "Steven J. McAuliffe",
+      "context": "Christa McAuliffe's spouse is Steven J. McAuliffe.",
+      "objectCQ": "Who is Christa McAuliffe's spouse?"
+    }
+  },
+  {
+    "claim_id": "Q213076$B4F3A3C6-E753-4937-964D-251DC6C69582",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "spouse",
+      "context": "Pete Conrad's spouse is Jane Conrad.",
+      "propertyCQ": "What is Jane Conrad's occupation?"
+    },
+    "OAnswer": {
+      "object_label": "Jane Conrad",
+      "context": "Pete Conrad's spouse is Jane Conrad.",
+      "objectCQ": "Pete Conrad's spouse is who?"
+    }
+  },
+  {
+    "claim_id": "Q1289351$cd4c2652-4932-613d-0f0c-283da109ab2d",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "spouse",
+      "context": "Heike Walpot's spouse is Hans Schlegel.",
+      "propertyCQ": "What is Hans Schlegel's occupation?"
+    },
+    "OAnswer": {
+      "object_label": "Hans Schlegel",
+      "context": "Heike Walpot's spouse is Hans Schlegel.",
+      "objectCQ": "Who is Heike Walpot's spouse?"
+    }
+  },
+  {
+    "claim_id": "q120793$702555E0-EC86-4D99-B74C-E7976C3EAF4E",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "spouse",
+      "context": "Douglas G Hurley's spouse is Karen L. Nyberg.",
+      "propertyCQ": "What is Karen L. Nyberg's occupation?"
+    },
+    "OAnswer": {
+      "object_label": "Karen L. Nyberg",
+      "context": "Douglas G Hurley's spouse is Karen L. Nyberg.",
+      "objectCQ": "Who is Douglas G Hurley's spouse?"
+    }
+  },
+  {
+    "claim_id": "Q71248$3be6db5d-416d-fe85-0b3f-e3c9a1f4d5d8",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "academic degree",
+      "context": "Alexander Gerst has an academic degree of doctorate.",
+      "propertyCQ": "What kind of degree does Gerst hold?"
+    },
+    "OAnswer": {
+      "object_label": "doctorate",
+      "context": "Alexander Gerst has an academic degree of doctorate.",
+      "objectCQ": "What degree does Gerst hold?"
+    }
+  },
+  {
+    "claim_id": "Q465461$BFBD162D-A2E3-4523-86A1-628037171E42",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "academic degree",
+      "context": "Yury Glazkov has an academic degree in Engineering.",
+      "propertyCQ": "What type of degree does Yury Glazkov hold?"
+    },
+    "OAnswer": {
+      "object_label": "Doctor in Engineering",
+      "context": "Yury Glazkov has an academic degree in Engineering.",
+      "objectCQ": "What degree does Yury Glazkov hold?"
+    }
+  },
+  {
+    "claim_id": "Q166616$a0981fa6-43b9-47fa-6a49-4930e14a234b",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "academic degree",
+      "context": "Thomas Reiter holds an academic degree.",
+      "propertyCQ": "What type of degree does Thomas Reiter hold?"
+    },
+    "OAnswer": {
+      "object_label": "diploma",
+      "context": "Thomas Reiter holds an academic degree.",
+      "objectCQ": "What does Thomas Reiter hold?"
+    }
+  },
+  {
+    "claim_id": "Q3329196$ccf14c2f-6319-4d22-8c38-057eb67cfa47",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "academic degree",
+      "context": "Sergey Ryazansky holds an academic degree as a Candidate of Biology Sciences.",
+      "propertyCQ": "What type of degree does Sergey Ryazansky hold?"
+    },
+    "OAnswer": {
+      "object_label": "Candidate of Biology Sciences",
+      "context": "Sergey Ryazansky holds an academic degree as a Candidate of Biology Sciences.",
+      "objectCQ": "What is Sergey Ryazansky's academic degree?"
+    }
+  },
+  {
+    "claim_id": "Q26255563$7D817D07-EE30-4EA6-AA20-86A60B118894",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "academic degree",
+      "context": "Andrei Babkin holds an academic degree as a Candidate of Technical Sciences.",
+      "propertyCQ": "What type of degree does Andrei Babkin hold?"
+    },
+    "OAnswer": {
+      "object_label": "Candidate of Technical Sciences",
+      "context": "Andrei Babkin holds an academic degree as a Candidate of Technical Sciences.",
+      "objectCQ": "What is Andrei Babkin's academic degree?"
+    }
+  },
+  {
+    "claim_id": "Q210184$a2e96c16-f2a6-46d1-bdb9-48cc45474128",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "academic degree",
+      "context": "Dennis Tito has an academic degree of Doctor of Sciences.",
+      "propertyCQ": "What type of degree does Dennis Tito hold?"
+    },
+    "OAnswer": {
+      "object_label": "Doctor of Sciences",
+      "context": "Dennis Tito has an academic degree of Doctor of Sciences.",
+      "objectCQ": "What degree does Dennis Tito hold?"
+    }
+  },
+  {
+    "claim_id": "Q17426873$FD0EBA5E-9AC5-4068-8195-046DEFB19270",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "academic degree",
+      "context": "Фаткуллин, Марс Нургалиевич has an academic degree of Doctor of Sciences in Physics and Mathematics.",
+      "propertyCQ": "What is the degree in Physics and Mathematics?"
+    },
+    "OAnswer": {
+      "object_label": "Doctor of Sciences in Physics and Mathematics",
+      "context": "Фаткуллин, Марс Нургалиевич has an academic degree of Doctor of Sciences in Physics and Mathematics.",
+      "objectCQ": "What degree does <unk>аткуллин hold?"
+    }
+  },
+  {
+    "claim_id": "Q461807$2E9517E6-A4EC-4096-BD2C-CF0F8AA6085C",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "significant event",
+      "context": "Maksim Surayev's significant event was the extra-vehicular activity.",
+      "propertyCQ": "What was the extra-vehicular activity?"
+    },
+    "OAnswer": {
+      "object_label": "extra-vehicular activity",
+      "context": "Maksim Surayev's significant event was the extra-vehicular activity.",
+      "objectCQ": "What was the major event that Maksim Surayev had?"
+    }
+  },
+  {
+    "claim_id": "Q60825146$9FC5AFAB-C52D-41AF-A702-CE648B5342E3",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "significant event",
+      "context": "Преображенский, Владимир Евгеньевич were significant events in the Chernobyl disaster.",
+      "propertyCQ": "What was the significance of the Chernobyl disaster?"
+    },
+    "OAnswer": {
+      "object_label": "Chernobyl disaster",
+      "context": "Преображенский, Владимир Евгеньевич were significant events in the Chernobyl disaster.",
+      "objectCQ": "What disaster caused significant events?"
+    }
+  },
+  {
+    "claim_id": "Q108886$0c0a40f2-42ff-59a8-891a-419fce6f4bb2",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "significant event",
+      "context": "Harrison Schmitt's significant event was the walk on the Moon.",
+      "propertyCQ": "What was the walk on the moon?"
+    },
+    "OAnswer": {
+      "object_label": "walk on the Moon",
+      "context": "Harrison Schmitt's significant event was the walk on the Moon.",
+      "objectCQ": "What was Harrison Schmitt's significant event?"
+    }
+  },
+  {
+    "claim_id": "Q7327$8c939c3e-4fda-ae9c-f629-6059af275250",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "significant event",
+      "context": "Yuri Gagarin was a significant event in spaceflight.",
+      "propertyCQ": "What was Yuri Gagarin?"
+    },
+    "OAnswer": {
+      "object_label": "spaceflight",
+      "context": "Yuri Gagarin was a significant event in spaceflight.",
+      "objectCQ": "What field did Yuri Gagarin represent?"
+    }
+  },
+  {
+    "claim_id": "Q240769$0697746f-4479-5707-036b-a6518d9653a0",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "significant event",
+      "context": "Julie Payette's significant event was the resignation of Julie Payette.",
+      "propertyCQ": "What was Julie Payette's resignation?"
+    },
+    "OAnswer": {
+      "object_label": "Resignation of Julie Payette",
+      "context": "Julie Payette's significant event was the resignation of Julie Payette.",
+      "objectCQ": "What was Julie Payette's significant event?"
+    }
+  },
+  {
+    "claim_id": "Q448491$E10E2239-4748-4DE7-B58E-DDFB417EFB15",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "significant event",
+      "context": "Yuri Gidzenko was involved in an extra-vehicular activity.",
+      "propertyCQ": "What was Gidzenko involved in?"
+    },
+    "OAnswer": {
+      "object_label": "extra-vehicular activity",
+      "context": "Yuri Gidzenko was involved in an extra-vehicular activity.",
+      "objectCQ": "What type of activity was Gidzenko involved in?"
+    }
+  },
+  {
+    "claim_id": "Q2252$d3df253f-41c2-cebd-af3c-bea30d2236f9",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "significant event",
+      "context": "Buzz Aldrin's significant event was the walk on the Moon.",
+      "propertyCQ": "What was Buzz Aldrin's walk on the moon?"
+    },
+    "OAnswer": {
+      "object_label": "walk on the Moon",
+      "context": "Buzz Aldrin's significant event was the walk on the Moon.",
+      "objectCQ": "What was Buzz Aldrin's significant event?"
+    }
+  },
+  {
+    "claim_id": "Q106373153$35e731fb-4fd5-922a-940f-7d88745a2ff6",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "creator",
+      "context": "Void was created by Jim Lee.",
+      "propertyCQ": "Who created Void?"
+    },
+    "OAnswer": {
+      "object_label": "Jim Lee",
+      "context": "Void was created by Jim Lee.",
+      "objectCQ": "Who created Void?"
+    }
+  },
+  {
+    "claim_id": "Q106373153$b0026287-4b16-0251-5d12-376232aec145",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "creator",
+      "context": "Brandon Choi is the creator of Void.",
+      "propertyCQ": "What is Brandon Choi's job?"
+    },
+    "OAnswer": {
+      "object_label": "Brandon Choi",
+      "context": "Brandon Choi is the creator of Void.",
+      "objectCQ": "Who created Void?"
+    }
+  },
+  {
+    "claim_id": "Q1986193$3347f629-493e-074c-10f4-e01516404b09",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "creator",
+      "context": "Buzz Lightyear was created by Pete Docter.",
+      "propertyCQ": "What was Pete Docter's job?"
+    },
+    "OAnswer": {
+      "object_label": "Pete Docter",
+      "context": "Buzz Lightyear was created by Pete Docter.",
+      "objectCQ": "Who created Buzz Lightyear?"
+    }
+  },
+  {
+    "claim_id": "Q56218628$2f285212-4431-e0f8-64c8-ab9cc877f857",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "creator",
+      "context": "Robert Roy Pool is the creator of A.J. Frost.",
+      "propertyCQ": "What is Robert Roy Pool's job?"
+    },
+    "OAnswer": {
+      "object_label": "Robert Roy Pool",
+      "context": "Robert Roy Pool is the creator of A.J. Frost.",
+      "objectCQ": "Who created A.J. Frost?"
+    }
+  },
+  {
+    "claim_id": "Q56218628$d40758ed-4f8f-0ab6-4be2-4df5e64b4268",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "creator",
+      "context": "A.J. Frost was created by Shane Salerno.",
+      "propertyCQ": "What was Shane Salerno's job?"
+    },
+    "OAnswer": {
+      "object_label": "Shane Salerno",
+      "context": "A.J. Frost was created by Shane Salerno.",
+      "objectCQ": "Who created A.J. Frost?"
+    }
+  },
+  {
+    "claim_id": "Q56218628$7f9e31a6-47cc-4e41-001e-600c82e318d3",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "creator",
+      "context": "A.J. Frost was created by J.J. Abrams.",
+      "propertyCQ": "Who created A.J. Frost?"
+    },
+    "OAnswer": {
+      "object_label": "J. J. Abrams",
+      "context": "A.J. Frost was created by J.J. Abrams.",
+      "objectCQ": "Who created A.J. Frost?"
+    }
+  },
+  {
+    "claim_id": "Q2164206$6FEBDAC4-989C-466B-AF4D-F1BB40D98AF8",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "creator",
+      "context": "Captain Black was created by Gerry Anderson.",
+      "propertyCQ": "Who created Captain Black?"
+    },
+    "OAnswer": {
+      "object_label": "Gerry Anderson",
+      "context": "Captain Black was created by Gerry Anderson.",
+      "objectCQ": "Who created Captain Black?"
+    }
+  },
+  {
+    "claim_id": "Q203026$3F2A0588-2974-401E-B5F3-0900C6738450",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "allegiance",
+      "context": "Sergei Zalyotin's allegiance is to Russia.",
+      "propertyCQ": "What is Sergei Zalyotin's relationship to Russia?"
+    },
+    "OAnswer": {
+      "object_label": "Russia",
+      "context": "Sergei Zalyotin's allegiance is to Russia.",
+      "objectCQ": "To whom does Sergei Zalyotin allegiate?"
+    }
+  },
+  {
+    "claim_id": "Q26837347$C8E3B4CB-EFE3-41EC-8BF6-6C971C7B12E5",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "allegiance",
+      "context": "Mikhail Lisun's allegiance is the Soviet Union.",
+      "propertyCQ": "What is Mikhail Lisun's relationship to the Soviet Union?"
+    },
+    "OAnswer": {
+      "object_label": "Soviet Union",
+      "context": "Mikhail Lisun's allegiance is the Soviet Union.",
+      "objectCQ": "What country does Mikhail Lisun belong to?"
+    }
+  },
+  {
+    "claim_id": "Q360060$08C7A83F-04AB-43C5-88FA-8F7FB824D8ED",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "allegiance",
+      "context": "Leonid Kizim's allegiance is to Russia.",
+      "propertyCQ": "What is Kizim's relationship to Russia?"
+    },
+    "OAnswer": {
+      "object_label": "Russia",
+      "context": "Leonid Kizim's allegiance is to Russia.",
+      "objectCQ": "Leonid Kizim's allegiance is to what country?"
+    }
+  },
+  {
+    "claim_id": "Q956160$6DDDAA70-4711-4EBB-876F-1DA6153A1055",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "allegiance",
+      "context": "Gennadi Manakov's allegiance is to Russia.",
+      "propertyCQ": "What is Gennadi Manakov's relationship to Russia?"
+    },
+    "OAnswer": {
+      "object_label": "Russia",
+      "context": "Gennadi Manakov's allegiance is to Russia.",
+      "objectCQ": "To whom does Gennadi Manakov allegiate?"
+    }
+  },
+  {
+    "claim_id": "Q488043$D12FEEFF-9F55-4551-A72A-DF570E83ED7B",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "allegiance",
+      "context": "Anatoly Filipchenko's allegiance is the Soviet Union.",
+      "propertyCQ": "What is Anatoly Filipchenko's political affiliation to the Soviet Union?"
+    },
+    "OAnswer": {
+      "object_label": "Soviet Union",
+      "context": "Anatoly Filipchenko's allegiance is the Soviet Union.",
+      "objectCQ": "Who is Anatoly Filipchenko's allegiance?"
+    }
+  },
+  {
+    "claim_id": "Q820606$289A0C53-C8EB-4F12-95B3-79C9101B04A2",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "allegiance",
+      "context": "Irina Solovyova's allegiance is the Soviet Union.",
+      "propertyCQ": "What is Irina Solovyova's political affiliation to the Soviet Union?"
+    },
+    "OAnswer": {
+      "object_label": "Soviet Union",
+      "context": "Irina Solovyova's allegiance is the Soviet Union.",
+      "objectCQ": "Who is Irina Solovyova's allegiance?"
+    }
+  },
+  {
+    "claim_id": "Q461807$F336A55A-E642-4117-8EAC-E13AB8338C72",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "allegiance",
+      "context": "Maksim Surayev's allegiance is to Russia.",
+      "propertyCQ": "What is Surayev's relationship to Russia?"
+    },
+    "OAnswer": {
+      "object_label": "Russia",
+      "context": "Maksim Surayev's allegiance is to Russia.",
+      "objectCQ": "To what country does Surayev allegiance?"
+    }
+  },
+  {
+    "claim_id": "Q110879$9C4A1A82-8187-4B78-BD4C-12C80D60206D",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "manner of death",
+      "context": "Gus Grissom died in an accident.",
+      "propertyCQ": "What was the cause of death?"
+    },
+    "OAnswer": {
+      "object_label": "accident",
+      "context": "Gus Grissom died in an accident.",
+      "objectCQ": "What caused the death of Gus Grissom?"
+    }
+  },
+  {
+    "claim_id": "Q1122204$5A7FFB41-61E6-4580-B62A-4865721A6A25",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "manner of death",
+      "context": "Michael J Adams died in an accident.",
+      "propertyCQ": "What was the cause of death of Michael J Adams?"
+    },
+    "OAnswer": {
+      "object_label": "accident",
+      "context": "Michael J Adams died in an accident.",
+      "objectCQ": "What caused Michael J Adams' death?"
+    }
+  },
+  {
+    "claim_id": "Q2742047$140AD018-7558-4B5D-8FD5-5675605C2E5B",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "manner of death",
+      "context": "Patricia Robertson died in an accident.",
+      "propertyCQ": "What was Patricia Robertson's cause of death?"
+    },
+    "OAnswer": {
+      "object_label": "accident",
+      "context": "Patricia Robertson died in an accident.",
+      "objectCQ": "What caused Patricia Robertson's death?"
+    }
+  },
+  {
+    "claim_id": "Q495624$E28B9F59-141D-415D-A364-B83473CF6818",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "manner of death",
+      "context": "John L Finley died of natural causes.",
+      "propertyCQ": "What was John L Finley's cause of death?"
+    },
+    "OAnswer": {
+      "object_label": "natural causes",
+      "context": "John L Finley died of natural causes.",
+      "objectCQ": "What was John L Finley's cause of death?"
+    }
+  },
+  {
+    "claim_id": "Q355433$F44C649B-2E2A-487B-95D6-1F868AEA8FE3",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "manner of death",
+      "context": "Georgy Dobrovolsky died in an accident.",
+      "propertyCQ": "What was the cause of death?"
+    },
+    "OAnswer": {
+      "object_label": "accident",
+      "context": "Georgy Dobrovolsky died in an accident.",
+      "objectCQ": "What caused Georgy Dobrovolsky's death?"
+    }
+  },
+  {
+    "claim_id": "Q450834$C073BBA4-D0FC-447C-B571-7D8A381C87D1",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "manner of death",
+      "context": "Lev Dyomin died of natural causes.",
+      "propertyCQ": "What was Lev Dyomin's cause of death?"
+    },
+    "OAnswer": {
+      "object_label": "natural causes",
+      "context": "Lev Dyomin died of natural causes.",
+      "objectCQ": "What caused Lev Dyomin to die?"
+    }
+  },
+  {
+    "claim_id": "Q313543$9A5965C2-5C06-4EF8-B088-BF3D5D9B7A34",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "manner of death",
+      "context": "Ronald Evans died of natural causes.",
+      "propertyCQ": "What was Ronald Evans' cause of death?"
+    },
+    "OAnswer": {
+      "object_label": "natural causes",
+      "context": "Ronald Evans died of natural causes.",
+      "objectCQ": "What caused Ronald Evans to die?"
+    }
+  },
+  {
+    "claim_id": "Q110879$94DFB8B9-784F-4E97-BCFF-FF1AFAB3AC37",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "place of burial",
+      "context": "Gus Grissom's burial place is Arlington National Cemetery.",
+      "propertyCQ": "Where is Gus Grissom's grave?"
+    },
+    "OAnswer": {
+      "object_label": "Arlington National Cemetery",
+      "context": "Gus Grissom's burial place is Arlington National Cemetery.",
+      "objectCQ": "Where is Gus Grissom's burial place?"
+    }
+  },
+  {
+    "claim_id": "Q229674$F4DBC146-A29E-4367-AFC4-026845A54522",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "place of burial",
+      "context": "Christa McAuliffe's burial place is Arlington National Cemetery.",
+      "propertyCQ": "What is the name of Christa McAuliffe's place of burial?"
+    },
+    "OAnswer": {
+      "object_label": "Arlington National Cemetery",
+      "context": "Christa McAuliffe's burial place is Arlington National Cemetery.",
+      "objectCQ": "Where is Christa McAuliffe buried?"
+    }
+  },
+  {
+    "claim_id": "Q355433$5a2a0300-482f-2eec-3e0e-03c09f66f35d",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "place of burial",
+      "context": "Georgy Dobrovolsky's burial place is the Kremlin Wall Necropolis.",
+      "propertyCQ": "What is the Kremlin Wall Necropolis?"
+    },
+    "OAnswer": {
+      "object_label": "Kremlin Wall Necropolis",
+      "context": "Georgy Dobrovolsky's burial place is the Kremlin Wall Necropolis.",
+      "objectCQ": "What is Georgy Dobrovolsky's burial place?"
+    }
+  },
+  {
+    "claim_id": "Q17426873$AA474015-E3CE-4780-83B6-9761DBF22F55",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "place of burial",
+      "context": "Фаткуллин, Марс Нургалиевич is the place of burial in Troyekurovskoye Cemetery.",
+      "propertyCQ": "What is the name of the cemetery?"
+    },
+    "OAnswer": {
+      "object_label": "Troyekurovskoye Cemetery",
+      "context": "Фаткуллин, Марс Нургалиевич is the place of burial in Troyekurovskoye Cemetery.",
+      "objectCQ": "Where is the burial place?"
+    }
+  },
+  {
+    "claim_id": "Q313543$d3269d98-ccd4-49a6-aaf0-e66d1d6b4b3a",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "place of burial",
+      "context": "Ronald Evans was buried in Arizona.",
+      "propertyCQ": "Where was Ronald Evans buried?"
+    },
+    "OAnswer": {
+      "object_label": "Arizona",
+      "context": "Ronald Evans was buried in Arizona.",
+      "objectCQ": "Where was Ronald Evans buried?"
+    }
+  },
+  {
+    "claim_id": "Q704355$F3DD410C-479C-4F68-8F18-CECB7A6C22D5",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "place of burial",
+      "context": "Charles Bassett's burial place is Arlington National Cemetery.",
+      "propertyCQ": "Where is Charles Bassett's grave?"
+    },
+    "OAnswer": {
+      "object_label": "Arlington National Cemetery",
+      "context": "Charles Bassett's burial place is Arlington National Cemetery.",
+      "objectCQ": "Where is Charles Bassett's burial place?"
+    }
+  },
+  {
+    "claim_id": "Q202933$55b52af0-f405-4abe-882f-5438fdec1600",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "place of burial",
+      "context": "The place of burial of Rimantas Stankevičius is Kaunas.",
+      "propertyCQ": "What is Kaunas?"
+    },
+    "OAnswer": {
+      "object_label": "Kaunas",
+      "context": "The place of burial of Rimantas Stankevičius is Kaunas.",
+      "objectCQ": "Where is the burial place of Rimantas Stankevi<unk>ius?"
+    }
+  },
+  {
+    "claim_id": "q110879$D0149EC8-EA6D-416D-8D06-21FF5B3D5C6B",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "cause of death",
+      "context": "Gus Grissom died from a smoke inhalation injury.",
+      "propertyCQ": "What was Gus Grissom's cause of death?"
+    },
+    "OAnswer": {
+      "object_label": "smoke inhalation injury",
+      "context": "Gus Grissom died from a smoke inhalation injury.",
+      "objectCQ": "What caused Gus Grissom to die?"
+    }
+  },
+  {
+    "claim_id": "Q60825146$c9331d75-b666-40b2-b760-ba1ed8e0101e",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "cause of death",
+      "context": "Преображенский, Владимир Евгеньевич was struck by a vehicle.",
+      "propertyCQ": "What was the cause of death?"
+    },
+    "OAnswer": {
+      "object_label": "struck by vehicle",
+      "context": "Преображенский, Владимир Евгеньевич was struck by a vehicle.",
+      "objectCQ": "What happened to <unk>рео<unk>ра<unk>енски<unk>, <unk>ладимир <unk>в<unk>ен<unk>еви<unk>?"
+    }
+  },
+  {
+    "claim_id": "Q450834$cc61cd29-3c09-47ea-9a48-78108ded0579",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "cause of death",
+      "context": "Lev Dyomin's cause of death is cancer.",
+      "propertyCQ": "What is Lev Dyomin's cause of death?"
+    },
+    "OAnswer": {
+      "object_label": "cancer",
+      "context": "Lev Dyomin's cause of death is cancer.",
+      "objectCQ": "What is Lev Dyomin's cause of death?"
+    }
+  },
+  {
+    "claim_id": "Q17426873$c055c828-5ec7-455b-bb9f-1c1c82812863",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "cause of death",
+      "context": "The cause of death of Фаткуллин, Марс Нургалиевич is cerebrovascular disease.",
+      "propertyCQ": "What is cerebrovascular disease?"
+    },
+    "OAnswer": {
+      "object_label": "cerebrovascular disease",
+      "context": "The cause of death of Фаткуллин, Марс Нургалиевич is cerebrovascular disease.",
+      "objectCQ": "What is the cause of death of <unk>аткуллин, <unk>арс <unk>ур<unk>алиеви<unk>?"
+    }
+  },
+  {
+    "claim_id": "Q312474$32094ACC-C3A9-4E28-8E72-20794E60357D",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "cause of death",
+      "context": "Andriyan Nikolayev died from a myocardial infarction.",
+      "propertyCQ": "What was the cause of Andriyan Nikolayev's death?"
+    },
+    "OAnswer": {
+      "object_label": "myocardial infarction",
+      "context": "Andriyan Nikolayev died from a myocardial infarction.",
+      "objectCQ": "What caused Andriyan Nikolayev to die?"
+    }
+  },
+  {
+    "claim_id": "Q2742047$553DAA42-F2FE-4A28-B4E1-7CA8D1ED9390",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "cause of death",
+      "context": "Patricia Robertson died in an aviation accident.",
+      "propertyCQ": "What was Patricia Robertson's cause of death?"
+    },
+    "OAnswer": {
+      "object_label": "aviation accident",
+      "context": "Patricia Robertson died in an aviation accident.",
+      "objectCQ": "What caused Patricia Robertson's death?"
+    }
+  },
+  {
+    "claim_id": "Q348358$56D7DD1C-F149-4C4D-BEDD-752ABE59EC30",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "cause of death",
+      "context": "Jack Swigert died of bone cancer.",
+      "propertyCQ": "What was Jack Swigert's cause of death?"
+    },
+    "OAnswer": {
+      "object_label": "bone cancer",
+      "context": "Jack Swigert died of bone cancer.",
+      "objectCQ": "What was Jack Swigert's cause of death?"
+    }
+  },
+  {
+    "claim_id": "Q108886$309FF037-E067-4E43-8BB6-EF1EA9F377DF",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "member of political party",
+      "context": "Harrison Schmitt is a member of the Republican Party.",
+      "propertyCQ": "What is Harrison Schmitt's political affiliation?"
+    },
+    "OAnswer": {
+      "object_label": "Republican Party",
+      "context": "Harrison Schmitt is a member of the Republican Party.",
+      "objectCQ": "What party is Harrison Schmitt a member of?"
+    }
+  },
+  {
+    "claim_id": "Q465461$afb9d663-75f8-4022-a13d-13435ed0a103",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "member of political party",
+      "context": "Yury Glazkov is a member of the Communist Party of the Soviet Union.",
+      "propertyCQ": "What is Yury Glazkov's job title?"
+    },
+    "OAnswer": {
+      "object_label": "Communist Party of the Soviet Union",
+      "context": "Yury Glazkov is a member of the Communist Party of the Soviet Union.",
+      "objectCQ": "What party is Yury Glazkov a member of?"
+    }
+  },
+  {
+    "claim_id": "Q360060$9db24b6a-e3e3-4659-af19-554b4fcf4344",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "member of political party",
+      "context": "Leonid Kizim is a member of the Communist Party of the Soviet Union.",
+      "propertyCQ": "What is Leonid Kizim's job title?"
+    },
+    "OAnswer": {
+      "object_label": "Communist Party of the Soviet Union",
+      "context": "Leonid Kizim is a member of the Communist Party of the Soviet Union.",
+      "objectCQ": "What party is Leonid Kizim a member of?"
+    }
+  },
+  {
+    "claim_id": "Q2252$8080EB31-F001-4B82-96EB-0D680827BFD1",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "member of political party",
+      "context": "Buzz Aldrin is a member of the Republican Party.",
+      "propertyCQ": "What is Buzz Aldrin's political affiliation?"
+    },
+    "OAnswer": {
+      "object_label": "Republican Party",
+      "context": "Buzz Aldrin is a member of the Republican Party.",
+      "objectCQ": "What party is Buzz Aldrin a member of?"
+    }
+  },
+  {
+    "claim_id": "Q488043$7bd91170-875d-4fc9-806a-3a0e13f6175b",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "member of political party",
+      "context": "Anatoly Filipchenko is a member of the Communist Party of the Soviet Union.",
+      "propertyCQ": "What is Filipchenko's job?"
+    },
+    "OAnswer": {
+      "object_label": "Communist Party of the Soviet Union",
+      "context": "Anatoly Filipchenko is a member of the Communist Party of the Soviet Union.",
+      "objectCQ": "What party is Filipchenko a member of?"
+    }
+  },
+  {
+    "claim_id": "q344892$80F18E89-03C7-46CB-9816-C0D3B1F89E0B",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "member of political party",
+      "context": "Fei Junlong is a member of the Communist Party of China.",
+      "propertyCQ": "What is Fei Junlong's political affiliation?"
+    },
+    "OAnswer": {
+      "object_label": "Communist Party of China",
+      "context": "Fei Junlong is a member of the Communist Party of China.",
+      "objectCQ": "What party is Fei Junlong a member of?"
+    }
+  },
+  {
+    "claim_id": "Q916497$f800d45f-f534-47df-93a2-9b8e177c6dba",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "member of political party",
+      "context": "Zenon Jankowski is a member of the Polish United Workers' Party.",
+      "propertyCQ": "What is Zenon Jankowski's job title?"
+    },
+    "OAnswer": {
+      "object_label": "Polish United Workers' Party",
+      "context": "Zenon Jankowski is a member of the Polish United Workers' Party.",
+      "objectCQ": "What is Zenon Jankowski a member of?"
+    }
+  },
+  {
+    "claim_id": "Q283544$64FB251D-3AC3-4A55-B0BB-86B6DDF9B16D",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "native language",
+      "context": "Sergey Alexandrovich Volkov's native language is Russian.",
+      "propertyCQ": "What is Sergey Alexandrovich Volkov's language?"
+    },
+    "OAnswer": {
+      "object_label": "Russian",
+      "context": "Sergey Alexandrovich Volkov's native language is Russian.",
+      "objectCQ": "What is Sergey Alexandrovich Volkov's native language?"
+    }
+  },
+  {
+    "claim_id": "Q457064$7005FAC1-0B78-4A92-B78A-EC314F91A1F6",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "native language",
+      "context": "Roman Romanenko's native language is Russian.",
+      "propertyCQ": "What is Roman Romanenko's language?"
+    },
+    "OAnswer": {
+      "object_label": "Russian",
+      "context": "Roman Romanenko's native language is Russian.",
+      "objectCQ": "What is Roman Romanenko's native language?"
+    }
+  },
+  {
+    "claim_id": "Q16931225$b21098f9-4c8b-aea7-3414-ca09422280aa",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "native language",
+      "context": "The native language of Moon Maiden is English.",
+      "propertyCQ": "What is the language of Moon Maiden?"
+    },
+    "OAnswer": {
+      "object_label": "English",
+      "context": "The native language of Moon Maiden is English.",
+      "objectCQ": "What is Moon Maiden's native language?"
+    }
+  },
+  {
+    "claim_id": "Q927249$246371D3-5B48-42A5-A332-F9F0A7DBDB4F",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "native language",
+      "context": "Oleg Skripochka's native language is Russian.",
+      "propertyCQ": "What is Oleg Skripochka's language?"
+    },
+    "OAnswer": {
+      "object_label": "Russian",
+      "context": "Oleg Skripochka's native language is Russian.",
+      "objectCQ": "What is Oleg Skripochka's native language?"
+    }
+  },
+  {
+    "claim_id": "Q3329196$599EFBC3-8265-437D-8847-CFBCC23D73A8",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "native language",
+      "context": "Sergey Ryazansky's native language is Russian.",
+      "propertyCQ": "What is Sergey Ryazansky's language?"
+    },
+    "OAnswer": {
+      "object_label": "Russian",
+      "context": "Sergey Ryazansky's native language is Russian.",
+      "objectCQ": "What is Sergey Ryazansky's native language?"
+    }
+  },
+  {
+    "claim_id": "Q313815$053E452D-BEEE-49A8-872D-7D748E16CB9E",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "native language",
+      "context": "Sergei Krikalev's native language is Russian.",
+      "propertyCQ": "What is Sergei Krikalev's language?"
+    },
+    "OAnswer": {
+      "object_label": "Russian",
+      "context": "Sergei Krikalev's native language is Russian.",
+      "objectCQ": "What is Sergei Krikalev's native language?"
+    }
+  },
+  {
+    "claim_id": "Q362819$3F583A34-D964-4B23-AB26-D1DAFE23100F",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "native language",
+      "context": "Aleksandr Serebrov's native language is Russian.",
+      "propertyCQ": "What is Aleksandr Serebrov's language?"
+    },
+    "OAnswer": {
+      "object_label": "Russian",
+      "context": "Aleksandr Serebrov's native language is Russian.",
+      "objectCQ": "What is Serebrov's native language?"
+    }
+  },
+  {
+    "claim_id": "Q1986193$ae8cf4a5-4bd0-eefe-412d-e7bbeb163c32",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "present in work",
+      "context": "Buzz Lightyear is in Toy Story 4.",
+      "propertyCQ": "What is Buzz Lightyear's role in Toy Story 4?"
+    },
+    "OAnswer": {
+      "object_label": "Toy Story 4",
+      "context": "Buzz Lightyear is in Toy Story 4.",
+      "objectCQ": "What movie is Buzz Lightyear in?"
+    }
+  },
+  {
+    "claim_id": "Q3499278$9B177FBE-5D81-4545-A31F-40D89182D607",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "present in work",
+      "context": "Steven Taylor is in Doctor Who.",
+      "propertyCQ": "What is Steven Taylor's role in Doctor Who?"
+    },
+    "OAnswer": {
+      "object_label": "Doctor Who",
+      "context": "Steven Taylor is in Doctor Who.",
+      "objectCQ": "What is Steven Taylor's role in?"
+    }
+  },
+  {
+    "claim_id": "Q104456798$59f58671-4706-ba2d-fa79-e285bf1455db",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "present in work",
+      "context": "Kazuya Oki is a member of the Kamen Rider Super-1 team.",
+      "propertyCQ": "What is Kazuya Oki's role in the Kamen Rider Super-1 team?"
+    },
+    "OAnswer": {
+      "object_label": "Kamen Rider Super-1",
+      "context": "Kazuya Oki is a member of the Kamen Rider Super-1 team.",
+      "objectCQ": "What team is Kazuya Oki a member of?"
+    }
+  },
+  {
+    "claim_id": "Q5749885$4D10286D-41AD-4F00-BA13-F78AB2A7E022",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "present in work",
+      "context": "Heywood R. Floyd is in the work Space Odyssey.",
+      "propertyCQ": "What is the role of Heywood R. Floyd in Space Odyssey?"
+    },
+    "OAnswer": {
+      "object_label": "Space Odyssey",
+      "context": "Heywood R. Floyd is in the work Space Odyssey.",
+      "objectCQ": "What is the name of the movie in which Floyd is a character?"
+    }
+  },
+  {
+    "claim_id": "Q2086732$B23FB7BC-2FB0-4BDE-87B5-61D6F24471C6",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "present in work",
+      "context": "Cosmos is a character in Transformers.",
+      "propertyCQ": "What is Cosmos' role in the show?"
+    },
+    "OAnswer": {
+      "object_label": "Transformers",
+      "context": "Cosmos is a character in Transformers.",
+      "objectCQ": "What series is Cosmos a character in?"
+    }
+  },
+  {
+    "claim_id": "Q1986193$483eeb37-49ea-6c72-79e4-47fedeb11e9c",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "present in work",
+      "context": "Buzz Lightyear is in work on Buzz Lightyear of Star Command: The Adventure Begins.",
+      "propertyCQ": "What is Buzz Lightyear doing at the moment?"
+    },
+    "OAnswer": {
+      "object_label": "Buzz Lightyear of Star Command: The Adventure Begins",
+      "context": "Buzz Lightyear is in work on Buzz Lightyear of Star Command: The Adventure Begins.",
+      "objectCQ": "What is Buzz Lightyear working on?"
+    }
+  },
+  {
+    "claim_id": "Q2164206$cc7d4e97-413b-572c-7b58-432638dfc55d",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "present in work",
+      "context": "Captain Black is present in work Captain Scarlet and the Mysterons.",
+      "propertyCQ": "What is Captain Black present in?"
+    },
+    "OAnswer": {
+      "object_label": "Captain Scarlet and the Mysterons",
+      "context": "Captain Black is present in work Captain Scarlet and the Mysterons.",
+      "objectCQ": "What is the name of the movie in which Captain Black is present?"
+    }
+  },
+  {
+    "claim_id": "Q313815$A727272D-2E5C-4068-8DAC-46C8662F4D1D",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "position held",
+      "context": "Sergei Krikalev is the ISS Expedition Commander.",
+      "propertyCQ": "What is Sergei Krikalev's title?"
+    },
+    "OAnswer": {
+      "object_label": "ISS Expedition Commander",
+      "context": "Sergei Krikalev is the ISS Expedition Commander.",
+      "objectCQ": "What is Sergei Krikalev's job title?"
+    }
+  },
+  {
+    "claim_id": "Q457064$0c6312f0-4ead-4c83-9cac-7a9212b6cd15",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "position held",
+      "context": "Roman Romanenko is a member of the State Duma.",
+      "propertyCQ": "What is Roman Romanenko's position in the State Duma?"
+    },
+    "OAnswer": {
+      "object_label": "member of the State Duma",
+      "context": "Roman Romanenko is a member of the State Duma.",
+      "objectCQ": "What is Roman Romanenko's position?"
+    }
+  },
+  {
+    "claim_id": "Q317643$9fc7bc0e-4bf6-b2c0-9c1b-884f929b3a83",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "position held",
+      "context": "Marcos Pontes is the Minister of Science, Technology, Innovations and Communications.",
+      "propertyCQ": "What is Marcos Pontes' position?"
+    },
+    "OAnswer": {
+      "object_label": "Minister of Science, Technology, Innovations and Communications",
+      "context": "Marcos Pontes is the Minister of Science, Technology, Innovations and Communications.",
+      "objectCQ": "What is Marcos Pontes' job title?"
+    }
+  },
+  {
+    "claim_id": "Q703321$B1C1FEA9-445D-4670-ACDA-70956EBF2C33",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "position held",
+      "context": "Marc Garneau is a member of the House of Commons of Canada.",
+      "propertyCQ": "What is the title of the position held by Marc Garneau?"
+    },
+    "OAnswer": {
+      "object_label": "member of the House of Commons of Canada",
+      "context": "Marc Garneau is a member of the House of Commons of Canada.",
+      "objectCQ": "What is Marc Garneau's job title?"
+    }
+  },
+  {
+    "claim_id": "Q108886$A0A69431-7268-4969-85D2-0398C67E12FC",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "position held",
+      "context": "Harrison Schmitt is a United States senator.",
+      "propertyCQ": "What is Schmitt's title?"
+    },
+    "OAnswer": {
+      "object_label": "United States senator",
+      "context": "Harrison Schmitt is a United States senator.",
+      "objectCQ": "What is Harrison Schmitt's job title?"
+    }
+  },
+  {
+    "claim_id": "Q375566$97F2EC01-3428-4CCB-AB9A-88A756AB3C7B",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "position held",
+      "context": "Koichi Wakata is the ISS Expedition Commander.",
+      "propertyCQ": "What is the title of the ISS Expedition Commander?"
+    },
+    "OAnswer": {
+      "object_label": "ISS Expedition Commander",
+      "context": "Koichi Wakata is the ISS Expedition Commander.",
+      "objectCQ": "What is Koichi Wakata's job title?"
+    }
+  },
+  {
+    "claim_id": "Q461860$AF3DAE34-9847-45F7-8E93-33E7F201864D",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "position held",
+      "context": "Douglas H. Wheelock is the ISS Expedition Commander.",
+      "propertyCQ": "What is the title of the Expedition Commander?"
+    },
+    "OAnswer": {
+      "object_label": "ISS Expedition Commander",
+      "context": "Douglas H. Wheelock is the ISS Expedition Commander.",
+      "objectCQ": "What is Douglas H. Wheelock's job title?"
+    }
+  },
+  {
+    "claim_id": "Q7327$FEACCD5E-D50E-4A82-A6F0-B1E7ACE914CD",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "described by source",
+      "context": "Yuri Gagarin was described by source in the Great Soviet Encyclopedia (1969–1978).",
+      "propertyCQ": "How was Yuri Gagarin described in the Great Soviet Encyclopedia?"
+    },
+    "OAnswer": {
+      "object_label": "Great Soviet Encyclopedia (1969–1978)",
+      "context": "Yuri Gagarin was described by source in the Great Soviet Encyclopedia (1969–1978).",
+      "objectCQ": "Where was Yuri Gagarin described by source?"
+    }
+  },
+  {
+    "claim_id": "Q355433$791BB7FF-68A8-484E-9684-D3C9FD877FCF",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "described by source",
+      "context": "Georgy Dobrovolsky is described by source in the Armenian Soviet Encyclopedia.",
+      "propertyCQ": "How is Georgy Dobrovolsky described?"
+    },
+    "OAnswer": {
+      "object_label": "Armenian Soviet Encyclopedia",
+      "context": "Georgy Dobrovolsky is described by source in the Armenian Soviet Encyclopedia.",
+      "objectCQ": "Where is Georgy Dobrovolsky described?"
+    }
+  },
+  {
+    "claim_id": "Q345658$5A90961C-D895-426D-937E-939614528F4D",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "described by source",
+      "context": "Vladislav Volkov is described by source in the Armenian Soviet Encyclopedia.",
+      "propertyCQ": "How is Vladislav Volkov described?"
+    },
+    "OAnswer": {
+      "object_label": "Armenian Soviet Encyclopedia",
+      "context": "Vladislav Volkov is described by source in the Armenian Soviet Encyclopedia.",
+      "objectCQ": "Where is Vladislav Volkov described?"
+    }
+  },
+  {
+    "claim_id": "Q4831087$F3E6483F-02D9-4961-B163-8101E77ADFC5",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "described by source",
+      "context": "Aydyn Aimbetov is described by source Spacefacts.",
+      "propertyCQ": "How is Aydyn Aimbetov described?"
+    },
+    "OAnswer": {
+      "object_label": "Spacefacts",
+      "context": "Aydyn Aimbetov is described by source Spacefacts.",
+      "objectCQ": "What is the source of Aydyn Aimbetov?"
+    }
+  },
+  {
+    "claim_id": "Q2252$EEB26CE0-34C7-4144-B45F-19B4F4C6A9B6",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "described by source",
+      "context": "Buzz Aldrin is described by Obalky knih.cz.",
+      "propertyCQ": "How is Buzz Aldrin described?"
+    },
+    "OAnswer": {
+      "object_label": "Obalky knih.cz",
+      "context": "Buzz Aldrin is described by Obalky knih.cz.",
+      "objectCQ": "Who described Buzz Aldrin?"
+    }
+  },
+  {
+    "claim_id": "Q229635$DE6EF9A1-6409-4FDA-96C5-2955BFA4512A",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "described by source",
+      "context": "Eileen Collins is described by source at Obalky knih.cz.",
+      "propertyCQ": "How is Eileen Collins described?"
+    },
+    "OAnswer": {
+      "object_label": "Obalky knih.cz",
+      "context": "Eileen Collins is described by source at Obalky knih.cz.",
+      "objectCQ": "Where is Eileen Collins's source?"
+    }
+  },
+  {
+    "claim_id": "Q465461$ADCFDCA8-AFF9-445B-A75F-DD6DF7EA6ADD",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "described by source",
+      "context": "Yury Glazkov was described by source in the Great Soviet Encyclopedia (1969–1978).",
+      "propertyCQ": "How was Yury Glazkov described in the Great Soviet Encyclopedia?"
+    },
+    "OAnswer": {
+      "object_label": "Great Soviet Encyclopedia (1969–1978)",
+      "context": "Yury Glazkov was described by source in the Great Soviet Encyclopedia (1969–1978).",
+      "objectCQ": "Where was Yury Glazkov described by source?"
+    }
+  },
+  {
+    "claim_id": "Q7327$B5B2A943-F58F-4F47-B6E0-AFCAD7070592",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "member of",
+      "context": "Yuri Gagarin is a member of the International Academy of Astronautics.",
+      "propertyCQ": "What is Yuri Gagarin's affiliation with?"
+    },
+    "OAnswer": {
+      "object_label": "International Academy of Astronautics",
+      "context": "Yuri Gagarin is a member of the International Academy of Astronautics.",
+      "objectCQ": "What is Yuri Gagarin a member of?"
+    }
+  },
+  {
+    "claim_id": "Q315737$a2e95167-440c-e50c-5db9-8fc9f8135ee3",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "member of",
+      "context": "Robert Crippen is a member of the Society of Experimental Test Pilots.",
+      "propertyCQ": "What is Robert Crippen's affiliation with?"
+    },
+    "OAnswer": {
+      "object_label": "Society of Experimental Test Pilots",
+      "context": "Robert Crippen is a member of the Society of Experimental Test Pilots.",
+      "objectCQ": "What is Robert Crippen a member of?"
+    }
+  },
+  {
+    "claim_id": "Q30157794$5fcc3865-416e-c1d4-31af-284c3456b5b1",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "member of",
+      "context": "Warren Hoburg is a member of the NASA Astronaut Group 22.",
+      "propertyCQ": "What NASA group is Warren Hoburg?"
+    },
+    "OAnswer": {
+      "object_label": "NASA Astronaut Group 22",
+      "context": "Warren Hoburg is a member of the NASA Astronaut Group 22.",
+      "objectCQ": "What group is Warren Hoburg a member of?"
+    }
+  },
+  {
+    "claim_id": "Q49819$0282704E-7E0C-4B00-9CD4-FF275B54C92A",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "member of",
+      "context": "Charles Simonyi is a member of the American Academy of Arts and Sciences.",
+      "propertyCQ": "What is Simonyi's affiliation with the American Academy of Arts and Sciences?"
+    },
+    "OAnswer": {
+      "object_label": "American Academy of Arts and Sciences",
+      "context": "Charles Simonyi is a member of the American Academy of Arts and Sciences.",
+      "objectCQ": "What is Simonyi a member of?"
+    }
+  },
+  {
+    "claim_id": "Q254298$2D944531-7AF3-4B73-9C15-C06BDE6666B9",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "member of",
+      "context": "Margaret Rhea Seddon is a member of the Daughters of the American Revolution.",
+      "propertyCQ": "What is Margaret Rhea Seddon's affiliation with?"
+    },
+    "OAnswer": {
+      "object_label": "Daughters of the American Revolution",
+      "context": "Margaret Rhea Seddon is a member of the Daughters of the American Revolution.",
+      "objectCQ": "What is Margaret Rhea Seddon a member of?"
+    }
+  },
+  {
+    "claim_id": "Q254785$DCEBEBB5-7540-4A57-AC43-53BA984FB3EF",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "member of",
+      "context": "Robert R. Gilruth is a member of the National Academy of Sciences.",
+      "propertyCQ": "What is Robert R. Gilruth's affiliation with the National Academy of Sciences?"
+    },
+    "OAnswer": {
+      "object_label": "National Academy of Sciences",
+      "context": "Robert R. Gilruth is a member of the National Academy of Sciences.",
+      "objectCQ": "What organization is Gilruth a member of?"
+    }
+  },
+  {
+    "claim_id": "Q49819$B01B5CE6-F4E7-4C5F-8A29-54F4843D08A9",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "member of",
+      "context": "Charles Simonyi is a member of the Hungarian Academy of Sciences.",
+      "propertyCQ": "What is Simonyi's affiliation with the Hungarian Academy of Sciences?"
+    },
+    "OAnswer": {
+      "object_label": "Hungarian Academy of Sciences",
+      "context": "Charles Simonyi is a member of the Hungarian Academy of Sciences.",
+      "objectCQ": "What is Charles Simonyi a member of?"
+    }
+  },
+  {
+    "claim_id": "Q704355$AE45E212-6301-4EEA-A6CA-F09AFA05DEA2",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "place of death",
+      "context": "Charles Bassett died in St. Louis.",
+      "propertyCQ": "Where did Charles Bassett die?"
+    },
+    "OAnswer": {
+      "object_label": "St. Louis",
+      "context": "Charles Bassett died in St. Louis.",
+      "objectCQ": "Where did Charles Bassett die?"
+    }
+  },
+  {
+    "claim_id": "Q355433$D3B28E48-BD01-4E62-82AD-D4BB5B5B4049",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "place of death",
+      "context": "Georgy Dobrovolsky died in Soyuz 11.",
+      "propertyCQ": "Where did Dobrovolsky die?"
+    },
+    "OAnswer": {
+      "object_label": "Soyuz 11",
+      "context": "Georgy Dobrovolsky died in Soyuz 11.",
+      "objectCQ": "Where did Georgy Dobrovolsky die?"
+    }
+  },
+  {
+    "claim_id": "Q465461$274a510c-4c04-948b-697b-332e320abac2",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "place of death",
+      "context": "Yury Glazkov died in Moscow.",
+      "propertyCQ": "Where did Yury Glazkov die?"
+    },
+    "OAnswer": {
+      "object_label": "Moscow",
+      "context": "Yury Glazkov died in Moscow.",
+      "objectCQ": "Where did Yury Glazkov die?"
+    }
+  },
+  {
+    "claim_id": "Q360060$36fbcc33-4f0e-6a96-b16f-1a9af202c65d",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "place of death",
+      "context": "Leonid Kizim died in Moscow.",
+      "propertyCQ": "Where did Leonid Kizim die?"
+    },
+    "OAnswer": {
+      "object_label": "Moscow",
+      "context": "Leonid Kizim died in Moscow.",
+      "objectCQ": "Where did Leonid Kizim die?"
+    }
+  },
+  {
+    "claim_id": "Q2742047$3c440e27-4100-f8d8-82ac-5b94568fee6e",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "place of death",
+      "context": "Patricia Robertson died in Houston.",
+      "propertyCQ": "Where did Patricia Robertson die?"
+    },
+    "OAnswer": {
+      "object_label": "Houston",
+      "context": "Patricia Robertson died in Houston.",
+      "objectCQ": "Where did Patricia Robertson die?"
+    }
+  },
+  {
+    "claim_id": "Q281604$ED5A4D96-BFE9-40DE-ACD3-D9583A32522B",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "place of death",
+      "context": "Boris Morukov died in Moscow.",
+      "propertyCQ": "Where did Boris Morukov die?"
+    },
+    "OAnswer": {
+      "object_label": "Moscow",
+      "context": "Boris Morukov died in Moscow.",
+      "objectCQ": "Where did Boris Morukov die?"
+    }
+  },
+  {
+    "claim_id": "Q7327$80D113EB-0B63-4CE7-A5A3-AADAE7D980DD",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "place of death",
+      "context": "Yuri Gagarin died in Novosyolovo.",
+      "propertyCQ": "Where did Yuri Gagarin die?"
+    },
+    "OAnswer": {
+      "object_label": "Novosyolovo",
+      "context": "Yuri Gagarin died in Novosyolovo.",
+      "objectCQ": "Where did Yuri Gagarin die?"
+    }
+  },
+  {
+    "claim_id": "Q956160$524a0ddc-4427-1f99-c874-7cb85a883294",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "date of death",
+      "context": "Gennadi Manakov died on 26/09/2019.",
+      "propertyCQ": "What was the date of Manakov's death?"
+    },
+    "OAnswer": {
+      "object_label": "26/09/2019",
+      "context": "Gennadi Manakov died on 26/09/2019.",
+      "objectCQ": "When did Gennadi Manakov die?"
+    }
+  },
+  {
+    "claim_id": "q312474$DC4A144C-23E1-43FA-A5C4-4C15C5241702",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "date of death",
+      "context": "Andriyan Nikolayev died on 03/07/2004.",
+      "propertyCQ": "What was the date of Andriyan Nikolayev's death?"
+    },
+    "OAnswer": {
+      "object_label": "03/07/2004",
+      "context": "Andriyan Nikolayev died on 03/07/2004.",
+      "objectCQ": "When did Andriyan Nikolayev die?"
+    }
+  },
+  {
+    "claim_id": "Q495624$B770E1A8-10B4-495E-9B67-B841EFB77F9B",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "date of death",
+      "context": "John L Finley died on 19/09/2006.",
+      "propertyCQ": "What was John Finley's last name?"
+    },
+    "OAnswer": {
+      "object_label": "19/09/2006",
+      "context": "John L Finley died on 19/09/2006.",
+      "objectCQ": "When did John L Finley die?"
+    }
+  },
+  {
+    "claim_id": "Q644837$37a38aff-4da5-eac3-e71c-03333cb69074",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "date of death",
+      "context": "Gerald P. Carr died on 26/08/2020.",
+      "propertyCQ": "What was Gerald P. Carr's last name?"
+    },
+    "OAnswer": {
+      "object_label": "26/08/2020",
+      "context": "Gerald P. Carr died on 26/08/2020.",
+      "objectCQ": "When did Gerald P. Carr die?"
+    }
+  },
+  {
+    "claim_id": "q348358$BF412BD5-42F9-4291-BBF1-ED30CCF94CB6",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "date of death",
+      "context": "Jack Swigert died on 27/12/1982.",
+      "propertyCQ": "What was the date of Jack Swigert's death?"
+    },
+    "OAnswer": {
+      "object_label": "27/12/1982",
+      "context": "Jack Swigert died on 27/12/1982.",
+      "objectCQ": "When did Jack Swigert die?"
+    }
+  },
+  {
+    "claim_id": "q704355$62ED7FEE-6992-4DB6-B1C4-F4BC87CE1D70",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "date of death",
+      "context": "Charles Bassett died on 28/02/1966.",
+      "propertyCQ": "What was Charles Bassett's last date of life?"
+    },
+    "OAnswer": {
+      "object_label": "28/02/1966",
+      "context": "Charles Bassett died on 28/02/1966.",
+      "objectCQ": "When did Charles Bassett die?"
+    }
+  },
+  {
+    "claim_id": "Q446243$d59137f8-4209-3212-9e58-8a46033d2d5b",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "date of death",
+      "context": "Millie Hughes-Fulford died on 02/02/2021.",
+      "propertyCQ": "What was Millie Hughes-Fulford's death date?"
+    },
+    "OAnswer": {
+      "object_label": "02/02/2021",
+      "context": "Millie Hughes-Fulford died on 02/02/2021.",
+      "objectCQ": "When did Millie Hughes-Fulford die?"
+    }
+  },
+  {
+    "claim_id": "Q71248$D3CA6589-E36B-4AFE-BE31-DD486AAFD25A",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "name in native language",
+      "context": "Alexander Gerst is a native language speaker.",
+      "propertyCQ": "What is Alexander Gerst's first name?"
+    },
+    "OAnswer": {
+      "object_label": "Alexander Gerst",
+      "context": "Alexander Gerst is a native language speaker.",
+      "objectCQ": "Who speaks English?"
+    }
+  },
+  {
+    "claim_id": "Q375641$D3324845-1BD3-423A-9474-2DDD13898B99",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "name in native language",
+      "context": "Akihiko Hoshide's name in the native language is 星出彰彦.",
+      "propertyCQ": "What is Akihiko Hoshide's name in the native language?"
+    },
+    "OAnswer": {
+      "object_label": "星出彰彦",
+      "context": "Akihiko Hoshide's name in the native language is 星出彰彦.",
+      "objectCQ": "What is Akihiko Hoshide's name in his native language?"
+    }
+  },
+  {
+    "claim_id": "Q41597$5db4f3de-43c1-3046-80b3-d4780408e2b7",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "name in native language",
+      "context": "Joan Higginbotham is a native speaker of the English language.",
+      "propertyCQ": "What is Joan Higginbotham's first name?"
+    },
+    "OAnswer": {
+      "object_label": "Joan Higginbotham",
+      "context": "Joan Higginbotham is a native speaker of the English language.",
+      "objectCQ": "Who is a native speaker of English?"
+    }
+  },
+  {
+    "claim_id": "Q709935$40892442-4ff7-dabb-f548-b0667ad3faef",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "name in native language",
+      "context": "The native language of Leroy Chiao is Leroy Russel Chiao.",
+      "propertyCQ": "What is Leroy Russel Chiao's first name?"
+    },
+    "OAnswer": {
+      "object_label": "Leroy Russel Chiao",
+      "context": "The native language of Leroy Chiao is Leroy Russel Chiao.",
+      "objectCQ": "What is the native language of Leroy Chiao?"
+    }
+  },
+  {
+    "claim_id": "Q644837$03f6791b-4585-b026-862a-0c021a07e8a7",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "name in native language",
+      "context": "Gerald Paul Carr is the name in the native language of Gerald P. Carr.",
+      "propertyCQ": "What is Gerald Paul Carr's full name?"
+    },
+    "OAnswer": {
+      "object_label": "Gerald Paul Carr",
+      "context": "Gerald Paul Carr is the name in the native language of Gerald P. Carr.",
+      "objectCQ": "What is the name in the native language of Gerald P. Carr?"
+    }
+  },
+  {
+    "claim_id": "Q7327$04baeb49-45ac-280a-2db5-ce7af22e7ec7",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "name in native language",
+      "context": "Yuri Gagarin's native language is Юрий Алексеевич Гагарин.",
+      "propertyCQ": "What is Yuri Gagarin's name in?"
+    },
+    "OAnswer": {
+      "object_label": "Юрий Алексеевич Гагарин",
+      "context": "Yuri Gagarin's native language is Юрий Алексеевич Гагарин.",
+      "objectCQ": "What is Yuri Gagarin's native language?"
+    }
+  },
+  {
+    "claim_id": "Q16521232$F8B16C43-83FA-47C8-BCB6-01D807FE1F44",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "name in native language",
+      "context": "Kikuchi Ryōko's native language is 菊地涼子.",
+      "propertyCQ": "What is Kikuchi Ry<unk>ko's native language?"
+    },
+    "OAnswer": {
+      "object_label": "菊地涼子",
+      "context": "Kikuchi Ryōko's native language is 菊地涼子.",
+      "objectCQ": "What is Kikuchi Ry<unk>ko's native language?"
+    }
+  },
+  {
+    "claim_id": "Q434232$87e5f249-5c05-4029-82b0-1ce114f3ceeb",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "social media followers",
+      "context": "Michael E. Fossum has 69368 followers on social media.",
+      "propertyCQ": "How many followers does Michael Fossum have?"
+    },
+    "OAnswer": {
+      "object_label": "69368",
+      "context": "Michael E. Fossum has 69368 followers on social media.",
+      "objectCQ": "How many followers does Michael Fossum have on social media?"
+    }
+  },
+  {
+    "claim_id": "Q536777$d5cf13ea-80a4-4a3c-817c-50f3e5183cef",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "social media followers",
+      "context": "Richard Mastracchio has 280255 followers on social media.",
+      "propertyCQ": "How many followers does Richard Mastracchio have?"
+    },
+    "OAnswer": {
+      "object_label": "280255",
+      "context": "Richard Mastracchio has 280255 followers on social media.",
+      "objectCQ": "How many followers does Mastracchio have on social media?"
+    }
+  },
+  {
+    "claim_id": "Q375641$10671a15-5ddb-4b34-ac33-1ac72690fced",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "social media followers",
+      "context": "Akihiko Hoshide has 97401 followers on social media.",
+      "propertyCQ": "How many followers does Akihiko Hoshide have?"
+    },
+    "OAnswer": {
+      "object_label": "97401",
+      "context": "Akihiko Hoshide has 97401 followers on social media.",
+      "objectCQ": "How many followers does Akihiko Hoshide have on social media?"
+    }
+  },
+  {
+    "claim_id": "Q71248$3d3caa67-1412-4b2e-9cee-5a30a5ee7448",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "social media followers",
+      "context": "Alexander Gerst has 1240340 followers on social media.",
+      "propertyCQ": "How many followers does Alexander Gerst have?"
+    },
+    "OAnswer": {
+      "object_label": "1240340",
+      "context": "Alexander Gerst has 1240340 followers on social media.",
+      "objectCQ": "How many followers does Alexander Gerst have on social media?"
+    }
+  },
+  {
+    "claim_id": "Q358931$de0488bc-5b03-427d-8cbe-bb0d777bf793",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "social media followers",
+      "context": "Garrett Reisman has 22879 followers on social media.",
+      "propertyCQ": "How many followers does Garrett Reisman have?"
+    },
+    "OAnswer": {
+      "object_label": "22879",
+      "context": "Garrett Reisman has 22879 followers on social media.",
+      "objectCQ": "How many followers does Garrett Reisman have on social media?"
+    }
+  },
+  {
+    "claim_id": "Q4831087$8456bfad-148d-4095-abba-2fcf6a5dbb8d",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "social media followers",
+      "context": "Aydyn Aimbetov has 3432 followers on social media.",
+      "propertyCQ": "How many followers does Aydyn Aimbetov have?"
+    },
+    "OAnswer": {
+      "object_label": "3432",
+      "context": "Aydyn Aimbetov has 3432 followers on social media.",
+      "objectCQ": "How many followers does Aydyn Aimbetov have on social media?"
+    }
+  },
+  {
+    "claim_id": "Q3030934$88a5354b-520e-49f7-81a8-5da3fce656e9",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "social media followers",
+      "context": "Michael S Hopkins has 106487 followers on social media.",
+      "propertyCQ": "How many followers does Michael S Hopkins have?"
+    },
+    "OAnswer": {
+      "object_label": "106487",
+      "context": "Michael S Hopkins has 106487 followers on social media.",
+      "objectCQ": "How many followers does Michael S Hopkins have on social media?"
+    }
+  },
+  {
+    "claim_id": "Q283544$00ad4f5b-4ab8-5df6-2346-4525a6a94996",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "member of the crew of",
+      "context": "Sergey Alexandrovich Volkov is a member of the crew of the Soyuz TMA-18M.",
+      "propertyCQ": "What is Sergey Alexandrovich Volkov's job title?"
+    },
+    "OAnswer": {
+      "object_label": "Soyuz TMA-18M",
+      "context": "Sergey Alexandrovich Volkov is a member of the crew of the Soyuz TMA-18M.",
+      "objectCQ": "What is the name of the aircraft that Volkov is a member of?"
+    }
+  },
+  {
+    "claim_id": "Q487622$8f2fe7b3-4bee-b6de-0d08-2bae71c2c874",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "member of the crew of",
+      "context": "Anatoli Ivanishin is a member of the crew of Soyuz MS-01.",
+      "propertyCQ": "What is Anatoli Ivanishin's job title?"
+    },
+    "OAnswer": {
+      "object_label": "Soyuz MS-01",
+      "context": "Anatoli Ivanishin is a member of the crew of Soyuz MS-01.",
+      "objectCQ": "What is the name of the spacecraft that Anatoli Ivanishin is a member of?"
+    }
+  },
+  {
+    "claim_id": "Q454649$093e44ae-49fe-db2a-d293-e59e6c18821d",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "member of the crew of",
+      "context": "André Kuipers is a member of the crew of the Soyuz TMA-03M.",
+      "propertyCQ": "What is André Kuipers' job title?"
+    },
+    "OAnswer": {
+      "object_label": "Soyuz TMA-03M",
+      "context": "André Kuipers is a member of the crew of the Soyuz TMA-03M.",
+      "objectCQ": "What is André Kuipers on board?"
+    }
+  },
+  {
+    "claim_id": "Q927249$dab5f3c1-4fac-eb78-2970-77c09090aeca",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "member of the crew of",
+      "context": "Oleg Skripochka is a member of the crew of the Soyuz MS-15.",
+      "propertyCQ": "What is Oleg Skripochka's job title?"
+    },
+    "OAnswer": {
+      "object_label": "Soyuz MS-15",
+      "context": "Oleg Skripochka is a member of the crew of the Soyuz MS-15.",
+      "objectCQ": "What is the name of the ship that Oleg Skripochka is a member of?"
+    }
+  },
+  {
+    "claim_id": "Q3116390$fdda4ac3-4971-6fe5-591d-a852a76343d9",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "member of the crew of",
+      "context": "Gregory Reid Wiseman is a member of the crew of the Soyuz TMA-13M.",
+      "propertyCQ": "What is Gregory Reid Wiseman's job title?"
+    },
+    "OAnswer": {
+      "object_label": "Soyuz TMA-13M",
+      "context": "Gregory Reid Wiseman is a member of the crew of the Soyuz TMA-13M.",
+      "objectCQ": "What is the name of the ship that Gregory Reid Wiseman is a member of?"
+    }
+  },
+  {
+    "claim_id": "Q928034$6c9fa502-4e0a-fca2-4812-e5b1cfd3b37c",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "member of the crew of",
+      "context": "Aleksandr Samokutyayev is a member of the crew of the Soyuz TMA-14M.",
+      "propertyCQ": "What is Aleksandr Samokutyayev's job title?"
+    },
+    "OAnswer": {
+      "object_label": "Soyuz TMA-14M",
+      "context": "Aleksandr Samokutyayev is a member of the crew of the Soyuz TMA-14M.",
+      "objectCQ": "What is the name of the ship that Aleksandr Samokutyayev is a member of?"
+    }
+  },
+  {
+    "claim_id": "Q434232$c4fd3d24-4a9c-e5ee-50b9-df25fa9e4df8",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "member of the crew of",
+      "context": "Michael E Fossum is a member of the crew of the Soyuz TMA-02M.",
+      "propertyCQ": "What is Michael Fossum's job title?"
+    },
+    "OAnswer": {
+      "object_label": "Soyuz TMA-02M",
+      "context": "Michael E Fossum is a member of the crew of the Soyuz TMA-02M.",
+      "objectCQ": "What is the name of the ship that Michael Fossum is a member of?"
+    }
+  },
+  {
+    "claim_id": "Q30157793$add0845b-4357-0464-e579-0eaf3a18e035",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "military branch",
+      "context": "Matthew Dominick is a member of the United States Navy.",
+      "propertyCQ": "What branch of the US military is Matthew Dominick a member of?"
+    },
+    "OAnswer": {
+      "object_label": "United States Navy",
+      "context": "Matthew Dominick is a member of the United States Navy.",
+      "objectCQ": "What is Matthew Dominick a member of?"
+    }
+  },
+  {
+    "claim_id": "q704355$7E5AB68E-F410-4938-8ED4-9BF562961B75",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "military branch",
+      "context": "Charles Bassett is a member of the United States Air Force.",
+      "propertyCQ": "What branch of the US military is Charles Bassett a member of?"
+    },
+    "OAnswer": {
+      "object_label": "United States Air Force",
+      "context": "Charles Bassett is a member of the United States Air Force.",
+      "objectCQ": "What is Charles Bassett a member of?"
+    }
+  },
+  {
+    "claim_id": "q724552$D6EA4637-F7D1-40D9-928F-84E396630131",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "military branch",
+      "context": "Jim Wetherbee is a member of the United States Navy.",
+      "propertyCQ": "What branch of the US military is Jim Wetherbee a member of?"
+    },
+    "OAnswer": {
+      "object_label": "United States Navy",
+      "context": "Jim Wetherbee is a member of the United States Navy.",
+      "objectCQ": "What is Jim Wetherbee a member of?"
+    }
+  },
+  {
+    "claim_id": "Q203026$F03FC110-6F33-4F97-9692-92FE03A0112A",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "military branch",
+      "context": "Sergei Zalyotin is a member of the Russian Air Force.",
+      "propertyCQ": "What branch of the Russian military is Sergei Zalyotin a member of?"
+    },
+    "OAnswer": {
+      "object_label": "Russian Air Force",
+      "context": "Sergei Zalyotin is a member of the Russian Air Force.",
+      "objectCQ": "What is Sergei Zalyotin a member of?"
+    }
+  },
+  {
+    "claim_id": "q717654$9E4FC3FB-9040-4AF3-A59F-63CF43A577C2",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "military branch",
+      "context": "Donald E. Williams is a member of the United States Navy.",
+      "propertyCQ": "What branch of the US military is Donald E. Williams a member of?"
+    },
+    "OAnswer": {
+      "object_label": "United States Navy",
+      "context": "Donald E. Williams is a member of the United States Navy.",
+      "objectCQ": "What is Donald E. Williams a member of?"
+    }
+  },
+  {
+    "claim_id": "q1373573$06EB0E7A-496A-4F27-A279-081E5C956358",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "military branch",
+      "context": "William A. Pailes is a member of the United States Air Force.",
+      "propertyCQ": "What branch of the US military is Pailes a member of?"
+    },
+    "OAnswer": {
+      "object_label": "United States Air Force",
+      "context": "William A. Pailes is a member of the United States Air Force.",
+      "objectCQ": "What is William A. Pailes a member of?"
+    }
+  },
+  {
+    "claim_id": "q29650$DCB1C880-DD0E-437C-844E-0E7DC6D71964",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "military branch",
+      "context": "Charles O. Hobaugh is a member of the United States Marine Corps.",
+      "propertyCQ": "What branch of the US military is Hobaugh a member of?"
+    },
+    "OAnswer": {
+      "object_label": "United States Marine Corps",
+      "context": "Charles O. Hobaugh is a member of the United States Marine Corps.",
+      "objectCQ": "What is Charles O. Hobaugh a member of?"
+    }
+  },
+  {
+    "claim_id": "Q1333261$D774D763-9273-4B04-A07A-8EBC13681FA4",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "part of",
+      "context": "Peter Wisoff is part of NASA Astronaut Group 13.",
+      "propertyCQ": "What is Peter Wisoff's job title?"
+    },
+    "OAnswer": {
+      "object_label": "NASA Astronaut Group 13",
+      "context": "Peter Wisoff is part of NASA Astronaut Group 13.",
+      "objectCQ": "What group is Peter Wisoff a part of?"
+    }
+  },
+  {
+    "claim_id": "Q357450$FC1D814E-62FA-4F04-B1EC-ABBCA0249BA1",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "part of",
+      "context": "Soichi Noguchi is part of NASA Astronaut Group 16.",
+      "propertyCQ": "What is Soichi Noguchi's job title?"
+    },
+    "OAnswer": {
+      "object_label": "NASA Astronaut Group 16",
+      "context": "Soichi Noguchi is part of NASA Astronaut Group 16.",
+      "objectCQ": "What group is Soichi Noguchi a part of?"
+    }
+  },
+  {
+    "claim_id": "Q213076$9e88ae08-4e9d-2c43-45e6-9178baafd141",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "part of",
+      "context": "Pete Conrad is part of NASA Astronaut Group 2.",
+      "propertyCQ": "What is Pete Conrad's job title?"
+    },
+    "OAnswer": {
+      "object_label": "NASA Astronaut Group 2",
+      "context": "Pete Conrad is part of NASA Astronaut Group 2.",
+      "objectCQ": "What group does Pete Conrad belong to?"
+    }
+  },
+  {
+    "claim_id": "Q108886$05d45e60-454f-5d7a-708f-ac5aebf920bc",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "part of",
+      "context": "Harrison Schmitt is part of NASA Astronaut Group 4.",
+      "propertyCQ": "What is Harrison Schmitt's job title?"
+    },
+    "OAnswer": {
+      "object_label": "NASA Astronaut Group 4",
+      "context": "Harrison Schmitt is part of NASA Astronaut Group 4.",
+      "objectCQ": "What group does Harrison Schmitt belong to?"
+    }
+  },
+  {
+    "claim_id": "Q449706$2332fc1f-4a11-f454-765b-c4a351ce610d",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "part of",
+      "context": "Donn F. Eisele is part of NASA Astronaut Group 3.",
+      "propertyCQ": "What is Donn F. Eisele's job title?"
+    },
+    "OAnswer": {
+      "object_label": "NASA Astronaut Group 3",
+      "context": "Donn F. Eisele is part of NASA Astronaut Group 3.",
+      "objectCQ": "What group is Donn F. Eisele a part of?"
+    }
+  },
+  {
+    "claim_id": "Q45082$88E1B2B6-516C-45DD-8515-4424F2067BF5",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "part of",
+      "context": "John Herrington is part of the NASA Astronaut Group 16.",
+      "propertyCQ": "What is John Herrington's job title?"
+    },
+    "OAnswer": {
+      "object_label": "NASA Astronaut Group 16",
+      "context": "John Herrington is part of the NASA Astronaut Group 16.",
+      "objectCQ": "What group is John Herrington a part of?"
+    }
+  },
+  {
+    "claim_id": "Q706859$2838C555-6B9A-4253-BC27-7BD8833F40D3",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "part of",
+      "context": "Stanley G. Love is part of NASA Astronaut Group 17.",
+      "propertyCQ": "What is Stanley G. Love's job title?"
+    },
+    "OAnswer": {
+      "object_label": "NASA Astronaut Group 17",
+      "context": "Stanley G. Love is part of NASA Astronaut Group 17.",
+      "objectCQ": "What group is Stanley G. Love a part of?"
+    }
+  },
+  {
+    "claim_id": "Q281604$67EE69BF-9519-4308-9095-FB9D3B4737CD",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "languages spoken, written or signed",
+      "context": "Boris Morukov speaks, writes or signs Russian.",
+      "propertyCQ": "What does Boris Morukov speak?"
+    },
+    "OAnswer": {
+      "object_label": "Russian",
+      "context": "Boris Morukov speaks, writes or signs Russian.",
+      "objectCQ": "Boris Morukov speaks, writes or signs what language?"
+    }
+  },
+  {
+    "claim_id": "q1009884$c126f3e9-4ef3-7e77-6207-4225b745bb5a",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "languages spoken, written or signed",
+      "context": "The German Szemjonovics Arzamazov is spoken, written or signed in Russian.",
+      "propertyCQ": "What is the German Szemjonovics Arzamazov spoken in?"
+    },
+    "OAnswer": {
+      "object_label": "Russian",
+      "context": "The German Szemjonovics Arzamazov is spoken, written or signed in Russian.",
+      "objectCQ": "What language is the German Szemjonovics Arzamazov written in?"
+    }
+  },
+  {
+    "claim_id": "Q229674$246ddb78-4182-b84f-e112-a3d71bbe77ee",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "languages spoken, written or signed",
+      "context": "Christa McAuliffe speaks, writes or signed English.",
+      "propertyCQ": "What does Christa McAuliffe speak?"
+    },
+    "OAnswer": {
+      "object_label": "English",
+      "context": "Christa McAuliffe speaks, writes or signed English.",
+      "objectCQ": "What language does Christa McAuliffe speak?"
+    }
+  },
+  {
+    "claim_id": "Q283544$E08282C8-F641-498B-9733-AD5E9C43401A",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "languages spoken, written or signed",
+      "context": "Sergey Alexandrovich Volkov speaks, writes or signed Russian.",
+      "propertyCQ": "What does Sergey Alexandrovich Volkov speak?"
+    },
+    "OAnswer": {
+      "object_label": "Russian",
+      "context": "Sergey Alexandrovich Volkov speaks, writes or signed Russian.",
+      "objectCQ": "What language does Sergey Alexandrovich Volkov speak?"
+    }
+  },
+  {
+    "claim_id": "Q213605$07C7E053-8C05-4C70-B046-1E4519FC92CC",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "languages spoken, written or signed",
+      "context": "Hans Schlegel speaks, writes or signs German.",
+      "propertyCQ": "What is Hans Schlegel's job?"
+    },
+    "OAnswer": {
+      "object_label": "German",
+      "context": "Hans Schlegel speaks, writes or signs German.",
+      "objectCQ": "What language does Schlegel speak?"
+    }
+  },
+  {
+    "claim_id": "Q26255563$4977A35B-ACD2-449C-B127-BD049670D4B2",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "languages spoken, written or signed",
+      "context": "The language spoken, written or signed by Andrei Babkin is Russian.",
+      "propertyCQ": "What is the Russian language?"
+    },
+    "OAnswer": {
+      "object_label": "Russian",
+      "context": "The language spoken, written or signed by Andrei Babkin is Russian.",
+      "objectCQ": "What is Andrei Babkin's official language?"
+    }
+  },
+  {
+    "claim_id": "Q16522978$F435B47F-2C6A-4E4C-BD09-5DE28F3767B0",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "languages spoken, written or signed",
+      "context": "Szergej Valerjevics Kosztyenko speaks, writes or signed Russian.",
+      "propertyCQ": "What does Szergej Valerjevics Kosztyenko speak?"
+    },
+    "OAnswer": {
+      "object_label": "Russian",
+      "context": "Szergej Valerjevics Kosztyenko speaks, writes or signed Russian.",
+      "objectCQ": "What language does Szergej Valerjevics Kosztyenko speak?"
+    }
+  },
+  {
+    "claim_id": "Q724552$4960DDDB-E34E-4415-8820-43CCD2F9C215",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "military rank",
+      "context": "Jim Wetherbee is a military rank captain.",
+      "propertyCQ": "What is Jim Wetherbee's rank?"
+    },
+    "OAnswer": {
+      "object_label": "captain",
+      "context": "Jim Wetherbee is a military rank captain.",
+      "objectCQ": "What is Jim Wetherbee's rank?"
+    }
+  },
+  {
+    "claim_id": "Q720194$228F4ED9-AE56-4EEB-90BD-1EB9B8CD426F",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "military rank",
+      "context": "Michael Coats served as a captain.",
+      "propertyCQ": "What was Coats' rank?"
+    },
+    "OAnswer": {
+      "object_label": "captain",
+      "context": "Michael Coats served as a captain.",
+      "objectCQ": "What was Michael Coats's position?"
+    }
+  },
+  {
+    "claim_id": "Q717654$200E179D-B6E4-40D2-A61B-E689764C6EDC",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "military rank",
+      "context": "Donald E. Williams is a military rank captain.",
+      "propertyCQ": "What is Donald E. Williams' rank?"
+    },
+    "OAnswer": {
+      "object_label": "captain",
+      "context": "Donald E. Williams is a military rank captain.",
+      "objectCQ": "What rank does Donald E. Williams hold?"
+    }
+  },
+  {
+    "claim_id": "Q928034$9bfad648-47be-5bc7-ccbd-fc22dc925426",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "military rank",
+      "context": "Aleksandr Samokutyayev is a colonel.",
+      "propertyCQ": "What is Samokutyayev's rank?"
+    },
+    "OAnswer": {
+      "object_label": "colonel",
+      "context": "Aleksandr Samokutyayev is a colonel.",
+      "objectCQ": "What is Aleksandr Samokutyayev's occupation?"
+    }
+  },
+  {
+    "claim_id": "q317643$75b878c7-4a8b-a62c-3cb2-8daa090c6965",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "military rank",
+      "context": "Marcos Pontes has the rank of Lieutenant colonel.",
+      "propertyCQ": "What is Marcos Pontes' rank?"
+    },
+    "OAnswer": {
+      "object_label": "Lieutenant colonel",
+      "context": "Marcos Pontes has the rank of Lieutenant colonel.",
+      "objectCQ": "What is Marcos Pontes' rank?"
+    }
+  },
+  {
+    "claim_id": "Q722106$594ABE44-9113-4B07-888C-B8F9AA377952",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "military rank",
+      "context": "Gregory C Johnson is a military rank captain.",
+      "propertyCQ": "What is Gregory C Johnson's rank?"
+    },
+    "OAnswer": {
+      "object_label": "captain",
+      "context": "Gregory C Johnson is a military rank captain.",
+      "objectCQ": "What is Gregory C Johnson's rank?"
+    }
+  },
+  {
+    "claim_id": "Q703321$04B8BCEB-8E87-42AD-9943-BDDF91CD4CD1",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "military rank",
+      "context": "Marc Garneau's military rank is captain.",
+      "propertyCQ": "What is Marc Garneau's rank?"
+    },
+    "OAnswer": {
+      "object_label": "captain",
+      "context": "Marc Garneau's military rank is captain.",
+      "objectCQ": "What is Marc Garneau's military rank?"
+    }
+  },
+  {
+    "claim_id": "Q528832$48BEC06E-72C1-461F-862C-CE547234D06A",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "family name",
+      "context": "James S Voss is a member of the Voss family.",
+      "propertyCQ": "What is James S Voss's family name?"
+    },
+    "OAnswer": {
+      "object_label": "Voss",
+      "context": "James S Voss is a member of the Voss family.",
+      "objectCQ": "What family is James S Voss a member of?"
+    }
+  },
+  {
+    "claim_id": "Q1394857$9f84bae3-4973-bef0-b618-3beb0227f03a",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "family name",
+      "context": "Luca Parmitano is a member of the family Parmitano.",
+      "propertyCQ": "What is Parmitano?"
+    },
+    "OAnswer": {
+      "object_label": "Parmitano",
+      "context": "Luca Parmitano is a member of the family Parmitano.",
+      "objectCQ": "What family does Luca Parmitano belong to?"
+    }
+  },
+  {
+    "claim_id": "Q110879$136449FE-6B76-4656-BBE9-ECDA58CF7DD2",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "family name",
+      "context": "Grissom is the family name of Gus Grissom.",
+      "propertyCQ": "What is the Grissom?"
+    },
+    "OAnswer": {
+      "object_label": "Grissom",
+      "context": "Grissom is the family name of Gus Grissom.",
+      "objectCQ": "What is the family name of Gus Grissom?"
+    }
+  },
+  {
+    "claim_id": "Q60651185$17CD7163-8145-427F-90E2-AF57409025CE",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "family name",
+      "context": "Stucky is the family name of Mark P. Stucky.",
+      "propertyCQ": "What is Stucky?"
+    },
+    "OAnswer": {
+      "object_label": "Stucky",
+      "context": "Stucky is the family name of Mark P. Stucky.",
+      "objectCQ": "What is the family name of Mark P. Stucky?"
+    }
+  },
+  {
+    "claim_id": "Q45082$3C827183-5514-4A81-A716-38F909BC6730",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "family name",
+      "context": "John Herrington's family name is Herrington.",
+      "propertyCQ": "What is John Herrington's first name?"
+    },
+    "OAnswer": {
+      "object_label": "Herrington",
+      "context": "John Herrington's family name is Herrington.",
+      "objectCQ": "What is John Herrington's family name?"
+    }
+  },
+  {
+    "claim_id": "Q461872$292B818C-B44F-4B59-8F38-6C1AF54BE1F3",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "family name",
+      "context": "Gregory Chamitoff is from the family name Chamitoff.",
+      "propertyCQ": "What is the name of Gregory Chamitoff?"
+    },
+    "OAnswer": {
+      "object_label": "Chamitoff",
+      "context": "Gregory Chamitoff is from the family name Chamitoff.",
+      "objectCQ": "What is the family name of Gregory Chamitoff?"
+    }
+  },
+  {
+    "claim_id": "Q229674$b6c0b2ab-43c6-5b18-7b1b-ab6859b632de",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "family name",
+      "context": "The family name of Christa McAuliffe is McAuliffe.",
+      "propertyCQ": "What is McAuliffe?"
+    },
+    "OAnswer": {
+      "object_label": "McAuliffe",
+      "context": "The family name of Christa McAuliffe is McAuliffe.",
+      "objectCQ": "What is the family name of Christa McAuliffe?"
+    }
+  },
+  {
+    "claim_id": "Q3030934$C0214562-F261-4AE8-B410-FDD00655FE65",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "employer",
+      "context": "Michael S Hopkins is employed by NASA.",
+      "propertyCQ": "What is Michael Hopkins' job title?"
+    },
+    "OAnswer": {
+      "object_label": "NASA",
+      "context": "Michael S Hopkins is employed by NASA.",
+      "objectCQ": "What organization is Michael Hopkins employed with?"
+    }
+  },
+  {
+    "claim_id": "Q108886$493B7FAE-9448-48B9-9988-E2B74ACD13B1",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "employer",
+      "context": "Harrison Schmitt worked for NASA.",
+      "propertyCQ": "What was Harrison Schmitt's job title?"
+    },
+    "OAnswer": {
+      "object_label": "NASA",
+      "context": "Harrison Schmitt worked for NASA.",
+      "objectCQ": "What NASA agency did Harrison Schmitt work for?"
+    }
+  },
+  {
+    "claim_id": "Q315737$be32b5fc-4c26-5949-d65a-820ee10ea58a",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "employer",
+      "context": "Robert Crippen worked for Thiokol.",
+      "propertyCQ": "What was Robert Crippen's job title?"
+    },
+    "OAnswer": {
+      "object_label": "Thiokol",
+      "context": "Robert Crippen worked for Thiokol.",
+      "objectCQ": "For what company did Robert Crippen work?"
+    }
+  },
+  {
+    "claim_id": "Q29650$A245A249-4A85-4750-9C50-531300AFE8B3",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "employer",
+      "context": "Charles O. Hobaugh was employed by NASA.",
+      "propertyCQ": "What was Hobaugh's job title?"
+    },
+    "OAnswer": {
+      "object_label": "NASA",
+      "context": "Charles O. Hobaugh was employed by NASA.",
+      "objectCQ": "What NASA agency was Charles O. Hobaugh employed by?"
+    }
+  },
+  {
+    "claim_id": "Q1373573$F528D09C-369B-4A29-BCC0-C49A5C3D7B5D",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "employer",
+      "context": "William A. Pailes worked for NASA.",
+      "propertyCQ": "What was William A. Pailes' job title?"
+    },
+    "OAnswer": {
+      "object_label": "NASA",
+      "context": "William A. Pailes worked for NASA.",
+      "objectCQ": "What NASA organization did William A. Pailes work for?"
+    }
+  },
+  {
+    "claim_id": "Q49819$F346782A-752D-4C60-84C3-A484AE36A7F7",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "employer",
+      "context": "Charles Simonyi worked for Microsoft.",
+      "propertyCQ": "What was Simonyi's job title?"
+    },
+    "OAnswer": {
+      "object_label": "Microsoft",
+      "context": "Charles Simonyi worked for Microsoft.",
+      "objectCQ": "What company did Charles Simonyi work for?"
+    }
+  },
+  {
+    "claim_id": "Q434232$0DCFFDA2-501D-4869-A47F-F450646B3A56",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "employer",
+      "context": "Michael E Fossum is an employee of NASA.",
+      "propertyCQ": "What is Michael Fossum's job title?"
+    },
+    "OAnswer": {
+      "object_label": "NASA",
+      "context": "Michael E Fossum is an employee of NASA.",
+      "objectCQ": "What organization does Michael Fossum work for?"
+    }
+  },
+  {
+    "claim_id": "Q573719$1B647DE1-5C8D-45BF-A368-A3F91680E2FB",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "time in space",
+      "context": "Winston E. Scott spent 35435 minutes in space.",
+      "propertyCQ": "How long did Winston E. Scott spend in space?"
+    },
+    "OAnswer": {
+      "object_label": "35435 minute",
+      "context": "Winston E. Scott spent 35435 minutes in space.",
+      "objectCQ": "How long did Winston E. Scott spend in space?"
+    }
+  },
+  {
+    "claim_id": "Q56725368$b0645f62-4f6d-f1a8-ccb4-4a0bf46f1d9f",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "time in space",
+      "context": "Hazza Al Mansouri spent 11341 minutes in space.",
+      "propertyCQ": "How long did Hazza Al Mansouri spend in space?"
+    },
+    "OAnswer": {
+      "object_label": "11341 minute",
+      "context": "Hazza Al Mansouri spent 11341 minutes in space.",
+      "objectCQ": "How long did Hazza Al Mansouri spend in space?"
+    }
+  },
+  {
+    "claim_id": "Q1394857$3D94F8EF-C764-409B-BB0F-7E3F44E007D6",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "time in space",
+      "context": "Luca Parmitano spent 239040 minutes in space.",
+      "propertyCQ": "How long did Luca Parmitano spend?"
+    },
+    "OAnswer": {
+      "object_label": "239040 minute",
+      "context": "Luca Parmitano spent 239040 minutes in space.",
+      "objectCQ": "How long did Luca Parmitano spend in space?"
+    }
+  },
+  {
+    "claim_id": "Q213076$8A937EE1-3527-48ED-92E2-FD579CB3D651",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "time in space",
+      "context": "Pete Conrad spent 70778 minutes in space.",
+      "propertyCQ": "How long did Pete Conrad spend in space?"
+    },
+    "OAnswer": {
+      "object_label": "70778 minute",
+      "context": "Pete Conrad spent 70778 minutes in space.",
+      "objectCQ": "How long did Pete Conrad spend in space?"
+    }
+  },
+  {
+    "claim_id": "Q724552$C62D9763-4592-4804-87C5-45CDC4465787",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "time in space",
+      "context": "Jim Wetherbee spent 95663 minutes in space.",
+      "propertyCQ": "How long did Jim Wetherbee spend in space?"
+    },
+    "OAnswer": {
+      "object_label": "95663 minute",
+      "context": "Jim Wetherbee spent 95663 minutes in space.",
+      "objectCQ": "How long did Jim Wetherbee spend in space?"
+    }
+  },
+  {
+    "claim_id": "Q375566$469AAA3F-A659-4CBF-B6AB-B2F4A08D8FE7",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "time in space",
+      "context": "Koichi Wakata's time in space is 500192 minutes.",
+      "propertyCQ": "What is Koichi Wakata's time in space?"
+    },
+    "OAnswer": {
+      "object_label": "500192 minute",
+      "context": "Koichi Wakata's time in space is 500192 minutes.",
+      "objectCQ": "How long is Koichi Wakata in space?"
+    }
+  },
+  {
+    "claim_id": "Q362819$C6B3FAB0-D50F-4A3F-9696-3AC35F35EF79",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "time in space",
+      "context": "Aleksandr Serebrov spent 537052 minutes in space.",
+      "propertyCQ": "How long did Serebrov spend in space?"
+    },
+    "OAnswer": {
+      "object_label": "537052 minute",
+      "context": "Aleksandr Serebrov spent 537052 minutes in space.",
+      "objectCQ": "How long did Serebrov spend in space?"
+    }
+  },
+  {
+    "claim_id": "Q13889299$01bac76b-4732-59fb-d140-6793fdef3ecb",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "place of birth",
+      "context": "Irina Rudolfovna Pronyina was born in Moscow.",
+      "propertyCQ": "Where was Irina born?"
+    },
+    "OAnswer": {
+      "object_label": "Moscow",
+      "context": "Irina Rudolfovna Pronyina was born in Moscow.",
+      "objectCQ": "Where was Irina born?"
+    }
+  },
+  {
+    "claim_id": "Q454649$BA180E99-F12C-4C7A-B20C-6861386E8BCB",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "place of birth",
+      "context": "André Kuipers was born in Amsterdam.",
+      "propertyCQ": "Where was André Kuipers born?"
+    },
+    "OAnswer": {
+      "object_label": "Amsterdam",
+      "context": "André Kuipers was born in Amsterdam.",
+      "objectCQ": "Where was André Kuipers born?"
+    }
+  },
+  {
+    "claim_id": "Q956160$e029ac73-416b-709f-6782-03c900ff1dac",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "place of birth",
+      "context": "Gennadi Manakov was born in Yefimovka.",
+      "propertyCQ": "Where was Gennadi Manakov born?"
+    },
+    "OAnswer": {
+      "object_label": "Yefimovka",
+      "context": "Gennadi Manakov was born in Yefimovka.",
+      "objectCQ": "Where was Gennadi Manakov born?"
+    }
+  },
+  {
+    "claim_id": "Q488043$c01288d1-48f9-cd11-e2e6-a7ace3e6ad11",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "place of birth",
+      "context": "Anatoly Filipchenko was born in Davydovka.",
+      "propertyCQ": "Where was Anatoly Filipchenko born?"
+    },
+    "OAnswer": {
+      "object_label": "Davydovka",
+      "context": "Anatoly Filipchenko was born in Davydovka.",
+      "objectCQ": "Where was Anatoly Filipchenko born?"
+    }
+  },
+  {
+    "claim_id": "Q49819$157996AD-68A9-42A2-8E06-229808E1309C",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "place of birth",
+      "context": "Charles Simonyi was born in Budapest.",
+      "propertyCQ": "Where was Charles Simonyi born?"
+    },
+    "OAnswer": {
+      "object_label": "Budapest",
+      "context": "Charles Simonyi was born in Budapest.",
+      "objectCQ": "Where was Charles Simonyi born?"
+    }
+  },
+  {
+    "claim_id": "Q3329196$3E1FFA26-ED57-4DE6-9863-EE3A59EAEA66",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "place of birth",
+      "context": "Sergey Ryazansky was born in Moscow.",
+      "propertyCQ": "Where was Sergey Ryazansky born?"
+    },
+    "OAnswer": {
+      "object_label": "Moscow",
+      "context": "Sergey Ryazansky was born in Moscow.",
+      "objectCQ": "Where was Sergey Ryazansky born?"
+    }
+  },
+  {
+    "claim_id": "q45082$D17E391C-93D4-469B-B66A-91D2A6C7440C",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "date of birth",
+      "context": "John Herrington was born on 14/09/1958.",
+      "propertyCQ": "What was John Herrington's birth date?"
+    },
+    "OAnswer": {
+      "object_label": "14/09/1958",
+      "context": "John Herrington was born on 14/09/1958.",
+      "objectCQ": "When was John Herrington born?"
+    }
+  },
+  {
+    "claim_id": "q704355$04396C26-E1EB-4E04-A095-03E14ACD1715",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "date of birth",
+      "context": "Charles Bassett was born on 30/12/1931.",
+      "propertyCQ": "What was Charles Bassett's birthdate?"
+    },
+    "OAnswer": {
+      "object_label": "30/12/1931",
+      "context": "Charles Bassett was born on 30/12/1931.",
+      "objectCQ": "When was Charles Bassett born?"
+    }
+  },
+  {
+    "claim_id": "Q352069$E301EB65-BBB9-46C5-8D3B-A877B1187FDA",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "date of birth",
+      "context": "Léopold Eyharts was born on 28/04/1957.",
+      "propertyCQ": "What was Léopold Eyharts's birthdate?"
+    },
+    "OAnswer": {
+      "object_label": "28/04/1957",
+      "context": "Léopold Eyharts was born on 28/04/1957.",
+      "objectCQ": "When was Léopold Eyharts born?"
+    }
+  },
+  {
+    "claim_id": "Q26837347$03ed27af-41bd-65c5-37cf-33efba0b942d",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "date of birth",
+      "context": "Mikhail Lisun was born on 05/09/1935.",
+      "propertyCQ": "What was Mikhail Lisun's birth date?"
+    },
+    "OAnswer": {
+      "object_label": "05/09/1935",
+      "context": "Mikhail Lisun was born on 05/09/1935.",
+      "objectCQ": "When was Mikhail Lisun born?"
+    }
+  },
+  {
+    "claim_id": "q448520$1A19E6A7-90C6-43F1-BEE5-57060814B73B",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "date of birth",
+      "context": "Roberto Vittori was born on 15/10/1964.",
+      "propertyCQ": "What was Vittori's birth year?"
+    },
+    "OAnswer": {
+      "object_label": "15/10/1964",
+      "context": "Roberto Vittori was born on 15/10/1964.",
+      "objectCQ": "When was Roberto Vittori born?"
+    }
+  },
+  {
+    "claim_id": "Q16522515$73A2F7D3-63C3-4409-9084-A547DA1C5CBB",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "date of birth",
+      "context": "Ray Glynn Holt was born on 28/11/1959.",
+      "propertyCQ": "What was Ray Glynn Holt's birthdate?"
+    },
+    "OAnswer": {
+      "object_label": "28/11/1959",
+      "context": "Ray Glynn Holt was born on 28/11/1959.",
+      "objectCQ": "When was Ray Glynn Holt born?"
+    }
+  },
+  {
+    "claim_id": "Q720172$FB989690-2479-4D85-A666-9FD682ABD053",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "given name",
+      "context": "Terry Hart's given name is Terry.",
+      "propertyCQ": "What is Terry Hart's real name?"
+    },
+    "OAnswer": {
+      "object_label": "Terry",
+      "context": "Terry Hart's given name is Terry.",
+      "objectCQ": "What is Terry Hart's given name?"
+    }
+  },
+  {
+    "claim_id": "Q703321$DA4F0D67-D146-43C0-A156-9AEC61EDD45F",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "given name",
+      "context": "Marc Garneau's given name is Marc.",
+      "propertyCQ": "What is Marc Garneau's real name?"
+    },
+    "OAnswer": {
+      "object_label": "Marc",
+      "context": "Marc Garneau's given name is Marc.",
+      "objectCQ": "What is Marc Garneau's given name?"
+    }
+  },
+  {
+    "claim_id": "Q44404238$247162f4-43ad-de49-767c-a7ab92766e59",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "given name",
+      "context": "The given name of Leutnant Helga Legrelle is Helga.",
+      "propertyCQ": "What is the given name of Leutnant Helga Legrelle?"
+    },
+    "OAnswer": {
+      "object_label": "Helga",
+      "context": "The given name of Leutnant Helga Legrelle is Helga.",
+      "objectCQ": "What is the given name of Leutnant Helga Legrelle?"
+    }
+  },
+  {
+    "claim_id": "Q50379760$f87653f5-45ab-3b22-6a5d-3ff07a9a90e5",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "given name",
+      "context": "Dmitrij Petelin's given name is Dmitri.",
+      "propertyCQ": "What is Dmitri Petelin's real name?"
+    },
+    "OAnswer": {
+      "object_label": "Dmitri",
+      "context": "Dmitrij Petelin's given name is Dmitri.",
+      "objectCQ": "What is Petelin's given name?"
+    }
+  },
+  {
+    "claim_id": "Q63610$3E63210A-2757-4B5C-803A-7238CD542DAF",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "given name",
+      "context": "Robert Satcher's given name is Robert.",
+      "propertyCQ": "What is Robert Satcher's real name?"
+    },
+    "OAnswer": {
+      "object_label": "Robert",
+      "context": "Robert Satcher's given name is Robert.",
+      "objectCQ": "What is Robert Satcher's given name?"
+    }
+  },
+  {
+    "claim_id": "Q573719$D86E8019-4C67-411D-B6DB-29B734390004",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "given name",
+      "context": "Winston E. Scott's given name is Winston.",
+      "propertyCQ": "What is Winston E. Scott's real name?"
+    },
+    "OAnswer": {
+      "object_label": "Winston",
+      "context": "Winston E. Scott's given name is Winston.",
+      "objectCQ": "What is Winston E. Scott's given name?"
+    }
+  },
+  {
+    "claim_id": "Q13889299$a7f945fd-48ee-c7bc-6a62-5be375f3ec0c",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "country of citizenship",
+      "context": "Irina Rudolfovna Pronyina is from Russia.",
+      "propertyCQ": "What country is Irina Rudolfovna Pronyina from?"
+    },
+    "OAnswer": {
+      "object_label": "Russia",
+      "context": "Irina Rudolfovna Pronyina is from Russia.",
+      "objectCQ": "Where is Irina Rudolfovna Pronyina from?"
+    }
+  },
+  {
+    "claim_id": "Q215140$A46C4B02-6333-4522-B17D-18598ECF2BF2",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "country of citizenship",
+      "context": "Reinhold Ewald's country of citizenship is Germany.",
+      "propertyCQ": "What is Reinhold Ewald's country of citizenship?"
+    },
+    "OAnswer": {
+      "object_label": "Germany",
+      "context": "Reinhold Ewald's country of citizenship is Germany.",
+      "objectCQ": "What is Reinhold Ewald's country of citizenship?"
+    }
+  },
+  {
+    "claim_id": "Q709935$0C6D0973-6FBD-4928-AA9A-7099849C219F",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "country of citizenship",
+      "context": "Leroy Chiao is from the United States of America.",
+      "propertyCQ": "What country is Leroy Chiao from?"
+    },
+    "OAnswer": {
+      "object_label": "United States of America",
+      "context": "Leroy Chiao is from the United States of America.",
+      "objectCQ": "Where is Leroy Chiao from?"
+    }
+  },
+  {
+    "claim_id": "Q345658$6DD63414-213E-4D08-BF96-2AEDF5DCCE2C",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "country of citizenship",
+      "context": "Vladislav Volkov's country of citizenship is the Soviet Union.",
+      "propertyCQ": "What is Vladislav Volkov's country of citizenship?"
+    },
+    "OAnswer": {
+      "object_label": "Soviet Union",
+      "context": "Vladislav Volkov's country of citizenship is the Soviet Union.",
+      "objectCQ": "What country is Vladislav Volkov's citizenship?"
+    }
+  },
+  {
+    "claim_id": "Q63610$A1F31098-A3A9-4748-8B7C-3394B4749E92",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "country of citizenship",
+      "context": "Robert Satcher is a citizen of the United States of America.",
+      "propertyCQ": "What country is Robert Satcher a citizen of?"
+    },
+    "OAnswer": {
+      "object_label": "United States of America",
+      "context": "Robert Satcher is a citizen of the United States of America.",
+      "objectCQ": "What country is Robert Satcher a citizen of?"
+    }
+  },
+  {
+    "claim_id": "Q1338436$D3791570-F51B-46C4-98DC-272D6EA977F5",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "country of citizenship",
+      "context": "Robert D. Cabana is a citizen of the United States of America.",
+      "propertyCQ": "What country is Cabana a citizen of?"
+    },
+    "OAnswer": {
+      "object_label": "United States of America",
+      "context": "Robert D. Cabana is a citizen of the United States of America.",
+      "objectCQ": "What country is Cabana a citizen of?"
+    }
+  },
+  {
+    "claim_id": "Q927249$245390CD-57BA-4138-83FB-4D5E48633834",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "sex or gender",
+      "context": "Oleg Skripochka has a sex or gender of male.",
+      "propertyCQ": "What does Oleg Skripochka have?"
+    },
+    "OAnswer": {
+      "object_label": "male",
+      "context": "Oleg Skripochka has a sex or gender of male.",
+      "objectCQ": "What gender does Oleg Skripochka have?"
+    }
+  },
+  {
+    "claim_id": "q71248$03C78E8E-918A-43C9-AF40-D3D60D8D70BD",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "sex or gender",
+      "context": "Alexander Gerst's sex or gender is male.",
+      "propertyCQ": "What is Alexander Gerst's gender?"
+    },
+    "OAnswer": {
+      "object_label": "male",
+      "context": "Alexander Gerst's sex or gender is male.",
+      "objectCQ": "What is Alexander Gerst's gender?"
+    }
+  },
+  {
+    "claim_id": "q1333261$A0C5CA73-19BE-49EE-97CC-29F024D53034",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "sex or gender",
+      "context": "Peter Wisoff's sex or gender is male.",
+      "propertyCQ": "What is Peter Wisoff's gender?"
+    },
+    "OAnswer": {
+      "object_label": "male",
+      "context": "Peter Wisoff's sex or gender is male.",
+      "objectCQ": "What is Peter Wisoff's gender?"
+    }
+  },
+  {
+    "claim_id": "q1243689$8501380A-1358-4515-99CC-2FFC08C25EF9",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "sex or gender",
+      "context": "Sergey Moshchenko's sex or gender is male.",
+      "propertyCQ": "What is Sergey Moshchenko's gender?"
+    },
+    "OAnswer": {
+      "object_label": "male",
+      "context": "Sergey Moshchenko's sex or gender is male.",
+      "objectCQ": "What is Sergey Moshchenko's gender?"
+    }
+  },
+  {
+    "claim_id": "Q27924266$e22e9489-49d6-91ca-9fb4-ff9c8a8f834b",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "sex or gender",
+      "context": "Billy Bones has a sex or gender of male.",
+      "propertyCQ": "What does Billy Bones have?"
+    },
+    "OAnswer": {
+      "object_label": "male",
+      "context": "Billy Bones has a sex or gender of male.",
+      "objectCQ": "What gender does Billy Bones have?"
+    }
+  },
+  {
+    "claim_id": "Q440178$5717FB95-B317-4869-A51E-BEDBAEFE6510",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "sex or gender",
+      "context": "Vyacheslav Zudov's sex or gender is male.",
+      "propertyCQ": "What is Vyacheslav Zudov's gender?"
+    },
+    "OAnswer": {
+      "object_label": "male",
+      "context": "Vyacheslav Zudov's sex or gender is male.",
+      "objectCQ": "What is Vyacheslav Zudov's gender?"
+    }
+  },
+  {
+    "claim_id": "Q12040315$753436AD-7DA8-4C12-B4B7-46532D4B7F51",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "educated at",
+      "context": "Nagyezsda Vasziljevna Kuzselnaja was educated at the Moscow Aviation Institute.",
+      "propertyCQ": "Where was Nagyezsda Vasziljevna Kuzselnaja educated?"
+    },
+    "OAnswer": {
+      "object_label": "Moscow Aviation Institute",
+      "context": "Nagyezsda Vasziljevna Kuzselnaja was educated at the Moscow Aviation Institute.",
+      "objectCQ": "Where was Nagyezsda Vasziljevna Kuzselnaja educated?"
+    }
+  },
+  {
+    "claim_id": "Q383515$9E78D6AE-D46A-49BC-BCF6-65C5CA0BCC51",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "educated at",
+      "context": "Jerry L. Ross was educated at the U.S. Air Force Test Pilot School.",
+      "propertyCQ": "Where was Jerry L. Ross educated?"
+    },
+    "OAnswer": {
+      "object_label": "U.S. Air Force Test Pilot School",
+      "context": "Jerry L. Ross was educated at the U.S. Air Force Test Pilot School.",
+      "objectCQ": "Where was Jerry L. Ross educated?"
+    }
+  },
+  {
+    "claim_id": "Q348358$736277EB-4187-405A-9864-C718664ABF02",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "educated at",
+      "context": "Jack Swigert was educated at East High School.",
+      "propertyCQ": "Where was Jack Swigert educated?"
+    },
+    "OAnswer": {
+      "object_label": "East High School",
+      "context": "Jack Swigert was educated at East High School.",
+      "objectCQ": "Where was Jack Swigert educated?"
+    }
+  },
+  {
+    "claim_id": "Q1866915$C2E11FEB-9120-4511-8004-8AA7A7303FCF",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "educated at",
+      "context": "L. Blaine Hammond was educated at the Georgia Institute of Technology.",
+      "propertyCQ": "Where was L. Blaine Hammond educated?"
+    },
+    "OAnswer": {
+      "object_label": "Georgia Institute of Technology",
+      "context": "L. Blaine Hammond was educated at the Georgia Institute of Technology.",
+      "objectCQ": "Where was L. Blaine Hammond educated?"
+    }
+  },
+  {
+    "claim_id": "Q2742047$261EAACB-33D2-4F7E-AFF3-07EF70530DAC",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "educated at",
+      "context": "Patricia Robertson was educated at Drexel University.",
+      "propertyCQ": "Where was Patricia Robertson educated?"
+    },
+    "OAnswer": {
+      "object_label": "Drexel University",
+      "context": "Patricia Robertson was educated at Drexel University.",
+      "objectCQ": "Where was Patricia Robertson educated?"
+    }
+  },
+  {
+    "claim_id": "Q29650$0B2C1724-A3EE-43C2-B38F-DD347EBF6A39",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "educated at",
+      "context": "Charles O. Hobaugh was educated at the United States Naval Test Pilot School.",
+      "propertyCQ": "Where was Hobaugh educated?"
+    },
+    "OAnswer": {
+      "object_label": "United States Naval Test Pilot School",
+      "context": "Charles O. Hobaugh was educated at the United States Naval Test Pilot School.",
+      "objectCQ": "Where was Hobaugh educated?"
+    }
+  },
+  {
+    "claim_id": "Q383515$DCCA0213-30CA-4539-A279-A38FD7A18A9B",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "astronaut mission",
+      "context": "Jerry L. Ross was on the astronaut mission STS-55.",
+      "propertyCQ": "What was Jerry L. Ross on?"
+    },
+    "OAnswer": {
+      "object_label": "STS-55",
+      "context": "Jerry L. Ross was on the astronaut mission STS-55.",
+      "objectCQ": "What was Jerry L. Ross's mission?"
+    }
+  },
+  {
+    "claim_id": "Q956160$f019f0c0-42e6-535d-5673-2bb343dc44f2",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "astronaut mission",
+      "context": "The astronaut mission of Gennadi Manakov is the Soyuz TM-16.",
+      "propertyCQ": "What is the Soyuz TM-16?"
+    },
+    "OAnswer": {
+      "object_label": "Soyuz TM-16",
+      "context": "The astronaut mission of Gennadi Manakov is the Soyuz TM-16.",
+      "objectCQ": "What is the name of the astronaut mission of Gennadi Manakov?"
+    }
+  },
+  {
+    "claim_id": "Q1407313$71887827-AA7E-4B20-B7D4-E3138ADC864B",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "astronaut mission",
+      "context": "Terence T. Henricks astronaut mission is STS-55.",
+      "propertyCQ": "What is Terence T. Henricks mission?"
+    },
+    "OAnswer": {
+      "object_label": "STS-55",
+      "context": "Terence T. Henricks astronaut mission is STS-55.",
+      "objectCQ": "What is the name of Terence T. Henricks mission?"
+    }
+  },
+  {
+    "claim_id": "Q440178$b9bfa0fa-4040-affe-66a4-895fac9c4a1d",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "astronaut mission",
+      "context": "Vyacheslav Zudov's astronaut mission was Soyuz 23.",
+      "propertyCQ": "What was Vyacheslav Zudov's mission called?"
+    },
+    "OAnswer": {
+      "object_label": "Soyuz 23",
+      "context": "Vyacheslav Zudov's astronaut mission was Soyuz 23.",
+      "objectCQ": "What was the name of Zudov's astronaut mission?"
+    }
+  },
+  {
+    "claim_id": "Q283544$D21CA3D2-9634-4DA0-9054-A4DCB61ABA67",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "astronaut mission",
+      "context": "Sergey Alexandrovich Volkov was an astronaut on the Soyuz TMA-18M mission.",
+      "propertyCQ": "What was Sergey Alexandrovich Volkov's job?"
+    },
+    "OAnswer": {
+      "object_label": "Soyuz TMA-18M",
+      "context": "Sergey Alexandrovich Volkov was an astronaut on the Soyuz TMA-18M mission.",
+      "objectCQ": "What mission was Volkov on?"
+    }
+  },
+  {
+    "claim_id": "Q2655329$4be9e030-4df1-01cc-919a-25ceb685af2f",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "astronaut mission",
+      "context": "Alexander Misurkin was on the astronaut mission Expedition 54.",
+      "propertyCQ": "What was Alexander Misurkin on?"
+    },
+    "OAnswer": {
+      "object_label": "Expedition 54",
+      "context": "Alexander Misurkin was on the astronaut mission Expedition 54.",
+      "objectCQ": "What was Alexander Misurkin on?"
+    }
+  },
+  {
+    "claim_id": "Q448520$0ac97957-4aef-c23f-4474-5a8f40d8cba7",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "occupation",
+      "context": "Roberto Vittori served as an air force officer.",
+      "propertyCQ": "What was Vittori's occupation?"
+    },
+    "OAnswer": {
+      "object_label": "air force officer",
+      "context": "Roberto Vittori served as an air force officer.",
+      "objectCQ": "What was Roberto Vittori's job?"
+    }
+  },
+  {
+    "claim_id": "Q9095339$bb859464-330e-467f-b406-fc7b378618c9",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "occupation",
+      "context": "Zhao Chuandong is an aircraft pilot.",
+      "propertyCQ": "What is Zhao Chuandong's job?"
+    },
+    "OAnswer": {
+      "object_label": "aircraft pilot",
+      "context": "Zhao Chuandong is an aircraft pilot.",
+      "objectCQ": "What is Zhao Chuandong's job?"
+    }
+  },
+  {
+    "claim_id": "Q705636$B5345C9D-5F5E-451F-A6DA-470E0F83D230",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "occupation",
+      "context": "Frank L. Culbertson is a businessperson.",
+      "propertyCQ": "What is Frank L. Culbertson's job?"
+    },
+    "OAnswer": {
+      "object_label": "businessperson",
+      "context": "Frank L. Culbertson is a businessperson.",
+      "objectCQ": "What is Frank L. Culbertson's profession?"
+    }
+  },
+  {
+    "claim_id": "Q260329$F49A1759-0987-44CF-B63A-12ED7F4D5566",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "occupation",
+      "context": "Joseph R. Tanner was an aircraft pilot.",
+      "propertyCQ": "What was Tanner's occupation?"
+    },
+    "OAnswer": {
+      "object_label": "aircraft pilot",
+      "context": "Joseph R. Tanner was an aircraft pilot.",
+      "objectCQ": "What was Joseph R. Tanner's occupation?"
+    }
+  },
+  {
+    "claim_id": "q912120$272DCA0C-0DDD-4C88-9C2A-49C82DF1C4D7",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "occupation",
+      "context": "Brian Duffy served as a military officer.",
+      "propertyCQ": "What was Duffy's military career?"
+    },
+    "OAnswer": {
+      "object_label": "military officer",
+      "context": "Brian Duffy served as a military officer.",
+      "objectCQ": "What was Brian Duffy's job title?"
+    }
+  },
+  {
+    "claim_id": "Q2252$F8631B2F-29FD-42F6-A209-067411C008EF",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "occupation",
+      "context": "Buzz Aldrin is a science fiction writer.",
+      "propertyCQ": "What is Buzz Aldrin's job?"
+    },
+    "OAnswer": {
+      "object_label": "science fiction writer",
+      "context": "Buzz Aldrin is a science fiction writer.",
+      "objectCQ": "What is Buzz Aldrin's job?"
+    }
+  },
+  {
+    "claim_id": "Q355433$fba116a6-48ff-17a7-c9fa-f9da56d69f45",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "award received",
+      "context": "Georgy Dobrovolsky was awarded the Jubilee Medal \"40 Years of the Armed Forces of the USSR\".",
+      "propertyCQ": "What was the Jubilee Medal?"
+    },
+    "OAnswer": {
+      "object_label": "Jubilee Medal \"40 Years of the Armed Forces of the USSR\"",
+      "context": "Georgy Dobrovolsky was awarded the Jubilee Medal \"40 Years of the Armed Forces of the USSR\".",
+      "objectCQ": "What was Georgy Dobrovolsky awarded?"
+    }
+  },
+  {
+    "claim_id": "Q450834$AD81B58A-B571-49FB-9EEC-62052C34A7A3",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "award received",
+      "context": "Lev Dyomin was awarded the Medal \"For the Development of Virgin Lands\".",
+      "propertyCQ": "What was Lev Dyomin awarded?"
+    },
+    "OAnswer": {
+      "object_label": "Medal \"For the Development of Virgin Lands\"",
+      "context": "Lev Dyomin was awarded the Medal \"For the Development of Virgin Lands\".",
+      "objectCQ": "What award did Lev Dyomin receive?"
+    }
+  },
+  {
+    "claim_id": "Q4831087$6a1d65a0-44c5-1911-ea58-01eb666cc3ca",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "award received",
+      "context": "Aydyn Aimbetov won the award медаль «За безупречную службу».",
+      "propertyCQ": "What award did Aydyn Aimbetov win?"
+    },
+    "OAnswer": {
+      "object_label": "медаль «За безупречную службу»",
+      "context": "Aydyn Aimbetov won the award медаль «За безупречную службу».",
+      "objectCQ": "What award did Aydyn Aimbetov win?"
+    }
+  },
+  {
+    "claim_id": "Q956160$308DB2DD-9218-45C8-BBD5-5944CD95ED3F",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "award received",
+      "context": "Gennadi Manakov received the award Pilot-Cosmonaut of the USSR.",
+      "propertyCQ": "What did Gennadi Manakov receive?"
+    },
+    "OAnswer": {
+      "object_label": "Pilot-Cosmonaut of the USSR",
+      "context": "Gennadi Manakov received the award Pilot-Cosmonaut of the USSR.",
+      "objectCQ": "What award did Gennadi Manakov receive?"
+    }
+  },
+  {
+    "claim_id": "Q281604$08B7A059-8548-4367-9B92-BB52A99A3A7B",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "award received",
+      "context": "Boris Morukov received the award Pilot-Cosmonaut of the Russian Federation.",
+      "propertyCQ": "What did Boris Morukov receive?"
+    },
+    "OAnswer": {
+      "object_label": "Pilot-Cosmonaut of the Russian Federation",
+      "context": "Boris Morukov received the award Pilot-Cosmonaut of the Russian Federation.",
+      "objectCQ": "What award did Boris Morukov receive?"
+    }
+  },
+  {
+    "claim_id": "Q928034$06DE3304-B645-48FE-9700-A16159BAF2F1",
+    "theme": "Astronaut",
+    "PAnswer": {
+      "property_label": "award received",
+      "context": "Aleksandr Samokutyayev was awarded the Order \"For Merit to the Fatherland\" IV class.",
+      "propertyCQ": "What was Samokutyayev awarded?"
+    },
+    "OAnswer": {
+      "object_label": "Order \"For Merit to the Fatherland\" IV class",
+      "context": "Aleksandr Samokutyayev was awarded the Order \"For Merit to the Fatherland\" IV class.",
+      "objectCQ": "What award did Samokutyayev receive?"
+    }
+  }
+]
