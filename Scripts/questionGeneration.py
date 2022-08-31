@@ -32,14 +32,14 @@ def refine_question(question):
     return(k)
 
 # Opening JSON file
-f = open('/content/drive/MyDrive/KCL experiment/WDV_JSON.json')
+f = open('Data/WDV_dataset.json')
 data = json.load(f)
 
 # Iterating through the json list
-with open('/content/drive/MyDrive/KCL experiment/Themed questions/ComicsCharacter/ComicsCharacter.json', "r+") as file:
+with open('Data/Questions/Airport.json', "r+") as file:
   output = json.load(file)
   for doc in data:
-    if doc['theme_label'] == "ComicsCharacter":
+    if doc['theme_label'] == "Airport":
       
       propertyCQ = refine_question(get_question(doc['property_label'], doc['verbalisation_unk_replaced']))
       objectCQ = refine_question(get_question(doc['object_label'], doc['verbalisation_unk_replaced']))
