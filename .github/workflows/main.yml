@@ -19,7 +19,7 @@ jobs:
 
       - name: Run script
         shell: bash
-        run: python questionGeneration.py ${{ github.repository }} 
+        run: python Scripts/questionGeneration.py 
       
       - name: Git Add & Commit
         uses: EndBug/add-and-commit@v9.0.1
