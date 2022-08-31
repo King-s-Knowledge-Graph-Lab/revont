@@ -16,7 +16,7 @@ jobs:
         run: |
            pip install transformers
            pip install sentencepiece
-           pip install tensorflow
+           pip3 install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cpu
 
       - name: Run script
         shell: bash
