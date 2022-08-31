@@ -1,0 +1,5392 @@
+[
+  {
+    "claim_id": "Q974436$DC3BA2FC-E018-4690-8AB4-5A8BA51BCDA6",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "penalty minutes in career",
+      "context": "Magnus Arvedson has 241 penalty minutes in his career.",
+      "propertyCQ": "How many penalty minutes has Arvedson played?"
+    },
+    "OAnswer": {
+      "object_label": "241",
+      "context": "Magnus Arvedson has 241 penalty minutes in his career.",
+      "objectCQ": "How many penalty minutes has Arvedson played?"
+    }
+  },
+  {
+    "claim_id": "Q5549240$7851AD1B-7936-432A-B80A-8ED3DA2E6E75",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "penalty minutes in career",
+      "context": "Gerald Heffernan has 27 penalty minutes in his career.",
+      "propertyCQ": "How many penalty minutes has Gerald Heffernan played?"
+    },
+    "OAnswer": {
+      "object_label": "27",
+      "context": "Gerald Heffernan has 27 penalty minutes in his career.",
+      "objectCQ": "How many penalty minutes has Gerald Heffernan played?"
+    }
+  },
+  {
+    "claim_id": "Q5606279$FD309331-7AA7-4CBA-BADC-990C1A3E68A3",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "penalty minutes in career",
+      "context": "Greg Smyth has 783 penalty minutes in his career.",
+      "propertyCQ": "How many penalty minutes has Greg Smyth played?"
+    },
+    "OAnswer": {
+      "object_label": "783",
+      "context": "Greg Smyth has 783 penalty minutes in his career.",
+      "objectCQ": "How many penalty minutes has Greg Smyth played?"
+    }
+  },
+  {
+    "claim_id": "Q981614$6A75597D-1298-48A4-B860-B3EA30C98B4B",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "penalty minutes in career",
+      "context": "Jonathan Sigalet has 4 penalty minutes in his career.",
+      "propertyCQ": "How many penalty minutes has Jonathan Sigalet played?"
+    },
+    "OAnswer": {
+      "object_label": "4",
+      "context": "Jonathan Sigalet has 4 penalty minutes in his career.",
+      "objectCQ": "How many penalty minutes has Jonathan Sigalet played?"
+    }
+  },
+  {
+    "claim_id": "Q5115494$1A18996E-9E94-4077-A8DB-992BD5B99715",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "penalty minutes in career",
+      "context": "Chuck Hamilton has 2 penalty minutes in his career.",
+      "propertyCQ": "How many penalty minutes has Chuck Hamilton had?"
+    },
+    "OAnswer": {
+      "object_label": "2",
+      "context": "Chuck Hamilton has 2 penalty minutes in his career.",
+      "objectCQ": "How many penalty minutes has Chuck Hamilton played?"
+    }
+  },
+  {
+    "claim_id": "Q3343699$D962A08A-B749-436F-ABC0-E257F0E09B30",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "penalty minutes in career",
+      "context": "Norm Ferguson has 72 penalty minutes in his career.",
+      "propertyCQ": "How many penalty minutes has Ferguson played?"
+    },
+    "OAnswer": {
+      "object_label": "72",
+      "context": "Norm Ferguson has 72 penalty minutes in his career.",
+      "objectCQ": "How many penalty minutes has Ferguson played?"
+    }
+  },
+  {
+    "claim_id": "Q21064031$281B5873-2F74-42C5-807C-D048D4A49FD4",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "penalty minutes in career",
+      "context": "Matthew Tkachuk has 228 penalty minutes in his career.",
+      "propertyCQ": "How many penalty minutes has Matthew Tkachuk played?"
+    },
+    "OAnswer": {
+      "object_label": "228",
+      "context": "Matthew Tkachuk has 228 penalty minutes in his career.",
+      "objectCQ": "How many penalty minutes has Matthew Tkachuk played?"
+    }
+  },
+  {
+    "claim_id": "Q974436$C722EF13-5798-40AA-93AF-E67D58E0A040",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "total assists in career",
+      "context": "Magnus Arvedson has 125 assists in his career.",
+      "propertyCQ": "How many assists has Magnus Arvedson had?"
+    },
+    "OAnswer": {
+      "object_label": "125",
+      "context": "Magnus Arvedson has 125 assists in his career.",
+      "objectCQ": "How many assists has Arvedson had in his career?"
+    }
+  },
+  {
+    "claim_id": "Q5549240$66D2F962-30D9-4D85-9BC5-06EE885F3F13",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "total assists in career",
+      "context": "Gerald Heffernan has 35 assists in his career.",
+      "propertyCQ": "How many assists has Gerald Heffernan had?"
+    },
+    "OAnswer": {
+      "object_label": "35",
+      "context": "Gerald Heffernan has 35 assists in his career.",
+      "objectCQ": "How many assists has Gerald Heffernan had in his career?"
+    }
+  },
+  {
+    "claim_id": "Q5606279$6B134674-D616-4039-87AD-CF2B7BE74938",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "total assists in career",
+      "context": "Greg Smyth has 16 assists in his career.",
+      "propertyCQ": "How many assists has Greg Smyth had?"
+    },
+    "OAnswer": {
+      "object_label": "16",
+      "context": "Greg Smyth has 16 assists in his career.",
+      "objectCQ": "How many assists has Greg Smyth had in his career?"
+    }
+  },
+  {
+    "claim_id": "Q981614$2F73588E-B131-4CF8-AE9B-6CEEC81232C2",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "total assists in career",
+      "context": "Jonathan Sigalet has 0 assists in his career.",
+      "propertyCQ": "How many assists has Jonathan Sigalet had?"
+    },
+    "OAnswer": {
+      "object_label": "0",
+      "context": "Jonathan Sigalet has 0 assists in his career.",
+      "objectCQ": "How many assists has Jonathan Sigalet had in his career?"
+    }
+  },
+  {
+    "claim_id": "Q5115494$E4E70065-DF05-447E-BC23-A0857C3CE782",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "total assists in career",
+      "context": "Chuck Hamilton has 2 assists in his career.",
+      "propertyCQ": "How many assists has Chuck Hamilton had?"
+    },
+    "OAnswer": {
+      "object_label": "2",
+      "context": "Chuck Hamilton has 2 assists in his career.",
+      "objectCQ": "How many assists has Chuck Hamilton had in his career?"
+    }
+  },
+  {
+    "claim_id": "Q3343699$C0B4D95A-FEB3-43CA-A6B7-253311229DBB",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "total assists in career",
+      "context": "Norm Ferguson has 66 assists in his career.",
+      "propertyCQ": "How many assists has Ferguson had?"
+    },
+    "OAnswer": {
+      "object_label": "66",
+      "context": "Norm Ferguson has 66 assists in his career.",
+      "objectCQ": "How many assists has Ferguson had in his career?"
+    }
+  },
+  {
+    "claim_id": "Q21064031$6B61ABA3-FD8C-42B3-828B-B8530B667CEE",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "total assists in career",
+      "context": "Matthew Tkachuk has 103 assists in his career.",
+      "propertyCQ": "How many assists has Matthew Tkachuk had?"
+    },
+    "OAnswer": {
+      "object_label": "103",
+      "context": "Matthew Tkachuk has 103 assists in his career.",
+      "objectCQ": "How many assists has Matthew Tkachuk had in his career?"
+    }
+  },
+  {
+    "claim_id": "Q1858657$AE1A1EA8-D625-4938-85E7-318B49CD466A",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "total assists in career",
+      "context": "Milan Bartovič has 14 assists in his career.",
+      "propertyCQ": "How many assists has Milan Bartovi<unk> had?"
+    },
+    "OAnswer": {
+      "object_label": "14",
+      "context": "Milan Bartovič has 14 assists in his career.",
+      "objectCQ": "How many assists has Milan Bartovi<unk> had in his career?"
+    }
+  },
+  {
+    "claim_id": "Q22003437$5fdfa62b-47a7-c354-ce49-1d9674acaf9a",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "conflict",
+      "context": "Len Boyd-Gerny was involved in the World War II.",
+      "propertyCQ": "What was Len Boyd-Gerny involved in?"
+    },
+    "OAnswer": {
+      "object_label": "World War II",
+      "context": "Len Boyd-Gerny was involved in the World War II.",
+      "objectCQ": "What war was Len Boyd-Gerny involved in?"
+    }
+  },
+  {
+    "claim_id": "Q55433876$c1f64a3b-4940-784d-9421-74976567064e",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "conflict",
+      "context": "Eddison Tollett was involved in the Battle of Castle Black.",
+      "propertyCQ": "What was the cause of the Battle of Castle Black?"
+    },
+    "OAnswer": {
+      "object_label": "Battle of Castle Black",
+      "context": "Eddison Tollett was involved in the Battle of Castle Black.",
+      "objectCQ": "What battle was Eddison Tollett involved in?"
+    }
+  },
+  {
+    "claim_id": "Q4719260$47BACBC3-B9D5-4B07-B14B-C012C98A0D4C",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "conflict",
+      "context": "Alexander Johnston was involved in the World War I.",
+      "propertyCQ": "What was Johnston involved in during the first world war?"
+    },
+    "OAnswer": {
+      "object_label": "World War I",
+      "context": "Alexander Johnston was involved in the World War I.",
+      "objectCQ": "What war was Johnston involved in?"
+    }
+  },
+  {
+    "claim_id": "Q6662530$20A135A4-07A0-454C-9EEA-F0AFE0B9EE04",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "conflict",
+      "context": "Lloyd Jordan was involved in the World War II.",
+      "propertyCQ": "What was Lloyd Jordan involved in during the second world war?"
+    },
+    "OAnswer": {
+      "object_label": "World War II",
+      "context": "Lloyd Jordan was involved in the World War II.",
+      "objectCQ": "What war was Lloyd Jordan involved in?"
+    }
+  },
+  {
+    "claim_id": "Q18387508$0f5b8292-4cf3-4df7-8058-409b13aa6e24",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "conflict",
+      "context": "Ken Carlon was involved in the World War II.",
+      "propertyCQ": "What was Ken Carlon involved in during the Second World War?"
+    },
+    "OAnswer": {
+      "object_label": "World War II",
+      "context": "Ken Carlon was involved in the World War II.",
+      "objectCQ": "What war was Ken Carlon involved in?"
+    }
+  },
+  {
+    "claim_id": "Q5336160$0545AEE6-0692-4763-AF66-5C9F935788A0",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "conflict",
+      "context": "Eddie Jankowski was involved in the World War II.",
+      "propertyCQ": "What was the cause of the Second World War?"
+    },
+    "OAnswer": {
+      "object_label": "World War II",
+      "context": "Eddie Jankowski was involved in the World War II.",
+      "objectCQ": "What war was Eddie Jankowski involved in?"
+    }
+  },
+  {
+    "claim_id": "Q16082104$e326de28-4a99-3daa-2bc1-b5940796e634",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "conflict",
+      "context": "Harry Hickey was involved in the World War II.",
+      "propertyCQ": "What was Harry Hickey involved in during the Second World War?"
+    },
+    "OAnswer": {
+      "object_label": "World War II",
+      "context": "Harry Hickey was involved in the World War II.",
+      "objectCQ": "What war was Harry Hickey involved in?"
+    }
+  },
+  {
+    "claim_id": "Q2662383$ADF73963-6EC6-4088-886F-96F6CF6A0DB6",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "conflict",
+      "context": "Hank Thompson was involved in the World War II.",
+      "propertyCQ": "What was Hank Thompson involved in during the second world war?"
+    },
+    "OAnswer": {
+      "object_label": "World War II",
+      "context": "Hank Thompson was involved in the World War II.",
+      "objectCQ": "What war was Hank Thompson involved in?"
+    }
+  },
+  {
+    "claim_id": "Q6378938$EB5E8F86-7660-4928-A6C5-C5753610A13F",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "total points in career",
+      "context": "Steve Poapst has 36 career points.",
+      "propertyCQ": "How many career points does Steve Poapst have?"
+    },
+    "OAnswer": {
+      "object_label": "36",
+      "context": "Steve Poapst has 36 career points.",
+      "objectCQ": "How many career points does Poapst have?"
+    }
+  },
+  {
+    "claim_id": "Q15458435$4B1EC677-6D2E-4FCB-9372-50B8662F628F",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "total points in career",
+      "context": "Zach Trotman has 13 career points.",
+      "propertyCQ": "How many career points does Zach Trotman have?"
+    },
+    "OAnswer": {
+      "object_label": "13",
+      "context": "Zach Trotman has 13 career points.",
+      "objectCQ": "How many career points does Zach Trotman have?"
+    }
+  },
+  {
+    "claim_id": "Q961736$2D3198E8-2007-403F-86E7-CE4A95B6E1F2",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "total points in career",
+      "context": "Fred Boimistruck has 18 total points in his career.",
+      "propertyCQ": "How many points has Fred Boimistruck scored?"
+    },
+    "OAnswer": {
+      "object_label": "18",
+      "context": "Fred Boimistruck has 18 total points in his career.",
+      "objectCQ": "How many total points has Fred Boimistruck scored in his career?"
+    }
+  },
+  {
+    "claim_id": "Q5606279$5F13DAC6-BD31-4858-9338-D2D679A8660C",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "total points in career",
+      "context": "Greg Smyth has 20 career points.",
+      "propertyCQ": "How many career points does Greg Smyth have?"
+    },
+    "OAnswer": {
+      "object_label": "20",
+      "context": "Greg Smyth has 20 career points.",
+      "objectCQ": "How many career points does Greg Smyth have?"
+    }
+  },
+  {
+    "claim_id": "Q4910177$F69B20B8-2CDF-4FCA-9422-E45277A0717F",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "total points in career",
+      "context": "Bill Mikkelson has 22 career points.",
+      "propertyCQ": "How many career points does Mikkelson have?"
+    },
+    "OAnswer": {
+      "object_label": "22",
+      "context": "Bill Mikkelson has 22 career points.",
+      "objectCQ": "How many career points does Mikkelson have?"
+    }
+  },
+  {
+    "claim_id": "Q1081656$5E4D767D-F4E7-4754-8463-646884348429",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "total points in career",
+      "context": "Christian Ruuttu has 432 career points.",
+      "propertyCQ": "How many career points does Christian Ruuttu have?"
+    },
+    "OAnswer": {
+      "object_label": "432",
+      "context": "Christian Ruuttu has 432 career points.",
+      "objectCQ": "How many career points does Christian Ruuttu have?"
+    }
+  },
+  {
+    "claim_id": "Q816509$B890870A-9F41-4E0C-A91B-1CFE32D04D8E",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "total points in career",
+      "context": "Ben Hankinson has 6 career points.",
+      "propertyCQ": "How many career points does Hankinson have?"
+    },
+    "OAnswer": {
+      "object_label": "6",
+      "context": "Ben Hankinson has 6 career points.",
+      "objectCQ": "How many career points does Hankinson have?"
+    }
+  },
+  {
+    "claim_id": "Q2832901$7A404DDA-828D-4365-A747-D5303B48D0F4",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "total points in career",
+      "context": "Alex Biega has 36 career points.",
+      "propertyCQ": "How many career points does Alex Biega have?"
+    },
+    "OAnswer": {
+      "object_label": "36",
+      "context": "Alex Biega has 36 career points.",
+      "objectCQ": "How many career points does Alex Biega have?"
+    }
+  },
+  {
+    "claim_id": "Q21078235$d261148d-4c4f-474a-b985-9ab78539e94c",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "place of burial",
+      "context": "Bill Moulden's burial place is Geelong Eastern Cemetery.",
+      "propertyCQ": "What is the name of Bill Moulden's cemetery?"
+    },
+    "OAnswer": {
+      "object_label": "Geelong Eastern Cemetery",
+      "context": "Bill Moulden's burial place is Geelong Eastern Cemetery.",
+      "objectCQ": "Where is Bill Moulden buried?"
+    }
+  },
+  {
+    "claim_id": "Q301422$49124d6f-38e0-41ec-9ed8-e88b887dd113",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "place of burial",
+      "context": "Alex Pompez's place of burial is Woodlawn Cemetery.",
+      "propertyCQ": "What is Alex Pompez's place of residence?"
+    },
+    "OAnswer": {
+      "object_label": "Woodlawn Cemetery",
+      "context": "Alex Pompez's place of burial is Woodlawn Cemetery.",
+      "objectCQ": "Where is Alex Pompez buried?"
+    }
+  },
+  {
+    "claim_id": "Q1571594$435bb3c2-d576-4686-b187-0d9b3a5dedda",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "place of burial",
+      "context": "Jerzy Potz's place of burial is Łódź.",
+      "propertyCQ": "What is Jerzy Potz's place of burial?"
+    },
+    "OAnswer": {
+      "object_label": "Łódź",
+      "context": "Jerzy Potz's place of burial is Łódź.",
+      "objectCQ": "What is Jerzy Potz's burial place?"
+    }
+  },
+  {
+    "claim_id": "Q20821349$9f0ea229-4c5e-904e-4f5a-beb603e55b3f",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "place of burial",
+      "context": "The place of burial of Czesław Kuśmirek is Lipowa Street Cemetery, Lublin.",
+      "propertyCQ": "What is Lipowa Street Cemetery?"
+    },
+    "OAnswer": {
+      "object_label": "Lipowa Street cemetery, Lublin",
+      "context": "The place of burial of Czesław Kuśmirek is Lipowa Street Cemetery, Lublin.",
+      "objectCQ": "Where is the burial place of Czes<unk>aw Ku<unk>mirek?"
+    }
+  },
+  {
+    "claim_id": "Q11725471$70946D8F-B653-431F-AEB7-DE69F1961258",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "place of burial",
+      "context": "Jerzy Suchanek's burial place is Grabiszyński Cemetery.",
+      "propertyCQ": "What is Grabiszy<unk>ski Cemetery?"
+    },
+    "OAnswer": {
+      "object_label": "Grabiszyński Cemetery",
+      "context": "Jerzy Suchanek's burial place is Grabiszyński Cemetery.",
+      "objectCQ": "What is Jerzy Suchanek's burial place?"
+    }
+  },
+  {
+    "claim_id": "Q3441313$9C9C1BAC-42C6-43B0-9490-2F0D71976FF2",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "place of burial",
+      "context": "Julio Mueller was buried in Berlin.",
+      "propertyCQ": "Where was Julio Mueller buried?"
+    },
+    "OAnswer": {
+      "object_label": "Berlin",
+      "context": "Julio Mueller was buried in Berlin.",
+      "objectCQ": "Where was Julio Mueller buried?"
+    }
+  },
+  {
+    "claim_id": "Q828080$20078574-52fe-4db4-b7a3-848aec3587de",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "place of burial",
+      "context": "Yossef Gutfreund's place of burial is Har HaMenuchot.",
+      "propertyCQ": "What is Har HaMenuchot?"
+    },
+    "OAnswer": {
+      "object_label": "Har HaMenuchot",
+      "context": "Yossef Gutfreund's place of burial is Har HaMenuchot.",
+      "objectCQ": "Where is Yossef Gutfreund's burial?"
+    }
+  },
+  {
+    "claim_id": "Q3776461$61c38f1e-e457-43f2-aad3-5fc34e389b59",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "place of burial",
+      "context": "Gregg Hansford's burial place is Pinnaroo Cemetery and Crematorium.",
+      "propertyCQ": "What is Gregg Hansford's place of residence?"
+    },
+    "OAnswer": {
+      "object_label": "Pinnaroo Cemetery and Crematorium",
+      "context": "Gregg Hansford's burial place is Pinnaroo Cemetery and Crematorium.",
+      "objectCQ": "What is Gregg Hansford's burial place?"
+    }
+  },
+  {
+    "claim_id": "Q17107280$e6a37a7a-4436-66c8-92fd-5928145edbae",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "spouse",
+      "context": "Svein Tore Sinnes's spouse is Merethe Braathen Sinnes.",
+      "propertyCQ": "What is Merethe Braathen Sinnes's occupation?"
+    },
+    "OAnswer": {
+      "object_label": "Merethe Braathen Sinnes",
+      "context": "Svein Tore Sinnes's spouse is Merethe Braathen Sinnes.",
+      "objectCQ": "Who is Svein Tore Sinnes's spouse?"
+    }
+  },
+  {
+    "claim_id": "Q2547628$4a39ba03-4632-0155-c59f-95e8f895664c",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "spouse",
+      "context": "Waltraud Kretzschmar's spouse is Peter Kretzschmar.",
+      "propertyCQ": "What is Peter Kretzschmar's occupation?"
+    },
+    "OAnswer": {
+      "object_label": "Peter Kretzschmar",
+      "context": "Waltraud Kretzschmar's spouse is Peter Kretzschmar.",
+      "objectCQ": "Who is Waltraud Kretzschmar's spouse?"
+    }
+  },
+  {
+    "claim_id": "Q62515$FF3AD2EF-75D1-48C7-9DBE-29FF611B5308",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "spouse",
+      "context": "Brigitte Bardot is the spouse of Gunter Sachs.",
+      "propertyCQ": "What is Brigitte Bardot's position?"
+    },
+    "OAnswer": {
+      "object_label": "Brigitte Bardot",
+      "context": "Brigitte Bardot is the spouse of Gunter Sachs.",
+      "objectCQ": "Who is the spouse of Gunter Sachs?"
+    }
+  },
+  {
+    "claim_id": "Q62515$B73DD84B-F530-4CF7-AADD-7A5B70E00399",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "spouse",
+      "context": "Gunter Sachs's spouse is Mirja Larsson.",
+      "propertyCQ": "What is Mirja Larsson's occupation?"
+    },
+    "OAnswer": {
+      "object_label": "Mirja Larsson",
+      "context": "Gunter Sachs's spouse is Mirja Larsson.",
+      "objectCQ": "What is Gunter Sachs's spouse's name?"
+    }
+  },
+  {
+    "claim_id": "Q16071517$8E415F73-0D42-452C-BDCC-881D37F96D9F",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "spouse",
+      "context": "Joyce Wethered is the spouse of Sir John Heathcoat-Amory, 3rd Baronet.",
+      "propertyCQ": "What is Joyce Wethered's position?"
+    },
+    "OAnswer": {
+      "object_label": "Joyce Wethered",
+      "context": "Joyce Wethered is the spouse of Sir John Heathcoat-Amory, 3rd Baronet.",
+      "objectCQ": "Who is the spouse of Sir John Heathcoat-Amory, 3rd Baronet?"
+    }
+  },
+  {
+    "claim_id": "Q4464780$90AE1A83-A49C-4929-B95F-6B4A1B7E5AA0",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "spouse",
+      "context": "William Twaits's spouse is Frances Begg.",
+      "propertyCQ": "What is Frances Begg's occupation?"
+    },
+    "OAnswer": {
+      "object_label": "Frances Begg",
+      "context": "William Twaits's spouse is Frances Begg.",
+      "objectCQ": "Who is William Twaits's spouse?"
+    }
+  },
+  {
+    "claim_id": "Q105755162$ab5a4fce-4929-e9b5-67e4-1cfde3f57e3c",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "spouse",
+      "context": "Douglas Crawford's spouse is Chemmy Alcott.",
+      "propertyCQ": "What is Chemmy Alcott's occupation?"
+    },
+    "OAnswer": {
+      "object_label": "Chemmy Alcott",
+      "context": "Douglas Crawford's spouse is Chemmy Alcott.",
+      "objectCQ": "Who is Douglas Crawford's spouse?"
+    }
+  },
+  {
+    "claim_id": "Q106808001$7d7dcaa4-443f-b65f-8db4-d487c8857f17",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "spouse",
+      "context": "Elizabeth Muriel Graham's spouse is Peter Graham.",
+      "propertyCQ": "What is Peter Graham's occupation?"
+    },
+    "OAnswer": {
+      "object_label": "Peter Graham",
+      "context": "Elizabeth Muriel Graham's spouse is Peter Graham.",
+      "objectCQ": "Who is Elizabeth Muriel Graham's spouse?"
+    }
+  },
+  {
+    "claim_id": "Q5367855$F3148D7F-51CD-4030-9237-7E64FFEF7F43",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "position held",
+      "context": "Katsuo Okazaki is the Minister for Foreign Affairs.",
+      "propertyCQ": "What is Okazaki's position in the Ministry of Foreign Affairs?"
+    },
+    "OAnswer": {
+      "object_label": "Minister for Foreign Affairs",
+      "context": "Katsuo Okazaki is the Minister for Foreign Affairs.",
+      "objectCQ": "What is Katsuo Okazaki's job title?"
+    }
+  },
+  {
+    "claim_id": "Q456011$AEACC55D-2CAD-431A-8DF3-B0F5E79CF3D1",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "position held",
+      "context": "Kanako Otsuji is a member of the House of Representatives of Japan.",
+      "propertyCQ": "What is Kanako Otsuji's position in the House of Representatives?"
+    },
+    "OAnswer": {
+      "object_label": "member of the House of Representatives of Japan",
+      "context": "Kanako Otsuji is a member of the House of Representatives of Japan.",
+      "objectCQ": "What is Kanako Otsuji's position?"
+    }
+  },
+  {
+    "claim_id": "Q4795297$06F98549-BC2B-4338-85A4-034DE48F34EE",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "position held",
+      "context": "Arnold Ward is a member of the 30th Parliament of the United Kingdom.",
+      "propertyCQ": "What is Arnold Ward's position in Parliament?"
+    },
+    "OAnswer": {
+      "object_label": "Member of the 30th Parliament of the United Kingdom",
+      "context": "Arnold Ward is a member of the 30th Parliament of the United Kingdom.",
+      "objectCQ": "What is Arnold Ward's position?"
+    }
+  },
+  {
+    "claim_id": "Q16014213$072A6B2E-6EE0-43F6-BBF9-87476125E3DE",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "position held",
+      "context": "Lantz Womack is a member of the Louisiana House of Representatives.",
+      "propertyCQ": "What is Lantz Womack's position in the Louisiana House of Representatives?"
+    },
+    "OAnswer": {
+      "object_label": "member of the Louisiana House of Representatives",
+      "context": "Lantz Womack is a member of the Louisiana House of Representatives.",
+      "objectCQ": "What is Lantz Womack's job title?"
+    }
+  },
+  {
+    "claim_id": "Q20430367$4C4DC531-5CFC-4AF3-BCE2-85864119B66E",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "position held",
+      "context": "Serghei Afanasenco is a member of the Parliament of Moldova.",
+      "propertyCQ": "What is Serghei Afanasenco's position in the Moldovan Parliament?"
+    },
+    "OAnswer": {
+      "object_label": "member of the Parliament of Moldova",
+      "context": "Serghei Afanasenco is a member of the Parliament of Moldova.",
+      "objectCQ": "What is Serghei Afanasenco's job title?"
+    }
+  },
+  {
+    "claim_id": "Q6539679$84D67526-B34B-43B8-8C01-E43A3613B315",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "position held",
+      "context": "Liam Lawlor holds the position of Teachta Dála.",
+      "propertyCQ": "What is the position of Teachta Dála?"
+    },
+    "OAnswer": {
+      "object_label": "Teachta Dála",
+      "context": "Liam Lawlor holds the position of Teachta Dála.",
+      "objectCQ": "What position does Liam Lawlor hold?"
+    }
+  },
+  {
+    "claim_id": "Q16001872$5cbb1d39-45dd-7f63-35fe-2723e4078002",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "position held",
+      "context": "Adrian Leppard is the Commissioner of the City of London Police.",
+      "propertyCQ": "What is Adrian Leppard's position in the City of London Police?"
+    },
+    "OAnswer": {
+      "object_label": "Commissioner of the City of London Police",
+      "context": "Adrian Leppard is the Commissioner of the City of London Police.",
+      "objectCQ": "What is Adrian Leppard's job title?"
+    }
+  },
+  {
+    "claim_id": "Q151269$3b52c331-af8d-4363-a49a-7fd8ea802fe0",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "position held",
+      "context": "Robert Lewandowski is the UNICEF Goodwill Ambassador.",
+      "propertyCQ": "What is Robert Lewandowski's position as UNICEF Goodwill Ambassador?"
+    },
+    "OAnswer": {
+      "object_label": "UNICEF Goodwill Ambassador",
+      "context": "Robert Lewandowski is the UNICEF Goodwill Ambassador.",
+      "objectCQ": "What is Robert Lewandowski's job title?"
+    }
+  },
+  {
+    "claim_id": "Q609694$88b29868-4eeb-f38b-340f-6dd3fb484afc",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "father",
+      "context": "Antti Kasvio's father is Matti Kasvio.",
+      "propertyCQ": "What is Antti Kasvio's name?"
+    },
+    "OAnswer": {
+      "object_label": "Matti Kasvio",
+      "context": "Antti Kasvio's father is Matti Kasvio.",
+      "objectCQ": "Who is Antti Kasvio's father?"
+    }
+  },
+  {
+    "claim_id": "Q720463$5e96561e-4f32-1a94-520f-74ce932e81e0",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "father",
+      "context": "Erika Mészáros' father is György Mészáros.",
+      "propertyCQ": "What is Erika's name?"
+    },
+    "OAnswer": {
+      "object_label": "György Mészáros",
+      "context": "Erika Mészáros' father is György Mészáros.",
+      "objectCQ": "Who is Erika's father?"
+    }
+  },
+  {
+    "claim_id": "Q352657$4f7a0a88-4739-92cf-e60c-1acf38f1c0e9",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "father",
+      "context": "Peder Lunde is the father of Peder Lunde.",
+      "propertyCQ": "What is Peder Lunde's occupation?"
+    },
+    "OAnswer": {
+      "object_label": "Peder Lunde",
+      "context": "Peder Lunde is the father of Peder Lunde.",
+      "objectCQ": "Who is the father of Peder Lunde?"
+    }
+  },
+  {
+    "claim_id": "Q11419446$04ffe915-454c-87ab-ec7e-db4a63133422",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "father",
+      "context": "Yukimitsu Kano's father is Risei Kano.",
+      "propertyCQ": "Who is Risei Kano?"
+    },
+    "OAnswer": {
+      "object_label": "Risei Kano",
+      "context": "Yukimitsu Kano's father is Risei Kano.",
+      "objectCQ": "Who is Yukimitsu Kano's father?"
+    }
+  },
+  {
+    "claim_id": "Q28056630$e52b35aa-4e08-fb96-0eea-87a1d63816b1",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "father",
+      "context": "Cristian Sierra's father is Álvaro Sierra.",
+      "propertyCQ": "What is Cristian Sierra's name?"
+    },
+    "OAnswer": {
+      "object_label": "Álvaro Sierra",
+      "context": "Cristian Sierra's father is Álvaro Sierra.",
+      "objectCQ": "What is Cristian Sierra's father's name?"
+    }
+  },
+  {
+    "claim_id": "Q711702$fa5e58b2-40d5-445d-d1a3-b8d8b67c8422",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "father",
+      "context": "Arthur Thomas Malkin's father was Benjamin Heath Malkin.",
+      "propertyCQ": "What was Arthur Thomas Malkin's name?"
+    },
+    "OAnswer": {
+      "object_label": "Benjamin Heath Malkin",
+      "context": "Arthur Thomas Malkin's father was Benjamin Heath Malkin.",
+      "objectCQ": "Arthur Thomas Malkin's father was who?"
+    }
+  },
+  {
+    "claim_id": "Q99530403$0449aef2-4e9f-ca79-bbf5-64619c58a179",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "father",
+      "context": "Max Heidegger's father was Klaus Heidegger.",
+      "propertyCQ": "What was Max Heidegger's name?"
+    },
+    "OAnswer": {
+      "object_label": "Klaus Heidegger",
+      "context": "Max Heidegger's father was Klaus Heidegger.",
+      "objectCQ": "Who was Max Heidegger's father?"
+    }
+  },
+  {
+    "claim_id": "Q12884739$04c76282-4f73-3946-6798-dbc265f47789",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "father",
+      "context": "Stefanos Xydis' father is Γεώργιος Ξύδης.",
+      "propertyCQ": "What is Stefanos Xydis's name?"
+    },
+    "OAnswer": {
+      "object_label": "Γεώργιος Ξύδης",
+      "context": "Stefanos Xydis' father is Γεώργιος Ξύδης.",
+      "objectCQ": "What is Stefanos Xydis' father's name?"
+    }
+  },
+  {
+    "claim_id": "Q28356655$76A70322-E420-48E6-AA99-C6E905171C64",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "manner of death",
+      "context": "Первачук Ігор Анатолійович is a natural cause of death.",
+      "propertyCQ": "What is <unk>ерва<unk>ук <unk>ор <unk>натол<unk>ови<unk> a natural cause of death?"
+    },
+    "OAnswer": {
+      "object_label": "natural causes",
+      "context": "Первачук Ігор Анатолійович is a natural cause of death.",
+      "objectCQ": "What is <unk>ерва<unk>ук <unk>ор <unk>натол<unk>ови<unk>?"
+    }
+  },
+  {
+    "claim_id": "Q19338338$02F16F54-0E5F-430F-96B7-CA8A3F92052E",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "manner of death",
+      "context": "Alina Yakimkina died of natural causes.",
+      "propertyCQ": "What was the cause of death of Alina Yakimkina?"
+    },
+    "OAnswer": {
+      "object_label": "natural causes",
+      "context": "Alina Yakimkina died of natural causes.",
+      "objectCQ": "What caused Alina Yakimkina's death?"
+    }
+  },
+  {
+    "claim_id": "Q19519297$60A68857-E1CC-4418-89D8-8E501A36926C",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "manner of death",
+      "context": "Henrik Tamraz died of natural causes.",
+      "propertyCQ": "What was the cause of death?"
+    },
+    "OAnswer": {
+      "object_label": "natural causes",
+      "context": "Henrik Tamraz died of natural causes.",
+      "objectCQ": "What caused Henrik Tamraz's death?"
+    }
+  },
+  {
+    "claim_id": "Q379172$27D9A0F9-7C89-4D9C-8E7B-684344BC5735",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "manner of death",
+      "context": "Rok Petrovič died in an accident.",
+      "propertyCQ": "What was the cause of death?"
+    },
+    "OAnswer": {
+      "object_label": "accident",
+      "context": "Rok Petrovič died in an accident.",
+      "objectCQ": "What caused Rok Petrovi<unk>'s death?"
+    }
+  },
+  {
+    "claim_id": "Q84493$8F694A58-01C5-444E-8DA5-42FD2FADCA86",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "manner of death",
+      "context": "Katie Sandwina died of natural causes.",
+      "propertyCQ": "What was Katie Sandwina's cause of death?"
+    },
+    "OAnswer": {
+      "object_label": "natural causes",
+      "context": "Katie Sandwina died of natural causes.",
+      "objectCQ": "What caused Katie Sandwina's death?"
+    }
+  },
+  {
+    "claim_id": "Q3574067$D228B626-3C9A-40FC-81B1-1B15507E5B56",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "manner of death",
+      "context": "Yvon-Raymond Lubiato died in an accident.",
+      "propertyCQ": "What was the cause of death?"
+    },
+    "OAnswer": {
+      "object_label": "accident",
+      "context": "Yvon-Raymond Lubiato died in an accident.",
+      "objectCQ": "What caused the death of Yvon-Raymond Lubiato?"
+    }
+  },
+  {
+    "claim_id": "Q28597081$A7830456-9280-48CB-A6D6-A965AB39D541",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "manner of death",
+      "context": "Bernie Portenski died of natural causes.",
+      "propertyCQ": "What was the cause of death of Bernie Portenski?"
+    },
+    "OAnswer": {
+      "object_label": "natural causes",
+      "context": "Bernie Portenski died of natural causes.",
+      "objectCQ": "What caused Bernie Portenski to die?"
+    }
+  },
+  {
+    "claim_id": "Q5218508$2c2bfae1-476d-8607-93af-09cadb47560a",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "manner of death",
+      "context": "Daniel Quirk died in an accident.",
+      "propertyCQ": "What was the cause of death?"
+    },
+    "OAnswer": {
+      "object_label": "accident",
+      "context": "Daniel Quirk died in an accident.",
+      "objectCQ": "What caused Daniel Quirk's death?"
+    }
+  },
+  {
+    "claim_id": "Q366820$D0659F97-65CA-4449-B5E7-E3A9ED6C1EAB",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "ethnic group",
+      "context": "The ethnic group of Artim Položani is Albanian.",
+      "propertyCQ": "What is Artim Polo<unk>ani?"
+    },
+    "OAnswer": {
+      "object_label": "Albanians",
+      "context": "The ethnic group of Artim Položani is Albanian.",
+      "objectCQ": "What is the ethnic group of Artim Polo<unk>ani?"
+    }
+  },
+  {
+    "claim_id": "Q2583850$BD6FF9C1-16BE-4D7C-B64B-AD0E0A40B4C5",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "ethnic group",
+      "context": "African Americans are an ethnic group of Woody Sauldsberry.",
+      "propertyCQ": "What is the ethnic group of African Americans?"
+    },
+    "OAnswer": {
+      "object_label": "African Americans",
+      "context": "African Americans are an ethnic group of Woody Sauldsberry.",
+      "objectCQ": "What is the ethnic group of Woody Sauldsberry?"
+    }
+  },
+  {
+    "claim_id": "Q55281922$0c6fc2b9-4483-6744-cce9-844e656cc446",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "ethnic group",
+      "context": "Loriana Kuka is a member of the ethnic group of Albanians in Kosovo.",
+      "propertyCQ": "What is Loriana Kuka a member of?"
+    },
+    "OAnswer": {
+      "object_label": "Albanians in Kosovo",
+      "context": "Loriana Kuka is a member of the ethnic group of Albanians in Kosovo.",
+      "objectCQ": "Loriana Kuka is a member of what ethnic group?"
+    }
+  },
+  {
+    "claim_id": "Q7811758$04AE4480-5AFC-4C94-A2DE-E6EED65A4507",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "ethnic group",
+      "context": "Toby Ajala is part of the ethnic group of the Yoruba people.",
+      "propertyCQ": "What is Toby Ajala a part of?"
+    },
+    "OAnswer": {
+      "object_label": "Yoruba people",
+      "context": "Toby Ajala is part of the ethnic group of the Yoruba people.",
+      "objectCQ": "Toby Ajala is part of what ethnic group?"
+    }
+  },
+  {
+    "claim_id": "Q7342204$3794244F-768E-40F5-A710-7BAECAD6609C",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "ethnic group",
+      "context": "Robert Bonner is an African American.",
+      "propertyCQ": "What is Robert Bonner's race?"
+    },
+    "OAnswer": {
+      "object_label": "African Americans",
+      "context": "Robert Bonner is an African American.",
+      "objectCQ": "What race is Robert Bonner?"
+    }
+  },
+  {
+    "claim_id": "Q2017525$3E15DE9F-3309-41BF-87A2-2AAA57120D4C",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "ethnic group",
+      "context": "Marin Dokuzovski belongs to the ethnic group of Macedonians.",
+      "propertyCQ": "What ethnic group does Marin Dokuzovski belong to?"
+    },
+    "OAnswer": {
+      "object_label": "Macedonians",
+      "context": "Marin Dokuzovski belongs to the ethnic group of Macedonians.",
+      "objectCQ": "Marin Dokuzovski belongs to what ethnic group?"
+    }
+  },
+  {
+    "claim_id": "Q524086$0C93C94C-7CBF-4000-B846-716EE56B6B2C",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "ethnic group",
+      "context": "The ethnic group of Seyi Olofinjana is the Yoruba people.",
+      "propertyCQ": "What is the Yoruba people?"
+    },
+    "OAnswer": {
+      "object_label": "Yoruba people",
+      "context": "The ethnic group of Seyi Olofinjana is the Yoruba people.",
+      "objectCQ": "What is the ethnic group of Seyi Olofinjana?"
+    }
+  },
+  {
+    "claim_id": "Q3706274$0F76BADA-76E5-4633-BAFB-24C94AC17673",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "ethnic group",
+      "context": "African Americans are an ethnic group of Devery Henderson.",
+      "propertyCQ": "What is Devery Henderson's ethnicity?"
+    },
+    "OAnswer": {
+      "object_label": "African Americans",
+      "context": "African Americans are an ethnic group of Devery Henderson.",
+      "objectCQ": "What is the ethnic group of Devery Henderson?"
+    }
+  },
+  {
+    "claim_id": "Q5229392$f666fc0c-5df9-4f76-a2fa-6f227c82145e",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "coach of sports team",
+      "context": "Dave Miller is the coach of the Stalybridge Celtic F.C.",
+      "propertyCQ": "What is Dave Miller's job?"
+    },
+    "OAnswer": {
+      "object_label": "Stalybridge Celtic F.C.",
+      "context": "Dave Miller is the coach of the Stalybridge Celtic F.C.",
+      "objectCQ": "What team does Dave Miller coach?"
+    }
+  },
+  {
+    "claim_id": "Q1167361$46039103-420c-6039-6014-968f2b1120da",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "coach of sports team",
+      "context": "Dimitris Itoudis is the coach of the Panathinaikos B.C. sports team.",
+      "propertyCQ": "What is Dimitris Itoudis' job?"
+    },
+    "OAnswer": {
+      "object_label": "Panathinaikos B.C.",
+      "context": "Dimitris Itoudis is the coach of the Panathinaikos B.C. sports team.",
+      "objectCQ": "What sports team does Dimitris Itoudis coach?"
+    }
+  },
+  {
+    "claim_id": "Q7032401$de476b67-4819-4215-b6f0-4853c7db8b94",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "coach of sports team",
+      "context": "Nigel Gleghorn is the coach of the Newcastle Town F.C.",
+      "propertyCQ": "What is Nigel Gleghorn's job?"
+    },
+    "OAnswer": {
+      "object_label": "Newcastle Town F.C.",
+      "context": "Nigel Gleghorn is the coach of the Newcastle Town F.C.",
+      "objectCQ": "What football club does Nigel Gleghorn coach?"
+    }
+  },
+  {
+    "claim_id": "Q1174526$42fc07d4-45da-4f74-9be6-a086fd8f6c21",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "coach of sports team",
+      "context": "David Geddis is the coach of the Leeds United F.C.",
+      "propertyCQ": "What is David Geddis' job?"
+    },
+    "OAnswer": {
+      "object_label": "Leeds United F.C.",
+      "context": "David Geddis is the coach of the Leeds United F.C.",
+      "objectCQ": "What football team does David Geddis coach?"
+    }
+  },
+  {
+    "claim_id": "Q302325$03c5798c-cd5a-49ae-a31b-ae4edd510259",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "coach of sports team",
+      "context": "Mark Hudson is the coach of the Huddersfield Town A.F.C.",
+      "propertyCQ": "What is Mark Hudson's job?"
+    },
+    "OAnswer": {
+      "object_label": "Huddersfield Town A.F.C.",
+      "context": "Mark Hudson is the coach of the Huddersfield Town A.F.C.",
+      "objectCQ": "What football team does Mark Hudson coach?"
+    }
+  },
+  {
+    "claim_id": "Q3052298$1B735CEA-E079-4A2C-A4B5-FB5E1396383F",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "coach of sports team",
+      "context": "Emiliano Mondonico is the coach of the Novara Calcio sports team.",
+      "propertyCQ": "What is Emiliano Mondonico's job?"
+    },
+    "OAnswer": {
+      "object_label": "Novara Calcio",
+      "context": "Emiliano Mondonico is the coach of the Novara Calcio sports team.",
+      "objectCQ": "What sports team does Mondonico coach?"
+    }
+  },
+  {
+    "claim_id": "Q3814030$29717aba-6572-4927-8bdc-b0f1540e9f22",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "coach of sports team",
+      "context": "Luis Costa Juan is the coach of the Deportivo Aragón sports team.",
+      "propertyCQ": "What is Luis Costa Juan's job?"
+    },
+    "OAnswer": {
+      "object_label": "Deportivo Aragón",
+      "context": "Luis Costa Juan is the coach of the Deportivo Aragón sports team.",
+      "objectCQ": "What sports team does Luis Costa Juan coach?"
+    }
+  },
+  {
+    "claim_id": "Q43402137$B637EC0A-1023-48DA-ACC5-C60C3F6C1EE9",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "coach of sports team",
+      "context": "Juan Marrero Roig is the coach of the Imperio de Mérida CP.",
+      "propertyCQ": "What is Juan Marrero Roig's job?"
+    },
+    "OAnswer": {
+      "object_label": "Imperio de Mérida CP",
+      "context": "Juan Marrero Roig is the coach of the Imperio de Mérida CP.",
+      "objectCQ": "What team does Roig coach?"
+    }
+  },
+  {
+    "claim_id": "Q6499315$b668816f-40c7-cf80-2640-887c7206926d",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "ranking",
+      "context": "Laura Pigossi is ranked 18th.",
+      "propertyCQ": "What is Laura Pigossi's rank?"
+    },
+    "OAnswer": {
+      "object_label": "18",
+      "context": "Laura Pigossi is ranked 18th.",
+      "objectCQ": "Where does Laura Pigossi rank in the world?"
+    }
+  },
+  {
+    "claim_id": "Q254344$8e521864-8851-4512-9d27-daa0eed66e55",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "ranking",
+      "context": "Yuliana Fedak is ranked 63.",
+      "propertyCQ": "What is Yuliana Fedak's rank?"
+    },
+    "OAnswer": {
+      "object_label": "63",
+      "context": "Yuliana Fedak is ranked 63.",
+      "objectCQ": "What is Yuliana Fedak's rank?"
+    }
+  },
+  {
+    "claim_id": "Q7800147$9B8163C3-F144-4BEE-90C1-AAE2FB891220",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "ranking",
+      "context": "Tian Yuan has a ranking of 113.",
+      "propertyCQ": "What is Tian Yuan's rank?"
+    },
+    "OAnswer": {
+      "object_label": "113",
+      "context": "Tian Yuan has a ranking of 113.",
+      "objectCQ": "What is Tian Yuan's ranking?"
+    }
+  },
+  {
+    "claim_id": "Q455707$88001814-DF7C-452E-84B2-067F2ED3B56A",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "ranking",
+      "context": "Tie Ya Na has a ranking of 40.",
+      "propertyCQ": "What is Tie Ya Na's ranking?"
+    },
+    "OAnswer": {
+      "object_label": "40",
+      "context": "Tie Ya Na has a ranking of 40.",
+      "objectCQ": "What is Tie Ya Na's ranking?"
+    }
+  },
+  {
+    "claim_id": "Q4776248$7097e2e5-880d-4724-8c5b-3dd64c48b9f1",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "ranking",
+      "context": "Antonia Matic has a ranking of 225.",
+      "propertyCQ": "What is Antonia Matic's rank?"
+    },
+    "OAnswer": {
+      "object_label": "225",
+      "context": "Antonia Matic has a ranking of 225.",
+      "objectCQ": "What is Antonia Matic's ranking?"
+    }
+  },
+  {
+    "claim_id": "Q377108$04CCBD96-97E1-44B2-B2C9-729B855C4670",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "ranking",
+      "context": "Adrien Mattenet is ranked 41.",
+      "propertyCQ": "What is Adrien Mattenet's rank?"
+    },
+    "OAnswer": {
+      "object_label": "41",
+      "context": "Adrien Mattenet is ranked 41.",
+      "objectCQ": "What is Adrien Mattenet's rank?"
+    }
+  },
+  {
+    "claim_id": "Q455707$6EAE6077-39E8-4A87-8B4B-B0BBD9022FBD",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "ranking",
+      "context": "Tie Ya Na has a ranking of 39.",
+      "propertyCQ": "What is Tie Ya Na's rank?"
+    },
+    "OAnswer": {
+      "object_label": "39",
+      "context": "Tie Ya Na has a ranking of 39.",
+      "objectCQ": "What is Tie Ya Na's ranking?"
+    }
+  },
+  {
+    "claim_id": "Q223549$84370b4e-4185-d0aa-112f-c0fe03956058",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "ranking",
+      "context": "Jürgen Melzer has a ranking of 6.",
+      "propertyCQ": "What is Jürgen Melzer's rank?"
+    },
+    "OAnswer": {
+      "object_label": "6",
+      "context": "Jürgen Melzer has a ranking of 6.",
+      "objectCQ": "What is Jürgen Melzer's rank?"
+    }
+  },
+  {
+    "claim_id": "Q680239$9662C6E9-0071-47D7-BEAA-2ECD9F638675",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "total goals in career",
+      "context": "Yves Sarault has 10 goals in his career.",
+      "propertyCQ": "How many goals has Sarault scored?"
+    },
+    "OAnswer": {
+      "object_label": "10",
+      "context": "Yves Sarault has 10 goals in his career.",
+      "objectCQ": "How many goals has Sarault scored in his career?"
+    }
+  },
+  {
+    "claim_id": "Q935070$EC608D5E-1125-41BC-BE7A-1548A061CFD0",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "total goals in career",
+      "context": "Kirk Muller has 357 goals in his career.",
+      "propertyCQ": "How many goals has Kirk Muller scored?"
+    },
+    "OAnswer": {
+      "object_label": "357",
+      "context": "Kirk Muller has 357 goals in his career.",
+      "objectCQ": "How many goals has Kirk Muller scored in his career?"
+    }
+  },
+  {
+    "claim_id": "Q1079859$5CFDB7EB-1C60-4F1B-91B1-F7A0C4AAA345",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "total goals in career",
+      "context": "Christian Giménez has 2 goals in his career.",
+      "propertyCQ": "How many goals has Christian Giménez scored?"
+    },
+    "OAnswer": {
+      "object_label": "2",
+      "context": "Christian Giménez has 2 goals in his career.",
+      "objectCQ": "How many goals has Christian Giménez scored in his career?"
+    }
+  },
+  {
+    "claim_id": "Q126705$F613626B-FBAA-4068-8B1D-A1A0BDBDFF69",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "total goals in career",
+      "context": "Dan Bolduc has 22 goals in his career.",
+      "propertyCQ": "How many goals has Dan Bolduc scored?"
+    },
+    "OAnswer": {
+      "object_label": "22",
+      "context": "Dan Bolduc has 22 goals in his career.",
+      "objectCQ": "How many goals has Dan Bolduc scored in his career?"
+    }
+  },
+  {
+    "claim_id": "Q607790$31B5F9B1-7D0B-48F2-A1BC-FA95D1434092",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "total goals in career",
+      "context": "Jesús Manuel Corona has 2 goals in his career.",
+      "propertyCQ": "How many goals has Jes<unk>s Manuel Corona scored?"
+    },
+    "OAnswer": {
+      "object_label": "2",
+      "context": "Jesús Manuel Corona has 2 goals in his career.",
+      "objectCQ": "How many goals has Jes<unk>s Manuel Corona scored in his career?"
+    }
+  },
+  {
+    "claim_id": "Q939777$BC0D1638-7201-411F-A2E9-847A3A5D64F0",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "total goals in career",
+      "context": "Neri Cardozo has 2 goals in his career.",
+      "propertyCQ": "How many goals has Neri Cardozo scored?"
+    },
+    "OAnswer": {
+      "object_label": "2",
+      "context": "Neri Cardozo has 2 goals in his career.",
+      "objectCQ": "How many goals has Neri Cardozo scored in his career?"
+    }
+  },
+  {
+    "claim_id": "Q1626692$54938062-4ADB-4F9E-88DA-66F62EC6B14C",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "total goals in career",
+      "context": "Todd Simpson has 14 goals in his career.",
+      "propertyCQ": "How many goals has Todd Simpson scored?"
+    },
+    "OAnswer": {
+      "object_label": "14",
+      "context": "Todd Simpson has 14 goals in his career.",
+      "objectCQ": "How many goals has Todd Simpson scored in his career?"
+    }
+  },
+  {
+    "claim_id": "Q1472015$5EC267A1-A8BD-4E40-B6EC-863047577F0D",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "total goals in career",
+      "context": "Norm Dupont has 55 goals in his career.",
+      "propertyCQ": "How many goals has Norm Dupont scored?"
+    },
+    "OAnswer": {
+      "object_label": "55",
+      "context": "Norm Dupont has 55 goals in his career.",
+      "objectCQ": "How many goals has Norm Dupont scored in his career?"
+    }
+  },
+  {
+    "claim_id": "Q16240150$3982A739-BDED-416C-A948-7456BA8B52A7",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "number of matches played/races/starts",
+      "context": "Jakob Chychrun has 171 matches played/races/starts.",
+      "propertyCQ": "How many matches does Chychrun have?"
+    },
+    "OAnswer": {
+      "object_label": "171",
+      "context": "Jakob Chychrun has 171 matches played/races/starts.",
+      "objectCQ": "How many matches has Jakob Chychrun played?"
+    }
+  },
+  {
+    "claim_id": "Q52088346$21914583-64EC-4724-8A38-16F825B3F9C6",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "number of matches played/races/starts",
+      "context": "Jake Chelios has 5 matches played/races/starts.",
+      "propertyCQ": "How many matches has Jake Chelios played?"
+    },
+    "OAnswer": {
+      "object_label": "5",
+      "context": "Jake Chelios has 5 matches played/races/starts.",
+      "objectCQ": "How many matches has Jake Chelios played?"
+    }
+  },
+  {
+    "claim_id": "Q2348402$6f9997d7-4019-b260-bb0d-39d425b9dee1",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "number of matches played/races/starts",
+      "context": "Hugo Ayala has 1 match played/races/starts.",
+      "propertyCQ": "How many matches does Hugo Ayala have?"
+    },
+    "OAnswer": {
+      "object_label": "1",
+      "context": "Hugo Ayala has 1 match played/races/starts.",
+      "objectCQ": "How many matches has Hugo Ayala played?"
+    }
+  },
+  {
+    "claim_id": "Q6379853$BCC5FB9D-35A3-4225-B445-18F2E4379CFC",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "number of matches played/races/starts",
+      "context": "Todd Strueby has 5 matches played/races/starts.",
+      "propertyCQ": "How many matches has Todd Strueby played?"
+    },
+    "OAnswer": {
+      "object_label": "5",
+      "context": "Todd Strueby has 5 matches played/races/starts.",
+      "objectCQ": "How many matches has Todd Strueby played?"
+    }
+  },
+  {
+    "claim_id": "Q1913885$B9EA9409-D874-4031-937C-6F37E566C342",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "number of matches played/races/starts",
+      "context": "Maxime Macenauer has 29 matches played/races/starts.",
+      "propertyCQ": "How many matches has Maxime Macenauer played?"
+    },
+    "OAnswer": {
+      "object_label": "29",
+      "context": "Maxime Macenauer has 29 matches played/races/starts.",
+      "objectCQ": "How many matches has Maxime Macenauer played?"
+    }
+  },
+  {
+    "claim_id": "Q4906595$E6C10408-BB5E-4BCF-B71E-88EAF30CDD68",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "number of matches played/races/starts",
+      "context": "Ventura Alvarado has 4 matches played/races/starts.",
+      "propertyCQ": "How many matches does Ventura Alvarado have?"
+    },
+    "OAnswer": {
+      "object_label": "4",
+      "context": "Ventura Alvarado has 4 matches played/races/starts.",
+      "objectCQ": "How many matches has Ventura Alvarado played?"
+    }
+  },
+  {
+    "claim_id": "Q5213400$0A5FF13D-DE08-438B-8866-4A9D20D521D9",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "number of matches played/races/starts",
+      "context": "Dan Dorion has 4 matches played/races/starts.",
+      "propertyCQ": "How many matches does Dan Dorion have?"
+    },
+    "OAnswer": {
+      "object_label": "4",
+      "context": "Dan Dorion has 4 matches played/races/starts.",
+      "objectCQ": "How many matches has Dan Dorion played?"
+    }
+  },
+  {
+    "claim_id": "Q1385400$8FDEC872-CAA9-4FE5-B691-C9CF9044183A",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "number of matches played/races/starts",
+      "context": "Steve Sullivan has played 1011 matches/races/starts.",
+      "propertyCQ": "How many matches has Steve Sullivan played?"
+    },
+    "OAnswer": {
+      "object_label": "1011",
+      "context": "Steve Sullivan has played 1011 matches/races/starts.",
+      "objectCQ": "How many matches has Steve Sullivan played?"
+    }
+  },
+  {
+    "claim_id": "Q10504364$f402e643-77a8-443f-ac9d-e6be6f848386",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "cause of death",
+      "context": "Michael Kadosh died of cancer.",
+      "propertyCQ": "What was Michael Kadosh's cause of death?"
+    },
+    "OAnswer": {
+      "object_label": "cancer",
+      "context": "Michael Kadosh died of cancer.",
+      "objectCQ": "What was Michael Kadosh's cause of death?"
+    }
+  },
+  {
+    "claim_id": "Q7273266$44c6c7fb-18a2-4796-84a9-27ffcf21fe22",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "cause of death",
+      "context": "R-Kal Truluck died of amyotrophic lateral sclerosis.",
+      "propertyCQ": "What was the cause of R-Kal Truluck's death?"
+    },
+    "OAnswer": {
+      "object_label": "amyotrophic lateral sclerosis",
+      "context": "R-Kal Truluck died of amyotrophic lateral sclerosis.",
+      "objectCQ": "What disease did R-Kal Truluck die of?"
+    }
+  },
+  {
+    "claim_id": "Q2707333$5563c560-abe5-42c3-ac4f-d604a689761f",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "cause of death",
+      "context": "Eduardo Bonvallet died from hanging.",
+      "propertyCQ": "What was Eduardo Bonvallet's cause of death?"
+    },
+    "OAnswer": {
+      "object_label": "hanging",
+      "context": "Eduardo Bonvallet died from hanging.",
+      "objectCQ": "What caused Eduardo Bonvallet to die?"
+    }
+  },
+  {
+    "claim_id": "Q11419446$76eaa178-4b8b-4477-e2ef-f9fc5d0aef4f",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "cause of death",
+      "context": "The cause of death of Yukimitsu Kano is pneumonia.",
+      "propertyCQ": "What is pneumonia?"
+    },
+    "OAnswer": {
+      "object_label": "pneumonia",
+      "context": "The cause of death of Yukimitsu Kano is pneumonia.",
+      "objectCQ": "What is the cause of death of Yukimitsu Kano?"
+    }
+  },
+  {
+    "claim_id": "Q16262523$c49854a7-44ae-50c4-bf58-9aaa64d33338",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "cause of death",
+      "context": "Fan Yunruo died from a fall.",
+      "propertyCQ": "What was the cause of Fan Yunruo's death?"
+    },
+    "OAnswer": {
+      "object_label": "fall",
+      "context": "Fan Yunruo died from a fall.",
+      "objectCQ": "What caused Fan Yunruo to die?"
+    }
+  },
+  {
+    "claim_id": "Q173081$ee6660f7-ac94-4fab-84b6-0b89afc03818",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "cause of death",
+      "context": "Bruce McLaren died in a traffic collision.",
+      "propertyCQ": "What was Bruce McLaren's cause of death?"
+    },
+    "OAnswer": {
+      "object_label": "traffic collision",
+      "context": "Bruce McLaren died in a traffic collision.",
+      "objectCQ": "What caused Bruce McLaren's death?"
+    }
+  },
+  {
+    "claim_id": "Q1508678$D5B8CECB-4C8C-429B-9774-BDA6451AC6E9",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "cause of death",
+      "context": "George Yardley died of amyotrophic lateral sclerosis.",
+      "propertyCQ": "What was the cause of George Yardley's death?"
+    },
+    "OAnswer": {
+      "object_label": "amyotrophic lateral sclerosis",
+      "context": "George Yardley died of amyotrophic lateral sclerosis.",
+      "objectCQ": "What disease did George Yardley die of?"
+    }
+  },
+  {
+    "claim_id": "Q1691516$E3C22C71-B9FC-42CE-9142-D6153D33F45B",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "cause of death",
+      "context": "Joe Malone died from a myocardial infarction.",
+      "propertyCQ": "What was Joe Malone's cause of death?"
+    },
+    "OAnswer": {
+      "object_label": "myocardial infarction",
+      "context": "Joe Malone died from a myocardial infarction.",
+      "objectCQ": "What caused Joe Malone's death?"
+    }
+  },
+  {
+    "claim_id": "Q2445882$EA06897C-5DA2-4DCC-A2E4-A4C1056AF396",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "residence",
+      "context": "Petäjävesi is the residence of Petri Järvinen.",
+      "propertyCQ": "What is Petäjävesi?"
+    },
+    "OAnswer": {
+      "object_label": "Petäjävesi",
+      "context": "Petäjävesi is the residence of Petri Järvinen.",
+      "objectCQ": "Where is Petri Järvinen's residence?"
+    }
+  },
+  {
+    "claim_id": "Q3017196$d02143a4-4ff9-9536-330a-7a6419e50413",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "residence",
+      "context": "Dave MacLeod lives in Glasgow.",
+      "propertyCQ": "Where does Dave live?"
+    },
+    "OAnswer": {
+      "object_label": "Glasgow",
+      "context": "Dave MacLeod lives in Glasgow.",
+      "objectCQ": "Where does Dave MacLeod live?"
+    }
+  },
+  {
+    "claim_id": "Q38324848$5fa1a2f3-47ee-1454-be23-52ca9f82fb1d",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "residence",
+      "context": "Hayden Hawks' residence is Cedar City.",
+      "propertyCQ": "What is Hayden Hawks's name?"
+    },
+    "OAnswer": {
+      "object_label": "Cedar City",
+      "context": "Hayden Hawks' residence is Cedar City.",
+      "objectCQ": "Where is Hayden Hawks' residence?"
+    }
+  },
+  {
+    "claim_id": "Q20829267$dd30e451-43ca-4285-e466-9e4c0ecc53d8",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "residence",
+      "context": "Anthea Schmid lives in Shelburne.",
+      "propertyCQ": "Where does Anthea Schmid live?"
+    },
+    "OAnswer": {
+      "object_label": "Shelburne",
+      "context": "Anthea Schmid lives in Shelburne.",
+      "objectCQ": "Where does Anthea Schmid live?"
+    }
+  },
+  {
+    "claim_id": "Q63865284$457d84ee-446b-b892-b03f-c2cdf70ccb16",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "residence",
+      "context": "Gema Sevillano's residence is L'Hospitalet de Llobregat.",
+      "propertyCQ": "What is Gema Sevillano's name?"
+    },
+    "OAnswer": {
+      "object_label": "L'Hospitalet de Llobregat",
+      "context": "Gema Sevillano's residence is L'Hospitalet de Llobregat.",
+      "objectCQ": "What is Gema Sevillano's residence?"
+    }
+  },
+  {
+    "claim_id": "Q5271198$116D23BC-A434-4347-A7A2-E8DA403C5A29",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "residence",
+      "context": "Diana Julianto lives in Bandung.",
+      "propertyCQ": "Where does Diana live?"
+    },
+    "OAnswer": {
+      "object_label": "Bandung",
+      "context": "Diana Julianto lives in Bandung.",
+      "objectCQ": "Where does Diana Julianto live?"
+    }
+  },
+  {
+    "claim_id": "Q19561038$2A469512-F53C-47E6-BADD-242BE7AAE211",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "residence",
+      "context": "Auli Kiskola lives in Hämeenlinna.",
+      "propertyCQ": "Where does Auli Kiskola live?"
+    },
+    "OAnswer": {
+      "object_label": "Hämeenlinna",
+      "context": "Auli Kiskola lives in Hämeenlinna.",
+      "objectCQ": "Where does Auli Kiskola live?"
+    }
+  },
+  {
+    "claim_id": "Q3938465$B838DB92-D298-4CFF-B22A-7C67A7AF80E4",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "drafted by",
+      "context": "Robert Werdann was drafted by the Denver Nuggets.",
+      "propertyCQ": "Who was Robert Werdann?"
+    },
+    "OAnswer": {
+      "object_label": "Denver Nuggets",
+      "context": "Robert Werdann was drafted by the Denver Nuggets.",
+      "objectCQ": "Who drafted Robert Werdann?"
+    }
+  },
+  {
+    "claim_id": "Q941832$641D1BE4-408A-4CB2-BF3F-839FD88A1C33",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "drafted by",
+      "context": "Eddie Griffin was drafted by the Brooklyn Nets.",
+      "propertyCQ": "What team did the Brooklyn Nets sign Eddie Griffin?"
+    },
+    "OAnswer": {
+      "object_label": "Brooklyn Nets",
+      "context": "Eddie Griffin was drafted by the Brooklyn Nets.",
+      "objectCQ": "What team drafted Eddie Griffin?"
+    }
+  },
+  {
+    "claim_id": "Q6381367$B0506607-EFCA-44B1-95D0-402B1E55BCB8",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "drafted by",
+      "context": "Randy Osburn was drafted by the Toronto Maple Leafs.",
+      "propertyCQ": "Who was Randy Osburn?"
+    },
+    "OAnswer": {
+      "object_label": "Toronto Maple Leafs",
+      "context": "Randy Osburn was drafted by the Toronto Maple Leafs.",
+      "objectCQ": "Who drafted Randy Osburn?"
+    }
+  },
+  {
+    "claim_id": "Q4969323$27F710F8-3CE8-48E0-8333-131D15E675BF",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "drafted by",
+      "context": "Britany Miller was drafted by Detroit Shock.",
+      "propertyCQ": "What was Britany Miller's first job?"
+    },
+    "OAnswer": {
+      "object_label": "Detroit Shock",
+      "context": "Britany Miller was drafted by Detroit Shock.",
+      "objectCQ": "Who drafted Britany Miller?"
+    }
+  },
+  {
+    "claim_id": "Q2331957$16466D8A-5276-4E41-9D6B-132ADB684D68",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "drafted by",
+      "context": "Dennis Hopson was drafted by the Brooklyn Nets.",
+      "propertyCQ": "Who was Dennis Hopson?"
+    },
+    "OAnswer": {
+      "object_label": "Brooklyn Nets",
+      "context": "Dennis Hopson was drafted by the Brooklyn Nets.",
+      "objectCQ": "What team drafted Dennis Hopson?"
+    }
+  },
+  {
+    "claim_id": "Q787502$050CBD63-1095-4B50-A56D-8EE63DE1DD1F",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "drafted by",
+      "context": "Mal Graham was drafted by the Boston Celtics.",
+      "propertyCQ": "What team did the Boston Celtics sign Mal Graham?"
+    },
+    "OAnswer": {
+      "object_label": "Boston Celtics",
+      "context": "Mal Graham was drafted by the Boston Celtics.",
+      "objectCQ": "What team drafted Mal Graham?"
+    }
+  },
+  {
+    "claim_id": "Q1697850$1C0939E6-F713-4B2A-AF5B-0E178F509E15",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "drafted by",
+      "context": "Marc Tardif was drafted by the Montreal Canadiens.",
+      "propertyCQ": "Who was Marc Tardif?"
+    },
+    "OAnswer": {
+      "object_label": "Montreal Canadiens",
+      "context": "Marc Tardif was drafted by the Montreal Canadiens.",
+      "objectCQ": "Who drafted Marc Tardif?"
+    }
+  },
+  {
+    "claim_id": "Q7527746$7A7245B5-E2EF-4A7C-BB1C-0837BE52389E",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "child",
+      "context": "Revell Eardley-Wilmot is the child of Sir John Eardley-Wilmot, 2nd Baronet.",
+      "propertyCQ": "What is Revell Eardley-Wilmot's occupation?"
+    },
+    "OAnswer": {
+      "object_label": "Revell Eardley-Wilmot",
+      "context": "Revell Eardley-Wilmot is the child of Sir John Eardley-Wilmot, 2nd Baronet.",
+      "objectCQ": "Who is the son of Sir John Eardley-Wilmot?"
+    }
+  },
+  {
+    "claim_id": "Q106306032$0bf49248-4dc0-a1e4-45e3-a8f96e96991c",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "child",
+      "context": "Iskander Hachicha is a child of Mohamed Hachicha.",
+      "propertyCQ": "What is Iskander Hachicha's occupation?"
+    },
+    "OAnswer": {
+      "object_label": "Iskander Hachicha",
+      "context": "Iskander Hachicha is a child of Mohamed Hachicha.",
+      "objectCQ": "What is the name of the child of Mohamed Hachicha?"
+    }
+  },
+  {
+    "claim_id": "Q16974339$c87cca47-414a-9598-4a10-2e5b394a3345",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "child",
+      "context": "John A Moorhead is a child of John A Moorhead.",
+      "propertyCQ": "What is John A Moorhead's occupation?"
+    },
+    "OAnswer": {
+      "object_label": "John A. Moorhead",
+      "context": "John A Moorhead is a child of John A Moorhead.",
+      "objectCQ": "Who is John A Moorhead a child of?"
+    }
+  },
+  {
+    "claim_id": "Q16327830$1ae8f4a5-44fc-7abc-ad49-4647b2459949",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "child",
+      "context": "Kostas Diamantopoulos is a child of Giorgos Diamantopoulos.",
+      "propertyCQ": "What is Kostas Diamantopoulos's occupation?"
+    },
+    "OAnswer": {
+      "object_label": "Giorgos Diamantopoulos",
+      "context": "Kostas Diamantopoulos is a child of Giorgos Diamantopoulos.",
+      "objectCQ": "Who is Kostas Diamantopoulos a child of?"
+    }
+  },
+  {
+    "claim_id": "Q6284893$BC3D23EA-9ECF-426F-B9F7-37D7FB898A00",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "child",
+      "context": "Joseph Leese is the child of Constance Alice Leese.",
+      "propertyCQ": "What is Joseph Leese's occupation?"
+    },
+    "OAnswer": {
+      "object_label": "Constance Alice Leese",
+      "context": "Joseph Leese is the child of Constance Alice Leese.",
+      "objectCQ": "Who is Joseph Leese the child of?"
+    }
+  },
+  {
+    "claim_id": "Q75827551$BBDBD758-574B-4B3D-96BF-05B01F1620AE",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "child",
+      "context": "Lionel Garnett's child is Claude Garnett.",
+      "propertyCQ": "What is Claude Garnett's name?"
+    },
+    "OAnswer": {
+      "object_label": "Claude Garnett",
+      "context": "Lionel Garnett's child is Claude Garnett.",
+      "objectCQ": "What is Lionel Garnett's child's name?"
+    }
+  },
+  {
+    "claim_id": "Q537972$233ad2be-41fd-e38c-4eba-cc876f88cea1",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "child",
+      "context": "Eddie House is a child of Jaelen House.",
+      "propertyCQ": "What is Eddie House's occupation?"
+    },
+    "OAnswer": {
+      "object_label": "Jaelen House",
+      "context": "Eddie House is a child of Jaelen House.",
+      "objectCQ": "Who is Eddie House a child of?"
+    }
+  },
+  {
+    "claim_id": "Q964014$143F0316-F68E-499F-93BC-2E5CA653C2B5",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "shooting handedness",
+      "context": "Martin Erat has a left-handed shot.",
+      "propertyCQ": "What is Erat's problem with?"
+    },
+    "OAnswer": {
+      "object_label": "left-handed shot",
+      "context": "Martin Erat has a left-handed shot.",
+      "objectCQ": "What type of shot is Martin Erat?"
+    }
+  },
+  {
+    "claim_id": "Q26838401$318FB372-2BDF-442A-879E-A362348C6380",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "shooting handedness",
+      "context": "Vladimir Bobylev has a left-handed shot.",
+      "propertyCQ": "What is the main difference between Vladimir Bobylev and Vladimir Bobylev?"
+    },
+    "OAnswer": {
+      "object_label": "left-handed shot",
+      "context": "Vladimir Bobylev has a left-handed shot.",
+      "objectCQ": "What type of shot does Vladimir Bobylev have?"
+    }
+  },
+  {
+    "claim_id": "Q3453851$134C5764-F171-4112-B492-2CD2ED73EBC2",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "shooting handedness",
+      "context": "Ryan Russell has a left-handed shot.",
+      "propertyCQ": "What is Ryan Russell's problem with?"
+    },
+    "OAnswer": {
+      "object_label": "left-handed shot",
+      "context": "Ryan Russell has a left-handed shot.",
+      "objectCQ": "What type of shot does Ryan Russell have?"
+    }
+  },
+  {
+    "claim_id": "Q3382941$00A78E24-0FF5-4343-B100-6E1E145883A9",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "shooting handedness",
+      "context": "P. C. Drouin shoots with the left hand.",
+      "propertyCQ": "What is P. C. Drouin's left hand?"
+    },
+    "OAnswer": {
+      "object_label": "left-handed shot",
+      "context": "P. C. Drouin shoots with the left hand.",
+      "objectCQ": "What is Drouin's shot?"
+    }
+  },
+  {
+    "claim_id": "Q5496316$1E9F17E4-F310-4C95-8421-BADA1DC3E516",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "shooting handedness",
+      "context": "Fred Speck has a left-handed shot.",
+      "propertyCQ": "What is Fred Speck's right-handed shot?"
+    },
+    "OAnswer": {
+      "object_label": "left-handed shot",
+      "context": "Fred Speck has a left-handed shot.",
+      "objectCQ": "What type of shot does Fred Speck have?"
+    }
+  },
+  {
+    "claim_id": "Q3370548$6CDE1BCF-BBE6-4401-8808-13D3422DE0C9",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "shooting handedness",
+      "context": "Paul Baier is a right-handed shooter.",
+      "propertyCQ": "What is Paul Baier's right hand?"
+    },
+    "OAnswer": {
+      "object_label": "right-handed shot",
+      "context": "Paul Baier is a right-handed shooter.",
+      "objectCQ": "What type of shooter is Paul Baier?"
+    }
+  },
+  {
+    "claim_id": "Q68779$14608A09-4F1A-45C9-B826-5A203CE5A896",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "shooting handedness",
+      "context": "Alexander Sulzer is a left-handed shooter.",
+      "propertyCQ": "What is Alexander Sulzer's main trait?"
+    },
+    "OAnswer": {
+      "object_label": "left-handed shot",
+      "context": "Alexander Sulzer is a left-handed shooter.",
+      "objectCQ": "What is Alexander Sulzer's shooting style?"
+    }
+  },
+  {
+    "claim_id": "Q7000771$1F4E1DA9-5004-414E-97FE-9F6887A9EED8",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "different from",
+      "context": "Tony Harris is different from Tony Harris.",
+      "propertyCQ": "What is the difference between Tony Harris and Tony Harris?"
+    },
+    "OAnswer": {
+      "object_label": "Tony Harris",
+      "context": "Tony Harris is different from Tony Harris.",
+      "objectCQ": "Who is different from Tony Harris?"
+    }
+  },
+  {
+    "claim_id": "Q1813590$8B55F826-0AD2-4EFC-A3BA-7720636C2FCB",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "different from",
+      "context": "James Flanagan is different from James L. Flanagan.",
+      "propertyCQ": "How does James L. Flanagan compare to James Flanagan?"
+    },
+    "OAnswer": {
+      "object_label": "James L. Flanagan",
+      "context": "James Flanagan is different from James L. Flanagan.",
+      "objectCQ": "Who is different from James Flanagan?"
+    }
+  },
+  {
+    "claim_id": "Q1386865$f206099d-4193-0406-bb2e-97816568ed43",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "different from",
+      "context": "Marco Zanotti is different from Marco Zanotti.",
+      "propertyCQ": "What is Marco Zanotti's relationship to Marco Zanotti?"
+    },
+    "OAnswer": {
+      "object_label": "Marco Zanotti",
+      "context": "Marco Zanotti is different from Marco Zanotti.",
+      "objectCQ": "Who is different from Marco Zanotti?"
+    }
+  },
+  {
+    "claim_id": "Q1706585$948e5e6e-4f21-a1c8-5fd9-6d55b8f23c81",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "different from",
+      "context": "Ivan Ustinov is different from Ivan Ustinov.",
+      "propertyCQ": "Ivan Ustinov is what?"
+    },
+    "OAnswer": {
+      "object_label": "Ivan Ustinov",
+      "context": "Ivan Ustinov is different from Ivan Ustinov.",
+      "objectCQ": "Who is different from Ivan Ustinov?"
+    }
+  },
+  {
+    "claim_id": "Q6769465$43137ecb-43e5-0689-65f7-607b141c6fa4",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "different from",
+      "context": "Mark Robertson is different from Mark Robertson.",
+      "propertyCQ": "What is Mark Robertson's relationship to Mark Robertson?"
+    },
+    "OAnswer": {
+      "object_label": "Mark Robertson",
+      "context": "Mark Robertson is different from Mark Robertson.",
+      "objectCQ": "Who is different from Mark Robertson?"
+    }
+  },
+  {
+    "claim_id": "Q11768605$46D46E4E-4FA6-488D-AC28-545ED2AF5909",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "different from",
+      "context": "Marek Zalewski is different from Marek Zalewski.",
+      "propertyCQ": "What is Marek Zalewski's relationship to?"
+    },
+    "OAnswer": {
+      "object_label": "Marek Zalewski",
+      "context": "Marek Zalewski is different from Marek Zalewski.",
+      "objectCQ": "Who is different from Marek Zalewski?"
+    }
+  },
+  {
+    "claim_id": "Q17518869$54D81876-57B8-47F8-852D-175BD6487A13",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "different from",
+      "context": "Louis Herbert is different from Louis Herbert.",
+      "propertyCQ": "What is Louis Herbert's relationship to?"
+    },
+    "OAnswer": {
+      "object_label": "Louis Herbert",
+      "context": "Louis Herbert is different from Louis Herbert.",
+      "objectCQ": "What is the name of the other person who is different from Louis Herbert?"
+    }
+  },
+  {
+    "claim_id": "Q21001047$3A8B677D-8A38-404B-939B-F3F8CE43E88B",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "sibling",
+      "context": "Oleg Tarnovschi's sibling is Serghei Tarnovschi.",
+      "propertyCQ": "What is Serghei Tarnovschi's name?"
+    },
+    "OAnswer": {
+      "object_label": "Serghei Tarnovschi",
+      "context": "Oleg Tarnovschi's sibling is Serghei Tarnovschi.",
+      "objectCQ": "Who is Oleg Tarnovschi's sibling?"
+    }
+  },
+  {
+    "claim_id": "Q104650546$369d53fe-4554-2723-9259-ffffeb90b0e9",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "sibling",
+      "context": "Luke Fox's sibling is Tamara Fox.",
+      "propertyCQ": "What is Tamara Fox's position?"
+    },
+    "OAnswer": {
+      "object_label": "Tamara Fox",
+      "context": "Luke Fox's sibling is Tamara Fox.",
+      "objectCQ": "Who is Luke Fox's sibling?"
+    }
+  },
+  {
+    "claim_id": "Q1365795$C0F2C9D6-E392-4373-8D8D-3A5EB671752B",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "sibling",
+      "context": "Jared Staal's sibling is Marc Staal.",
+      "propertyCQ": "What is Marc Staal's name?"
+    },
+    "OAnswer": {
+      "object_label": "Marc Staal",
+      "context": "Jared Staal's sibling is Marc Staal.",
+      "objectCQ": "Who is Jared Staal's sibling?"
+    }
+  },
+  {
+    "claim_id": "Q2903713$73dee0eb-4eb3-c1be-f744-a2420afd1864",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "sibling",
+      "context": "Billy Ripken's sibling is Cal Ripken Jr.",
+      "propertyCQ": "What is Cal Ripken Jr.?"
+    },
+    "OAnswer": {
+      "object_label": "Cal Ripken Jr.",
+      "context": "Billy Ripken's sibling is Cal Ripken Jr.",
+      "objectCQ": "Who is Billy Ripken's sibling?"
+    }
+  },
+  {
+    "claim_id": "Q66104778$62d29c12-4ef4-9c25-efef-f3ef0dd5dab9",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "sibling",
+      "context": "Yoan Zouma's sibling is Kurt Zouma.",
+      "propertyCQ": "What is Kurt Zouma's position?"
+    },
+    "OAnswer": {
+      "object_label": "Kurt Zouma",
+      "context": "Yoan Zouma's sibling is Kurt Zouma.",
+      "objectCQ": "Who is Yoan Zouma's sibling?"
+    }
+  },
+  {
+    "claim_id": "Q690083$ebffff8e-4e8b-9cc8-a57b-18fbdddfdcfd",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "sibling",
+      "context": "Pascal Egloff's sibling is Luca Egloff.",
+      "propertyCQ": "What is Luca Egloff's name?"
+    },
+    "OAnswer": {
+      "object_label": "Luca Egloff",
+      "context": "Pascal Egloff's sibling is Luca Egloff.",
+      "objectCQ": "Who is Pascal Egloff's sibling?"
+    }
+  },
+  {
+    "claim_id": "Q2352827$0bf2696d-4b43-bc5a-fc87-978a092f7c1e",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "sibling",
+      "context": "Ariel Zárate's sibling is Sergio Zárate.",
+      "propertyCQ": "What is Sergio Zárate's name?"
+    },
+    "OAnswer": {
+      "object_label": "Sergio Zárate",
+      "context": "Ariel Zárate's sibling is Sergio Zárate.",
+      "objectCQ": "Who is Ariel Zárate's sibling?"
+    }
+  },
+  {
+    "claim_id": "Q20203888$F47FD802-5C84-46DC-B982-942F11051758",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "work period (end)",
+      "context": "Santiago Vergara's work period (end) was in 2017.",
+      "propertyCQ": "What was Santiago Vergara's last year of work?"
+    },
+    "OAnswer": {
+      "object_label": "2017",
+      "context": "Santiago Vergara's work period (end) was in 2017.",
+      "objectCQ": "When did Santiago Vergara's work period end?"
+    }
+  },
+  {
+    "claim_id": "Q4024193$183B7437-2518-48BF-8F8F-900F5EC4B11D",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "work period (end)",
+      "context": "Zenón Díaz's work period (end) was 1919.",
+      "propertyCQ": "What was Zenón D<unk>az's work period?"
+    },
+    "OAnswer": {
+      "object_label": "1919",
+      "context": "Zenón Díaz's work period (end) was 1919.",
+      "objectCQ": "When did Zenón D<unk>az's work period end?"
+    }
+  },
+  {
+    "claim_id": "Q60971$EBFB293A-7B35-40CF-A60A-C4A7A912DC01",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "work period (end)",
+      "context": "Armond Hill's work period (end) was in 1984.",
+      "propertyCQ": "What was Armond Hill's job title?"
+    },
+    "OAnswer": {
+      "object_label": "1984",
+      "context": "Armond Hill's work period (end) was in 1984.",
+      "objectCQ": "When did Armond Hill's work period end?"
+    }
+  },
+  {
+    "claim_id": "Q2902589$E2AFC82B-F5B0-4328-99B2-7DD1CA61655A",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "work period (end)",
+      "context": "Jeron Roberts worked period (end) was 2012.",
+      "propertyCQ": "What was Jeron Roberts's job title?"
+    },
+    "OAnswer": {
+      "object_label": "2012",
+      "context": "Jeron Roberts worked period (end) was 2012.",
+      "objectCQ": "What year did Roberts work?"
+    }
+  },
+  {
+    "claim_id": "Q36361281$460A0B74-C3A2-483B-825B-05F22CD4633B",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "work period (end)",
+      "context": "Humberto Taborda's work period (end) was in 1975.",
+      "propertyCQ": "What was Humberto Taborda's job title?"
+    },
+    "OAnswer": {
+      "object_label": "1975",
+      "context": "Humberto Taborda's work period (end) was in 1975.",
+      "objectCQ": "When did Humberto Taborda's work period end?"
+    }
+  },
+  {
+    "claim_id": "Q612236$0D547771-D7EF-4AF5-8A3C-D8179A5FC17D",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "work period (end)",
+      "context": "Dmitri Radchenko's work period (end) was 2008.",
+      "propertyCQ": "What was Dmitri Radchenko's last year of work?"
+    },
+    "OAnswer": {
+      "object_label": "2008",
+      "context": "Dmitri Radchenko's work period (end) was 2008.",
+      "objectCQ": "When did Dmitri Radchenko's work period end?"
+    }
+  },
+  {
+    "claim_id": "Q3973191$CAF2A5EB-257F-4B0B-9308-592EFC2CB60A",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "work period (end)",
+      "context": "Stephen Howard's work period (end) was in 2008.",
+      "propertyCQ": "What was Stephen Howard's last day of work?"
+    },
+    "OAnswer": {
+      "object_label": "2008",
+      "context": "Stephen Howard's work period (end) was in 2008.",
+      "objectCQ": "When did Howard's work period end?"
+    }
+  },
+  {
+    "claim_id": "Q7613687$172d6a3d-49d3-a2f2-a25d-f8674845763d",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "birth name",
+      "context": "Steve Rain's birth name is Steven Nicholas Rain.",
+      "propertyCQ": "What is Steve Rain's first name?"
+    },
+    "OAnswer": {
+      "object_label": "Steven Nicholas Rain",
+      "context": "Steve Rain's birth name is Steven Nicholas Rain.",
+      "objectCQ": "What is Steve Rain's birth name?"
+    }
+  },
+  {
+    "claim_id": "Q551892$bccfb57d-4487-020e-f93f-e1b1e3d00965",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "birth name",
+      "context": "Marco Davide Faraoni is the birth name of Marco Davide Faraoni.",
+      "propertyCQ": "What is the birth name of Marco Davide Faraoni?"
+    },
+    "OAnswer": {
+      "object_label": "Marco Davide Faraoni",
+      "context": "Marco Davide Faraoni is the birth name of Marco Davide Faraoni.",
+      "objectCQ": "What is the birth name of Marco Davide Faraoni?"
+    }
+  },
+  {
+    "claim_id": "Q192031$F9B6BE30-3822-433E-B38B-52CD8808F210",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "birth name",
+      "context": "Kakha Kaladze's birth name is კახა კალაძე.",
+      "propertyCQ": "What is Kakha Kaladze's first name?"
+    },
+    "OAnswer": {
+      "object_label": "კახა კალაძე",
+      "context": "Kakha Kaladze's birth name is კახა კალაძე.",
+      "objectCQ": "What is Kakha Kaladze's birth name?"
+    }
+  },
+  {
+    "claim_id": "Q7148698$ea999393-468b-b768-45d4-4d30a6fe380d",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "birth name",
+      "context": "Patricia Serena Caretto is the birth name of Patty Caretto.",
+      "propertyCQ": "What is Patricia Serena Caretto?"
+    },
+    "OAnswer": {
+      "object_label": "Patricia Serena Caretto",
+      "context": "Patricia Serena Caretto is the birth name of Patty Caretto.",
+      "objectCQ": "What is the birth name of Patty Caretto?"
+    }
+  },
+  {
+    "claim_id": "Q16232542$eef6e7e2-4bf4-5078-5528-9b3bc690536b",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "birth name",
+      "context": "André Lafond's birth name is François Joseph André Lafond.",
+      "propertyCQ": "What is André Lafond's first name?"
+    },
+    "OAnswer": {
+      "object_label": "François Joseph André Lafond",
+      "context": "André Lafond's birth name is François Joseph André Lafond.",
+      "objectCQ": "What is André Lafond's birth name?"
+    }
+  },
+  {
+    "claim_id": "Q434835$c26c5b4e-4f86-be40-8663-e7b29fe78c8e",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "birth name",
+      "context": "Tine Rasmussen is the birth name of Tine Baun.",
+      "propertyCQ": "What is Tine Rasmussen?"
+    },
+    "OAnswer": {
+      "object_label": "Tine Rasmussen",
+      "context": "Tine Rasmussen is the birth name of Tine Baun.",
+      "objectCQ": "What is the birth name of Tine Baun?"
+    }
+  },
+  {
+    "claim_id": "Q59192$A2B4AAAA-B131-47E3-A2F3-81E2A32139D8",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "birth name",
+      "context": "Michael Dawson's birth name is Michael Richard Dawson.",
+      "propertyCQ": "What is Michael Dawson's first name?"
+    },
+    "OAnswer": {
+      "object_label": "Michael Richard Dawson",
+      "context": "Michael Dawson's birth name is Michael Richard Dawson.",
+      "objectCQ": "What is Michael Dawson's birth name?"
+    }
+  },
+  {
+    "claim_id": "Q1525039$83BD5DE5-A5F5-48DF-991D-9123B71C2D46",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "name in kana",
+      "context": "Mitsunori Yabuta's name in kana is ヤブタ ミツノリ.",
+      "propertyCQ": "What is Mitsunori Yabuta's name in kana?"
+    },
+    "OAnswer": {
+      "object_label": "ヤブタ ミツノリ",
+      "context": "Mitsunori Yabuta's name in kana is ヤブタ ミツノリ.",
+      "objectCQ": "What is Mitsunori Yabuta's name in kana?"
+    }
+  },
+  {
+    "claim_id": "Q28689264$3CEC3CEE-D940-4467-9BD5-57940E7652E7",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "name in kana",
+      "context": "小野喜一 is the name in kana.",
+      "propertyCQ": "What is <unk>?"
+    },
+    "OAnswer": {
+      "object_label": "おの きいち",
+      "context": "小野喜一 is the name in kana.",
+      "objectCQ": "What is the name in kana?"
+    }
+  },
+  {
+    "claim_id": "Q11586435$F88BA245-AF11-4F0E-8D63-EFFB7B7F7245",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "name in kana",
+      "context": "Ryōta Ishikawa's name in kana is イシカワ リョウタ.",
+      "propertyCQ": "What is Ry<unk>ta Ishikawa's name in kana?"
+    },
+    "OAnswer": {
+      "object_label": "イシカワ リョウタ",
+      "context": "Ryōta Ishikawa's name in kana is イシカワ リョウタ.",
+      "objectCQ": "What is Ry<unk>ta Ishikawa's name in kana?"
+    }
+  },
+  {
+    "claim_id": "Q11402265$472F1FCD-220D-4631-B0E6-BB49321B57E8",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "name in kana",
+      "context": "Ikuko Kitamori is known in kana as きたもり いくこ.",
+      "propertyCQ": "What is Ikuko Kitamori known as?"
+    },
+    "OAnswer": {
+      "object_label": "きたもり いくこ",
+      "context": "Ikuko Kitamori is known in kana as きたもり いくこ.",
+      "objectCQ": "What is Ikuko Kitamori known as in kana?"
+    }
+  },
+  {
+    "claim_id": "Q17223003$8771428B-C084-4EFD-9865-B027E894FD32",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "name in kana",
+      "context": "Hamaichi Ōnogi is known in kana as おおのぎ はまいち.",
+      "propertyCQ": "What is Hamaichi <unk>nogi known as?"
+    },
+    "OAnswer": {
+      "object_label": "おおのぎ はまいち",
+      "context": "Hamaichi Ōnogi is known in kana as おおのぎ はまいち.",
+      "objectCQ": "What is Hamaichi <unk>nogi known as in kana?"
+    }
+  },
+  {
+    "claim_id": "Q11467949$CC6AE3AF-44A9-481E-A2B9-8783BA00EA2C",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "name in kana",
+      "context": "Tōru Yamazaki's name in kana is やまざき とおる.",
+      "propertyCQ": "What is T<unk>ru Yamazaki's name in kana?"
+    },
+    "OAnswer": {
+      "object_label": "やまざき とおる",
+      "context": "Tōru Yamazaki's name in kana is やまざき とおる.",
+      "objectCQ": "What is T<unk>ru Yamazaki's name in kana?"
+    }
+  },
+  {
+    "claim_id": "Q5686166$48B77A68-AD9D-4E3F-A41D-C366D19A9AED",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "name in kana",
+      "context": "Hayato Okamoto's name in kana is オカモト ハヤト.",
+      "propertyCQ": "What is Hayato Okamoto's name in kana?"
+    },
+    "OAnswer": {
+      "object_label": "オカモト ハヤト",
+      "context": "Hayato Okamoto's name in kana is オカモト ハヤト.",
+      "objectCQ": "What is Hayato Okamoto's name in kana?"
+    }
+  },
+  {
+    "claim_id": "Q13634114$882DBDE4-8C57-45DE-8903-EB6885135896",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "sport number",
+      "context": "José María Giménez has the sport number 13.",
+      "propertyCQ": "What is José Mar<unk>a Giménez's number?"
+    },
+    "OAnswer": {
+      "object_label": "13",
+      "context": "José María Giménez has the sport number 13.",
+      "objectCQ": "What is the sport number of José Mar<unk>a Giménez?"
+    }
+  },
+  {
+    "claim_id": "Q7290299$991588A6-6D35-4172-8CD8-10BD4C909D0B",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "sport number",
+      "context": "Ramson Zhuwawo has a sport number of 38.",
+      "propertyCQ": "What does Ramson Zhuwawo have?"
+    },
+    "OAnswer": {
+      "object_label": "38",
+      "context": "Ramson Zhuwawo has a sport number of 38.",
+      "objectCQ": "What is Ramson Zhuwawo's sport number?"
+    }
+  },
+  {
+    "claim_id": "Q7932554$E7C43817-1276-4549-BE58-BC86AD24418D",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "sport number",
+      "context": "Vinicius Frasson has a sport number of 38.",
+      "propertyCQ": "What does Vinicius Frasson have?"
+    },
+    "OAnswer": {
+      "object_label": "38",
+      "context": "Vinicius Frasson has a sport number of 38.",
+      "objectCQ": "What is Vinicius Frasson's sport number?"
+    }
+  },
+  {
+    "claim_id": "Q720679$1fa36387-4e7a-f5a9-aa81-85a60d1fc858",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "sport number",
+      "context": "Martell Webster has the sport number 9.",
+      "propertyCQ": "What is Martell Webster's sport number?"
+    },
+    "OAnswer": {
+      "object_label": "9",
+      "context": "Martell Webster has the sport number 9.",
+      "objectCQ": "What is Martell Webster's sport number?"
+    }
+  },
+  {
+    "claim_id": "Q177151$282BD06B-538D-4033-8DC6-1DCF8EB4D5CA",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "sport number",
+      "context": "Dimos Dikoudis has the sport number 9.",
+      "propertyCQ": "What does Dimos Dikoudis have?"
+    },
+    "OAnswer": {
+      "object_label": "9",
+      "context": "Dimos Dikoudis has the sport number 9.",
+      "objectCQ": "What is Dimos Dikoudis' sport number?"
+    }
+  },
+  {
+    "claim_id": "Q6700781$3F44C506-BBDB-4A08-A061-0E662C4170BE",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "sport number",
+      "context": "Luis Macias has the sport number 7.",
+      "propertyCQ": "What does Luis Macias have?"
+    },
+    "OAnswer": {
+      "object_label": "7",
+      "context": "Luis Macias has the sport number 7.",
+      "objectCQ": "What is Luis Macias's sport number?"
+    }
+  },
+  {
+    "claim_id": "Q68320765$c78c2109-4176-7b51-601c-b1f97dc0d0ce",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "sport number",
+      "context": "Qaed Sadeer has a sport number of 25.",
+      "propertyCQ": "What does Qaed Sadeer have?"
+    },
+    "OAnswer": {
+      "object_label": "25",
+      "context": "Qaed Sadeer has a sport number of 25.",
+      "objectCQ": "What is Sadeer's sport number?"
+    }
+  },
+  {
+    "claim_id": "Q65696322$2BAB1B08-1112-44C0-B0EE-E00EC1783A19",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "title of chess person",
+      "context": "Sante Giuliani has the title of chess person and is the International Correspondence Chess Grandmaster.",
+      "propertyCQ": "What is Sante Giuliani's title?"
+    },
+    "OAnswer": {
+      "object_label": "International Correspondence Chess Grandmaster",
+      "context": "Sante Giuliani has the title of chess person and is the International Correspondence Chess Grandmaster.",
+      "objectCQ": "What is Sante Giuliani's title?"
+    }
+  },
+  {
+    "claim_id": "Q27533418$5A17F0F5-9C54-4E20-B768-B9C95FD031D3",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "title of chess person",
+      "context": "Alp Tuna's title of chess person is FIDE Master.",
+      "propertyCQ": "What is Alp Tuna's title?"
+    },
+    "OAnswer": {
+      "object_label": "FIDE Master",
+      "context": "Alp Tuna's title of chess person is FIDE Master.",
+      "objectCQ": "What is Alp Tuna's title?"
+    }
+  },
+  {
+    "claim_id": "Q27579503$0AF0BCDE-0A6D-46A6-8F8D-79F2F7A3CD64",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "title of chess person",
+      "context": "Tirto's title of chess person is the International Master.",
+      "propertyCQ": "What is Tirto's title?"
+    },
+    "OAnswer": {
+      "object_label": "International Master",
+      "context": "Tirto's title of chess person is the International Master.",
+      "objectCQ": "What is Tirto's title of chess person?"
+    }
+  },
+  {
+    "claim_id": "Q4480498$E9F78959-ED8E-4322-A717-2C7E3A434AFA",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "title of chess person",
+      "context": "István Fazekas is an international master of chess.",
+      "propertyCQ": "What is István Fazekas's title?"
+    },
+    "OAnswer": {
+      "object_label": "International Master",
+      "context": "István Fazekas is an international master of chess.",
+      "objectCQ": "István Fazekas is what?"
+    }
+  },
+  {
+    "claim_id": "Q4893954$B32BB623-F7EA-4546-9D75-ECE7B41E5C3A",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "title of chess person",
+      "context": "Bernardo Roselli has the title of chess person and is an International Master.",
+      "propertyCQ": "What is Bernardo Roselli's title?"
+    },
+    "OAnswer": {
+      "object_label": "International Master",
+      "context": "Bernardo Roselli has the title of chess person and is an International Master.",
+      "objectCQ": "What is Bernardo Roselli's title?"
+    }
+  },
+  {
+    "claim_id": "Q104507328$50b3e68d-4013-bdaa-2ce8-617accd2f87c",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "title of chess person",
+      "context": "A. Zhachev's title of chess person is Master of Sport of USSR in Chess.",
+      "propertyCQ": "What is A. Zhachev's title?"
+    },
+    "OAnswer": {
+      "object_label": "Master of Sport of USSR in Chess",
+      "context": "A. Zhachev's title of chess person is Master of Sport of USSR in Chess.",
+      "objectCQ": "What is A. Zhachev's title of chess person?"
+    }
+  },
+  {
+    "claim_id": "Q65708998$DAD8AB9D-ABC4-472E-B9F2-5713B5B93F27",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "title of chess person",
+      "context": "Michael Millstone has the title of chess person and is the Senior International Correspondence Chess Master.",
+      "propertyCQ": "What is Michael Millstone's title?"
+    },
+    "OAnswer": {
+      "object_label": "Senior International Correspondence Chess Master",
+      "context": "Michael Millstone has the title of chess person and is the Senior International Correspondence Chess Master.",
+      "objectCQ": "What is Michael Millstone's title?"
+    }
+  },
+  {
+    "claim_id": "Q2480878$356EFDFA-9E64-41BD-BF6D-666154D7DEFA",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "native language",
+      "context": "Khalid Al Temawi's native language is Arabic.",
+      "propertyCQ": "What is Khalid Al Temawi's language?"
+    },
+    "OAnswer": {
+      "object_label": "Arabic",
+      "context": "Khalid Al Temawi's native language is Arabic.",
+      "objectCQ": "What is Khalid Al Temawi's native language?"
+    }
+  },
+  {
+    "claim_id": "Q16595065$365EEC90-FB82-45A0-9819-1E723141329C",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "native language",
+      "context": "The native language of Redouane Dardouri is Berber.",
+      "propertyCQ": "What is Berber?"
+    },
+    "OAnswer": {
+      "object_label": "Berber languages",
+      "context": "The native language of Redouane Dardouri is Berber.",
+      "objectCQ": "What is the native language of Redouane Dardouri?"
+    }
+  },
+  {
+    "claim_id": "Q1518591$1B9A73A5-CDEF-4176-9599-E925F1B2F710",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "native language",
+      "context": "Ali Yücel's native language is Turkish.",
+      "propertyCQ": "What is Ali Yücel's language?"
+    },
+    "OAnswer": {
+      "object_label": "Turkish",
+      "context": "Ali Yücel's native language is Turkish.",
+      "objectCQ": "What is Ali Yücel's native language?"
+    }
+  },
+  {
+    "claim_id": "Q7155236$FAE893A2-310A-4018-B666-660FC689897D",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "native language",
+      "context": "Paulo José Rocha speaks Portuguese.",
+      "propertyCQ": "What does Paulo José Rocha speak?"
+    },
+    "OAnswer": {
+      "object_label": "Portuguese",
+      "context": "Paulo José Rocha speaks Portuguese.",
+      "objectCQ": "What language does Paulo José Rocha speak?"
+    }
+  },
+  {
+    "claim_id": "Q97725204$D209790E-5CA7-457E-AEB3-7A3437D085B8",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "native language",
+      "context": "Ötztürk Gülsum's native language is Turkish.",
+      "propertyCQ": "What is <unk>tztürk Gülsum's language?"
+    },
+    "OAnswer": {
+      "object_label": "Turkish",
+      "context": "Ötztürk Gülsum's native language is Turkish.",
+      "objectCQ": "What is <unk>tztürk Gülsum's native language?"
+    }
+  },
+  {
+    "claim_id": "Q5951943$A3C8107D-1F87-4796-9435-7B1652D55B14",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "native language",
+      "context": "Hwang Mu-kyu is Korean speaking.",
+      "propertyCQ": "What is Hwang Mu-kyu's nationality?"
+    },
+    "OAnswer": {
+      "object_label": "Korean",
+      "context": "Hwang Mu-kyu is Korean speaking.",
+      "objectCQ": "What language is Hwang Mu-kyu?"
+    }
+  },
+  {
+    "claim_id": "Q12588311$EAF149FD-5C83-4E5D-9EEA-5B1087BE4EDF",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "native language",
+      "context": "Korean is the native language of Kim Yun-geun.",
+      "propertyCQ": "What is Korean?"
+    },
+    "OAnswer": {
+      "object_label": "Korean",
+      "context": "Korean is the native language of Kim Yun-geun.",
+      "objectCQ": "What is the native language of Kim Yun-geun?"
+    }
+  },
+  {
+    "claim_id": "Q457775$B03E2680-ACB0-4A6C-84A0-C558DDE9913E",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "sports discipline competed in",
+      "context": "Colleen O'Connor competed in ice dance.",
+      "propertyCQ": "What did Colleen O'Connor compete in?"
+    },
+    "OAnswer": {
+      "object_label": "ice dance",
+      "context": "Colleen O'Connor competed in ice dance.",
+      "objectCQ": "What competition did Colleen O'Connor compete in?"
+    }
+  },
+  {
+    "claim_id": "Q102693277$5d205142-5913-47f0-863c-0d6a8bc6b1e5",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "sports discipline competed in",
+      "context": "Susana Krumenaker competed in hurdling.",
+      "propertyCQ": "What did Susana Krumenaker compete in?"
+    },
+    "OAnswer": {
+      "object_label": "hurdling",
+      "context": "Susana Krumenaker competed in hurdling.",
+      "objectCQ": "What sport did Susana Krumenaker compete in?"
+    }
+  },
+  {
+    "claim_id": "Q6723945$6A6390B9-38C8-4701-B283-9ECAA001E8AC",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "sports discipline competed in",
+      "context": "Maciej Lewandowski competed in the men's singles.",
+      "propertyCQ": "What did Maciej Lewandowski compete in?"
+    },
+    "OAnswer": {
+      "object_label": "men's singles",
+      "context": "Maciej Lewandowski competed in the men's singles.",
+      "objectCQ": "What competition did Maciej Lewandowski compete in?"
+    }
+  },
+  {
+    "claim_id": "Q6838257$4DA8A358-68F6-49A7-8711-1EA1C4E789B7",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "sports discipline competed in",
+      "context": "Michael Jones competed in the hammer throw.",
+      "propertyCQ": "What did Michael Jones compete in?"
+    },
+    "OAnswer": {
+      "object_label": "hammer throw",
+      "context": "Michael Jones competed in the hammer throw.",
+      "objectCQ": "What competition did Michael Jones compete in?"
+    }
+  },
+  {
+    "claim_id": "Q11463341$741885C5-D2AF-4A7E-9FE2-4B883B5F6880",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "sports discipline competed in",
+      "context": "Takeo Ogasawara competed in pair skating.",
+      "propertyCQ": "What did Takeo Ogasawara compete in?"
+    },
+    "OAnswer": {
+      "object_label": "pair skating",
+      "context": "Takeo Ogasawara competed in pair skating.",
+      "objectCQ": "What type of skating did Ogasawara compete in?"
+    }
+  },
+  {
+    "claim_id": "Q63097398$764D8340-6143-4F06-939A-0A52A7836E8D",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "sports discipline competed in",
+      "context": "Kim Soo-jin competed in the ladies' singles.",
+      "propertyCQ": "What did Kim Soo-jin compete in?"
+    },
+    "OAnswer": {
+      "object_label": "ladies' singles",
+      "context": "Kim Soo-jin competed in the ladies' singles.",
+      "objectCQ": "What event did Kim Soo-jin compete in?"
+    }
+  },
+  {
+    "claim_id": "Q1795043$5C8066A5-8442-4DE4-A3B5-23B8F5528D39",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "sports discipline competed in",
+      "context": "Bård Torstensen competed in the long track speed skating.",
+      "propertyCQ": "What did Torstensen compete in?"
+    },
+    "OAnswer": {
+      "object_label": "long track speed skating",
+      "context": "Bård Torstensen competed in the long track speed skating.",
+      "objectCQ": "What type of skating did Torstensen compete in?"
+    }
+  },
+  {
+    "claim_id": "Q95971509$5b7776ef-2476-4548-a2e5-870b0356360a",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "social media followers",
+      "context": "Jean-Bernard Pujol has 1220 followers on social media.",
+      "propertyCQ": "What is Jean-Bernard Pujol's main source of followers?"
+    },
+    "OAnswer": {
+      "object_label": "1220",
+      "context": "Jean-Bernard Pujol has 1220 followers on social media.",
+      "objectCQ": "How many followers does Pujol have on social media?"
+    }
+  },
+  {
+    "claim_id": "Q20631071$23a1df16-c943-46c5-98e4-8975eb11b9ff",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "social media followers",
+      "context": "Bennie Fowler has been a social media follower since 19624.",
+      "propertyCQ": "What has Bennie Fowler been doing since 19624?"
+    },
+    "OAnswer": {
+      "object_label": "19624",
+      "context": "Bennie Fowler has been a social media follower since 19624.",
+      "objectCQ": "Bennie Fowler has been a follower of social media since what year?"
+    }
+  },
+  {
+    "claim_id": "Q10863578$5d63d444-ab5b-40c9-900d-ebdf79e89c0f",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "social media followers",
+      "context": "Kelvin Gastelum has 144999 followers on social media.",
+      "propertyCQ": "How many followers does Kelvin Gastelum have?"
+    },
+    "OAnswer": {
+      "object_label": "144999",
+      "context": "Kelvin Gastelum has 144999 followers on social media.",
+      "objectCQ": "How many followers does Kelvin Gastelum have on social media?"
+    }
+  },
+  {
+    "claim_id": "Q23479504$f7a66701-1103-4681-90e6-b7d0fa49e387",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "social media followers",
+      "context": "Kellyn Taylor has 8763 followers on social media.",
+      "propertyCQ": "How many followers does Kellyn Taylor have?"
+    },
+    "OAnswer": {
+      "object_label": "8763",
+      "context": "Kellyn Taylor has 8763 followers on social media.",
+      "objectCQ": "How many followers does Kellyn Taylor have on social media?"
+    }
+  },
+  {
+    "claim_id": "Q11638240$7a633e20-7a4c-4047-9aa3-d6732712b045",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "social media followers",
+      "context": "Satoshi Tsujimoto has 13481 followers on social media.",
+      "propertyCQ": "Satoshi Tsujimoto has how many followers?"
+    },
+    "OAnswer": {
+      "object_label": "13481",
+      "context": "Satoshi Tsujimoto has 13481 followers on social media.",
+      "objectCQ": "How many followers does Satoshi Tsujimoto have on social media?"
+    }
+  },
+  {
+    "claim_id": "Q5276819$f68d46c2-43b2-438b-88b3-fd10e950df02",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "social media followers",
+      "context": "Dilip Tirkey has 3330 followers on social media.",
+      "propertyCQ": "How many followers does Dilip Tirkey have?"
+    },
+    "OAnswer": {
+      "object_label": "3330",
+      "context": "Dilip Tirkey has 3330 followers on social media.",
+      "objectCQ": "How many followers does Dilip Tirkey have on social media?"
+    }
+  },
+  {
+    "claim_id": "Q5111134$09453178-4f2f-4ab0-bdb8-a38a95e82002",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "social media followers",
+      "context": "Christine Nairn has 8056 followers on social media.",
+      "propertyCQ": "What does Christine Nairn have?"
+    },
+    "OAnswer": {
+      "object_label": "8056",
+      "context": "Christine Nairn has 8056 followers on social media.",
+      "objectCQ": "How many followers does Christine Nairn have on social media?"
+    }
+  },
+  {
+    "claim_id": "Q15065988$37C6B340-9C97-4858-9B8F-E2958853685B",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "award received",
+      "context": "Irik Faskhutdinov was awarded the Merited Master of Sports of the USSR.",
+      "propertyCQ": "What was Irik Faskhutdinov awarded?"
+    },
+    "OAnswer": {
+      "object_label": "Merited Master of Sports of the USSR",
+      "context": "Irik Faskhutdinov was awarded the Merited Master of Sports of the USSR.",
+      "objectCQ": "What award did Irik Faskhutdinov receive?"
+    }
+  },
+  {
+    "claim_id": "Q505412$41600CB2-2DA9-45E9-BFDA-51F6657F518E",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "award received",
+      "context": "Sergei Makarov won an award at the Hockey Hall of Fame.",
+      "propertyCQ": "What did Sergei Makarov win?"
+    },
+    "OAnswer": {
+      "object_label": "Hockey Hall of Fame",
+      "context": "Sergei Makarov won an award at the Hockey Hall of Fame.",
+      "objectCQ": "Where did Sergei Makarov win an award?"
+    }
+  },
+  {
+    "claim_id": "Q569816$D4F942CF-4996-441B-A481-6F8F712E6BB4",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "award received",
+      "context": "Arayik Gevorgyan was awarded the Master of Sport of the USSR, International Class.",
+      "propertyCQ": "What was Arayik Gevorgyan awarded?"
+    },
+    "OAnswer": {
+      "object_label": "Master of Sport of the USSR, International Class",
+      "context": "Arayik Gevorgyan was awarded the Master of Sport of the USSR, International Class.",
+      "objectCQ": "What award did Arayik Gevorgyan receive?"
+    }
+  },
+  {
+    "claim_id": "Q230060$076F672E-0840-47CF-84CA-4733107537ED",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "award received",
+      "context": "Lita won an award at the WWE Hall of Fame.",
+      "propertyCQ": "What did Lita win at the WWE Hall of Fame?"
+    },
+    "OAnswer": {
+      "object_label": "WWE Hall of Fame",
+      "context": "Lita won an award at the WWE Hall of Fame.",
+      "objectCQ": "Where did Lita win an award?"
+    }
+  },
+  {
+    "claim_id": "Q36072440$fd6bf3ba-48ab-9d5f-fcec-50ac9e973581",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "award received",
+      "context": "Patricia Bridges was awarded the Officer of the Order of the British Empire.",
+      "propertyCQ": "What was Patricia Bridges's status?"
+    },
+    "OAnswer": {
+      "object_label": "Officer of the Order of the British Empire",
+      "context": "Patricia Bridges was awarded the Officer of the Order of the British Empire.",
+      "objectCQ": "What award did Patricia Bridges receive?"
+    }
+  },
+  {
+    "claim_id": "Q151269$36CAEA36-49D5-47EF-95D8-994CC5F8E680",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "award received",
+      "context": "Robert Lewandowski won an award at the Piłka nożna magazine plebiscite.",
+      "propertyCQ": "What did Robert Lewandowski win?"
+    },
+    "OAnswer": {
+      "object_label": "Piłka nożna magazine plebiscite",
+      "context": "Robert Lewandowski won an award at the Piłka nożna magazine plebiscite.",
+      "objectCQ": "Where did Robert Lewandowski win an award?"
+    }
+  },
+  {
+    "claim_id": "Q862081$92F07D5F-FB39-4952-8C0B-D0F8F9560953",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "award received",
+      "context": "Bill Durnan won the Vezina Trophy.",
+      "propertyCQ": "What was the name of the trophy?"
+    },
+    "OAnswer": {
+      "object_label": "Vezina Trophy",
+      "context": "Bill Durnan won the Vezina Trophy.",
+      "objectCQ": "What trophy did Bill Durnan win?"
+    }
+  },
+  {
+    "claim_id": "Q7159690$7BCBFCFC-1570-4479-8467-A7D26518DD57",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "work period (start)",
+      "context": "Pedro Larrea started work in 2003.",
+      "propertyCQ": "What is the term for the start of a new job?"
+    },
+    "OAnswer": {
+      "object_label": "2003",
+      "context": "Pedro Larrea started work in 2003.",
+      "objectCQ": "When did Pedro Larrea start his work?"
+    }
+  },
+  {
+    "claim_id": "Q1226858$020360B9-D889-4BAB-9FC4-8FE121DB698E",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "work period (start)",
+      "context": "Diogo Silvestre Bittencourt started work on 25/07/2010.",
+      "propertyCQ": "What is the time period of Diogo Silvestre Bittencourt?"
+    },
+    "OAnswer": {
+      "object_label": "25/07/2010",
+      "context": "Diogo Silvestre Bittencourt started work on 25/07/2010.",
+      "objectCQ": "When did Diogo Silvestre Bittencourt start work?"
+    }
+  },
+  {
+    "claim_id": "Q1113223$ABAE727F-D7DA-4EB9-AA66-F9256A219C21",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "work period (start)",
+      "context": "Édison Chará started work in 2000.",
+      "propertyCQ": "What is the term for the time period in which a person starts to work?"
+    },
+    "OAnswer": {
+      "object_label": "2000",
+      "context": "Édison Chará started work in 2000.",
+      "objectCQ": "When did Édison Chará begin his work?"
+    }
+  },
+  {
+    "claim_id": "Q5888943$1E2313D8-2D7A-413D-B8D0-618A6C86222F",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "work period (start)",
+      "context": "Guillermo Sotelo started work in 2012.",
+      "propertyCQ": "What is the term for the start of a new job?"
+    },
+    "OAnswer": {
+      "object_label": "2012",
+      "context": "Guillermo Sotelo started work in 2012.",
+      "objectCQ": "When did Guillermo Sotelo begin his work?"
+    }
+  },
+  {
+    "claim_id": "Q11540151$DABA176F-5304-4A93-ACE7-BEC2B46439BD",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "work period (start)",
+      "context": "Koichiro Morita started work in 2003.",
+      "propertyCQ": "What is the term for when a person starts working?"
+    },
+    "OAnswer": {
+      "object_label": "2003",
+      "context": "Koichiro Morita started work in 2003.",
+      "objectCQ": "When did Morita start his work?"
+    }
+  },
+  {
+    "claim_id": "Q2304305$B7E6972C-5BAE-4DEF-8B21-484124199760",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "work period (start)",
+      "context": "Steven Bryce started work in 1996.",
+      "propertyCQ": "What is the term for the time period between work and retirement?"
+    },
+    "OAnswer": {
+      "object_label": "1996",
+      "context": "Steven Bryce started work in 1996.",
+      "objectCQ": "When did Steven Bryce start his work?"
+    }
+  },
+  {
+    "claim_id": "Q10320201$E367BA34-B016-4529-BF4F-7846BA59FF49",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "work period (start)",
+      "context": "Lucas Gaúcho started work in 2007.",
+      "propertyCQ": "What is the term for the start of a new job?"
+    },
+    "OAnswer": {
+      "object_label": "2007",
+      "context": "Lucas Gaúcho started work in 2007.",
+      "objectCQ": "When did Lucas Ga<unk>cho begin his work?"
+    }
+  },
+  {
+    "claim_id": "Q777164$96b3bed8-4989-23e0-83e7-1912023dc6a6",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "name in native language",
+      "context": "Joe Gyau is a native speaker of the native language.",
+      "propertyCQ": "What is Joe Gyau's native language?"
+    },
+    "OAnswer": {
+      "object_label": "Joe Gyau",
+      "context": "Joe Gyau is a native speaker of the native language.",
+      "objectCQ": "Who speaks the native language?"
+    }
+  },
+  {
+    "claim_id": "Q61740779$D4D0FF79-6A33-4BE7-89A2-624717D08338",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "name in native language",
+      "context": "Ute Joerse is the name in the native language of Ute Joerse.",
+      "propertyCQ": "What is the name Ute Joerse?"
+    },
+    "OAnswer": {
+      "object_label": "Ute Joerse",
+      "context": "Ute Joerse is the name in the native language of Ute Joerse.",
+      "objectCQ": "What is the name in the native language of Ute Joerse?"
+    }
+  },
+  {
+    "claim_id": "Q61757136$8B5911F5-DBB6-4B6C-A7E4-52671A9D842C",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "name in native language",
+      "context": "Lisa Dilleen is a native speaker of the English language.",
+      "propertyCQ": "What is Lisa Dilleen's first name?"
+    },
+    "OAnswer": {
+      "object_label": "Lisa Dilleen",
+      "context": "Lisa Dilleen is a native speaker of the English language.",
+      "objectCQ": "Who speaks English?"
+    }
+  },
+  {
+    "claim_id": "Q42435291$0b1e5628-43f3-251a-ba4b-ce1a9f4b8a10",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "name in native language",
+      "context": "Rob Williams is a native speaker of the English language.",
+      "propertyCQ": "What is Rob Williams's first name?"
+    },
+    "OAnswer": {
+      "object_label": "Rob Williams",
+      "context": "Rob Williams is a native speaker of the English language.",
+      "objectCQ": "Who speaks English?"
+    }
+  },
+  {
+    "claim_id": "Q1705419$449733C1-EE05-4D53-BB31-AFBB3F94881D",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "name in native language",
+      "context": "José Bento is a native speaker of Spanish.",
+      "propertyCQ": "What is José Bento's first name?"
+    },
+    "OAnswer": {
+      "object_label": "José Bento",
+      "context": "José Bento is a native speaker of Spanish.",
+      "objectCQ": "Who speaks Spanish?"
+    }
+  },
+  {
+    "claim_id": "Q65958244$7C6F6A16-D8EF-4D6F-AB45-FFA9AE45DC79",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "name in native language",
+      "context": "Rolf Schlieper is a native speaker of the German language.",
+      "propertyCQ": "What is Rolf Schlieper's first name?"
+    },
+    "OAnswer": {
+      "object_label": "Rolf Schlieper",
+      "context": "Rolf Schlieper is a native speaker of the German language.",
+      "objectCQ": "Who is a native speaker of German?"
+    }
+  },
+  {
+    "claim_id": "Q3168579$F7512EDF-1502-4B2E-AAE3-4CB54AB44545",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "name in native language",
+      "context": "Jean-Paul Loth's name in the native language is Jean-Paul Loth.",
+      "propertyCQ": "What is Jean-Paul Loth's name in the native language?"
+    },
+    "OAnswer": {
+      "object_label": "Jean-Paul Loth",
+      "context": "Jean-Paul Loth's name in the native language is Jean-Paul Loth.",
+      "objectCQ": "What is the name of the native speaker of the English language?"
+    }
+  },
+  {
+    "claim_id": "Q15993529$D06F0E97-C3B4-4966-A78E-179C995CB83D",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "place of death",
+      "context": "Vivian St. John died in Fort Lauderdale.",
+      "propertyCQ": "Where did Vivian St. John die?"
+    },
+    "OAnswer": {
+      "object_label": "Fort Lauderdale",
+      "context": "Vivian St. John died in Fort Lauderdale.",
+      "objectCQ": "Where did Vivian St. John die?"
+    }
+  },
+  {
+    "claim_id": "Q12179102$7E6E6E89-2747-4C06-AAF7-B220F2F01C72",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "place of death",
+      "context": "Laís Elena Aranha da Silva died in Santo André.",
+      "propertyCQ": "Where did La<unk>s Elena Aranha da Silva die?"
+    },
+    "OAnswer": {
+      "object_label": "Santo André",
+      "context": "Laís Elena Aranha da Silva died in Santo André.",
+      "objectCQ": "Where did La<unk>s Elena Aranha da Silva die?"
+    }
+  },
+  {
+    "claim_id": "Q3376695$DD5DBAA0-9073-465B-A756-04C2B7BC28D8",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "place of death",
+      "context": "Brian Birch died in South Africa.",
+      "propertyCQ": "Where did Brian Birch die?"
+    },
+    "OAnswer": {
+      "object_label": "South Africa",
+      "context": "Brian Birch died in South Africa.",
+      "objectCQ": "Where did Brian Birch die?"
+    }
+  },
+  {
+    "claim_id": "Q2907875$BF16DBDC-8FEA-42C8-8B36-C515C528ABE2",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "place of death",
+      "context": "Bob Woytowich died in Winnipeg.",
+      "propertyCQ": "Where did Bob Woytowich die?"
+    },
+    "OAnswer": {
+      "object_label": "Winnipeg",
+      "context": "Bob Woytowich died in Winnipeg.",
+      "objectCQ": "Where did Bob Woytowich die?"
+    }
+  },
+  {
+    "claim_id": "Q5231056$37F5C908-6381-492C-B40A-36CC72F9817B",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "place of death",
+      "context": "David Bain died in Liverpool.",
+      "propertyCQ": "Where did David Bain die?"
+    },
+    "OAnswer": {
+      "object_label": "Liverpool",
+      "context": "David Bain died in Liverpool.",
+      "objectCQ": "Where did David Bain die?"
+    }
+  },
+  {
+    "claim_id": "q1361332$28A5D4B3-7328-4861-9198-1ADD01CC9779",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "place of death",
+      "context": "Thomas Sopwith died in Hampshire.",
+      "propertyCQ": "Where did Thomas Sopwith die?"
+    },
+    "OAnswer": {
+      "object_label": "Hampshire",
+      "context": "Thomas Sopwith died in Hampshire.",
+      "objectCQ": "Where did Thomas Sopwith die?"
+    }
+  },
+  {
+    "claim_id": "Q4661214$688be030-4808-fde6-c24e-950e830fa1da",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "place of death",
+      "context": "Aage Kirkegaard died in Nykøbing Falster.",
+      "propertyCQ": "Where did Aage Kirkegaard die?"
+    },
+    "OAnswer": {
+      "object_label": "Nykøbing Falster",
+      "context": "Aage Kirkegaard died in Nykøbing Falster.",
+      "objectCQ": "Where did Kirkegaard die?"
+    }
+  },
+  {
+    "claim_id": "Q692073$BD00D2B9-3AD4-4AA6-A8BF-6BDE4015F1EA",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "mass",
+      "context": "Fabian Giefer has a mass of 82 kilograms.",
+      "propertyCQ": "What is Giefer's weight?"
+    },
+    "OAnswer": {
+      "object_label": "82 kilogram",
+      "context": "Fabian Giefer has a mass of 82 kilograms.",
+      "objectCQ": "How much is Giefer's mass?"
+    }
+  },
+  {
+    "claim_id": "Q719532$BE17273C-7019-40AA-A71E-028B31C84CA1",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "mass",
+      "context": "Ali Gerba has a mass of 90 kilograms.",
+      "propertyCQ": "What is Ali Gerba's weight?"
+    },
+    "OAnswer": {
+      "object_label": "90 kilogram",
+      "context": "Ali Gerba has a mass of 90 kilograms.",
+      "objectCQ": "How much is Ali Gerba's mass?"
+    }
+  },
+  {
+    "claim_id": "Q7822156$DE9827B7-9C61-4CD8-82FF-3EE72316CF63",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "mass",
+      "context": "Tony Curtis has a mass of 251 pounds.",
+      "propertyCQ": "What is Tony Curtis's weight?"
+    },
+    "OAnswer": {
+      "object_label": "251 pound",
+      "context": "Tony Curtis has a mass of 251 pounds.",
+      "objectCQ": "What is Tony Curtis's mass?"
+    }
+  },
+  {
+    "claim_id": "Q3885547$00DF2B05-F391-4362-BC8B-436BE95A1BCE",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "mass",
+      "context": "Oreste Didonè has a mass of 68 kilograms.",
+      "propertyCQ": "What is the weight of Oreste Didonè?"
+    },
+    "OAnswer": {
+      "object_label": "68 kilogram",
+      "context": "Oreste Didonè has a mass of 68 kilograms.",
+      "objectCQ": "How much is Oreste Didonè's mass?"
+    }
+  },
+  {
+    "claim_id": "Q40991135$2D6E93E6-26C3-4530-BC7E-EBB9203CAA45",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "mass",
+      "context": "Calixto Malcom has a mass of 86 kilograms.",
+      "propertyCQ": "What is the weight of the Calixto Malcom?"
+    },
+    "OAnswer": {
+      "object_label": "86 kilogram",
+      "context": "Calixto Malcom has a mass of 86 kilograms.",
+      "objectCQ": "How much is Calixto Malcom?"
+    }
+  },
+  {
+    "claim_id": "Q3807364$5213875B-DED9-4A03-B2E3-5E990E697A0C",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "mass",
+      "context": "Jarrius Jackson has a mass of 83 kilograms.",
+      "propertyCQ": "What is Jarrius Jackson's weight?"
+    },
+    "OAnswer": {
+      "object_label": "83 kilogram",
+      "context": "Jarrius Jackson has a mass of 83 kilograms.",
+      "objectCQ": "What is Jarrius Jackson's mass?"
+    }
+  },
+  {
+    "claim_id": "Q1367503$131A60D4-FC9F-44ED-AD9B-E90FFEE74180",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "mass",
+      "context": "The mass of Vasile Maftei is 75 kilograms.",
+      "propertyCQ": "What is the weight of Vasile Maftei?"
+    },
+    "OAnswer": {
+      "object_label": "75 kilogram",
+      "context": "The mass of Vasile Maftei is 75 kilograms.",
+      "objectCQ": "What is Vasile Maftei's mass?"
+    }
+  },
+  {
+    "claim_id": "Q7381351$C4ED3EB6-652E-44EC-BD6A-65A45DCF05C5",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "league",
+      "context": "Russell Beichly plays in the NCAA Division I men's basketball.",
+      "propertyCQ": "What NCAA division does Russell Beichly play in?"
+    },
+    "OAnswer": {
+      "object_label": "NCAA Division I men's basketball",
+      "context": "Russell Beichly plays in the NCAA Division I men's basketball.",
+      "objectCQ": "What sport does Russell Beichly play?"
+    }
+  },
+  {
+    "claim_id": "Q100719496$9EBE77B2-DE11-4425-8182-E06E8C0A4801",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "league",
+      "context": "Mark Allsteadt plays in the NCAA Division I men's basketball.",
+      "propertyCQ": "What NCAA division does Mark Allsteadt play in?"
+    },
+    "OAnswer": {
+      "object_label": "NCAA Division I men's basketball",
+      "context": "Mark Allsteadt plays in the NCAA Division I men's basketball.",
+      "objectCQ": "What sport does Mark Allsteadt play?"
+    }
+  },
+  {
+    "claim_id": "Q100724167$E70EE1C1-5999-42B8-A63A-CC2375FE6617",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "league",
+      "context": "Ibn-Hashim Bakari plays in the NCAA Division I men's basketball.",
+      "propertyCQ": "What NCAA division does Bakari play in?"
+    },
+    "OAnswer": {
+      "object_label": "NCAA Division I men's basketball",
+      "context": "Ibn-Hashim Bakari plays in the NCAA Division I men's basketball.",
+      "objectCQ": "What sport does Bakari play?"
+    }
+  },
+  {
+    "claim_id": "Q100959638$31488C21-67CB-4652-9634-026B6EFC42C1",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "league",
+      "context": "Josh Wilson plays in the NCAA Division I men's basketball.",
+      "propertyCQ": "What NCAA division does Josh Wilson play in?"
+    },
+    "OAnswer": {
+      "object_label": "NCAA Division I men's basketball",
+      "context": "Josh Wilson plays in the NCAA Division I men's basketball.",
+      "objectCQ": "What sport does Josh Wilson play?"
+    }
+  },
+  {
+    "claim_id": "Q100926401$4061D0C2-B4BE-4724-8C42-00055CFDF503",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "league",
+      "context": "_ Stankovic plays in the NCAA Division I men's basketball.",
+      "propertyCQ": "What NCAA division does Stankovic play in?"
+    },
+    "OAnswer": {
+      "object_label": "NCAA Division I men's basketball",
+      "context": "_ Stankovic plays in the NCAA Division I men's basketball.",
+      "objectCQ": "What sport does Stankovic play?"
+    }
+  },
+  {
+    "claim_id": "Q100770468$F5082498-2662-4A52-B3F3-822AFDDC6ACA",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "league",
+      "context": "Chris Coalmon plays in the NCAA Division I men's basketball.",
+      "propertyCQ": "What NCAA division does Chris Coalmon play in?"
+    },
+    "OAnswer": {
+      "object_label": "NCAA Division I men's basketball",
+      "context": "Chris Coalmon plays in the NCAA Division I men's basketball.",
+      "objectCQ": "What sport does Chris Coalmon play?"
+    }
+  },
+  {
+    "claim_id": "Q100890417$ADA44666-3FA8-4C67-8EC3-BFAF559DDF49",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "league",
+      "context": "Frank Nelson plays in the NCAA Division I men's basketball.",
+      "propertyCQ": "What NCAA division does Frank Nelson play in?"
+    },
+    "OAnswer": {
+      "object_label": "NCAA Division I men's basketball",
+      "context": "Frank Nelson plays in the NCAA Division I men's basketball.",
+      "objectCQ": "What sport does Frank Nelson play?"
+    }
+  },
+  {
+    "claim_id": "Q100882294$45D5853C-82C6-4779-A536-8A3BC9DB7670",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "competition class",
+      "context": "Danny McElhinny competes in the men's basketball competition.",
+      "propertyCQ": "What class does Danny McElhinny compete in?"
+    },
+    "OAnswer": {
+      "object_label": "men's basketball",
+      "context": "Danny McElhinny competes in the men's basketball competition.",
+      "objectCQ": "What competition does Danny McElhinny compete in?"
+    }
+  },
+  {
+    "claim_id": "Q100787663$E1028882-73F0-4A7B-A348-EC2447E828CC",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "competition class",
+      "context": "Thaddeus Fauntleroy competes in the men's basketball competition.",
+      "propertyCQ": "What class does Thaddeus Fauntleroy compete in?"
+    },
+    "OAnswer": {
+      "object_label": "men's basketball",
+      "context": "Thaddeus Fauntleroy competes in the men's basketball competition.",
+      "objectCQ": "What competition does Thaddeus Fauntleroy compete in?"
+    }
+  },
+  {
+    "claim_id": "Q6039657$2F6DBD57-692C-4842-8D14-066E51C668E5",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "competition class",
+      "context": "Nelson Garzón competes in the men's sport.",
+      "propertyCQ": "What class does Nelson Garzón compete in?"
+    },
+    "OAnswer": {
+      "object_label": "men's sports",
+      "context": "Nelson Garzón competes in the men's sport.",
+      "objectCQ": "What sport does Nelson Garzón compete in?"
+    }
+  },
+  {
+    "claim_id": "Q100748642$8918A15E-15CE-4097-B5C1-8BE05D10CCD4",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "competition class",
+      "context": "Marvin Bell competes in the men's basketball competition class.",
+      "propertyCQ": "What class does Marvin Bell compete in?"
+    },
+    "OAnswer": {
+      "object_label": "men's basketball",
+      "context": "Marvin Bell competes in the men's basketball competition class.",
+      "objectCQ": "What competition class does Marvin Bell compete in?"
+    }
+  },
+  {
+    "claim_id": "Q6485592$5FCA8F16-8A4A-4985-85F5-41C2C82ADABC",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "competition class",
+      "context": "Lang Campbell competes in the men's basketball competition.",
+      "propertyCQ": "What class does Campbell compete in?"
+    },
+    "OAnswer": {
+      "object_label": "men's basketball",
+      "context": "Lang Campbell competes in the men's basketball competition.",
+      "objectCQ": "What competition does Campbell compete in?"
+    }
+  },
+  {
+    "claim_id": "Q18350990$972DF540-7BB6-4F9F-A26B-D1689CD210B5",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "competition class",
+      "context": "Alex Buxton competes in the middleweight class.",
+      "propertyCQ": "What class does Alex Buxton compete in?"
+    },
+    "OAnswer": {
+      "object_label": "middleweight",
+      "context": "Alex Buxton competes in the middleweight class.",
+      "objectCQ": "What class does Alex Buxton compete in?"
+    }
+  },
+  {
+    "claim_id": "Q100755542$EE490F4B-7E43-4DC9-BC7E-90B3F149B9F5",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "competition class",
+      "context": "Ed Bood competes in the men's basketball competition.",
+      "propertyCQ": "What class does Ed Bood compete in?"
+    },
+    "OAnswer": {
+      "object_label": "men's basketball",
+      "context": "Ed Bood competes in the men's basketball competition.",
+      "objectCQ": "What competition does Ed Bood compete in?"
+    }
+  },
+  {
+    "claim_id": "Q6122068$DA3BD802-CEDC-4309-8D79-B019236D79C4",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "date of death",
+      "context": "Jagaddipendra Narayan died on 11/04/1970.",
+      "propertyCQ": "What was the date of death?"
+    },
+    "OAnswer": {
+      "object_label": "11/04/1970",
+      "context": "Jagaddipendra Narayan died on 11/04/1970.",
+      "objectCQ": "When did Jagaddipendra Narayan die?"
+    }
+  },
+  {
+    "claim_id": "Q21176806$C4D16BA4-02A9-41B8-ABA5-8CEFE1EF5EE4",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "date of death",
+      "context": "Tim McKeegan died on 19/05/1939.",
+      "propertyCQ": "What was the date of Tim McKeegan's death?"
+    },
+    "OAnswer": {
+      "object_label": "19/05/1939",
+      "context": "Tim McKeegan died on 19/05/1939.",
+      "objectCQ": "When did Tim McKeegan die?"
+    }
+  },
+  {
+    "claim_id": "Q16159456$75C8D905-E773-4F48-B9C7-20DDAD866E64",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "date of death",
+      "context": "František Stibitz died on 03/03/2008.",
+      "propertyCQ": "What was the date of death of Franti<unk>ek Stibitz?"
+    },
+    "OAnswer": {
+      "object_label": "03/03/2008",
+      "context": "František Stibitz died on 03/03/2008.",
+      "objectCQ": "When did Stibitz die?"
+    }
+  },
+  {
+    "claim_id": "Q20679239$BD8B4062-79BF-4E85-B586-EB59D5C4DC81",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "date of death",
+      "context": "Jack Wegner died on 30/04/1982.",
+      "propertyCQ": "What was Jack Wegner's last name?"
+    },
+    "OAnswer": {
+      "object_label": "30/04/1982",
+      "context": "Jack Wegner died on 30/04/1982.",
+      "objectCQ": "When did Jack Wegner die?"
+    }
+  },
+  {
+    "claim_id": "Q21009699$2FE30FC9-B77B-4998-86B7-D43E1DE8D3C6",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "date of death",
+      "context": "Stan B Harrison died on 15/11/2000.",
+      "propertyCQ": "What was Stan Harrison's last name?"
+    },
+    "OAnswer": {
+      "object_label": "15/11/2000",
+      "context": "Stan B Harrison died on 15/11/2000.",
+      "objectCQ": "When did Stan B Harrison die?"
+    }
+  },
+  {
+    "claim_id": "Q11395787$EC860E3D-4A2E-4435-A02C-D86DCED07F0A",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "date of death",
+      "context": "Daisuke Dewaarashi died on 30/03/2010.",
+      "propertyCQ": "What was the date of death?"
+    },
+    "OAnswer": {
+      "object_label": "30/03/2010",
+      "context": "Daisuke Dewaarashi died on 30/03/2010.",
+      "objectCQ": "When did Daisuke Dewaarashi die?"
+    }
+  },
+  {
+    "claim_id": "Q3849555$F9D5D105-32A1-4E16-A764-C0C1F13AD76B",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "date of death",
+      "context": "Mark Smith died on 27/06/2001.",
+      "propertyCQ": "What was Mark Smith's last name?"
+    },
+    "OAnswer": {
+      "object_label": "27/06/2001",
+      "context": "Mark Smith died on 27/06/2001.",
+      "objectCQ": "When did Mark Smith die?"
+    }
+  },
+  {
+    "claim_id": "Q962022$9AD863F4-3AAF-467C-AFE1-EA3703FFA338",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "height",
+      "context": "Luigi Weiss' height is 175 centimetres.",
+      "propertyCQ": "What is Luigi Weiss's physical feature?"
+    },
+    "OAnswer": {
+      "object_label": "175 centimetre",
+      "context": "Luigi Weiss' height is 175 centimetres.",
+      "objectCQ": "What is Luigi Weiss' height?"
+    }
+  },
+  {
+    "claim_id": "Q1163621$4D91EA8F-B8DC-433B-9047-AFA273E39269",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "height",
+      "context": "Daniela Zeiser's height is 169 centimetres.",
+      "propertyCQ": "What is Daniela Zeiser's height?"
+    },
+    "OAnswer": {
+      "object_label": "169 centimetre",
+      "context": "Daniela Zeiser's height is 169 centimetres.",
+      "objectCQ": "What is Daniela Zeiser's height?"
+    }
+  },
+  {
+    "claim_id": "Q978778$DF9BB54C-9D8F-4879-913B-ADA26903E7E3",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "height",
+      "context": "Robert Bennett's height is 188 centimetres.",
+      "propertyCQ": "What is Robert Bennett's height?"
+    },
+    "OAnswer": {
+      "object_label": "188 centimetre",
+      "context": "Robert Bennett's height is 188 centimetres.",
+      "objectCQ": "What is Robert Bennett's height?"
+    }
+  },
+  {
+    "claim_id": "Q97728528$daa2cb5c-0292-4c12-880f-38fbe4e8199d",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "height",
+      "context": "Melis Sarialtin's height is 1.66 metres.",
+      "propertyCQ": "What is the height of Melis Sarialtin?"
+    },
+    "OAnswer": {
+      "object_label": "1.66 metre",
+      "context": "Melis Sarialtin's height is 1.66 metres.",
+      "objectCQ": "What is Melis Sarialtin's height?"
+    }
+  },
+  {
+    "claim_id": "Q16616191$B05AF47F-1F24-447C-BB7A-45F62D7BDF83",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "height",
+      "context": "Tommaso Dotti has a height of 187 centimetres.",
+      "propertyCQ": "What is Tommaso Dotti's height?"
+    },
+    "OAnswer": {
+      "object_label": "187 centimetre",
+      "context": "Tommaso Dotti has a height of 187 centimetres.",
+      "objectCQ": "How tall is Tommaso Dotti?"
+    }
+  },
+  {
+    "claim_id": "Q375160$73065D80-8FAB-493F-BD0A-5FC8F22DDF0F",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "height",
+      "context": "Stefan Ustorf's height is 181 centimetres.",
+      "propertyCQ": "What is Stefan Ustorf's height?"
+    },
+    "OAnswer": {
+      "object_label": "181 centimetre",
+      "context": "Stefan Ustorf's height is 181 centimetres.",
+      "objectCQ": "What is Stefan Ustorf's height?"
+    }
+  },
+  {
+    "claim_id": "Q6006915$9F7828F5-97FB-430C-A42A-EBE4D8F56D1B",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "height",
+      "context": "Mauricio Cuero's height is 176 centimetres.",
+      "propertyCQ": "What is Cuero's height?"
+    },
+    "OAnswer": {
+      "object_label": "176 centimetre",
+      "context": "Mauricio Cuero's height is 176 centimetres.",
+      "objectCQ": "What is Cuero's height?"
+    }
+  },
+  {
+    "claim_id": "Q52452330$B25BD44B-1E20-4D52-938A-3A83BA8FAC82",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "country for sport",
+      "context": "Allen Yanes is from the United States of America.",
+      "propertyCQ": "What is Allen Yanes's nationality?"
+    },
+    "OAnswer": {
+      "object_label": "United States of America",
+      "context": "Allen Yanes is from the United States of America.",
+      "objectCQ": "Where is Allen Yanes from?"
+    }
+  },
+  {
+    "claim_id": "Q23714545$EED3BDA0-E6AB-46CA-B7E4-3FC96731AB44",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "country for sport",
+      "context": "Emmanouil Karalís is from Greece.",
+      "propertyCQ": "Where is Emmanouil Karal<unk>s from?"
+    },
+    "OAnswer": {
+      "object_label": "Greece",
+      "context": "Emmanouil Karalís is from Greece.",
+      "objectCQ": "Where is Emmanouil Karal<unk>s from?"
+    }
+  },
+  {
+    "claim_id": "Q27574535$E06349D4-1977-4936-A7A9-BEC07A22D47B",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "country for sport",
+      "context": "J. Hamilton is from the United Kingdom.",
+      "propertyCQ": "What is the nationality of J. Hamilton?"
+    },
+    "OAnswer": {
+      "object_label": "United Kingdom",
+      "context": "J. Hamilton is from the United Kingdom.",
+      "objectCQ": "Where is J. Hamilton from?"
+    }
+  },
+  {
+    "claim_id": "Q65037234$4E8D9DB8-C4F8-4BF7-839F-DAC08303A9DC",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "country for sport",
+      "context": "J H MacGregor is from the United Kingdom.",
+      "propertyCQ": "What is the nationality of MacGregor?"
+    },
+    "OAnswer": {
+      "object_label": "United Kingdom",
+      "context": "J H MacGregor is from the United Kingdom.",
+      "objectCQ": "Where is J H MacGregor from?"
+    }
+  },
+  {
+    "claim_id": "Q5914272$4ff22d59-6e90-4c7b-8258-5c062e565622",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "country for sport",
+      "context": "Imelda Ramírez plays in Mexico.",
+      "propertyCQ": "What is Mexico?"
+    },
+    "OAnswer": {
+      "object_label": "Mexico",
+      "context": "Imelda Ramírez plays in Mexico.",
+      "objectCQ": "Where does Imelda Ram<unk>rez play?"
+    }
+  },
+  {
+    "claim_id": "Q106095759$68D675CF-514D-460D-BAF8-FD2F87CF1C13",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "country for sport",
+      "context": "Мухаметзянов, Н. is from the Soviet Union.",
+      "propertyCQ": "What is the country for sport?"
+    },
+    "OAnswer": {
+      "object_label": "Soviet Union",
+      "context": "Мухаметзянов, Н. is from the Soviet Union.",
+      "objectCQ": "Where is <unk>у<unk>амет<unk>нов from?"
+    }
+  },
+  {
+    "claim_id": "Q71318486$B202F19F-6AA5-4500-8DE3-F8089B96F9F8",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "country for sport",
+      "context": "Bogdan Kalabukhov is from the country of sport, Russia.",
+      "propertyCQ": "Where is Bogdan Kalabukhov from?"
+    },
+    "OAnswer": {
+      "object_label": "Russia",
+      "context": "Bogdan Kalabukhov is from the country of sport, Russia.",
+      "objectCQ": "Where is Bogdan Kalabukhov from?"
+    }
+  },
+  {
+    "claim_id": "Q3984827$D408AF0A-55D5-44B1-BD5A-37F939CFEFAF",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "educated at",
+      "context": "Terry Thomas was educated at the University of Detroit Mercy.",
+      "propertyCQ": "What university was Terry Thomas educated at?"
+    },
+    "OAnswer": {
+      "object_label": "University of Detroit Mercy",
+      "context": "Terry Thomas was educated at the University of Detroit Mercy.",
+      "objectCQ": "Where was Terry Thomas educated?"
+    }
+  },
+  {
+    "claim_id": "Q23762550$d19ad42f-f267-47ee-a098-c17c7023e46a",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "educated at",
+      "context": "Alfredo Olivares was educated at the National University.",
+      "propertyCQ": "Where was Alfredo Olivares educated?"
+    },
+    "OAnswer": {
+      "object_label": "National University",
+      "context": "Alfredo Olivares was educated at the National University.",
+      "objectCQ": "Where was Alfredo Olivares educated?"
+    }
+  },
+  {
+    "claim_id": "Q3275756$EFADB6F6-CA5D-42EC-8342-E9F06C7BE952",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "educated at",
+      "context": "Adriana Leon was educated at the University of Florida.",
+      "propertyCQ": "Where was Adriana Leon educated?"
+    },
+    "OAnswer": {
+      "object_label": "University of Florida",
+      "context": "Adriana Leon was educated at the University of Florida.",
+      "objectCQ": "Where did Adriana Leon attend school?"
+    }
+  },
+  {
+    "claim_id": "Q16150286$a95a1372-e7e3-4c9c-9f8e-1115a0f9a263",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "educated at",
+      "context": "Tim Anderson was educated at East Central Community College.",
+      "propertyCQ": "What college was Tim Anderson educated at?"
+    },
+    "OAnswer": {
+      "object_label": "East Central Community College",
+      "context": "Tim Anderson was educated at East Central Community College.",
+      "objectCQ": "Where was Tim Anderson educated?"
+    }
+  },
+  {
+    "claim_id": "Q51166681$FB54571A-90E3-4A8D-9C61-E49EED1A0F07",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "educated at",
+      "context": "村山翠 was educated at Senshu University.",
+      "propertyCQ": "Where was <unk> educated?"
+    },
+    "OAnswer": {
+      "object_label": "Senshu University",
+      "context": "村山翠 was educated at Senshu University.",
+      "objectCQ": "Where was <unk> educated?"
+    }
+  },
+  {
+    "claim_id": "Q100719409$1CEA490E-E273-46FC-863E-F90898C348BB",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "educated at",
+      "context": "De'Sean Allen-Eikens was educated at the University of North Dakota.",
+      "propertyCQ": "Where was De'Sean Allen-Eikens educated?"
+    },
+    "OAnswer": {
+      "object_label": "University of North Dakota",
+      "context": "De'Sean Allen-Eikens was educated at the University of North Dakota.",
+      "objectCQ": "Where did Allen-Eikens attend college?"
+    }
+  },
+  {
+    "claim_id": "Q4199707$485e6c1d-759e-4623-8052-3360e64263a8",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "educated at",
+      "context": "Ильинский, Ерванд Тихонович were educated at Satbayev University.",
+      "propertyCQ": "Where were <unk>л<unk>ински<unk> and <unk>рванд <unk>и<unk>онови<unk> educated?"
+    },
+    "OAnswer": {
+      "object_label": "Satbayev University",
+      "context": "Ильинский, Ерванд Тихонович were educated at Satbayev University.",
+      "objectCQ": "Where were the students educated?"
+    }
+  },
+  {
+    "claim_id": "Q16323881$080BF686-C068-424F-BE21-EEFD5E5EFC4E",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "languages spoken, written or signed",
+      "context": "Antonio Aldonza speaks, writes or signs Spanish.",
+      "propertyCQ": "What does Antonio Aldonza speak?"
+    },
+    "OAnswer": {
+      "object_label": "Spanish",
+      "context": "Antonio Aldonza speaks, writes or signs Spanish.",
+      "objectCQ": "What language does Antonio Aldonza speak?"
+    }
+  },
+  {
+    "claim_id": "Q18638068$A7540D28-4784-4934-8A74-8A832502308F",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "languages spoken, written or signed",
+      "context": "Korean is spoken, written or signed by Yoo Mi.",
+      "propertyCQ": "What is Korean?"
+    },
+    "OAnswer": {
+      "object_label": "Korean",
+      "context": "Korean is spoken, written or signed by Yoo Mi.",
+      "objectCQ": "What language is spoken, written or signed by Yoo Mi?"
+    }
+  },
+  {
+    "claim_id": "Q437600$1efb87a7-4bfe-c37c-ab7e-233f03b03f84",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "languages spoken, written or signed",
+      "context": "Lisa Fissneider speaks, writes or signs English.",
+      "propertyCQ": "What is Lisa Fissneider's job?"
+    },
+    "OAnswer": {
+      "object_label": "English",
+      "context": "Lisa Fissneider speaks, writes or signs English.",
+      "objectCQ": "What language does Lisa Fissneider speak?"
+    }
+  },
+  {
+    "claim_id": "Q23007746$8DCCCF4E-301C-4070-BD69-6CF044646517",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "languages spoken, written or signed",
+      "context": "The language spoken, written or signed by Abdul Hakku is Hindi.",
+      "propertyCQ": "What is the language of Abdul Hakku?"
+    },
+    "OAnswer": {
+      "object_label": "Hindi",
+      "context": "The language spoken, written or signed by Abdul Hakku is Hindi.",
+      "objectCQ": "What is the language spoken by Abdul Hakku?"
+    }
+  },
+  {
+    "claim_id": "Q23882787$5BD103F5-45E2-43D6-B84A-EC77F71CC506",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "languages spoken, written or signed",
+      "context": "Maxime Moisy speaks, writes or signs French.",
+      "propertyCQ": "What is the French language?"
+    },
+    "OAnswer": {
+      "object_label": "French",
+      "context": "Maxime Moisy speaks, writes or signs French.",
+      "objectCQ": "What language does Maxime Moisy speak?"
+    }
+  },
+  {
+    "claim_id": "Q43844056$CDFDC052-7A16-426E-B535-81D103D9EC06",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "languages spoken, written or signed",
+      "context": "Moulay Ahmed Riadh speaks, writes or signs Berber languages.",
+      "propertyCQ": "What is the Berber language?"
+    },
+    "OAnswer": {
+      "object_label": "Berber languages",
+      "context": "Moulay Ahmed Riadh speaks, writes or signs Berber languages.",
+      "objectCQ": "What language does Moulay Ahmed Riadh speak?"
+    }
+  },
+  {
+    "claim_id": "Q16175903$FEE7DFA7-CA6D-4FAD-8EA4-EA891CC8DF93",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "languages spoken, written or signed",
+      "context": "Korean is spoken, written or signed in Yeo Min-ji.",
+      "propertyCQ": "What is Korean?"
+    },
+    "OAnswer": {
+      "object_label": "Korean",
+      "context": "Korean is spoken, written or signed in Yeo Min-ji.",
+      "objectCQ": "What language is spoken, written or signed in Yeo Min-ji?"
+    }
+  },
+  {
+    "claim_id": "Q6396212$61CADE60-6D1A-4C2A-BF40-A881BA5FBB47",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "position played on team / speciality",
+      "context": "Kevin Eakin plays on a team / speciality as a quarterback.",
+      "propertyCQ": "What is Kevin Eakin's role as a quarterback?"
+    },
+    "OAnswer": {
+      "object_label": "quarterback",
+      "context": "Kevin Eakin plays on a team / speciality as a quarterback.",
+      "objectCQ": "What is Kevin Eakin's job title?"
+    }
+  },
+  {
+    "claim_id": "Q6735271$da4b40c4-f00b-4076-b8d8-5a6fe06428a4",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "position played on team / speciality",
+      "context": "Maicon Assis play on team / speciality as a midfielder.",
+      "propertyCQ": "What is the role of a midfielder?"
+    },
+    "OAnswer": {
+      "object_label": "midfielder",
+      "context": "Maicon Assis play on team / speciality as a midfielder.",
+      "objectCQ": "What is Maicon Assis's role on the team?"
+    }
+  },
+  {
+    "claim_id": "Q98835146$d3a308e2-d1d9-47e8-add1-93747099879f",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "position played on team / speciality",
+      "context": "Paula Vizoso Prieto plays on team / speciality as a goalkeeper.",
+      "propertyCQ": "What is Paula Vizoso Prieto's role as a goalkeeper?"
+    },
+    "OAnswer": {
+      "object_label": "goalkeeper",
+      "context": "Paula Vizoso Prieto plays on team / speciality as a goalkeeper.",
+      "objectCQ": "What is Paula Vizoso Prieto's job?"
+    }
+  },
+  {
+    "claim_id": "Q363962$ee15fda0-4acb-76ba-b1d8-1125ef98f9b5",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "position played on team / speciality",
+      "context": "Rui Costa plays for team / speciality rouleur.",
+      "propertyCQ": "What is Rui Costa's role?"
+    },
+    "OAnswer": {
+      "object_label": "rouleur",
+      "context": "Rui Costa plays for team / speciality rouleur.",
+      "objectCQ": "What team does Rui Costa play for?"
+    }
+  },
+  {
+    "claim_id": "Q7407768$4631f672-45da-4d24-8db4-110750e295f7",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "position played on team / speciality",
+      "context": "Sam Lanford plays on a team / speciality as a pitcher.",
+      "propertyCQ": "What is Sam Lanford's role as a pitcher?"
+    },
+    "OAnswer": {
+      "object_label": "pitcher",
+      "context": "Sam Lanford plays on a team / speciality as a pitcher.",
+      "objectCQ": "What is Sam Lanford's career?"
+    }
+  },
+  {
+    "claim_id": "Q6284484$8222B243-324E-42FC-931E-52969A140DAF",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "position played on team / speciality",
+      "context": "Joseph Kabwe plays on team / speciality as a midfielder.",
+      "propertyCQ": "What is Kabwe's role as a midfielder?"
+    },
+    "OAnswer": {
+      "object_label": "midfielder",
+      "context": "Joseph Kabwe plays on team / speciality as a midfielder.",
+      "objectCQ": "What is Joseph Kabwe's role on the team?"
+    }
+  },
+  {
+    "claim_id": "Q18637876$AC44408D-9A41-4CA8-8298-F03E6AD4EBE8",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "position played on team / speciality",
+      "context": "Mirko Pigliacelli plays on team / speciality as a goalkeeper.",
+      "propertyCQ": "What is Mirko Pigliacelli's role as a goalkeeper?"
+    },
+    "OAnswer": {
+      "object_label": "goalkeeper",
+      "context": "Mirko Pigliacelli plays on team / speciality as a goalkeeper.",
+      "objectCQ": "What is Mirko Pigliacelli's job?"
+    }
+  },
+  {
+    "claim_id": "Q2734704$B8FB8585-3706-4156-875F-3420DE90007D",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "family name",
+      "context": "Roberto Fernández is a member of the family name Fernández.",
+      "propertyCQ": "What is Fernández?"
+    },
+    "OAnswer": {
+      "object_label": "Fernández",
+      "context": "Roberto Fernández is a member of the family name Fernández.",
+      "objectCQ": "What is Roberto Fernández's family name?"
+    }
+  },
+  {
+    "claim_id": "Q98454794$2c8ccea2-4bb7-639e-7d40-3eefb264b096",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "family name",
+      "context": "Tom Ward's family name is Ward.",
+      "propertyCQ": "What is Tom Ward's first name?"
+    },
+    "OAnswer": {
+      "object_label": "Ward",
+      "context": "Tom Ward's family name is Ward.",
+      "objectCQ": "What is Tom Ward's family name?"
+    }
+  },
+  {
+    "claim_id": "Q7817274$0afb0acb-46f9-0571-f885-474d9ccd280d",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "family name",
+      "context": "Tom Prendergast's family name is Prendergast.",
+      "propertyCQ": "What is Tom Prendergast's first name?"
+    },
+    "OAnswer": {
+      "object_label": "Prendergast",
+      "context": "Tom Prendergast's family name is Prendergast.",
+      "objectCQ": "What is Tom Prendergast's family name?"
+    }
+  },
+  {
+    "claim_id": "Q1709414$ce23d4e0-4194-da52-642e-47f91c1f3cbe",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "family name",
+      "context": "José María Alcaraz is from the family name Alcaraz.",
+      "propertyCQ": "What is José Mar<unk>a Alcaraz from?"
+    },
+    "OAnswer": {
+      "object_label": "Alcaraz",
+      "context": "José María Alcaraz is from the family name Alcaraz.",
+      "objectCQ": "What is José Mar<unk>a Alcaraz's family name?"
+    }
+  },
+  {
+    "claim_id": "Q16526348$6F0BAF7B-C37B-4815-866E-936481B0D439",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "family name",
+      "context": "Adam Krasiński is a member of the family Krasiński.",
+      "propertyCQ": "What is Adam Krasi<unk>ski a member of?"
+    },
+    "OAnswer": {
+      "object_label": "Krasiński",
+      "context": "Adam Krasiński is a member of the family Krasiński.",
+      "objectCQ": "What family is Adam Krasi<unk>ski a member of?"
+    }
+  },
+  {
+    "claim_id": "Q98054955$E0A1C423-9435-4CFB-8F8A-B4C72F1B0E66",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "family name",
+      "context": "Elijah Mitrou-Long is a member of the Long family.",
+      "propertyCQ": "What is Elijah Mitrou-Long a member of?"
+    },
+    "OAnswer": {
+      "object_label": "Long",
+      "context": "Elijah Mitrou-Long is a member of the Long family.",
+      "objectCQ": "What family is Elijah Mitrou-Long a member of?"
+    }
+  },
+  {
+    "claim_id": "Q6181724$A5E37EB1-FBFF-45D9-A657-C0A32B0C5EE9",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "family name",
+      "context": "Jeremy Newman is a member of the Newman family.",
+      "propertyCQ": "What is Jeremy Newman a member of?"
+    },
+    "OAnswer": {
+      "object_label": "Newman",
+      "context": "Jeremy Newman is a member of the Newman family.",
+      "objectCQ": "Which family does Jeremy Newman belong to?"
+    }
+  },
+  {
+    "claim_id": "Q1452207$A7799FAB-FF9C-46D4-BDF8-D478510988B2",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "participant in",
+      "context": "Fred Auckenthaler was a participant in the 1924 Winter Olympics.",
+      "propertyCQ": "What was Fred Auckenthaler's role in the Winter Olympics?"
+    },
+    "OAnswer": {
+      "object_label": "1924 Winter Olympics",
+      "context": "Fred Auckenthaler was a participant in the 1924 Winter Olympics.",
+      "objectCQ": "What was Fred Auckenthaler a participant in?"
+    }
+  },
+  {
+    "claim_id": "Q240692$58A0F73C-474B-4132-AFD9-90BF095EA614",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "participant in",
+      "context": "Kristina Reynolds played field hockey at the 2016 Summer Olympics.",
+      "propertyCQ": "What was Kristina Reynolds' role in the 2016 Summer Olympics?"
+    },
+    "OAnswer": {
+      "object_label": "field hockey at the 2016 Summer Olympics",
+      "context": "Kristina Reynolds played field hockey at the 2016 Summer Olympics.",
+      "objectCQ": "What sport did Kristina Reynolds play?"
+    }
+  },
+  {
+    "claim_id": "Q4978038$9e371b86-4ec7-7675-fc80-808e12561a0b",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "participant in",
+      "context": "Sung Jung-a was a participant in the 1990 ABC Championship for Women.",
+      "propertyCQ": "What was Sung Jung-a's role in the ABC Championship for Women?"
+    },
+    "OAnswer": {
+      "object_label": "1990 ABC Championship for Women",
+      "context": "Sung Jung-a was a participant in the 1990 ABC Championship for Women.",
+      "objectCQ": "What was the name of the competition that Sung Jung-a participated in?"
+    }
+  },
+  {
+    "claim_id": "Q2023813$619BA160-D90D-43F3-B990-00B83C9B228C",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "participant in",
+      "context": "Ondřej Kopřiva was a participant in the 2012 Czech Badminton Championships – men's doubles.",
+      "propertyCQ": "What was Ond<unk>ej Kop<unk>iva a part of in the 2012 Czech Badminton Championships?"
+    },
+    "OAnswer": {
+      "object_label": "2012 Czech Badminton Championships – men's doubles",
+      "context": "Ondřej Kopřiva was a participant in the 2012 Czech Badminton Championships – men's doubles.",
+      "objectCQ": "What was the name of the event that Ond<unk>ej Kop<unk>iva participated in?"
+    }
+  },
+  {
+    "claim_id": "Q3496328$ed045f02-42a9-4fb1-32d0-1611d2bd6126",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "participant in",
+      "context": "Alejandra García was a participant in the 1997 IAAF World Indoor Championships.",
+      "propertyCQ": "What was Alejandra Garc<unk>a's role in the 1997 IAAF World Indoor Championships?"
+    },
+    "OAnswer": {
+      "object_label": "1997 IAAF World Indoor Championships",
+      "context": "Alejandra García was a participant in the 1997 IAAF World Indoor Championships.",
+      "objectCQ": "What competition did Alejandra Garc<unk>a participate in?"
+    }
+  },
+  {
+    "claim_id": "Q27613150$E3293ED4-B39B-4E99-A343-8BE68F02563F",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "participant in",
+      "context": "Geir Dahl was a participant in the 1983 Badminton World Championships – men's doubles.",
+      "propertyCQ": "What was Geir Dahl's role in the 1983 Badminton World Championships?"
+    },
+    "OAnswer": {
+      "object_label": "1983 Badminton World Championships – men's doubles",
+      "context": "Geir Dahl was a participant in the 1983 Badminton World Championships – men's doubles.",
+      "objectCQ": "What event did Dahl participate in?"
+    }
+  },
+  {
+    "claim_id": "Q895830$01AE6DE9-2559-420D-BA89-D6447B68EE53",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "participant in",
+      "context": "Liang Jui-Wei was a participant in the 2011 Bulgarian International Badminton Championships – men's doubles.",
+      "propertyCQ": "What was Liang Jui-Wei's role in the 2011 Bulgarian International Badminton Championships?"
+    },
+    "OAnswer": {
+      "object_label": "2011 Bulgarian International Badminton Championships – men's doubles",
+      "context": "Liang Jui-Wei was a participant in the 2011 Bulgarian International Badminton Championships – men's doubles.",
+      "objectCQ": "What was the name of the event Liang Jui-Wei participated in?"
+    }
+  },
+  {
+    "claim_id": "Q2735524$C0F2F849-F365-4A2F-B9FE-3D0444371EEE",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "place of birth",
+      "context": "Brad Hogg was born in Narrogin.",
+      "propertyCQ": "Where was Brad Hogg born?"
+    },
+    "OAnswer": {
+      "object_label": "Narrogin",
+      "context": "Brad Hogg was born in Narrogin.",
+      "objectCQ": "Where was Brad Hogg born?"
+    }
+  },
+  {
+    "claim_id": "Q1716370$47A09458-4380-42BF-BFF1-D9C057E8D9B0",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "place of birth",
+      "context": "Sylvain Beauchamp was born in Montreal.",
+      "propertyCQ": "Where was Sylvain Beauchamp born?"
+    },
+    "OAnswer": {
+      "object_label": "Montreal",
+      "context": "Sylvain Beauchamp was born in Montreal.",
+      "objectCQ": "Where was Sylvain Beauchamp born?"
+    }
+  },
+  {
+    "claim_id": "q929370$79F45440-699F-4819-94E1-708A61614DD5",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "place of birth",
+      "context": "Pascal Delhommeau was born in Nantes.",
+      "propertyCQ": "Where was Pascal Delhommeau born?"
+    },
+    "OAnswer": {
+      "object_label": "Nantes",
+      "context": "Pascal Delhommeau was born in Nantes.",
+      "objectCQ": "Where was Pascal Delhommeau born?"
+    }
+  },
+  {
+    "claim_id": "Q22931985$296EF402-634A-4E0B-B1AF-640F3B45EA90",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "place of birth",
+      "context": "Joel Almeida was born in São Vicente.",
+      "propertyCQ": "Where was Joel Almeida born?"
+    },
+    "OAnswer": {
+      "object_label": "São Vicente",
+      "context": "Joel Almeida was born in São Vicente.",
+      "objectCQ": "Where was Joel Almeida born?"
+    }
+  },
+  {
+    "claim_id": "Q7929865$E549EAAC-55EE-43C2-891E-BAB448E88406",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "place of birth",
+      "context": "Viktor Uzbek was born in Mariupol.",
+      "propertyCQ": "Where was Viktor Uzbek born?"
+    },
+    "OAnswer": {
+      "object_label": "Mariupol",
+      "context": "Viktor Uzbek was born in Mariupol.",
+      "objectCQ": "Where was Viktor Uzbek born?"
+    }
+  },
+  {
+    "claim_id": "Q10861468$bc6c3d38-43a0-5478-9943-6a14cf53c6c5",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "place of birth",
+      "context": "Ray Kegeris was born in Bellwood.",
+      "propertyCQ": "Where was Ray Kegeris born?"
+    },
+    "OAnswer": {
+      "object_label": "Bellwood",
+      "context": "Ray Kegeris was born in Bellwood.",
+      "objectCQ": "Where was Ray Kegeris born?"
+    }
+  },
+  {
+    "claim_id": "Q2848379$AA1071C8-5E78-4B70-9FF2-D7AB44E6640D",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "place of birth",
+      "context": "André Olivier was born in Pietermaritzburg.",
+      "propertyCQ": "Where was André Olivier born?"
+    },
+    "OAnswer": {
+      "object_label": "Pietermaritzburg",
+      "context": "André Olivier was born in Pietermaritzburg.",
+      "objectCQ": "Where was André Olivier born?"
+    }
+  },
+  {
+    "claim_id": "Q18632595$8DA13D05-3772-41F0-B01C-89D49E87859D",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "country of citizenship",
+      "context": "Ossi Helander is from Finland.",
+      "propertyCQ": "What country is Ossi Helander from?"
+    },
+    "OAnswer": {
+      "object_label": "Finland",
+      "context": "Ossi Helander is from Finland.",
+      "objectCQ": "Where is Ossi Helander from?"
+    }
+  },
+  {
+    "claim_id": "Q15059117$2AC09C8F-1356-4241-B4A6-73FD9A4D5AD8",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "country of citizenship",
+      "context": "Luigi Sergio is from Italy.",
+      "propertyCQ": "What country is Luigi Sergio from?"
+    },
+    "OAnswer": {
+      "object_label": "Italy",
+      "context": "Luigi Sergio is from Italy.",
+      "objectCQ": "Where is Luigi Sergio from?"
+    }
+  },
+  {
+    "claim_id": "Q10539727$179A03F5-1A8F-4EAC-ACA7-F15F75C9B16B",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "country of citizenship",
+      "context": "Bob Wright's country of citizenship is the United Kingdom.",
+      "propertyCQ": "What is Bob Wright's country of citizenship?"
+    },
+    "OAnswer": {
+      "object_label": "United Kingdom",
+      "context": "Bob Wright's country of citizenship is the United Kingdom.",
+      "objectCQ": "What is Bob Wright's country of citizenship?"
+    }
+  },
+  {
+    "claim_id": "Q585881$24377d83-4838-efe0-6cc5-6e13d76f9dc4",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "country of citizenship",
+      "context": "Vasily Malinin's country of citizenship is the Soviet Union.",
+      "propertyCQ": "What is Vasily Malinin's country of citizenship?"
+    },
+    "OAnswer": {
+      "object_label": "Soviet Union",
+      "context": "Vasily Malinin's country of citizenship is the Soviet Union.",
+      "objectCQ": "What country is Vasily Malinin's citizenship?"
+    }
+  },
+  {
+    "claim_id": "Q5522819$BAC298F7-34F0-4EC2-8331-95F9177B48EF",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "country of citizenship",
+      "context": "Gareth Davies is a citizen of Wales.",
+      "propertyCQ": "What is Gareth Davies' nationality?"
+    },
+    "OAnswer": {
+      "object_label": "Wales",
+      "context": "Gareth Davies is a citizen of Wales.",
+      "objectCQ": "What country is Gareth Davies a citizen of?"
+    }
+  },
+  {
+    "claim_id": "Q6193957$EFD825F4-7F1C-4ACE-968E-1224E72BD39E",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "country of citizenship",
+      "context": "Jim Bush's country of citizenship is the United States of America.",
+      "propertyCQ": "What is the United States of America?"
+    },
+    "OAnswer": {
+      "object_label": "United States of America",
+      "context": "Jim Bush's country of citizenship is the United States of America.",
+      "objectCQ": "What is Jim Bush's country of citizenship?"
+    }
+  },
+  {
+    "claim_id": "Q1161312$9467AC96-A4F8-486A-94D4-00B9C8754CAD",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "country of citizenship",
+      "context": "Daniel Kastner's country of citizenship is Austria.",
+      "propertyCQ": "What is Daniel Kastner's country of citizenship?"
+    },
+    "OAnswer": {
+      "object_label": "Austria",
+      "context": "Daniel Kastner's country of citizenship is Austria.",
+      "objectCQ": "What is Daniel Kastner's country of citizenship?"
+    }
+  },
+  {
+    "claim_id": "Q26820554$7CC27AB7-90B3-4891-9A9D-30466FD3E849",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "given name",
+      "context": "Till Gloger's given name is Till.",
+      "propertyCQ": "What is Till Gloger's real name?"
+    },
+    "OAnswer": {
+      "object_label": "Till",
+      "context": "Till Gloger's given name is Till.",
+      "objectCQ": "What is Till Gloger's given name?"
+    }
+  },
+  {
+    "claim_id": "Q100771436$8F939FF3-DD59-4239-91DC-B810DC10F7E4",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "given name",
+      "context": "Brian Condon's given name is Brian.",
+      "propertyCQ": "What is Brian Condon's real name?"
+    },
+    "OAnswer": {
+      "object_label": "Brian",
+      "context": "Brian Condon's given name is Brian.",
+      "objectCQ": "What is Condon's given name?"
+    }
+  },
+  {
+    "claim_id": "Q3262961$B6E06FAF-965B-4F49-9C35-B7E307FEFFDE",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "given name",
+      "context": "Louis Provelli's given name is Louis.",
+      "propertyCQ": "What is Louis Provelli's real name?"
+    },
+    "OAnswer": {
+      "object_label": "Louis",
+      "context": "Louis Provelli's given name is Louis.",
+      "objectCQ": "What is Louis Provelli's given name?"
+    }
+  },
+  {
+    "claim_id": "Q100880918$5F9C38C6-AF8D-4E4E-AD58-31824E4D94EF",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "given name",
+      "context": "Ken Maxwell's given name is Ken.",
+      "propertyCQ": "What is Ken Maxwell's real name?"
+    },
+    "OAnswer": {
+      "object_label": "Ken",
+      "context": "Ken Maxwell's given name is Ken.",
+      "objectCQ": "What is Maxwell's given name?"
+    }
+  },
+  {
+    "claim_id": "Q71317244$A019D2B7-20A9-483A-A3C8-9F312B0A486D",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "given name",
+      "context": "Martin Jablonicky's given name is Martin.",
+      "propertyCQ": "What is Martin Jablonicky's real name?"
+    },
+    "OAnswer": {
+      "object_label": "Martin",
+      "context": "Martin Jablonicky's given name is Martin.",
+      "objectCQ": "What is Jablonicky's given name?"
+    }
+  },
+  {
+    "claim_id": "Q65122951$70A62EBE-81A2-476D-A4D3-080A87ADB525",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "given name",
+      "context": "Eric Pédat's given name is Eric.",
+      "propertyCQ": "What is Eric Pédat's real name?"
+    },
+    "OAnswer": {
+      "object_label": "Eric",
+      "context": "Eric Pédat's given name is Eric.",
+      "objectCQ": "What is Eric Pédat's given name?"
+    }
+  },
+  {
+    "claim_id": "Q90309947$AEB509B4-B57B-49E9-B50A-68CA80895645",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "given name",
+      "context": "Judy McClintock's given name is Judy.",
+      "propertyCQ": "What is Judy McClintock's real name?"
+    },
+    "OAnswer": {
+      "object_label": "Judy",
+      "context": "Judy McClintock's given name is Judy.",
+      "objectCQ": "What is Judy McClintock's given name?"
+    }
+  },
+  {
+    "claim_id": "Q12591417$F13FB541-2A97-4311-B5B9-C6AAC5DD0DB6",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "date of birth",
+      "context": "Daniel John Schmidt was born on 27/04/1988.",
+      "propertyCQ": "What was the first name of Daniel Schmidt?"
+    },
+    "OAnswer": {
+      "object_label": "27/04/1988",
+      "context": "Daniel John Schmidt was born on 27/04/1988.",
+      "objectCQ": "When was Daniel Schmidt born?"
+    }
+  },
+  {
+    "claim_id": "Q11349366$012576FE-CA57-4265-A530-7DAC49C114A7",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "date of birth",
+      "context": "Raymond Cedrick Young was born on 27/05/1964.",
+      "propertyCQ": "What was Raymond Cedrick Young's birthdate?"
+    },
+    "OAnswer": {
+      "object_label": "27/05/1964",
+      "context": "Raymond Cedrick Young was born on 27/05/1964.",
+      "objectCQ": "When was Raymond Cedrick Young born?"
+    }
+  },
+  {
+    "claim_id": "Q24705902$8C187905-DC4F-464E-AA4F-7B102F59F995",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "date of birth",
+      "context": "Dave Joosten was born on 18/10/1980.",
+      "propertyCQ": "What was Dave Joosten's birthdate?"
+    },
+    "OAnswer": {
+      "object_label": "18/10/1980",
+      "context": "Dave Joosten was born on 18/10/1980.",
+      "objectCQ": "When was Dave Joosten born?"
+    }
+  },
+  {
+    "claim_id": "Q93444413$6A795D87-97A6-401C-B5E3-1F2ABF2F8E71",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "date of birth",
+      "context": "Morten Sand was born on 24/07/1977.",
+      "propertyCQ": "What was Morten Sand's birth date?"
+    },
+    "OAnswer": {
+      "object_label": "24/07/1977",
+      "context": "Morten Sand was born on 24/07/1977.",
+      "objectCQ": "When was Morten Sand born?"
+    }
+  },
+  {
+    "claim_id": "Q97676647$2c148ce6-1ca6-4740-8355-0495286eca45",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "date of birth",
+      "context": "Tânia Pinto was born on 01/06/1975.",
+      "propertyCQ": "What was Pinto's birth year?"
+    },
+    "OAnswer": {
+      "object_label": "01/06/1975",
+      "context": "Tânia Pinto was born on 01/06/1975.",
+      "objectCQ": "When was Tânia Pinto born?"
+    }
+  },
+  {
+    "claim_id": "Q18015214$7AACB9BE-7F62-4D2C-8577-F232218C2B49",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "date of birth",
+      "context": "Konstantin Zotov was born on 14/01/1986.",
+      "propertyCQ": "What was Konstantin Zotov's birth year?"
+    },
+    "OAnswer": {
+      "object_label": "14/01/1986",
+      "context": "Konstantin Zotov was born on 14/01/1986.",
+      "objectCQ": "When was Konstantin Zotov born?"
+    }
+  },
+  {
+    "claim_id": "Q539779$68E5559C-2703-4D9C-8652-6E8615087F76",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "date of birth",
+      "context": "Juan Miguel Mercado was born on 07/07/1978.",
+      "propertyCQ": "What was Juan Miguel Mercado's birth year?"
+    },
+    "OAnswer": {
+      "object_label": "07/07/1978",
+      "context": "Juan Miguel Mercado was born on 07/07/1978.",
+      "objectCQ": "When was Juan Miguel Mercado born?"
+    }
+  },
+  {
+    "claim_id": "Q100882173$1B289577-912E-4B33-92A3-F5D773EB6288",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "sport",
+      "context": "Juddy McDonald plays basketball.",
+      "propertyCQ": "What is Juddy McDonald's passion?"
+    },
+    "OAnswer": {
+      "object_label": "basketball",
+      "context": "Juddy McDonald plays basketball.",
+      "objectCQ": "What sport does Juddy McDonald play?"
+    }
+  },
+  {
+    "claim_id": "Q17333984$A7DBDBCF-475E-4F35-9E77-968EE6E798AE",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "sport",
+      "context": "Hattie Briggs skates speed skating.",
+      "propertyCQ": "What is Hattie Briggs' passion?"
+    },
+    "OAnswer": {
+      "object_label": "speed skating",
+      "context": "Hattie Briggs skates speed skating.",
+      "objectCQ": "What type of skating does Hattie Briggs do?"
+    }
+  },
+  {
+    "claim_id": "Q105202034$03164bea-06fa-46ca-8872-65610198094f",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "sport",
+      "context": "Maximiliano Filizzola plays rugby.",
+      "propertyCQ": "What does Filizzola play?"
+    },
+    "OAnswer": {
+      "object_label": "rugby",
+      "context": "Maximiliano Filizzola plays rugby.",
+      "objectCQ": "What sport does Filizzola play?"
+    }
+  },
+  {
+    "claim_id": "Q6095007$DA0DAFFB-3A55-4830-8053-6851383D8D51",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "sport",
+      "context": "Quini García plays basketball.",
+      "propertyCQ": "What does Quini Garc<unk>a do?"
+    },
+    "OAnswer": {
+      "object_label": "basketball",
+      "context": "Quini García plays basketball.",
+      "objectCQ": "What sport does Quini Garc<unk>a play?"
+    }
+  },
+  {
+    "claim_id": "Q1365177$6D12A02F-6C82-4098-8CCC-8B9A5379EC27",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "sport",
+      "context": "Karel Pilař plays ice hockey.",
+      "propertyCQ": "What is Karel Pila<unk>'s passion?"
+    },
+    "OAnswer": {
+      "object_label": "ice hockey",
+      "context": "Karel Pilař plays ice hockey.",
+      "objectCQ": "What sport does Pila<unk> play?"
+    }
+  },
+  {
+    "claim_id": "Q1893834$634D5F66-1B4E-4380-B9A3-A311A4FB0C8D",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "sport",
+      "context": "Marco Maurer plays ice hockey.",
+      "propertyCQ": "What is Marco Maurer's passion?"
+    },
+    "OAnswer": {
+      "object_label": "ice hockey",
+      "context": "Marco Maurer plays ice hockey.",
+      "objectCQ": "What sport does Marco Maurer play?"
+    }
+  },
+  {
+    "claim_id": "Q1122531$0B1A4D3A-2A88-4732-A35D-9D8D9E5116D4",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "sport",
+      "context": "Matías Abelairas plays association football.",
+      "propertyCQ": "What does Mat<unk>as Abelairas play?"
+    },
+    "OAnswer": {
+      "object_label": "association football",
+      "context": "Matías Abelairas plays association football.",
+      "objectCQ": "What type of football does Mat<unk>as Abelairas play?"
+    }
+  },
+  {
+    "claim_id": "Q106092621$f9244750-1319-4867-acda-ee04d7f14e7a",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "sex or gender",
+      "context": "Neville Mallett's sex or gender is male.",
+      "propertyCQ": "What is Neville Mallett's gender?"
+    },
+    "OAnswer": {
+      "object_label": "male",
+      "context": "Neville Mallett's sex or gender is male.",
+      "objectCQ": "What is Neville Mallett's gender?"
+    }
+  },
+  {
+    "claim_id": "Q5981357$9DA1F687-C5FC-4ECF-A03B-D3B35F670A65",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "sex or gender",
+      "context": "Ian Daly's sex or gender is male.",
+      "propertyCQ": "What is Ian Daly's gender?"
+    },
+    "OAnswer": {
+      "object_label": "male",
+      "context": "Ian Daly's sex or gender is male.",
+      "objectCQ": "What is Ian Daly's gender?"
+    }
+  },
+  {
+    "claim_id": "q1351311$A89EFF99-1631-4D60-B72A-D1BF8C39B1A3",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "sex or gender",
+      "context": "Eric Griffin's sex or gender is male.",
+      "propertyCQ": "What is Eric Griffin's gender?"
+    },
+    "OAnswer": {
+      "object_label": "male",
+      "context": "Eric Griffin's sex or gender is male.",
+      "objectCQ": "What is Eric Griffin's gender?"
+    }
+  },
+  {
+    "claim_id": "Q20013397$572B217D-833D-42D4-9B91-BF6F9DD34261",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "sex or gender",
+      "context": "The sex of Augusto Barrios is male.",
+      "propertyCQ": "What is the gender of Augusto Barrios?"
+    },
+    "OAnswer": {
+      "object_label": "male",
+      "context": "The sex of Augusto Barrios is male.",
+      "objectCQ": "What is Augusto Barrios' sex?"
+    }
+  },
+  {
+    "claim_id": "Q5363020$cafd951f-bb63-4954-b78c-91f9ab19e147",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "sex or gender",
+      "context": "Leung Bik has a sex or gender of male.",
+      "propertyCQ": "What does Leung Bik have?"
+    },
+    "OAnswer": {
+      "object_label": "male",
+      "context": "Leung Bik has a sex or gender of male.",
+      "objectCQ": "What gender does Leung Bik have?"
+    }
+  },
+  {
+    "claim_id": "Q25933354$24E77195-C33F-4508-A56C-F1A7826D8059",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "sex or gender",
+      "context": "Daniel Kaczmarek's sex or gender is male.",
+      "propertyCQ": "What is Daniel Kaczmarek's gender?"
+    },
+    "OAnswer": {
+      "object_label": "male",
+      "context": "Daniel Kaczmarek's sex or gender is male.",
+      "objectCQ": "What is Daniel Kaczmarek's gender?"
+    }
+  },
+  {
+    "claim_id": "Q56702362$4DF4007D-A64D-4BB5-BB10-193229A13B90",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "sex or gender",
+      "context": "Alex Light's sex or gender is male.",
+      "propertyCQ": "What is Alex Light's gender?"
+    },
+    "OAnswer": {
+      "object_label": "male",
+      "context": "Alex Light's sex or gender is male.",
+      "objectCQ": "What gender is Alex Light?"
+    }
+  },
+  {
+    "claim_id": "Q28599789$8e6bb5c6-4781-6b09-f84c-12745fd7f876",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "occupation",
+      "context": "Daniel Bibona is a baseball player.",
+      "propertyCQ": "What is Bibona's job?"
+    },
+    "OAnswer": {
+      "object_label": "baseball player",
+      "context": "Daniel Bibona is a baseball player.",
+      "objectCQ": "What is Daniel Bibona's profession?"
+    }
+  },
+  {
+    "claim_id": "Q97730661$9b3f2012-428e-4160-8c92-88e94b4fb1b3",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "occupation",
+      "context": "Jasmin Wirthner is an association football player.",
+      "propertyCQ": "What is Jasmin Wirthner's job?"
+    },
+    "OAnswer": {
+      "object_label": "association football player",
+      "context": "Jasmin Wirthner is an association football player.",
+      "objectCQ": "What is Jasmin Wirthner's profession?"
+    }
+  },
+  {
+    "claim_id": "Q4911358$DE60BBC8-3C43-44C5-BF0F-CB0F9B51704F",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "occupation",
+      "context": "Bill White is an amateur wrestler.",
+      "propertyCQ": "What is Bill White's job?"
+    },
+    "OAnswer": {
+      "object_label": "amateur wrestler",
+      "context": "Bill White is an amateur wrestler.",
+      "objectCQ": "What is Bill White's profession?"
+    }
+  },
+  {
+    "claim_id": "Q5335956$02C7CF87-1223-4A37-A755-74DF524EE9DC",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "occupation",
+      "context": "Eddie Crush is a cricketer.",
+      "propertyCQ": "What is Eddie Crush's job?"
+    },
+    "OAnswer": {
+      "object_label": "cricketer",
+      "context": "Eddie Crush is a cricketer.",
+      "objectCQ": "What is Eddie Crush's profession?"
+    }
+  },
+  {
+    "claim_id": "Q17332980$F9ABCF62-B5D9-4047-887A-BED2C92395AE",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "occupation",
+      "context": "Tavelyn James is a basketball player.",
+      "propertyCQ": "What is Tavelyn James's job?"
+    },
+    "OAnswer": {
+      "object_label": "basketball player",
+      "context": "Tavelyn James is a basketball player.",
+      "objectCQ": "What is Tavelyn James's profession?"
+    }
+  },
+  {
+    "claim_id": "Q20066896$15c6d20f-022f-4ecf-ade2-a55f3e4f244d",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "occupation",
+      "context": "Доленко Олександр Володимирович played basketball.",
+      "propertyCQ": "What was the occupation of the basketball player?"
+    },
+    "OAnswer": {
+      "object_label": "basketball player",
+      "context": "Доленко Олександр Володимирович played basketball.",
+      "objectCQ": "What sport did <unk>оленко play?"
+    }
+  },
+  {
+    "claim_id": "Q6786414$010A0E25-F70B-4F04-B841-04EA788E2516",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "occupation",
+      "context": "Matej Prelog is a rower.",
+      "propertyCQ": "What is Matej Prelog's job?"
+    },
+    "OAnswer": {
+      "object_label": "rower",
+      "context": "Matej Prelog is a rower.",
+      "objectCQ": "What is Matej Prelog's job?"
+    }
+  },
+  {
+    "claim_id": "Q24084736$3eeedc95-e4c2-483c-8680-4116788e0e48",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "member of sports team",
+      "context": "Gregore de Magalhães da Silva is a member of the Santos F.C.",
+      "propertyCQ": "What is Gregore de Magalh<unk>es da Silva's job?"
+    },
+    "OAnswer": {
+      "object_label": "Santos F.C.",
+      "context": "Gregore de Magalhães da Silva is a member of the Santos F.C.",
+      "objectCQ": "What football club is Gregore de Magalh<unk>es da Silva a member of?"
+    }
+  },
+  {
+    "claim_id": "q384801$308FB376-5521-4B65-B106-095C61CCFF98",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "member of sports team",
+      "context": "Mirsad Türkcan is a member of the Ülkerspor sports team.",
+      "propertyCQ": "What is Mirsad Türkcan's job title?"
+    },
+    "OAnswer": {
+      "object_label": "Ülkerspor",
+      "context": "Mirsad Türkcan is a member of the Ülkerspor sports team.",
+      "objectCQ": "What sports team does Mirsad Türkcan belong to?"
+    }
+  },
+  {
+    "claim_id": "Q21005095$CC87D4C2-AE2C-4543-9D68-2BE893A9F4E9",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "member of sports team",
+      "context": "Tyler Blackwood is a member of the Phoenix Rising FC.",
+      "propertyCQ": "What is Tyler Blackwood's job title?"
+    },
+    "OAnswer": {
+      "object_label": "Phoenix Rising FC",
+      "context": "Tyler Blackwood is a member of the Phoenix Rising FC.",
+      "objectCQ": "What is Tyler Blackwood a member of?"
+    }
+  },
+  {
+    "claim_id": "Q7938180$757D59EF-ADCA-4DD1-BF31-A41376592A82",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "member of sports team",
+      "context": "Vladan Milojević is a member of the Apollon Smyrna F.C.",
+      "propertyCQ": "What is Vladan Milojevi<unk>'s job?"
+    },
+    "OAnswer": {
+      "object_label": "Apollon Smyrna F.C.",
+      "context": "Vladan Milojević is a member of the Apollon Smyrna F.C.",
+      "objectCQ": "What is Vladan Milojevi<unk> a member of?"
+    }
+  },
+  {
+    "claim_id": "Q1334351$52502F68-10F8-40DF-BDE1-7B7858C3A4AF",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "member of sports team",
+      "context": "Stefan Nikolić is a member of the Montenegro national under-21 football team.",
+      "propertyCQ": "What is Stefan Nikoli<unk>'s job?"
+    },
+    "OAnswer": {
+      "object_label": "Montenegro national under-21 football team",
+      "context": "Stefan Nikolić is a member of the Montenegro national under-21 football team.",
+      "objectCQ": "What team is Stefan Nikoli<unk> a member of?"
+    }
+  },
+  {
+    "claim_id": "Q3856845$4FB2BDC9-DF53-4F2E-9D0C-A0F33307728B",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "member of sports team",
+      "context": "Michele Zeoli is a member of the Delfino Pescara 1936 sports team.",
+      "propertyCQ": "What is Michele Zeoli's job?"
+    },
+    "OAnswer": {
+      "object_label": "Delfino Pescara 1936",
+      "context": "Michele Zeoli is a member of the Delfino Pescara 1936 sports team.",
+      "objectCQ": "What sports team does Michele Zeoli belong to?"
+    }
+  },
+  {
+    "claim_id": "q426458$6CD76B1B-3F05-4451-80FD-48321B686545",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "member of sports team",
+      "context": "Andrzej Kobylański is a member of the sports team Tennis Borussia Berlin.",
+      "propertyCQ": "What is Andrzej Kobyla<unk>ski's job?"
+    },
+    "OAnswer": {
+      "object_label": "Tennis Borussia Berlin",
+      "context": "Andrzej Kobylański is a member of the sports team Tennis Borussia Berlin.",
+      "objectCQ": "What sports team does Andrzej Kobyla<unk>ski belong to?"
+    }
+  },
+  {
+    "claim_id": "Q71315046$21722073-ff77-4315-b9ae-cd3b008b60d0",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "Elo rating",
+      "context": "Jie Xia has an Elo rating of 2263.",
+      "propertyCQ": "What is Jie Xia's rating?"
+    },
+    "OAnswer": {
+      "object_label": "2263",
+      "context": "Jie Xia has an Elo rating of 2263.",
+      "objectCQ": "What is Jie Xia's Elo rating?"
+    }
+  },
+  {
+    "claim_id": "Q27525357$58C29857-590D-4982-A4D2-7126DD2A3ED2",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "Elo rating",
+      "context": "Petar Gojkovic has an Elo rating of 2416.",
+      "propertyCQ": "What is Petar Gojkovic's rating?"
+    },
+    "OAnswer": {
+      "object_label": "2416",
+      "context": "Petar Gojkovic has an Elo rating of 2416.",
+      "objectCQ": "What is Petar Gojkovic's Elo rating?"
+    }
+  },
+  {
+    "claim_id": "Q71310029$a6269e48-db1d-4113-ba91-3d2004ea9cb6",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "Elo rating",
+      "context": "Bernd Laubsch has an Elo rating of 2303.",
+      "propertyCQ": "What is Bernd Laubsch's rating?"
+    },
+    "OAnswer": {
+      "object_label": "2303",
+      "context": "Bernd Laubsch has an Elo rating of 2303.",
+      "objectCQ": "What is Bernd Laubsch's Elo rating?"
+    }
+  },
+  {
+    "claim_id": "Q27529796$79E36C7D-6729-4855-BAE8-81D73121D07B",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "Elo rating",
+      "context": "Igor Perelygin has an Elo rating of 2317.",
+      "propertyCQ": "What is Igor Perelygin's rating?"
+    },
+    "OAnswer": {
+      "object_label": "2317",
+      "context": "Igor Perelygin has an Elo rating of 2317.",
+      "objectCQ": "What is Igor Perelygin's Elo rating?"
+    }
+  },
+  {
+    "claim_id": "Q71311845$b39d6c93-2abc-492c-9137-654175147c58",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "Elo rating",
+      "context": "Bernardo Ramon Melendez Tirado has an Elo rating of 2153.",
+      "propertyCQ": "What is the rating of Bernardo Ramon Melendez Tirado?"
+    },
+    "OAnswer": {
+      "object_label": "2153",
+      "context": "Bernardo Ramon Melendez Tirado has an Elo rating of 2153.",
+      "objectCQ": "What is Bernardo Ramon Melendez Tirado's Elo rating?"
+    }
+  },
+  {
+    "claim_id": "Q27526374$0DD3C284-6A4A-40F3-8A35-9F7C453BD5CD",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "Elo rating",
+      "context": "Mikheil Kantaria has an Elo rating of 2352.",
+      "propertyCQ": "What is Mikheil Kantaria's rating?"
+    },
+    "OAnswer": {
+      "object_label": "2352",
+      "context": "Mikheil Kantaria has an Elo rating of 2352.",
+      "objectCQ": "What is Mikheil Kantaria's Elo rating?"
+    }
+  },
+  {
+    "claim_id": "Q10316730$A4932ACF-6125-4B93-9FEB-E385DA31D480",
+    "theme": "Athlete",
+    "PAnswer": {
+      "property_label": "Elo rating",
+      "context": "Lea Nudelman has an Elo rating of 2175.",
+      "propertyCQ": "What is Lea Nudelman's rating?"
+    },
+    "OAnswer": {
+      "object_label": "2175",
+      "context": "Lea Nudelman has an Elo rating of 2175.",
+      "objectCQ": "What is Lea Nudelman's Elo rating?"
+    }
+  }
+]
