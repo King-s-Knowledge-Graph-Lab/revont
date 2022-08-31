@@ -9,7 +9,6 @@ from transformers import AutoModelWithLMHead, AutoTokenizer
 tokenizer = AutoTokenizer.from_pretrained("mrm8488/t5-base-finetuned-question-generation-ap")
 model = AutoModelWithLMHead.from_pretrained("mrm8488/t5-base-finetuned-question-generation-ap")
 
-# Function to generate questions using the T5 model
 def get_question(answer, context, max_length=64):
   input_text = "answer: %s  context: %s " % (answer, context)
   features = tokenizer([input_text], return_tensors='pt')
@@ -20,46 +19,70 @@ def get_question(answer, context, max_length=64):
 
   return tokenizer.decode(output[0])
 
-# Function to "refine" the generated question
+def detectSpecialCharacters(mystring):  
+  special_characters = '"!@#$%^&*()+_=,<>/"'
+  if any(c in special_characters for c in mystring):
+    return True
+  else:
+    return False
 
 def refine_question(question):
     j = question.replace('<pad> question: ', '')
     k = j.replace('</s>', '')
     return(k)
 
-# Open and load dataset JSON file
-f = open('Data/WDV_dataset.json')
+# Opening JSON file
+f = open('/content/drive/MyDrive/KCL experiment/WDV_JSON.json')
 data = json.load(f)
 
-# Generate questions when providing the property or the object as answer and the verbalization as context
-with open('Data/Questions.json', "r+") as file:
+# Iterating through the json list
+with open('/content/drive/MyDrive/KCL experiment/Themed questions/ComicsCharacter/ComicsCharacter.json', "r+") as file:
   output = json.load(file)
   for doc in data:
-    propertyCQ = get_question(doc['property_label'], doc['verbalisation_unk_replaced'])
-    objectCQ = get_question(doc['object_label'], doc['verbalisation_unk_replaced'])
-  
-     # Create JSON entry with new questions
-    entry = {
+    if doc['theme_label'] == "ComicsCharacter":
+      
+      propertyCQ = refine_question(get_question(doc['property_label'], doc['verbalisation_unk_replaced']))
+      objectCQ = refine_question(get_question(doc['object_label'], doc['verbalisation_unk_replaced']))
+      if detectSpecialCharacters(propertyCQ):
+        propertyCQ = ""
+      if detectSpecialCharacters(objectCQ):
+        objectCQ = ""
+      
+      if "subject_id" in doc:
+        subjectID = doc['subject_id']
+      else:
+        subjectID = ""
+      if "property_id" in doc:
+        propertyID = doc['property_id']
+      else:
+        propertyID = ""
+      if "id" in doc['object']['value'] and doc['object_datatype'] == "wikibase-item":
+        objectID = doc['object']['value']['id']
+      else: 
+        objectID = ""
+
+      # Create JSON entry
+      entry = {
            "claim_id": doc['claim_id'],
            "theme": doc['theme_label'],
-           "PAnswer":{
+           "subject_label": doc['subject_label'],
+           "subject_id": subjectID,
            "property_label": doc['property_label'],
-           "context": doc['verbalisation_unk_replaced'],
-           "propertyCQ": refine_question(propertyCQ) 
-           },
-           "OAnswer": {
+           "property_id": propertyID,
            "object_label": doc['object_label'],
+           "object_id": objectID,
            "context": doc['verbalisation_unk_replaced'],
-           "objectCQ": refine_question(objectCQ)
-           }
+           "propertyCQ": propertyCQ,
+           "objectCQ": objectCQ,
+           "generalizedPropertyCQ": "",
+           "generalizedObjectCQ": ""
           }
-    # Append the entry to the new JSON file
-    output.append(entry)
-    file.seek(0)
-    json.dump(output, file)
+      output.append(entry)
+      file.seek(0)
+      json.dump(output, file)
   
 
 # Closing file
 f.close()
-output.close()
+file.close()
 
