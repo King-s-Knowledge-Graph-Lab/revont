@@ -1,7 +1,7 @@
 #install transformers 
-!pip install transformers
+#!pip install transformers
 #install sentencepiece
-!pip install sentencepiece
+#!pip install sentencepiece
 
 import json
 from transformers import AutoModelWithLMHead, AutoTokenizer
