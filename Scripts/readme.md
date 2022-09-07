@@ -10,4 +10,5 @@
 
 ## Interesting models
 - Text summarizer: [textsummarizer](https://huggingface.co/spaces/Amrrs/textsummarizer)
+- T5x: [T5x](https://github.com/google-research/t5x)
 
