@@ -36,20 +36,18 @@ def runSPARQLQuery(id):
 # Retrieve the JSON result from the SPARQL query
 def getSPARQLResult(result):
   results = list()
-  for i in result:
-    valueList = i['results']['bindings']
-    for j in valueList:
-      value = j['cLabel']['value']
-      results.append(value)
+  valueList = result['results']['bindings']
+  for j in valueList:
+    value = j['cLabel']['value']
+    results.append(value)
   return results
 
 # Get noun synsets when provided a value
 def getSynsets(value):
   synsetList = list()
-  for i in value:
-    synsets = wordnet.synsets(i, pos='n')
-    for j in synsets:
-      synsetList.append(j)
+  synsets = wordnet.synsets(value, pos='n')
+  for i in synsets:
+    synsetList.append(i)
   return(synsetList)
 
 # Get synset definition when provided with a synset
@@ -79,12 +77,12 @@ def sentenceEmbedding(sentence):
   # Perform pooling
   sentence_embedding = mean_pooling(model_output, encoded_input['attention_mask'])
   # Normalize embeddings
-  sentence_embedding = F.normalize(sentence_embeddings, p=2, dim=1)
+  sentence_embedding = F.normalize(sentence_embedding, p=2, dim=1)
   # Return embeddings
   return sentence_embedding
 
 # Sentence similarity
-def sentenceSimilarity(feature_vec_1, feature_vec_2):    
+def sentenceSimilarity(feature_vec_1, feature_vec_2):
   return cosine_similarity(feature_vec_1.reshape(1, -1), feature_vec_2.reshape(1, -1))[0][0]
 
 # Named entity recognition
@@ -106,27 +104,20 @@ def sentenceGrammarCheck(sentence):
   result = happy_tt.generate_text(sentence, args=args)
   return result.text 
 
-# Replace named entity with synset name (a generalized version)
-R_patterns = [
-   ('PERSON', 'person')
-]
-class REReplacer(object):
-   def __init__(self, pattern = R_patterns):
-      self.pattern = [(re.compile(regex), repl) for (regex, repl) in pattern]
-   def replace(self, text):
-      s = text
-      for (pattern, repl) in self.pattern:
-         s = re.sub(pattern, repl, s)
-      return s
+# String replacer
+def generalize(sentence, pattern : dict):
+  for key in pattern.keys():
+    if len(key) > 3 and pattern[key] != "Wikidata instance class" and pattern[key] != "Class" and pattern[key] != "":
+      sentence = re.sub("(?i)"+key, pattern[key], sentence)
+      sentence = sentence.capitalize()
+  return sentence
 
-"""rep_word = REReplacer()
-print(rep_word.replace("I am a good PERSON."))"""
+# Remove special characters
+def detectSpecialCharacters(mystring):
+  special_characters = '.'  
+  #special_characters = '"!@#$%^&*()+_=,.<>/"'
+  if any(c in special_characters for c in mystring):
+    return True
+  else:
+    return False
 
-
-
-"""
-sentence_embedding = sentenceEmbedding("I am Fiorela Ciroku from Shkodra")
-embedding = sentenceEmbedding("I am Fiorela Ciroku from Shkodra")
-print(sentenceSimilarity(sentence_embedding, embedding))
-print(sentenceNER("I am Fiorela Ciroku from Shkodra"))
-"""
