@@ -1,7 +1,7 @@
 <div align="center">
 
   <img src="Materials/Ciroku (2).png" alt="logo" width="200" height="auto" />
-  <h1>Reverse engineering of an ontology</h1>
+  <h1>RevOnt - Reverse engineering of an ontology</h1>
   
   <p>
     Extracting competency questions from the Wikidata knowledge graph
