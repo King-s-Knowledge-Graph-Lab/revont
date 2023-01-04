@@ -1,7 +1,7 @@
 <div align="center">
 
-  <img src="Materials/Ciroku (2).png" alt="logo" width="200" height="auto" />
-  <h1>RevOnt - Reverse engineering of an ontology</h1>
+ <!-- <img src="Materials/Ciroku (2).png" alt="logo" width="200" height="auto" /> -->
+  <h1>RevOnt: Reverse engineering of an ontology via competency question extraction from knowledge graphs</h1>
   
   <p>
     Extracting competency questions from the Wikidata knowledge graph
@@ -25,17 +25,17 @@
   <a href="https://github.com/FiorelaCiroku/Ontology-Reverse-Engineering/issues/">
     <img src="https://img.shields.io/github/issues/FiorelaCiroku/Ontology-Reverse-Engineering" alt="open issues" />
   </a>
-  <a href="https://github.com/FiorelaCiroku/Ontology-Reverse-Engineering/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/Louis3797/awesome-readme-template.svg" alt="license" />
-  </a>
+  <!--<a href="https://github.com/FiorelaCiroku/Ontology-Reverse-Engineering/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/Louis3797/awesome-readme-template.svg" alt="license" /> 
+  </a> -->
 </p>
    
 <h4>
-    <a href="https://github.com/FiorelaCiroku/Ontology-Reverse-Engineering/">Results</a>
+    <a href="https://github.com/FiorelaCiroku/RevOnt/tree/main/Scripts">Scripts</a>
   <span> · </span>
-    <a href="https://github.com/FiorelaCiroku/Ontology-Reverse-Engineering/">Documentation</a>
+    <a href="https://github.com/FiorelaCiroku/RevOnt/blob/main/README.md">Documentation</a>
   <span> · </span>
-    <a href="https://github.com/FiorelaCiroku/Ontology-Reverse-Engineering/issues/">Report Issue</a>
+    <a href="https://github.com/FiorelaCiroku/RevOnt/issues">Report Issue</a>
   </h4>
 </div>
 
@@ -45,29 +45,19 @@
 # :notebook_with_decorative_cover: Table of Contents
 
 - [About the Project](#star2-about-the-project)
-  <!---
-  * [Screenshots](#camera-screenshots)
-  * [Tech Stack](#space_invader-tech-stack)
-  * [Features](#dart-features)
-  * [Color Reference](#art-color-reference)
-  * [Environment Variables](#key-environment-variables) 
-  -->
-- [Getting Started](#toolbox-getting-started)
-  <!---
+
+- [Scripts](#toolbox-scripts)
+
   * [Prerequisites](#bangbang-prerequisites)
-  * [Installation](#gear-installation)
-  * [Running Tests](#test_tube-running-tests)
-  * [Run Locally](#running-run-locally)
-  * [Deployment](#triangular_flag_on_post-deployment)
-  -->
+  * [Import](#gear-import)
+
 - [Usage](#eyes-usage)
 - [Roadmap](#compass-roadmap)
-  <!---
 - [Contributing](#wave-contributing)
-  * [Code of Conduct](#scroll-code-of-conduct)
+   <!--- * [Code of Conduct](#scroll-code-of-conduct)
 - [FAQ](#grey_question-faq)
-- [License](#warning-license)
-- [Contact](#handshake-contact)-->
+- [License](#warning-license)-->
+- [Contact](#handshake-contact)
 - [Acknowledgements](#gem-acknowledgements)
 
   
@@ -75,177 +65,71 @@
 <!-- About the Project -->
 ## :star2: About the Project
 
+The process of developing ontologies - a formal, explicit specification of a shared conceptualisation - is addressed by well-known methodologies. 
+As for any engineering development, its fundamental basis is the collection of requirements, which includes the elicitation of competency questions. Competency questions are defined through interacting with domain and application experts or by investigating existing datasets that may be used to populate the ontology i.e. its knowledge graph. The rise in popularity and accessibility of knowledge graphs provides an opportunity to support this phase with automatic tools. In this work, we explore the possibility of extracting competency questions from a knowledge graph. We describe in detail RevOnt, an approach that extracts and abstracts triples from a knowledge graph, generates questions based on triple verbalisations, and filters the questions to guarantee that they are competency questions. This approach is implemented utilizing the Wikidata knowledge graph as a use case. The implementation results in a set of core competency questions from 20 domains present in the dataset presenting the knowledge graph, and their respective templates mapped to SPARQL query templates. We evaluate the resulting competency questions by calculating the BLEU score using human-annotated references. The results for the abstraction and question generation components of the approach show good to high quality. Meanwhile, the accuracy of the filtration component is above 86\%, which is comparable to the state-of-the-art classifications. 
 
-<!-- Screenshots 
-### :camera: Screenshots
+![REVONT (3)](https://user-images.githubusercontent.com/12375920/210616161-9105a046-c809-4182-beb6-5ef4556ec101.png)
 
-<div align="center"> 
-  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" />
-</div>
--->
+An overview of the RevOnt framework. The first stage, Verbalisation Abstraction, generates the abstraction of a triple verbalisation. The abstraction is used as input in the second stage, Question Generation, to generate three questions per triple and perform a grammar check. Lastly, the third stage, Question Filtration, filters the questions by performing different techniques.
 
-<!-- TechStack 
-### :space_invader: Tech Stack
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
-    <li><a href="https://nextjs.org/">Next.js</a></li>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-    <li><a href="https://tailwindcss.com/">TailwindCSS</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-    <li><a href="https://go.dev/">Golang</a></li>
-    <li><a href="https://nestjs.com/">Nest.js</a></li>
-    <li><a href="https://socket.io/">SocketIO</a></li>
-    <li><a href="https://www.prisma.io/">Prisma</a></li>    
-    <li><a href="https://www.apollographql.com/">Apollo</a></li>
-    <li><a href="https://graphql.org/">GraphQL</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.mysql.com/">MySQL</a></li>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-    <li><a href="https://redis.io/">Redis</a></li>
-    <li><a href="https://neo4j.com/">Neo4j</a></li>
-    <li><a href="https://www.mongodb.com/">MongoDB</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>DevOps</summary>
-  <ul>
-    <li><a href="https://www.docker.com/">Docker</a></li>
-    <li><a href="https://www.jenkins.io/">Jenkins</a></li>
-    <li><a href="https://circleci.com/">CircleCLI</a></li>
-  </ul>
-</details>
--->
-<!-- Features 
-### :dart: Features
-
-- Feature 1
-- Feature 2
-- Feature 3
- -->
-<!-- Color Reference 
-### :art: Color Reference
-
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Primary Color | ![#222831](https://via.placeholder.com/10/222831?text=+) #222831 |
-| Secondary Color | ![#393E46](https://via.placeholder.com/10/393E46?text=+) #393E46 |
-| Accent Color | ![#00ADB5](https://via.placeholder.com/10/00ADB5?text=+) #00ADB5 |
-| Text Color | ![#EEEEEE](https://via.placeholder.com/10/EEEEEE?text=+) #EEEEEE |
--->
-
-<!-- Env Variables 
-### :key: Environment Variables
-
-To run this project, you will need to add the following environment variables to your .env file
-
-`API_KEY`
-
-`ANOTHER_API_KEY`
--->
-
-<!-- Getting Started -->
-## 	:toolbox: Getting Started
+<!-- Scripts -->
+## 	:toolbox: Scripts
 
 <!-- Prerequisites -->
 ### :bangbang: Prerequisites
 
-This project uses Yarn as package manager
+This project needs to have installed several packages for the usage of the language models and the Wikidata querying service.
 
 ```
+pip install -U sentence-transformers
+pip install happytransformer
+pip3 install qwikidata
 ```
 
-<!-- Installation -->
-### :gear: Installation
+<!-- Import -->
+### :gear: Import
 
-Install my-project with npm
-
-```
-```
-   
-<!-- Running Tests -->
-### :test_tube: Running Tests
-
-To run tests, run the following command
+The functions import many packages and need to the downloading of wordnet and OMW-1.4 as shown below. 
 
 ```
+from qwikidata.sparql import return_sparql_query_results
+from IPython.core.debugger import skip_doctest
+from sentence_transformers import SentenceTransformer
+from transformers import AutoTokenizer, AutoModel, AutoModelForTokenClassification, pipeline
+from happytransformer import HappyTextToText, TTSettings
+from sklearn.metrics.pairwise import cosine_similarity
+import re
+import json
+import time
+import torch
+import torch.nn.functional as F
+import nltk
+from nltk.corpus import wordnet
+nltk.download('wordnet')
+nltk.download('omw-1.4')
 ```
-
-<!-- Run Locally -->
-### :running: Run Locally
-
-Clone the project
-
-```
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
-Install dependencies
-
-```
-```
-
-Start the server
-
-```
-```
-
-
-<!-- Deployment -->
-### :triangular_flag_on_post: Deployment
-
-To deploy this project run
-
-```
-```
-
 
 <!-- Usage -->
 ## :eyes: Usage
 
-```
-```
+In the repository, there are separate scripts for each of the components. This separation provides the possibility to opt out a using a component or interchanging the queue in which the components are executed. The scripts also allow to use a different language model that the default one. The language models used in the scripts are state-of-the-art models that have shown good to high results in the first evaluation of the method. 
 
 <!-- Roadmap -->
 ## :compass: Roadmap
 
-* [x] Todo 1
-* [ ] Todo 2
+* [x] First implementation of the RevOnt method using data from the Wikidata knowledge graph
+* [ ] Second implementation of the RevOnt method using data from a AMR graph built from a textual corpus. 
 
 
-<!-- Contributing 
+<!-- Contributing -->
 ## :wave: Contributing
 
 <a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" />
 </a>
-
-
 Contributions are always welcome!
 
-See `contributing.md` for ways to get started.
 
--->
 <!-- Code of Conduct 
 ### :scroll: Code of Conduct
 
@@ -269,15 +153,18 @@ Please read the [Code of Conduct](https://github.com/Louis3797/awesome-readme-te
 Distributed under the no License. See LICENSE.txt for more information.
 -->
 
-<!-- Contact 
+<!-- Contact -->
 ## :handshake: Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Fiorela Ciroku - [@ciroku_fiorela](https://twitter.com/ciroku_fiorela) - fiorela.ciroku2@unibo.it
 
-Project Link: [https://github.com/Louis3797/awesome-readme-template](https://github.com/Louis3797/awesome-readme-template)
+Project Link: (https://github.com/FiorelaCiroku/RevOnt)[https://github.com/FiorelaCiroku/RevOnt]
 
--->
+
 <!-- Acknowledgments -->
 ## :gem: Acknowledgements
 
- - []()
+ - [Jacopo de Berardinis](https://www.kcl.ac.uk/people/jacopo-de-berardinis)
+ - [Albert Merono Penuela](https://www.kcl.ac.uk/people/albert-merono-penuela-1)
+ - [Valentina Presutti](https://www.unibo.it/sitoweb/valentina.presutti/en)
+ - [Elena Simperl](https://www.kcl.ac.uk/people/elena-simperl)
