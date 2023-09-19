@@ -1,10 +1,8 @@
 # Functions
 
-!pip install -U sentence-transformers
-!pip install happytransformer
-!pip3 install qwikidata
+
 from qwikidata.sparql import return_sparql_query_results
-from IPython.core.debugger import skip_doctest
+#from IPython.core.debugger import skip_doctest
 from sentence_transformers import SentenceTransformer
 from transformers import AutoTokenizer, AutoModel, AutoModelForTokenClassification
 from transformers import pipeline
@@ -19,6 +17,7 @@ import nltk
 from nltk.corpus import wordnet
 nltk.download('wordnet')
 nltk.download('omw-1.4')
+import logging, warnings
 
 
 # Execute a SPARQL query that retrieves the superclasses of an entity in Wikidata
@@ -97,6 +96,9 @@ def sentenceNER(sentence):
 
 # Grammar check
 def sentenceGrammarCheck(sentence):
+  #Suppress logging like 'INFO' or warnings
+  logging.getLogger("happytransformer").setLevel(logging.ERROR)
+  logging.getLogger("transformers").setLevel(logging.ERROR)
   # Load model from HuggingFace Hub
   happy_tt = HappyTextToText("T5", "vennify/t5-base-grammar-correction")
   args = TTSettings(num_beams=5, min_length=1)
@@ -120,4 +122,3 @@ def detectSpecialCharacters(mystring):
     return True
   else:
     return False
-

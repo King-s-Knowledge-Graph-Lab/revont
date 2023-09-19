@@ -3,7 +3,7 @@
 #install sentencepiece
 #!pip install sentencepiece
 
-import json
+import simplejson as json
 from transformers import AutoModelWithLMHead, AutoTokenizer
 
 tokenizer = AutoTokenizer.from_pretrained("mrm8488/t5-base-finetuned-question-generation-ap")
@@ -35,54 +35,55 @@ def refine_question(question):
 f = open('Data/WDV_dataset.json')
 data = json.load(f)
 
-# Iterating through the json list
-with open('Data/Questions/Airport.json', "r+") as file:
-  output = json.load(file)
-  for doc in data:
-    if doc['theme_label'] == "Airport":
-      
-      propertyCQ = refine_question(get_question(doc['property_label'], doc['verbalisation_unk_replaced']))
-      objectCQ = refine_question(get_question(doc['object_label'], doc['verbalisation_unk_replaced']))
-      if detectSpecialCharacters(propertyCQ):
-        propertyCQ = ""
-      if detectSpecialCharacters(objectCQ):
-        objectCQ = ""
-      
-      if "subject_id" in doc:
-        subjectID = doc['subject_id']
-      else:
-        subjectID = ""
-      if "property_id" in doc:
-        propertyID = doc['property_id']
-      else:
-        propertyID = ""
-      if "id" in doc['object']['value'] and doc['object_datatype'] == "wikibase-item":
-        objectID = doc['object']['value']['id']
-      else: 
-        objectID = ""
+def questionGeneration(items, theme_label, readingLimit):
+  # Iterating through the json list
+  with open('Data/Questions/Airport.json', "r+") as file:
+    output = json.load(file)
+    for doc in data:
+      if doc['theme_label'] == "Airport":
+        
+        propertyCQ = refine_question(get_question(doc['property_label'], doc['verbalisation_unk_replaced']))
+        objectCQ = refine_question(get_question(doc['object_label'], doc['verbalisation_unk_replaced']))
+        if detectSpecialCharacters(propertyCQ):
+          propertyCQ = ""
+        if detectSpecialCharacters(objectCQ):
+          objectCQ = ""
+        
+        if "subject_id" in doc:
+          subjectID = doc['subject_id']
+        else:
+          subjectID = ""
+        if "property_id" in doc:
+          propertyID = doc['property_id']
+        else:
+          propertyID = ""
+        if "id" in doc['object']['value'] and doc['object_datatype'] == "wikibase-item":
+          objectID = doc['object']['value']['id']
+        else: 
+          objectID = ""
 
-      # Create JSON entry
-      entry = {
-           "claim_id": doc['claim_id'],
-           "theme": doc['theme_label'],
-           "subject_label": doc['subject_label'],
-           "subject_id": subjectID,
-           "property_label": doc['property_label'],
-           "property_id": propertyID,
-           "object_label": doc['object_label'],
-           "object_id": objectID,
-           "context": doc['verbalisation_unk_replaced'],
-           "propertyCQ": propertyCQ,
-           "objectCQ": objectCQ,
-           "generalizedPropertyCQ": "",
-           "generalizedObjectCQ": ""
-          }
-      output.append(entry)
-      file.seek(0)
-      json.dump(output, file)
-  
+        # Create JSON entry
+        entry = {
+            "claim_id": doc['claim_id'],
+            "theme": doc['theme_label'],
+            "subject_label": doc['subject_label'],
+            "subject_id": subjectID,
+            "property_label": doc['property_label'],
+            "property_id": propertyID,
+            "object_label": doc['object_label'],
+            "object_id": objectID,
+            "context": doc['verbalisation_unk_replaced'],
+            "propertyCQ": propertyCQ,
+            "objectCQ": objectCQ,
+            "generalizedPropertyCQ": "",
+            "generalizedObjectCQ": ""
+            }
+        output.append(entry)
+        file.seek(0)
+        json.dump(output, file)
+    
 
-# Closing file
-f.close()
-file.close()
+  # Closing file
+  f.close()
+  file.close()
 
