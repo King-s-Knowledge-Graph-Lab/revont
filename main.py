@@ -76,7 +76,7 @@ if __name__ == "__main__":
     VA(Prunned_rawData, theme_label) #save the results in the JSON file "Data/Temp/VerbalizationAbstraction.json"
 
     #2. Run questionGeneration.py  with parsed data with a specific theme_label
-    verbalData = readingJson('Data/Temp/verbalizationAbstraction.json', theme_label)
+    verbalData = readingJson('Data/Temp/VerbalizationAbstraction.json', theme_label)
     QG(verbalData, theme_label) #save the results in the JSON file "Data/Temp/questionGeneration.json"
 
     #3. Run pipeline.py with parsed data with a specific theme_label
