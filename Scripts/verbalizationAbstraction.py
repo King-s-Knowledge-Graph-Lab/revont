@@ -3,17 +3,12 @@ from Scripts.functions import sentenceEmbedding, runSPARQLQuery, getSPARQLResult
 import simplejson as json
 from tqdm import tqdm
 
-def VerbalizationAbstaction(data, theme_label, readingLimit):
+def VerbalizationAbstaction(data, theme_label):
   sep = '.'
   patterns = dict()
-  print(f"Start verbalization abstraction for theme: {theme_label}")
+  print(f"(1/3) Start verbalization abstraction for theme: {theme_label}")
   # Considering the size of the dataset, we select a theme to reduce the processing time.
-  for index, i in enumerate(tqdm(data)):
-    
-    #check the readingLimit
-    if readingLimit != 'all':
-      if index == readingLimit:
-        break
+  for i in tqdm(data):
 
     if i['theme_label'] == theme_label:
       # Create the sentence embeddings of the description of the subject or object if provided
@@ -117,13 +112,8 @@ def VerbalizationAbstaction(data, theme_label, readingLimit):
 
   # Print pattern for check reasons
   print(f"print extracted patterns: {patterns}")
-  print("Context generation Start")
-  for index, i in enumerate(tqdm(data)):
-
-    #check the readingLimit
-    if readingLimit != 'all':
-      if index == readingLimit:
-        break
+  print("Start context generation")
+  for i in tqdm(data):
 
     if i['theme_label'] == theme_label:
       if 'verbalisation_unk_replaced' in i:
@@ -135,4 +125,7 @@ def VerbalizationAbstaction(data, theme_label, readingLimit):
 
   # Update file
   with open('Data/Temp/VerbalizationAbstraction.json', 'w') as json_file:
-    json.dump(data[:readingLimit], json_file, use_decimal=True)
+    json.dump(data, json_file, use_decimal=True)
+
+  with open('Data/Temp/patterns.json', 'w') as json_file:
+    json.dump(patterns, json_file, use_decimal=True)

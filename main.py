@@ -1,14 +1,11 @@
 from Scripts.verbalizationAbstraction import VerbalizationAbstaction as VA
-from Scripts.questionGeneration import VerbalizationAbstaction as VA
+from Scripts.questionGeneration import questionGeneration as QG
+from Scripts.pipeline import generlizationPipeline as GP
 import ijson
 import simplejson as json
 
-if __name__ == "__main__":
-    theme_label = 'Building'
-    readingLimit = 1 # Number of items to read from the JSON file to avoid long processing times, 'all' = no limit
-    
-    # Open the JSON file and create a parser object for the specific theme_label
-    with open('Data/WDV_dataset.json', 'r') as f:
+def readingJson(Path, theme_label):
+    with open(Path, 'r') as f:
         parser = ijson.items(f, 'item')
         # Extract a set of items that have a specific value for the 'theme_label' key
         theme_label = theme_label
@@ -17,8 +14,70 @@ if __name__ == "__main__":
             if item.get('theme_label') == theme_label:
                 if item not in items:
                     items.append(item)
-    
-    #Run verbalizationAbstraction.py with parsed data with a specific theme_label
-    VA(items, theme_label, readingLimit) #save the results in the JSON file "Data/Temp/VerbalizationAbstraction.json"
+    return items
 
-    #Run questionGeneration.py
+def simpleInterface():
+    theme = {
+    '1': 'Airport',
+    '2': 'Artist',
+    '3': 'Astronaut',
+    '4': 'Athlete',
+    '5': 'Building',
+    '6': 'CelestialBody',
+    '7': 'ChemicalCompound',
+    '8': 'City',
+    '9': 'ComicsCharacter',
+    '10': 'Food',
+    '11': 'MeanOfTransportation',
+    '12': 'Monument',
+    '13': 'Mountain',
+    '14': 'Painting',
+    '15': 'Politician',
+    '16': 'SportsTeam',
+    '17': 'Street',
+    '18': 'Taxon',
+    '19': 'University',
+    '20': 'WrittenWork'
+    }
+    print('Please select a theme_label from the list below:')
+    for key, value in theme.items():
+        print(key, value)
+        
+    while True:
+        theme_input = input()
+        if theme_input in theme.keys():
+            break
+        else:
+            print('Please select a theme_label from the list')
+    theme_label = theme[theme_input]
+
+    print('Please input a reading limit. If you want to test all data, then type "0"')
+    while True:
+        readingLimit_input = input()
+        if readingLimit_input >= '0':
+            break
+        else:
+            print('Please input integer from 0')
+    return theme_label, int(readingLimit_input)
+
+
+
+if __name__ == "__main__":
+
+    #raw data loading with a specific theme_label
+    theme_label, readingLimit = simpleInterface()
+    rawData = readingJson('Data/WDV_dataset.json', theme_label)
+    #### PROCESS: VA -> QG -> GP ####
+    #1. Run verbalizationAbstraction.py with parsed data with a specific theme_label
+    if readingLimit == 0:
+        Prunned_rawData = rawData
+    else:
+        Prunned_rawData =  rawData[:readingLimit]
+    VA(Prunned_rawData, theme_label) #save the results in the JSON file "Data/Temp/VerbalizationAbstraction.json"
+
+    #2. Run questionGeneration.py  with parsed data with a specific theme_label
+    verbalData = readingJson('Data/Temp/verbalizationAbstraction.json', theme_label)
+    QG(verbalData, theme_label) #save the results in the JSON file "Data/Temp/questionGeneration.json"
+
+    #3. Run pipeline.py with parsed data with a specific theme_label
+    GP() #generalization for above QG

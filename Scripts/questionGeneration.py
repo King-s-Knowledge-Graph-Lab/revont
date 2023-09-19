@@ -5,6 +5,7 @@
 
 import simplejson as json
 from transformers import AutoModelWithLMHead, AutoTokenizer
+from tqdm import tqdm
 
 tokenizer = AutoTokenizer.from_pretrained("mrm8488/t5-base-finetuned-question-generation-ap")
 model = AutoModelWithLMHead.from_pretrained("mrm8488/t5-base-finetuned-question-generation-ap")
@@ -31,59 +32,55 @@ def refine_question(question):
     k = j.replace('</s>', '')
     return(k)
 
-# Opening JSON file
-f = open('Data/WDV_dataset.json')
-data = json.load(f)
+def questionGeneration(data, theme_label):
+  # Generation of questions from the specific theme_label
+  print(f"(2/3) Start Question Geneartion for theme: {theme_label}")
+  questions = []
+  for doc in tqdm(data):
 
-def questionGeneration(items, theme_label, readingLimit):
-  # Iterating through the json list
-  with open('Data/Questions/Airport.json', "r+") as file:
-    output = json.load(file)
-    for doc in data:
-      if doc['theme_label'] == "Airport":
-        
-        propertyCQ = refine_question(get_question(doc['property_label'], doc['verbalisation_unk_replaced']))
-        objectCQ = refine_question(get_question(doc['object_label'], doc['verbalisation_unk_replaced']))
-        if detectSpecialCharacters(propertyCQ):
-          propertyCQ = ""
-        if detectSpecialCharacters(objectCQ):
-          objectCQ = ""
-        
-        if "subject_id" in doc:
-          subjectID = doc['subject_id']
-        else:
-          subjectID = ""
-        if "property_id" in doc:
-          propertyID = doc['property_id']
-        else:
-          propertyID = ""
-        if "id" in doc['object']['value'] and doc['object_datatype'] == "wikibase-item":
-          objectID = doc['object']['value']['id']
-        else: 
-          objectID = ""
 
-        # Create JSON entry
-        entry = {
-            "claim_id": doc['claim_id'],
-            "theme": doc['theme_label'],
-            "subject_label": doc['subject_label'],
-            "subject_id": subjectID,
-            "property_label": doc['property_label'],
-            "property_id": propertyID,
-            "object_label": doc['object_label'],
-            "object_id": objectID,
-            "context": doc['verbalisation_unk_replaced'],
-            "propertyCQ": propertyCQ,
-            "objectCQ": objectCQ,
-            "generalizedPropertyCQ": "",
-            "generalizedObjectCQ": ""
-            }
-        output.append(entry)
-        file.seek(0)
-        json.dump(output, file)
-    
+    if doc['theme_label'] == theme_label:
+      
+      propertyCQ = refine_question(get_question(doc['property_label'], doc['verbalisation_unk_replaced']))
+      objectCQ = refine_question(get_question(doc['object_label'], doc['verbalisation_unk_replaced']))
+      if detectSpecialCharacters(propertyCQ):
+        propertyCQ = ""
+      if detectSpecialCharacters(objectCQ):
+        objectCQ = ""
+      
+      if "subject_id" in doc:
+        subjectID = doc['subject_id']
+      else:
+        subjectID = ""
+      if "property_id" in doc:
+        propertyID = doc['property_id']
+      else:
+        propertyID = ""
+      if "id" in doc['object']['value'] and doc['object_datatype'] == "wikibase-item":
+        objectID = doc['object']['value']['id']
+      else: 
+        objectID = ""
 
-  # Closing file
-  f.close()
-  file.close()
+      # Create JSON entry
+      entry = {
+          "claim_id": doc['claim_id'],
+          "theme": doc['theme_label'],
+          "subject_label": doc['subject_label'],
+          "subject_id": subjectID,
+          "subject_dec": doc['subject_dec'],
+          "property_label": doc['property_label'],
+          "property_id": propertyID,
+          "object_label": doc['object_label'],
+          "object_id": objectID,
+          "object_desc": doc['object_desc'],
+          "context": doc['verbalisation_unk_replaced'],
+          "propertyCQ": propertyCQ,
+          "objectCQ": objectCQ,
+          "generalizedPropertyCQ": "",
+          "generalizedObjectCQ": ""
+          }
+
+      questions.append(entry)
+  with open('Data/Temp/questionGeneration.json', 'w') as json_file:
+    json.dump(questions, json_file, use_decimal=True)
 
