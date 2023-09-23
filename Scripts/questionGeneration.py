@@ -64,7 +64,7 @@ def questionGeneration(data, theme_label):
       # Create JSON entry
       entry = {
           "claim_id": doc['claim_id'],
-          "theme": doc['theme_label'],
+          "theme_label": doc['theme_label'],
           "subject_label": doc['subject_label'],
           "subject_id": subjectID,
           "subject_dec": doc['subject_dec'],
@@ -81,6 +81,6 @@ def questionGeneration(data, theme_label):
           }
 
       questions.append(entry)
-  with open('Data/Temp/questionGeneration.json', 'w') as json_file:
+  with open(f'Data/Temp/questionGeneration-{data[0]["theme_label"]}.json', 'w') as json_file:
     json.dump(questions, json_file, use_decimal=True)
 

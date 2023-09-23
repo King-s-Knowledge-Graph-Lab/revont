@@ -30,6 +30,7 @@ def runSPARQLQuery(id):
         }}
         """
   res = return_sparql_query_results(sparql_query)
+  time.sleep(1)
   return res
 
 # Retrieve the JSON result from the SPARQL query
@@ -62,46 +63,46 @@ def mean_pooling(model_output, attention_mask):
     return torch.sum(token_embeddings * input_mask_expanded, 1) / torch.clamp(input_mask_expanded.sum(1), min=1e-9)
 
 # Sentence embedding
-def sentenceEmbedding(sentence):
-  # Sentences we want sentence embeddings for
-  sentences = [sentence]
-  # Load model from HuggingFace Hub
-  tokenizer = AutoTokenizer.from_pretrained('sentence-transformers/all-MiniLM-L6-v2')
-  model = AutoModel.from_pretrained('sentence-transformers/all-MiniLM-L6-v2')
-  # Tokenize sentences
-  encoded_input = tokenizer(sentences, padding=True, truncation=True, return_tensors='pt')
-  # Compute token embeddings
+def mean_pooling(model_output, attention_mask):
+    token_embeddings = model_output[0]  # First element of model_output contains all token embeddings
+    input_mask_expanded = attention_mask.unsqueeze(-1).expand(token_embeddings.size()).float()
+    sum_embeddings = torch.sum(token_embeddings * input_mask_expanded, 1)
+    return sum_embeddings / input_mask_expanded.sum(1)
+
+# Tokenizer and model loading for sentence embedding at once
+TOKENIZER = AutoTokenizer.from_pretrained('sentence-transformers/all-MiniLM-L6-v2')
+MODEL = AutoModel.from_pretrained('sentence-transformers/all-MiniLM-L6-v2')
+def sentenceEmbedding(sentences):
+  if isinstance(sentences, str):  # if one sentence is inputte
+        sentences = [sentences]
+  encoded_input = TOKENIZER(sentences, padding=True, truncation=True, return_tensors='pt')
   with torch.no_grad():
-    model_output = model(**encoded_input)
-  # Perform pooling
-  sentence_embedding = mean_pooling(model_output, encoded_input['attention_mask'])
-  # Normalize embeddings
-  sentence_embedding = F.normalize(sentence_embedding, p=2, dim=1)
-  # Return embeddings
-  return sentence_embedding
+        model_output = MODEL(**encoded_input)
+  # Pooling and norm
+  sentence_embeddings = mean_pooling(model_output, encoded_input['attention_mask'])
+  sentence_embeddings = F.normalize(sentence_embeddings, p=2, dim=1)
+  return sentence_embeddings
 
 # Sentence similarity
 def sentenceSimilarity(feature_vec_1, feature_vec_2):
   return cosine_similarity(feature_vec_1.reshape(1, -1), feature_vec_2.reshape(1, -1))[0][0]
 
 # Named entity recognition
-def sentenceNER(sentence):
-  # Load model from HuggingFace Hub
-  tokenizer = AutoTokenizer.from_pretrained("Jean-Baptiste/camembert-ner")
-  model = AutoModelForTokenClassification.from_pretrained("Jean-Baptiste/camembert-ner")
-  # Provide parameters
-  nlp = pipeline('ner', model=model, tokenizer=tokenizer, aggregation_strategy="simple")
-  NER = nlp(sentence)
-  return NER
+tokenizer = AutoTokenizer.from_pretrained("Jean-Baptiste/camembert-ner")
+model = AutoModelForTokenClassification.from_pretrained("Jean-Baptiste/camembert-ner")
+nlp = pipeline('ner', model=model, tokenizer=tokenizer, aggregation_strategy="simple")
+
+def sentenceNER(sentences):
+    return [word['word'] for s in sentences for word in nlp(s)]
 
 # Grammar check
+happy_tt = HappyTextToText("T5", "vennify/t5-base-grammar-correction")
+args = TTSettings(num_beams=5, min_length=1)
 def sentenceGrammarCheck(sentence):
   #Suppress logging like 'INFO' or warnings
   logging.getLogger("happytransformer").setLevel(logging.ERROR)
   logging.getLogger("transformers").setLevel(logging.ERROR)
   # Load model from HuggingFace Hub
-  happy_tt = HappyTextToText("T5", "vennify/t5-base-grammar-correction")
-  args = TTSettings(num_beams=5, min_length=1)
   # Perform task
   result = happy_tt.generate_text(sentence, args=args)
   return result.text 

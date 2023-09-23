@@ -73,11 +73,12 @@ if __name__ == "__main__":
         Prunned_rawData = rawData
     else:
         Prunned_rawData =  rawData[:readingLimit]
-    VA(Prunned_rawData, theme_label) #save the results in the JSON file "Data/Temp/VerbalizationAbstraction.json"
+    #VA(Prunned_rawData, theme_label) #save the results in the JSON file "Data/Temp/VerbalizationAbstraction.json"
 
     #2. Run questionGeneration.py  with parsed data with a specific theme_label
-    verbalData = readingJson('Data/Temp/verbalizationAbstraction.json', theme_label)
-    QG(verbalData, theme_label) #save the results in the JSON file "Data/Temp/questionGeneration.json"
+    verbalData = readingJson(f'Data/Temp/verbalizationAbstraction-{theme_label}.json', theme_label)
+    #QG(verbalData, theme_label) #save the results in the JSON file "Data/Temp/questionGeneration.json"
 
     #3. Run pipeline.py with parsed data with a specific theme_label
-    GP() #generalization for above QG
+    questionData = readingJson(f'Data/Temp/questionGeneration-{theme_label}.json', theme_label)
+    GP(questionData, theme_label) #generalization for above QG
