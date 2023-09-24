@@ -43,14 +43,18 @@ def simpleInterface():
     print('Please select a theme_label from the list below:')
     for key, value in theme.items():
         print(key, value)
-        
+
     while True:
         theme_input = input()
-        if theme_input in theme.keys():
+        if theme_input in theme.keys() or theme_input == '0':
             break
         else:
             print('Please select a theme_label from the list')
-    theme_label = theme[theme_input]
+
+    if theme_input == '0':
+        theme_labels = list(theme.values())[:-1]  # 'All' 제외
+    else:
+        theme_labels = [theme[theme_input]]
 
     print('Please input a reading limit. If you want to test all data, then type "0"')
     while True:
@@ -59,30 +63,32 @@ def simpleInterface():
             break
         else:
             print('Please input integer from 0')
-    return theme_label, int(readingLimit_input)
+
+    return theme_labels, int(readingLimit_input)
 
 
 
 if __name__ == "__main__":
     #raw data loading with a specific theme_label
-    theme_label, readingLimit = simpleInterface()
-    rawData = readingJson('Data/WDV_dataset.json', theme_label)
-    #### PROCESS: VA -> QG -> GP ####
-    #1. Run verbalizationAbstraction.py with parsed data with a specific theme_label
-    if readingLimit == 0:
-        Prunned_rawData = rawData
-    else:
-        Prunned_rawData =  rawData[:readingLimit]
-    #VA(Prunned_rawData, theme_label) #save the results in the JSON file "Data/Temp/VerbalizationAbstraction.json"
+    theme_labels, readingLimit = simpleInterface()
+    for theme_label in theme_labels:
+        rawData = readingJson('Data/WDV_dataset.json', theme_label)
+        #### PROCESS: VA -> QG -> GP ####
+        #1. Run verbalizationAbstraction.py with parsed data with a specific theme_label
+        if readingLimit == 0:
+            Prunned_rawData = rawData
+        else:
+            Prunned_rawData =  rawData[:readingLimit]
+        VA(Prunned_rawData, theme_label) #save the results in the JSON file "Data/Temp/VerbalizationAbstraction.json"
 
-    #2. Run questionGeneration.py  with parsed data with a specific theme_label
-    verbalData = readingJson(f'Data/Temp/verbalizationAbstraction-{theme_label}.json', theme_label)
-    #QG(verbalData, theme_label) #save the results in the JSON file "Data/Temp/questionGeneration.json"
+        #2. Run questionGeneration.py  with parsed data with a specific theme_label
+        verbalData = readingJson(f'Data/Temp/verbalizationAbstraction-{theme_label}.json', theme_label)
+        QG(verbalData, theme_label) #save the results in the JSON file "Data/Temp/questionGeneration.json"
 
-    #3. Run pipeline.py with parsed data with a specific theme_label
-    questionData = readingJson(f'Data/Temp/questionGeneration-{theme_label}.json', theme_label)
-    #GP(questionData, theme_label) #generalization for above QG
+        #3. Run pipeline.py with parsed data with a specific theme_label
+        questionData = readingJson(f'Data/Temp/questionGeneration-{theme_label}.json', theme_label)
+        GP(questionData, theme_label) #generalization for above QG
 
-    #. Run questinMapping.py with BigCQ dataset
-    generalizedQuestions = readingJson(f"Data/Temp/generalizedQuestion-{theme_label}.json", theme_label)
-    QM(questionData, theme_label) #generalization for above QG
+        #. Run questinMapping.py with BigCQ dataset
+        generalizedQuestions = readingJson(f"Data/Temp/generalizedQuestion-{theme_label}.json", theme_label)
+        QM(questionData, theme_label) #generalization for above QG
