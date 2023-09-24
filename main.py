@@ -1,6 +1,7 @@
 from Scripts.verbalizationAbstraction import VerbalizationAbstaction as VA
 from Scripts.questionGeneration import questionGeneration as QG
 from Scripts.pipeline import generlizationPipeline as GP
+from Scripts.questionMapping import questionMapping as QM
 import ijson
 import simplejson as json
 
@@ -63,7 +64,6 @@ def simpleInterface():
 
 
 if __name__ == "__main__":
-
     #raw data loading with a specific theme_label
     theme_label, readingLimit = simpleInterface()
     rawData = readingJson('Data/WDV_dataset.json', theme_label)
@@ -81,4 +81,8 @@ if __name__ == "__main__":
 
     #3. Run pipeline.py with parsed data with a specific theme_label
     questionData = readingJson(f'Data/Temp/questionGeneration-{theme_label}.json', theme_label)
-    GP(questionData, theme_label) #generalization for above QG
+    #GP(questionData, theme_label) #generalization for above QG
+
+    #. Run questinMapping.py with BigCQ dataset
+    generalizedQuestions = readingJson(f"Data/Temp/generalizedQuestion-{theme_label}.json", theme_label)
+    QM(questionData, theme_label) #generalization for above QG
