@@ -32,16 +32,15 @@ def runSPARQLQuery(id):
         }}
         """
   for attempt in range(MAX_RETRIES):
-        try:
-            res = return_sparql_query_results(sparql_query)
-            if res:  # Check if res is not empty or has the expected format
-                return res
-        except Exception as e:
-            print(f"Error on attempt {attempt + 1}: {e}")
-        
-        time.sleep(RETRY_DELAY)
-  time.sleep(1)
-  return res
+      try:
+          res = return_sparql_query_results(sparql_query)
+          if res:  
+              return res
+      except Exception as e:
+          if attempt < MAX_RETRIES - 1: 
+              time.sleep(RETRY_DELAY)
+          else:
+              raise  
 
 # Retrieve the JSON result from the SPARQL query
 def getSPARQLResult(result):
