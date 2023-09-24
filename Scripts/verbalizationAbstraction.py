@@ -126,7 +126,7 @@ def VerbalizationAbstaction(data, theme_label):
 
 
   # Update file
-  with open(f'Data/Temp/VerbalizationAbstraction-{data[0]["theme_label"]}.json', 'w') as json_file:
+  with open(f'Data/Temp/verbalizationAbstraction-{data[0]["theme_label"]}.json', 'w') as json_file:
     json.dump(data, json_file, use_decimal=True)
 
   with open(f'Data/Temp/patterns-{data[0]["theme_label"]}.json', 'w') as json_file:
