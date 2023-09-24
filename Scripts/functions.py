@@ -22,6 +22,8 @@ import logging, warnings
 
 # Execute a SPARQL query that retrieves the superclasses of an entity in Wikidata
 def runSPARQLQuery(id):
+  MAX_RETRIES = 5  # Set the number of retries
+  RETRY_DELAY = 2
   sparql_query = f"""
         SELECT DISTINCT ?cLabel WHERE {{
           wd:{id} wdt:P31/wdt:P279? ?c .
@@ -29,7 +31,15 @@ def runSPARQLQuery(id):
           FILTER(LANG(?cLabel) = "en")      
         }}
         """
-  res = return_sparql_query_results(sparql_query)
+  for attempt in range(MAX_RETRIES):
+        try:
+            res = return_sparql_query_results(sparql_query)
+            if res:  # Check if res is not empty or has the expected format
+                return res
+        except Exception as e:
+            print(f"Error on attempt {attempt + 1}: {e}")
+        
+        time.sleep(RETRY_DELAY)
   time.sleep(1)
   return res
 
