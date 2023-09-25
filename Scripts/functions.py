@@ -71,13 +71,6 @@ def mean_pooling(model_output, attention_mask):
     input_mask_expanded = attention_mask.unsqueeze(-1).expand(token_embeddings.size()).float()
     return torch.sum(token_embeddings * input_mask_expanded, 1) / torch.clamp(input_mask_expanded.sum(1), min=1e-9)
 
-# Sentence embedding
-def mean_pooling(model_output, attention_mask):
-    token_embeddings = model_output[0]  # First element of model_output contains all token embeddings
-    input_mask_expanded = attention_mask.unsqueeze(-1).expand(token_embeddings.size()).float()
-    sum_embeddings = torch.sum(token_embeddings * input_mask_expanded, 1)
-    return sum_embeddings / input_mask_expanded.sum(1)
-
 # Tokenizer and model loading for sentence embedding at once
 TOKENIZER = AutoTokenizer.from_pretrained('sentence-transformers/all-MiniLM-L6-v2')
 MODEL = AutoModel.from_pretrained('sentence-transformers/all-MiniLM-L6-v2')
@@ -108,7 +101,8 @@ def sentenceNER(sentences):
 happy_tt = HappyTextToText("T5", "vennify/t5-base-grammar-correction")
 args = TTSettings(num_beams=5, min_length=1)
 def sentenceGrammarCheck(sentence):
-  #Suppress logging like 'INFO' or warnings
+  if not sentence.strip():  # if sentence is empty or whitespace
+      return sentence  # or you can return an error message or handle it differentlyng like 'INFO' or warnings
   logging.getLogger("happytransformer").setLevel(logging.ERROR)
   logging.getLogger("transformers").setLevel(logging.ERROR)
   # Load model from HuggingFace Hub
@@ -126,7 +120,8 @@ def generalize(sentence, pattern : dict):
 
 # Remove special characters
 def detectSpecialCharacters(mystring):
-  special_characters = '.'  
+  #special_characters = '.'  #disable this
+  special_characters = ''
   #special_characters = '"!@#$%^&*()+_=,.<>/"'
   if any(c in special_characters for c in mystring):
     return True

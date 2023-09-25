@@ -37,10 +37,7 @@ def questionGeneration(data, theme_label):
   print(f"(2/3) Start Question Geneartion for theme: {theme_label}")
   questions = []
   for doc in tqdm(data):
-
-
     if doc['theme_label'] == theme_label:
-      
       propertyCQ = refine_question(get_question(doc['property_label'], doc['verbalisation_unk_replaced']))
       objectCQ = refine_question(get_question(doc['object_label'], doc['verbalisation_unk_replaced']))
       if detectSpecialCharacters(propertyCQ):
