@@ -45,6 +45,7 @@ def VerbalizationAbstaction(data, theme_label):
         i['object_label'] = sLabel
       
       # Get the most similar synset name of the subject if there exists an ID and there are synsets, otherwise asign the first superclass as the generalization
+
       if i['subject_id'] != "":
         # Get superclasses
         res_s = runSPARQLQuery(i['subject_id'])
@@ -67,6 +68,7 @@ def VerbalizationAbstaction(data, theme_label):
         pass
 
       # Get the most similar synset name of the object if there exists an ID and there are synsets, otherwise asign the first superclass as the generalization   
+      ValDefSim = 0
       if objectID != "":
         # Get superclasses
         res_s = runSPARQLQuery(objectID)
