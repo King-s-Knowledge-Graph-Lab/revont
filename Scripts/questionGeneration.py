@@ -3,8 +3,9 @@
 #install sentencepiece
 #!pip install sentencepiece
 
-import json
+import simplejson as json
 from transformers import AutoModelWithLMHead, AutoTokenizer
+from tqdm import tqdm
 
 tokenizer = AutoTokenizer.from_pretrained("mrm8488/t5-base-finetuned-question-generation-ap")
 model = AutoModelWithLMHead.from_pretrained("mrm8488/t5-base-finetuned-question-generation-ap")
@@ -31,16 +32,12 @@ def refine_question(question):
     k = j.replace('</s>', '')
     return(k)
 
-# Opening JSON file
-f = open('Data/WDV_dataset.json')
-data = json.load(f)
-
-# Iterating through the json list
-with open('Data/Questions/Airport.json', "r+") as file:
-  output = json.load(file)
-  for doc in data:
-    if doc['theme_label'] == "Airport":
-      
+def questionGeneration(data, theme_label):
+  # Generation of questions from the specific theme_label
+  print(f"(2/3) Start Question Geneartion for theme: {theme_label}")
+  questions = []
+  for doc in tqdm(data):
+    if doc['theme_label'] == theme_label:
       propertyCQ = refine_question(get_question(doc['property_label'], doc['verbalisation_unk_replaced']))
       objectCQ = refine_question(get_question(doc['object_label'], doc['verbalisation_unk_replaced']))
       if detectSpecialCharacters(propertyCQ):
@@ -63,26 +60,24 @@ with open('Data/Questions/Airport.json', "r+") as file:
 
       # Create JSON entry
       entry = {
-           "claim_id": doc['claim_id'],
-           "theme": doc['theme_label'],
-           "subject_label": doc['subject_label'],
-           "subject_id": subjectID,
-           "property_label": doc['property_label'],
-           "property_id": propertyID,
-           "object_label": doc['object_label'],
-           "object_id": objectID,
-           "context": doc['verbalisation_unk_replaced'],
-           "propertyCQ": propertyCQ,
-           "objectCQ": objectCQ,
-           "generalizedPropertyCQ": "",
-           "generalizedObjectCQ": ""
+          "claim_id": doc['claim_id'],
+          "theme_label": doc['theme_label'],
+          "subject_label": doc['subject_label'],
+          "subject_id": subjectID,
+          "subject_dec": doc['subject_dec'],
+          "property_label": doc['property_label'],
+          "property_id": propertyID,
+          "object_label": doc['object_label'],
+          "object_id": objectID,
+          "object_desc": doc['object_desc'],
+          "context": doc['verbalisation_unk_replaced'],
+          "propertyCQ": propertyCQ,
+          "objectCQ": objectCQ,
+          "generalizedPropertyCQ": "",
+          "generalizedObjectCQ": ""
           }
-      output.append(entry)
-      file.seek(0)
-      json.dump(output, file)
-  
 
-# Closing file
-f.close()
-file.close()
+      questions.append(entry)
+  with open(f'Data/Temp/questionGeneration-{data[0]["theme_label"]}.json', 'w') as json_file:
+    json.dump(questions, json_file, use_decimal=True)
 

@@ -1,10 +1,8 @@
 # Functions
 
-!pip install -U sentence-transformers
-!pip install happytransformer
-!pip3 install qwikidata
+
 from qwikidata.sparql import return_sparql_query_results
-from IPython.core.debugger import skip_doctest
+#from IPython.core.debugger import skip_doctest
 from sentence_transformers import SentenceTransformer
 from transformers import AutoTokenizer, AutoModel, AutoModelForTokenClassification
 from transformers import pipeline
@@ -19,10 +17,13 @@ import nltk
 from nltk.corpus import wordnet
 nltk.download('wordnet')
 nltk.download('omw-1.4')
+import logging, warnings
 
 
 # Execute a SPARQL query that retrieves the superclasses of an entity in Wikidata
 def runSPARQLQuery(id):
+  MAX_RETRIES = 5  # Set the number of retries
+  RETRY_DELAY = 2
   sparql_query = f"""
         SELECT DISTINCT ?cLabel WHERE {{
           wd:{id} wdt:P31/wdt:P279? ?c .
@@ -30,8 +31,16 @@ def runSPARQLQuery(id):
           FILTER(LANG(?cLabel) = "en")      
         }}
         """
-  res = return_sparql_query_results(sparql_query)
-  return res
+  for attempt in range(MAX_RETRIES):
+      try:
+          res = return_sparql_query_results(sparql_query)
+          if res:  
+              return res
+      except Exception as e:
+          if attempt < MAX_RETRIES - 1: 
+              time.sleep(RETRY_DELAY)
+          else:
+              raise  
 
 # Retrieve the JSON result from the SPARQL query
 def getSPARQLResult(result):
@@ -62,44 +71,41 @@ def mean_pooling(model_output, attention_mask):
     input_mask_expanded = attention_mask.unsqueeze(-1).expand(token_embeddings.size()).float()
     return torch.sum(token_embeddings * input_mask_expanded, 1) / torch.clamp(input_mask_expanded.sum(1), min=1e-9)
 
-# Sentence embedding
-def sentenceEmbedding(sentence):
-  # Sentences we want sentence embeddings for
-  sentences = [sentence]
-  # Load model from HuggingFace Hub
-  tokenizer = AutoTokenizer.from_pretrained('sentence-transformers/all-MiniLM-L6-v2')
-  model = AutoModel.from_pretrained('sentence-transformers/all-MiniLM-L6-v2')
-  # Tokenize sentences
-  encoded_input = tokenizer(sentences, padding=True, truncation=True, return_tensors='pt')
-  # Compute token embeddings
+# Tokenizer and model loading for sentence embedding at once
+TOKENIZER = AutoTokenizer.from_pretrained('sentence-transformers/all-MiniLM-L6-v2')
+MODEL = AutoModel.from_pretrained('sentence-transformers/all-MiniLM-L6-v2')
+def sentenceEmbedding(sentences):
+  if isinstance(sentences, str):  # if one sentence is inputte
+        sentences = [sentences]
+  encoded_input = TOKENIZER(sentences, padding=True, truncation=True, return_tensors='pt')
   with torch.no_grad():
-    model_output = model(**encoded_input)
-  # Perform pooling
-  sentence_embedding = mean_pooling(model_output, encoded_input['attention_mask'])
-  # Normalize embeddings
-  sentence_embedding = F.normalize(sentence_embedding, p=2, dim=1)
-  # Return embeddings
-  return sentence_embedding
+        model_output = MODEL(**encoded_input)
+  # Pooling and norm
+  sentence_embeddings = mean_pooling(model_output, encoded_input['attention_mask'])
+  sentence_embeddings = F.normalize(sentence_embeddings, p=2, dim=1)
+  return sentence_embeddings
 
 # Sentence similarity
 def sentenceSimilarity(feature_vec_1, feature_vec_2):
   return cosine_similarity(feature_vec_1.reshape(1, -1), feature_vec_2.reshape(1, -1))[0][0]
 
 # Named entity recognition
-def sentenceNER(sentence):
-  # Load model from HuggingFace Hub
-  tokenizer = AutoTokenizer.from_pretrained("Jean-Baptiste/camembert-ner")
-  model = AutoModelForTokenClassification.from_pretrained("Jean-Baptiste/camembert-ner")
-  # Provide parameters
-  nlp = pipeline('ner', model=model, tokenizer=tokenizer, aggregation_strategy="simple")
-  NER = nlp(sentence)
-  return NER
+tokenizer = AutoTokenizer.from_pretrained("Jean-Baptiste/camembert-ner")
+model = AutoModelForTokenClassification.from_pretrained("Jean-Baptiste/camembert-ner")
+nlp = pipeline('ner', model=model, tokenizer=tokenizer, aggregation_strategy="simple")
+
+def sentenceNER(sentences):
+    return [word['word'] for s in sentences for word in nlp(s)]
 
 # Grammar check
+happy_tt = HappyTextToText("T5", "vennify/t5-base-grammar-correction")
+args = TTSettings(num_beams=5, min_length=1)
 def sentenceGrammarCheck(sentence):
+  if not sentence.strip():  # if sentence is empty or whitespace
+      return sentence  # or you can return an error message or handle it differentlyng like 'INFO' or warnings
+  logging.getLogger("happytransformer").setLevel(logging.ERROR)
+  logging.getLogger("transformers").setLevel(logging.ERROR)
   # Load model from HuggingFace Hub
-  happy_tt = HappyTextToText("T5", "vennify/t5-base-grammar-correction")
-  args = TTSettings(num_beams=5, min_length=1)
   # Perform task
   result = happy_tt.generate_text(sentence, args=args)
   return result.text 
@@ -114,10 +120,10 @@ def generalize(sentence, pattern : dict):
 
 # Remove special characters
 def detectSpecialCharacters(mystring):
-  special_characters = '.'  
+  #special_characters = '.'  #disable this
+  special_characters = ''
   #special_characters = '"!@#$%^&*()+_=,.<>/"'
   if any(c in special_characters for c in mystring):
     return True
   else:
     return False
-

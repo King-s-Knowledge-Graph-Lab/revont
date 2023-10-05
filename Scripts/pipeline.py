@@ -1,99 +1,119 @@
+import simplejson as json
+from tqdm import tqdm
+from Scripts.functions import sentenceEmbedding, sentenceNER, sentenceSimilarity, runSPARQLQuery, getSPARQLResult, getSynsets, getSynsetDefinition, sentenceGrammarCheck, generalize
+from collections import defaultdict
+
 # Generalization based on Wikidata ID and label descriptions
+from collections import defaultdict
 
-# Opening JSON file
-f = open('/content/drive/MyDrive/KCL experiment/Themed questions/Athlete/Athlete.json')
-data = json.load(f) 
+# Generalization based on Wikidata ID and label descriptions
+def generlizationPipeline(questionData, theme_label):
+    print(f"(3/3) Start Generalization")
+    data = questionData
+    NERoutput = list()
+    sep = '.'
+    R_patterns = [("\'s", " is")]
+    # Perform NER for all CQs and store the tuples in a list
+    print("Performing NER for all CQs")
 
-NERoutput = list()
-sep = '.'
-R_patterns = [('\'s',' is')]
+    for i in tqdm(data):
+        property_ner = sentenceNER([i['propertyCQ']])
+        object_ner = sentenceNER([i['objectCQ']])
+        i['NER'] = property_ner + object_ner
 
-# Perform NER for all CQs and store the tuples in a list
-for i in data:
-  entryList = list()
-  for j in sentenceNER(i['propertyCQ']):
-    entryList.append(j['word'])
-  for j in sentenceNER(i['objectCQ']):
-    entryList.append(j['word'])
-  entry = {"NER": entryList}
-  i.update(entry)
-  print(i)
+    print("Performing generalization for all CQs")
 
-for i in data:
-  sDescriptionEmbedding = sentenceEmbedding(i['subject_description']) 
-  # print(i['subject_description'])
-  oDescriptionEmbedding = sentenceEmbedding(i['object_description'])
-  
-  sLabelEmbedding = sentenceEmbedding(i['subject_label'])
-  oLabelEmbedding = sentenceEmbedding(i['object_label'])
-  
-  for j in i['NER']:
-    NERsSim = sentenceSimilarity(sentenceEmbedding(j), sLabelEmbedding)
-    NERoSim = sentenceSimilarity(sentenceEmbedding(j), oLabelEmbedding) 
-    
-    ValDefSim = 0
-    simSynset = ""
+    embedding_cache = defaultdict(lambda: None)
 
-    if NERsSim > NERoSim:
-      if i['subject_id'] != "":
-        res_s = runSPARQLQuery(i['subject_id'])
-        resValue = getSPARQLResult(res_s)
-        #print("Result values are ", resValue, " for NE ", j)
+    for i in tqdm(data):
+        # Cache usage for main sentences
+        keys_to_embed = ['subject_dec', 'object_desc', 'subject_label', 'object_label']
+        sentences_to_embed = [i[key] for key in keys_to_embed if embedding_cache[i[key]] is None]
 
-        for k in resValue: 
-          resValueSynset = getSynsets(k)
-          
-          for l in resValueSynset: 
-            synsetDefinition = getSynsetDefinition(l)
-            resValueEmbedding = sentenceEmbedding(synsetDefinition)
-            resValueS = sentenceSimilarity(resValueEmbedding, sDescriptionEmbedding)
-            if resValueS > ValDefSim:
-              ValDefSim = resValueS
-              simSynset = l.name()
+        if sentences_to_embed:
+            embeddings = sentenceEmbedding(sentences_to_embed)
+            for sentence, embedding in zip(sentences_to_embed, embeddings):
+                embedding_cache[sentence] = embedding
+
+        sDescriptionEmbedding = embedding_cache[i['subject_dec']]
+        oDescriptionEmbedding = embedding_cache[i['object_desc']]
+        sLabelEmbedding = embedding_cache[i['subject_label']]
+        oLabelEmbedding = embedding_cache[i['object_label']]
+
+        ner_sentences = [j for j in i['NER'] if embedding_cache[j] is None]
+        if ner_sentences:
+            ner_embeddings = sentenceEmbedding(ner_sentences)
+            for sentence, embedding in zip(ner_sentences, ner_embeddings):
+                embedding_cache[sentence] = embedding
+
+        for j in i['NER']:
+            NER_embedding = embedding_cache[j]
+            NERsSim = sentenceSimilarity(NER_embedding, sLabelEmbedding)
+            NERoSim = sentenceSimilarity(NER_embedding, oLabelEmbedding)
+
+            ValDefSim = 0
+            simSynset = ""
+
+            if NERsSim > NERoSim:
+                if i['subject_id'] != "":
+                    res_s = runSPARQLQuery(i['subject_id'])
+                    resValue = getSPARQLResult(res_s)
+                    for k in resValue:
+                        resValueSynset = getSynsets(k)
+                        for l in resValueSynset:
+                            synsetDefinition = getSynsetDefinition(l)
+                            resValueEmbedding = sentenceEmbedding(synsetDefinition)
+                            resValueS = sentenceSimilarity(resValueEmbedding, sDescriptionEmbedding)
+                            if resValueS > ValDefSim:
+                                ValDefSim = resValueS
+                                simSynset = l.name()
+                            else:
+                                continue
+                else:
+                    continue
             else:
-              continue
-        
-      else:
-        continue
-        
-    else: 
-      if i['object_id'] != "":
-        res_s = runSPARQLQuery(i['object_id'])
-        resValue = getSPARQLResult(res_s)
-        #print("Result values are ", resValue, " for NE ", j)
+                if i['object_id'] != "":
+                    res_s = runSPARQLQuery(i['object_id'])
+                    resValue = getSPARQLResult(res_s)
+                    for k in resValue:
+                        resValueSynset = getSynsets(k)
+                        for l in resValueSynset:
+                            synsetDefinition = getSynsetDefinition(l)
+                            resValueEmbedding = sentenceEmbedding(synsetDefinition)
+                            resValueS = sentenceSimilarity(resValueEmbedding, oDescriptionEmbedding)
+                            if resValueS > ValDefSim:
+                                ValDefSim = resValueS
+                                simSynset = l.name()
+                            else:
+                                continue
+                else:
+                    continue
 
-        for k in resValue: 
-          resValueSynset = getSynsets(k)
-          
-          for l in resValueSynset: 
-            synsetDefinition = getSynsetDefinition(l)
-            resValueEmbedding = sentenceEmbedding(synsetDefinition)
-            resValueS = sentenceSimilarity(resValueEmbedding, oDescriptionEmbedding)
-            if resValueS > ValDefSim:
-              ValDefSim = resValueS
-              simSynset = l.name()
+            simSynset = simSynset.split(sep, 1)[0]
+            if [j, simSynset] in R_patterns:
+                continue
             else:
-              continue
-        
-      else:
-        continue
-    simSynset = simSynset.split(sep, 1)[0]
-    if [j, simSynset] in R_patterns:
-      continue
-    else:
-      R_patterns.append(tuple((j, simSynset)))
+                R_patterns.append(tuple((j, simSynset)))
 
-print(R_patterns)
 
-generalizer = REReplacer()
-for i in data:
-  newpCQ = generalizer.replace(i['propertyCQ'])
-  newoCQ = generalizer.replace(i['objectCQ'])
-  genP = sentenceGrammarCheck(newpCQ)
-  genO = sentenceGrammarCheck(newoCQ)
-  entry = {"generalizedPropertyCQ": genP}
-  entry1 = {"generalizedObjectCQ": genO}
-  i.update(entry)
-  i.update(entry1)
+    print("grammer check for all CQs")
+    # Extract patterns
+    with open(f'Data/Temp/patterns-{theme_label}.json', 'r') as json_file:
+      patterns = json.load(json_file)
 
-f.close()
+    for i in tqdm(data):
+
+      newpCQ = generalize(i['propertyCQ'],patterns)
+      newoCQ = generalize(i['objectCQ'],patterns)
+
+      genP = sentenceGrammarCheck(newpCQ)
+      genO = sentenceGrammarCheck(newoCQ)
+
+      entry = {"generalizedPropertyCQ": genP}
+      entry1 = {"generalizedObjectCQ": genO}
+      i.update(entry)
+      i.update(entry1)
+    with open(f'Data/Temp/generalizedQuestion-{theme_label}.json', 'w') as json_file:
+      json.dump(data, json_file, use_decimal=True)
+    print(f"Finishhhhhh!! Results are saved in 'Data/Temp/generalizedQuestion.json'")
+
