@@ -2,7 +2,7 @@ import random
 import collections
 from functools import partial
 
-import umap
+import umap.umap_ as umap
 import hdbscan
 
 import numpy as np
@@ -20,6 +20,12 @@ from typing import List
 import hashlib
 import logging
 from sentence_transformers import SentenceTransformer, util, LoggingHandler
+
+import torch
+import torch.nn as nn
+import torch.nn.functional as F
+import torch.optim as optim
+from torch.utils.data import TensorDataset, DataLoader, random_split
 
 def preprocess_questions(raw_questions : List[str]):
   """Clean strings and filter out same questions"""
@@ -143,7 +149,7 @@ def EvalDataLoading(selected_model):
 
     print(f"Found {label_count} unique cluesters")
 
-def CQClustering(question):
+def CQClustering(question, model):
     print(f"Starting no. of questions: {len(questions)}")
     new_questions = preprocess_questions(questions)
     print(f"No. of questions after pre-processing: {len(new_questions)}")
@@ -158,7 +164,7 @@ def CQClustering(question):
                     n_neighbors=n_neighbors,
                     n_components=n_components,
                     min_cluster_size=min_cluster_size,
-                    random_state=SEED)
+                    random_state=42)
     cluster_labels = clusters.labels_
     label_count = len(np.unique(cluster_labels))
     total_num = len(clusters.labels_)
@@ -168,6 +174,100 @@ def CQClustering(question):
     question_assignments = pd.DataFrame({"question": new_questions, "cluster": cluster_labels})
     question_assignments.sort_values("cluster", inplace=True, ascending=False)
     return question_assignments
+
+
+def train_loop(dataloader, model, loss_fn, optimizer, log=False):
+    size = len(dataloader.dataset)
+    num_batches = len(dataloader)
+    epoch_loss = 0.
+
+    model.train()  # use dropout and batchnorm
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    for batch, data in enumerate(dataloader, 0):
+        # get the inputs; data is a list of [inputs, labels]
+        inputs, labels = data
+        
+        inputs = inputs.to(device=device)
+        labels = labels.to(device=device)
+        # zero the parameter gradients
+        optimizer.zero_grad()
+        # forward + backward + optimize
+        x_a, x_b = inputs[:, 0, :], inputs[:, 1, :]
+        outputs = model(x_a, x_b)
+
+        loss = loss_fn(outputs, labels)
+        loss_float = loss.item()
+        epoch_loss += loss_float
+
+        loss.backward()
+        optimizer.step()
+
+        if batch % 100 == 0 and log:
+            current = batch * len(inputs)
+            print(f"loss: {loss_float:>7f}  [{current:>5d}/{size:>5d}]")
+
+    epoch_loss /= num_batches
+    return epoch_loss
+
+
+def test_loop(dataloader, model, loss_fn):
+
+    size = len(dataloader.dataset)
+    num_batches = len(dataloader)
+    test_loss, correct = 0, 0
+
+    model.eval()  # skip dropout and batchnorm
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    with torch.no_grad():
+        for inputs, labels in dataloader:
+          inputs = inputs.to(device=device)
+          labels = labels.to(device=device)
+          x_a, x_b = inputs[:, 0, :], inputs[:, 1, :]
+
+          pred = model(x_a, x_b)
+          classes = ((torch.sigmoid(pred) > 0.5)+0).ravel()
+          classes = classes.to(torch.float32)
+
+          test_loss += loss_fn(pred, labels).item()
+          correct += (classes == labels).type(torch.float32).sum().item()
+
+    test_loss /= num_batches
+    correct /= size
+
+    return test_loss, correct
+
+
+
+class SiameseClassifier(nn.Module):
+    def __init__(self, embed_dim, projection=True):
+        super().__init__()
+
+        if projection:  # include linear projection layer
+            self.projection = nn.Linear(embed_dim, embed_dim)
+        # Fully connected layers + binary classification
+        self.fc1 = nn.Linear(embed_dim, embed_dim)
+        self.batchnorm1 = nn.BatchNorm1d(embed_dim)
+        self.fc2 = nn.Linear(embed_dim, 128)
+        self.batchnorm2 = nn.BatchNorm1d(128)
+        self.fc3 = nn.Linear(128, 32)
+        self.batchnorm3 = nn.BatchNorm1d(32)
+        self.classifier = nn.Linear(32, 1)
+        self.dropout = nn.Dropout(p=.5)
+
+    def forward(self, x_a, x_b):
+        # x_a, x_b = x[0], x[1]  # unpacking question embeddings (embed_dim)
+        x_a = self.projection(x_a)  # linear projection of x_a (embed_dim)
+        x_b = self.projection(x_b)  # linear projection of x_b (embed_dim)
+        x = x_a * x_b  # additive/multiplicative feature fusion
+        x = F.relu(self.batchnorm1(self.fc1(x)))
+        x = self.dropout(x)
+        x = F.relu(self.batchnorm2(self.fc2(x)))
+        x = self.dropout(x)
+        x = F.relu(self.batchnorm3(self.fc3(x)))
+        x = self.dropout(x)
+        x = self.classifier(x)
+        return x.flatten()
+
 
 def ParaphraseDetection(qpp_data, model):
     all_questions = list(set(list(qpp_data.question1) + list(qpp_data.question2)))
@@ -187,24 +287,85 @@ def ParaphraseDetection(qpp_data, model):
 
     x_a_t = torch.tensor(x_a).to(torch.float32)
     x_b_t = torch.tensor(x_b).to(torch.float32)
+    BATCH_SIZE = 128
 
+    device = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')
+    device
+    X = torch.stack((x_a_t, x_b_t))
+    X = torch.swapaxes(X, 0, 1)
+    print(f"X shape: {X.shape}")
+
+    # Creating full torch dataset and train-test splits
+    cqq_dataset = TensorDataset(X, torch.tensor(y).to(torch.float32))
+
+    dev_size = int(0.8 * len(cqq_dataset))
+    test_size = len(cqq_dataset) - dev_size
+    dev_set, test_set = torch.utils.data.random_split(
+        cqq_dataset, [dev_size, test_size])
+
+    train_size = int(0.8 * len(dev_set))
+    valid_size = len(dev_set) - train_size
+    train_set, valid_set = torch.utils.data.random_split(
+        dev_set, [train_size, valid_size])
+
+    # Creating data loaders
+    train_loader = torch.utils.data.DataLoader(train_set, batch_size=BATCH_SIZE, shuffle=True)
+
+    valid_loader = torch.utils.data.DataLoader(valid_set, batch_size=BATCH_SIZE)
+    test_loader = torch.utils.data.DataLoader(test_set, batch_size=BATCH_SIZE)
+    assert len(train_set) + len(valid_set) + len(test_set) == len(cqq_dataset)
+
+    questioner = SiameseClassifier(embed_dim=X.shape[-1])
+    questioner = questioner.to(device=device)
+    criterion = torch.nn.BCEWithLogitsLoss()
+    optimizer = optim.SGD(questioner.parameters(), lr=0.001, momentum=0.9)
+    optimizer = optim.Adam(questioner.parameters(), lr=0.001)
+    # optimizer = optim.RMSprop(questioner.parameters(), lr=0.001)
+    EPOCHS = 10
+    PATIENCE = 15
+
+    tloss_hist, vloss_hist = [], []
+    vloss_best, vloss_wait = 100, 0
+
+    for t in range(EPOCHS):
+        print(f"Epoch {t+1}\n-------------------------------")
+        tloss = train_loop(train_loader, questioner, criterion, optimizer)
+        print(f"  Training: Avg loss: {tloss:>8f}")
+        vloss, vcorrect = test_loop(valid_loader, questioner, criterion)
+        print(f"  Validation: acc. {(100*vcorrect):>0.1f}%, Avg loss: {vloss:>8f}")
+
+        if vloss < vloss_best:
+            vloss_best = vloss # update the best loss
+            vloss_wait = 0  # reset the wait
+        else:  # not improving the validation loss
+            vloss_wait += 1
+
+        tloss_hist.append(tloss)
+        vloss_hist.append(vloss)
+
+        if vloss_wait == PATIENCE:
+            print(f"Early stopping at epoch {t}")
+
+
+
+    tloss, tcorrect = test_loop(test_loader, questioner, criterion)
+    print(f"\nTest: accuracy {(100*vcorrect):>0.1f}%, Avg loss: {vloss:>8f}")
 
 
 if __name__ == '__main__':
-    # Option 1: Clustering-based question filtering
-    with open('questions.txt') as f:
-        questions = f.readlines()
-    clustering_results = CQClustering(questions)
-
-    # Option 2: Similar paraphrase detection based on the pre-trained model
     #Candidate model list
     model_st1 = SentenceTransformer('all-mpnet-base-v2')
     model_st2 = SentenceTransformer('all-MiniLM-L6-v2')
     model_st3 = SentenceTransformer('paraphrase-mpnet-base-v2')
     model_st4 = SentenceTransformer('paraphrase-MiniLM-L3-v2')
+    # Option 1: Clustering-based question filtering
+    with open('questions.txt') as f:
+        questions = f.readlines()
+    clustering_results = CQClustering(questions, model_st2)
+    print(clustering_results)
+    # Option 2: Similar paraphrase detection based on the pre-trained model
 
     qpp_data = pd.read_csv("Data/qqp.tsv", sep="\t")
+    qpp_data = qpp_data[:5000]
     ParaphraseDetection(qpp_data, model_st2)
-
-
-    EvalDataLoading(model_st2)
+    #EvalDataLoading(model_st2)

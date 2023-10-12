@@ -1,13 +1,16 @@
-pip install -U sentence-transformers
-pip install happytransformer
-pip install qwikidata
-pip install urllib3
-pip install ijson
-pip install simplejson
-pip install urllib3==1.26.11
+# to ensure you get the latest version of sentence-transformers, you can run the command separately
+# pip install -U sentence-transformers
+sentence-transformers
+happytransformer
+qwikidata
+urllib3
+ijson
+simplejson
+urllib3==1.26.11  # This line is repeated, you may want to keep only one instance
+joblib==1.1.0
+hyperopt
+umap-learn
+hdbscan
+matplotlib
 
-pip install joblib==1.1.0
-pip install hyperopt
-pip install umap-learn
-pip install hdbscan
-pip install matplotlib
+

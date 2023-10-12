@@ -2,6 +2,7 @@ from Scripts.verbalizationAbstraction import VerbalizationAbstaction as VA
 from Scripts.questionGeneration import questionGeneration as QG
 from Scripts.pipeline import generlizationPipeline as GP
 from Scripts.questionMapping import questionMapping as QM
+from Scripts.questionReduction import CQClustering, ParaphraseDetection
 import ijson
 import simplejson as json
 
@@ -89,6 +90,13 @@ if __name__ == "__main__":
         questionData = readingJson(f'Data/Temp/questionGeneration-{theme_label}.json', theme_label)
         GP(questionData, theme_label) #generalization for above QG
 
-        #. Run questinMapping.py with BigCQ dataset
+        #4. Run questinMapping.py with BigCQ dataset
         generalizedQuestions = readingJson(f"Data/Temp/generalizedQuestion-{theme_label}.json", theme_label)
         QM(questionData, theme_label) #generalization for above QG
+
+        #5. Run questionReduction.py with generated questions
+        #Candidate model list
+        model_st1 = SentenceTransformer('all-mpnet-base-v2')
+        model_st2 = SentenceTransformer('all-MiniLM-L6-v2')
+        model_st3 = SentenceTransformer('paraphrase-mpnet-base-v2')
+        model_st4 = SentenceTransformer('paraphrase-MiniLM-L3-v2')
