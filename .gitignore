@@ -1,3 +1,5 @@
 .DS_Store
 Figures/
 Data/Temp/
+__pycache__/
+
