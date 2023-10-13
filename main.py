@@ -3,9 +3,11 @@ from Scripts.questionGeneration import questionGeneration as QG
 from Scripts.pipeline import generlizationPipeline as GP
 from Scripts.questionMapping import questionMapping as QM
 from Scripts.questionReduction import CQClustering, ParaphraseDetection
+from sentence_transformers import SentenceTransformer
 import ijson
-import simplejson as json
-
+import json
+import os
+import pandas as pd
 def readingJson(Path, theme_label):
     with open(Path, 'r') as f:
         parser = ijson.items(f, 'item')
@@ -67,9 +69,31 @@ def simpleInterface():
 
     return theme_labels, int(readingLimit_input)
 
+def listingQuestions(inputdata_path):
+    with open(inputdata_path, 'r') as file:
+        data = json.load(file)
 
+    # Open the output text file for writing
+    with open('Data/Temp/questions.txt', 'w') as file:
+        # Iterate over each item in the JSON data
+        for item in data:
+            # Extract the questions and write them to the file
+            questions = [
+                item.get('propertyCQ'),
+                item.get('objectCQ'),
+                item.get('generalizedPropertyCQ'),
+                item.get('generalizedObjectCQ')
+            ]
+            # Write each question to the file on a new line without double quotations
+            for question in questions:
+                if question:  # check if question is not None
+                    file.write(question + '\n')
 
 if __name__ == "__main__":
+    directory_path = 'Data/Temp'
+    if not os.path.exists(directory_path):
+        os.makedirs(directory_path)
+
     #raw data loading with a specific theme_label
     theme_labels, readingLimit = simpleInterface()
     for theme_label in theme_labels:
@@ -96,7 +120,17 @@ if __name__ == "__main__":
 
         #5. Run questionReduction.py with generated questions
         #Candidate model list
+        listingQuestions(f"Data/Temp/generalizedQuestion-{theme_label}.json")
         model_st1 = SentenceTransformer('all-mpnet-base-v2')
         model_st2 = SentenceTransformer('all-MiniLM-L6-v2')
         model_st3 = SentenceTransformer('paraphrase-mpnet-base-v2')
         model_st4 = SentenceTransformer('paraphrase-MiniLM-L3-v2')
+        with open('Data/Temp/questions.txt') as f:
+            questions = f.readlines()
+        clustering_results = CQClustering(questions, model_st2)
+        print(clustering_results)
+        qpp_data = pd.read_csv("Data/qqp.tsv", sep="\t")
+        reading_limits = 5000 #preventing exhausting reading and processing 
+        qpp_data = qpp_data[:reading_limits]
+        ParaphraseDetection(qpp_data, model_st2)
+
