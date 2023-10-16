@@ -149,7 +149,7 @@ def EvalDataLoading(selected_model):
 
     print(f"Found {label_count} unique cluesters")
 
-def CQClustering(question, model):
+def CQClustering(questions, model):
     print(f"Starting no. of questions: {len(questions)}")
     new_questions = preprocess_questions(questions)
     print(f"No. of questions after pre-processing: {len(new_questions)}")
