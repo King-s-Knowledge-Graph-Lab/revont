@@ -26,6 +26,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 import torch.optim as optim
 from torch.utils.data import TensorDataset, DataLoader, random_split
+from adjustText import adjust_text
 
 def preprocess_questions(raw_questions : List[str]):
   """Clean strings and filter out same questions"""
@@ -78,18 +79,32 @@ def plot_best_clusters(embeddings, cluster_labels, n_neighbors=15, min_dist=0.1,
                            .fit_transform(embeddings)
                        )
 
-        point_size = 100.0 / np.sqrt(embeddings.shape[0])
+        #point_size = 100.0 / np.sqrt(embeddings.shape[0])
+        point_size= 20
+        annotation_fontsize= 25
+        n_annotations = 10
+        # Set the font size of the axes labels and tick labels
+        fig, ax = plt.subplots(figsize=figsize)
+        ax.tick_params(axis='both', labelsize=10)
 
         result = pd.DataFrame(umap_reduce, columns=['x', 'y'])
         result['labels'] = cluster_labels
 
-        fig, ax = plt.subplots(figsize=figsize)
+
         noise = result[result.labels == -1]
         clustered = result[result.labels != -1]
         plt.scatter(noise.x, noise.y, color='lightgrey', s=point_size)
         plt.scatter(clustered.x, clustered.y, c=clustered.labels,
                     s=point_size, cmap='jet')
-        plt.colorbar()
+        # Select a random subset of points to annotate
+        annotated_indices = random.sample(range(len(result)), n_annotations)
+
+        texts = []
+        # Annotate the selected points with their corresponding questions
+        for i in annotated_indices:
+            texts.append(ax.text(result.x[i], result.y[i], questions[i], fontsize=annotation_fontsize))
+
+        adjust_text(texts, arrowprops=dict(arrowstyle='->', color='red'))
         plt.show()
 
 def EvalDataLoading(selected_model):
@@ -157,7 +172,7 @@ def CQClustering(questions, model):
     questions_sbert.shape
     n_neighbors = 15
     n_components = 5
-    min_cluster_size = 2
+    min_cluster_size =  28
 
     clusters, reduced_embed = \
     generate_clusters(question_embeddings=questions_sbert,
@@ -361,8 +376,8 @@ if __name__ == '__main__':
     # Option 1: Clustering-based question filtering
     with open('questions.txt') as f:
         questions = f.readlines()
-    clustering_results = CQClustering(questions, model_st2)
-    print(clustering_results)
+    #clustering_results = CQClustering(questions, model_st2)
+    #print(clustering_results)
     # Option 2: Similar paraphrase detection based on the pre-trained model
 
     qpp_data = pd.read_csv("Data/qqp.tsv", sep="\t")
