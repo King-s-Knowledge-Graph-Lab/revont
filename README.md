@@ -83,8 +83,7 @@ This project needs to have installed several packages for the usage of the langu
 ```
 pip install -U sentence-transformers
 pip install -r requirements.txt
-
-
+```
 <!-- Usage -->
 ## :eyes: Usage
 
