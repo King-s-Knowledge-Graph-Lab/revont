@@ -87,7 +87,14 @@ pip install -r requirements.txt
 <!-- Usage -->
 ## :eyes: Usage
 
-In the repository, there are separate scripts (a floder "Script") for each of the components. This separation provides the possibility to opt out a using a component or interchanging the queue in which the components are executed. The scripts also allow to use a different language model that the default one. The language models used in the scripts are state-of-the-art models that have shown good to high results in the first evaluation of the method.
+In the repository, there are separate scripts (a floder "Script") for each of the components. This separation provides the possibility to opt out a using a component or interchanging the queue in which the components are executed. The scripts also allow to use a different language model that the default one. The language models used in the scripts are state-of-the-art models that have shown good to high results in the first evaluation of the method. GPU resources are recommended for encoding sentences into embedding vectors, but the code can also run using CPU resources.
+
+You can use main.py to run the framework without executing the scripts separately.
+```
+python main.py
+```
+
+Alternatively, you can use the Quickstart_revont.ipynb file to run the framework on the Colab notebook.
 
 
 <!-- Roadmap -->
