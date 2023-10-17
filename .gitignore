@@ -1,0 +1,6 @@
+.DS_Store
+Data/Temp/
+__pycache__/
+/Figures/
+Data/Temp/
+Data/BigCQ_dataset/BigCQEmbeddings.pt

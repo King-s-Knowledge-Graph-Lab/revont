@@ -42,7 +42,7 @@ def finding_cloests_query(cqEmbedding, vector_sets):
 
 def questionMapping(generalizedQuestions, theme_label):
     # Check if the embeddings file already exists, if not, generate embeddings
-    if not os.path.exists("Data/BigCQ_dataset/BigCQEmbeddings.pt"):
+    if not os.path.exists("Data/Temp/BigCQEmbeddings.pt"):
         print("there is no embedding file for BigCQ, generating one...")
         embedding_BigCQ()
     else:
