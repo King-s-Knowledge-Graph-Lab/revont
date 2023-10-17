@@ -49,7 +49,6 @@
 - [Scripts](#toolbox-scripts)
 
   * [Prerequisites](#bangbang-prerequisites)
-  * [Import](#gear-import)
 
 - [Usage](#eyes-usage)
 - [Roadmap](#compass-roadmap)
@@ -139,10 +138,9 @@ Distributed under the no License. See LICENSE.txt for more information.
 <!-- Contact -->
 ## :handshake: Contact
 
-Jacopo de Berardinis - jacopo.deberardinis@kcl.ac.uk
-Jongmo Kim - jongmo.kim@kcl.ac.uk
-
-Fiorela Ciroku - [@ciroku_fiorela](https://twitter.com/ciroku_fiorela) - fiorela.ciroku2@unibo.it
+Jacopo de Berardinis - jacopo.deberardinis@kcl.ac.uk <br>
+Jongmo Kim - jongmo.kim@kcl.ac.uk <br>
+Fiorela Ciroku - [@ciroku_fiorela](https://twitter.com/ciroku_fiorela) - fiorela.ciroku2@unibo.it 
 
 
 
