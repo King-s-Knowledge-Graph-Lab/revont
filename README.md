@@ -151,3 +151,16 @@ Fiorela Ciroku - [@ciroku_fiorela](https://twitter.com/ciroku_fiorela) - fiorela
  - [Albert Merono Penuela](https://www.kcl.ac.uk/people/albert-merono-penuela-1)
  - [Valentina Presutti](https://www.unibo.it/sitoweb/valentina.presutti/en)
  - [Elena Simperl](https://www.kcl.ac.uk/people/elena-simperl)
+
+<!-- Citation -->
+## Citation
+```
+@article{RevOnt,
+    title={RevOnt: Reverse Engineering of Competency Questions from Knowledge Graphs},
+    author={Fiorela Ciroku, Jacopo de Berardinis, Jongmo Kim, Albert Meroño-Peñuela, and Valentina  Presutti and Elena Simperl},
+    journal={Under revision}, 
+    year={2023},
+    keywords={knowledge engineering, knowledge graph, ontology development, competency question extraction}
+}
+
+```
