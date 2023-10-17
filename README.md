@@ -82,37 +82,14 @@ This project needs to have installed several packages for the usage of the langu
 
 ```
 pip install -U sentence-transformers
-pip install happytransformer
-pip3 install qwikidata
-```
+pip install -r requirements.txt
 
-<!-- Import -->
-### :gear: Import
-
-The functions import many packages and need to the downloading of wordnet and OMW-1.4 as shown below. 
-
-```
-from qwikidata.sparql import return_sparql_query_results
-from IPython.core.debugger import skip_doctest
-from sentence_transformers import SentenceTransformer
-from transformers import AutoTokenizer, AutoModel, AutoModelForTokenClassification, pipeline
-from happytransformer import HappyTextToText, TTSettings
-from sklearn.metrics.pairwise import cosine_similarity
-import re
-import json
-import time
-import torch
-import torch.nn.functional as F
-import nltk
-from nltk.corpus import wordnet
-nltk.download('wordnet')
-nltk.download('omw-1.4')
-```
 
 <!-- Usage -->
 ## :eyes: Usage
 
-In the repository, there are separate scripts for each of the components. This separation provides the possibility to opt out a using a component or interchanging the queue in which the components are executed. The scripts also allow to use a different language model that the default one. The language models used in the scripts are state-of-the-art models that have shown good to high results in the first evaluation of the method. 
+In the repository, there are separate scripts (a floder "Script") for each of the components. This separation provides the possibility to opt out a using a component or interchanging the queue in which the components are executed. The scripts also allow to use a different language model that the default one. The language models used in the scripts are state-of-the-art models that have shown good to high results in the first evaluation of the method.
+
 
 <!-- Roadmap -->
 ## :compass: Roadmap
@@ -156,9 +133,11 @@ Distributed under the no License. See LICENSE.txt for more information.
 <!-- Contact -->
 ## :handshake: Contact
 
+Jacopo de Berardinis - jacopo.deberardinis@kcl.ac.uk
+Jongmo Kim - jongmo.kim@kcl.ac.uk
+
 Fiorela Ciroku - [@ciroku_fiorela](https://twitter.com/ciroku_fiorela) - fiorela.ciroku2@unibo.it
 
-Project Link: (https://github.com/FiorelaCiroku/RevOnt)[https://github.com/FiorelaCiroku/RevOnt]
 
 
 <!-- Acknowledgments -->
