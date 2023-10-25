@@ -1,7 +1,7 @@
 <div align="center">
 
  <!-- <img src="Materials/Ciroku (2).png" alt="logo" width="200" height="auto" /> -->
-  <h1>RevOnt: Reverse engineering of an ontology via competency question extraction from knowledge graphs</h1>
+  <h1>RevOnt: Reverse engineering of competency question from knowledge graphs</h1>
   
   <p>
     Extracting competency questions from the Wikidata knowledge graph
@@ -138,7 +138,6 @@ Distributed under the no License. See LICENSE.txt for more information.
 <!-- Contact -->
 ## :handshake: Contact
 
-Jacopo de Berardinis - jacopo.deberardinis@kcl.ac.uk <br>
 Jongmo Kim - jongmo.kim@kcl.ac.uk <br>
 Fiorela Ciroku - [@ciroku_fiorela](https://twitter.com/ciroku_fiorela) - fiorela.ciroku2@unibo.it 
 
@@ -152,6 +151,11 @@ Fiorela Ciroku - [@ciroku_fiorela](https://twitter.com/ciroku_fiorela) - fiorela
  - [Valentina Presutti](https://www.unibo.it/sitoweb/valentina.presutti/en)
  - [Elena Simperl](https://www.kcl.ac.uk/people/elena-simperl)
 
+## License
+
+RevOnt's code is released under the [MIT](https://opensource.org/license/mit/) liucense, whereas the dataset of extracted competency questions follows the [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). Please, contact us if you have any doubt or issue concerning our licensing strategy.
+
+---
 <!-- Citation -->
 ## Citation
 ```
@@ -162,5 +166,4 @@ Fiorela Ciroku - [@ciroku_fiorela](https://twitter.com/ciroku_fiorela) - fiorela
     year={2023},
     keywords={knowledge engineering, knowledge graph, ontology development, competency question extraction}
 }
-
 ```
