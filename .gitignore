@@ -4,3 +4,4 @@ __pycache__/
 /Figures/
 Data/Temp/
 Data/BigCQ_dataset/BigCQEmbeddings.pt
+myevn/
