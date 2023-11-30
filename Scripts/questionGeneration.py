@@ -38,8 +38,11 @@ def questionGeneration(data, theme_label):
   questions = []
   for doc in tqdm(data):
     if doc['theme_label'] == theme_label:
+      subjectCQ = refine_question(get_question(doc['subject_label'], doc['verbalisation_unk_replaced']))
       propertyCQ = refine_question(get_question(doc['property_label'], doc['verbalisation_unk_replaced']))
       objectCQ = refine_question(get_question(doc['object_label'], doc['verbalisation_unk_replaced']))
+      if detectSpecialCharacters(subjectCQ):
+        subjectCQ = ""
       if detectSpecialCharacters(propertyCQ):
         propertyCQ = ""
       if detectSpecialCharacters(objectCQ):
@@ -71,10 +74,13 @@ def questionGeneration(data, theme_label):
           "object_id": objectID,
           "object_desc": doc['object_desc'],
           "context": doc['verbalisation_unk_replaced'],
+          "subjectCQ": subjectCQ,
           "propertyCQ": propertyCQ,
           "objectCQ": objectCQ,
+          "generalizedSubjectCQ": "",
           "generalizedPropertyCQ": "",
-          "generalizedObjectCQ": ""
+          "generalizedObjectCQ": "",
+          "generalizedContext": doc['generalizedContext']
           }
 
       questions.append(entry)

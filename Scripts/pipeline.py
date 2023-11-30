@@ -17,6 +17,7 @@ def generlizationPipeline(questionData, theme_label):
     print("Performing NER for all CQs")
 
     for i in tqdm(data):
+        subject_ner = sentenceNER([i['subjectCQ']])
         property_ner = sentenceNER([i['propertyCQ']])
         object_ner = sentenceNER([i['objectCQ']])
         i['NER'] = property_ner + object_ner
@@ -102,17 +103,20 @@ def generlizationPipeline(questionData, theme_label):
       patterns = json.load(json_file)
 
     for i in tqdm(data):
-
+      newsCQ = generalize(i['subjectCQ'],patterns)
       newpCQ = generalize(i['propertyCQ'],patterns)
       newoCQ = generalize(i['objectCQ'],patterns)
-
+      
+      genS = sentenceGrammarCheck(newsCQ)
       genP = sentenceGrammarCheck(newpCQ)
       genO = sentenceGrammarCheck(newoCQ)
-
-      entry = {"generalizedPropertyCQ": genP}
-      entry1 = {"generalizedObjectCQ": genO}
+      
+      entry = {"generalizedSubjectCQ": genS}
+      entry1 = {"generalizedPropertyCQ": genP}
+      entry2 = {"generalizedObjectCQ": genO}
       i.update(entry)
       i.update(entry1)
+      i.update(entry2)
     with open(f'Data/Temp/generalizedQuestion-{theme_label}.json', 'w') as json_file:
       json.dump(data, json_file, use_decimal=True)
     print(f"Finishhhhhh!! Results are saved in 'Data/Temp/generalizedQuestion.json'")

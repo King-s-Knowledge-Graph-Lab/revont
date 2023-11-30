@@ -3,10 +3,9 @@
 sentence-transformers
 happytransformer
 qwikidata
-urllib3
 ijson
 simplejson
-urllib3==1.26.11  # This line is repeated, you may want to keep only one instance
+urllib3==1.26.11 
 joblib==1.1.0
 hyperopt
 umap-learn
