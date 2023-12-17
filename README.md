@@ -6,6 +6,7 @@
   <p>
     Extracting competency questions from the Wikidata knowledge graph
   </p>
+</div>
   
 ## About the Project
 
