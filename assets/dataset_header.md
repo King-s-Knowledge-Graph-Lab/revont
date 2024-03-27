@@ -17,7 +17,7 @@ funder:
     grant-agreement: "101004746"
 release-date: 29-02-2024
 release-number: v1.0.0
-resource: https://github.com/King-s-Knowledge-Graph-Lab/revont
+resource: https://github.com/King-s-Knowledge-Graph-Lab/revont/blob/main/assets/WDV-CQ.zip
 release-link: https://github.com/King-s-Knowledge-Graph-Lab/revont/releases/tag/v1.0.0
 changelog: https://github.com/King-s-Knowledge-Graph-Lab/revont/releases
 
