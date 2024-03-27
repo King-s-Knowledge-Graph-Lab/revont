@@ -17,22 +17,23 @@ funder:
     grant-agreement: "101004746"
 release-date: 29-02-2024
 release-number: v1.0.0
-resource: https://github.com/smashub/choco/
-release-link: https://github.com/smashub/choco/releases/tag/v1.0.0
-doi: 10.1007/978-3-031-19433-7_32
-changelog: https://github.com/fabulous-inc/repo1/releases/tag/v1.0.0
+resource: https://github.com/King-s-Knowledge-Graph-Lab/revont
+release-link: https://github.com/King-s-Knowledge-Graph-Lab/revont/releases/tag/v1.0.0
+changelog: https://github.com/King-s-Knowledge-Graph-Lab/revont/releases
+
 related-components:
   - extends:
-    - ChoCo
+    - RevOnt
 licence:
   - CC-BY_4.0
+  - 
 bibliography:
-- main-publication: "de Berardinis, Jacopo; Meroño Peñuela, Albert; Poltronieri, Andrea; Presutti, Valentina. ChoCo: a Chord Corpus and a Data Transformation Workflow for Musical Harmony Knowledge Graphs (manuscript in progress)."
-- publication: "de Berardinis, Jacopo; Meroño Peñuela, Albert; Poltronieri, Andrea; Presutti, Valentina. The Music Annotation Pattern. In The 13th Workshop on Ontology Design and Patterns (WOP2022) in conjunction with the International Semantic Web Conference (ISWC)."
-copyright: "Copyright (c) 2023 Jacopo de Berardinis, Andrea Poltronieri"
+- main-publication: "Ciroku, Fiorela; de Berardinis, Jacopo; Kim, Jongmo; Meroño Peñuela, Albert; Presutti, Valentina; Simperl, Elena. RevOnt: Reverse Engineering of Competency Questions from Knowledge Graphs via Language Models"
+copyright: "Copyright (c) 2023 Fiorela Ciroku, Jacopo de Berardinis, Jongmo Kim"
 contributors:
+- Fiorela Ciroku <https://github.com/FiorelaCiroku>
 - Jacopo de Berardinis <https://jonnybluesman.github.io/>
-- Andrea Poltronieri <https://andreapoltronieri.com>
+- Jongmo Kim <https://github.com/dignityc>
 credits: "This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement N. 101004746"
 
 ---
