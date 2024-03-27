@@ -61,7 +61,7 @@ Fiorela Ciroku - [@ciroku_fiorela](https://twitter.com/ciroku_fiorela) - fiorela
 
 ## License
 
-RevOnt's code is released under the [MIT](https://opensource.org/license/mit/) liucense, whereas the dataset of extracted competency questions follows the [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). Please, contact us if you have any doubt or issue concerning our licensing strategy.
+RevOnt's code is released under the [MIT](https://opensource.org/license/mit/) license, whereas the dataset of extracted competency questions follows the [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). Please, contact us if you have any doubt or issue concerning our licensing strategy.
 
 ---
 
