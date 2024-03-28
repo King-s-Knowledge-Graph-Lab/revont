@@ -6,7 +6,7 @@ description: A dataset of manually annotated and automatically generated compete
 image: https://user-images.githubusercontent.com/12375920/210616161-9105a046-c809-4182-beb6-5ef4556ec101.png
 logo: https://github.com/King-s-Knowledge-Graph-Lab/revont/blob/main/assets/RevOnt_logo.png
 demo: https://github.com/King-s-Knowledge-Graph-Lab/revont/blob/main/Quickstart_revont.ipynb
-work-package: 
+work-package:
 - WP2
 pilot:
 - Interlink
